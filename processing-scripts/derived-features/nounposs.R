@@ -238,8 +238,8 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
     ifelse(classes$dd_Unpossession_Construction == 'Noun' | classes$dd_Unpossession_Construction == 'NULL', 'NA', classes$Unpossession_Marker_Type)
   
   # write out changes to classes, constructions
-  write.csv(classes, paste0(possessioncldfloc, '/classes.csv'), na="", row.names=TRUE)
-  write.csv(constructions, paste0(possessioncldfloc, '/constructions.csv'), na="", row.names=TRUE)
+  write.csv(classes, paste0(possessioncldfloc, '/classes.csv'), na="", row.names=FALSE)
+  write.csv(constructions, paste0(possessioncldfloc, '/constructions.csv'), na="", row.names=FALSE)
   
   #prepopulate features -- in a meaningless if statement so I can collapse it while working
   if(TRUE) {
