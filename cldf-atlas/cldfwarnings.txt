@@ -1,0 +1,16 @@
+/usr/local/lib/python3.8/site-packages/csvw/metadata.py:1372: UserWarning: Unspecified column "CLLD" in table parameters.csv
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/csvw/metadata.py:1372: UserWarning: Unspecified column "Level" in table languages.csv
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/csvw/metadata.py:1372: UserWarning: Unspecified column "Is_Isolate" in table languages.csv
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/csvw/metadata.py:1372: UserWarning: Unspecified column "North_American_Split_Sample" in table languages.csv
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/csvw/metadata.py:1372: UserWarning: Unspecified column "South_American_Split_Sample" in table languages.csv
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/csvw/metadata.py:1372: UserWarning: Unspecified column "North_American_Universal_Sample" in table languages.csv
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/csvw/metadata.py:1372: UserWarning: Unspecified column "South_American_Universal_Sample" in table languages.csv
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/csvw/metadata.py:1372: UserWarning: Unspecified column "North_America_25_SALSA_Sample" in table languages.csv
+  warnings.warn(

@@ -1,0 +1,536 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
+    "tables": [
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-.]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": true,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+                        "required": false,
+                        "name": "Macroarea"
+                    },
+                    {
+                         "datatype": {
+                            "base": "boolean",
+                            "format": "True|False"
+                        },
+                        "required": true,
+                        "name": "sufficient_data_flagging"
+                    },
+                    {
+                         "datatype": {
+                            "base": "boolean",
+                            "format": "True|False"
+                        },
+                        "required": true,
+                        "name": "sufficient_data_indexing"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Comment"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-90",
+                            "maximum": "90"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-180",
+                            "maximum": "180"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    }
+                ],
+                "primaryKey": [
+                    "Glottocode"
+                ]
+            },
+            "url": "languages.csv"
+        },
+        {
+            "dc:extent": 261,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "Selector_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "separator": ";",
+                        "required": true,
+                        "name": "Coder"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "required": true,
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "^[SAP]|any|none$"
+                        },
+                        "required": true,
+                        "name": "Role"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "Reference"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "^[SAP]|any|NA$"
+                        },
+                        "required": true,
+                        "name": "Co-argument_role"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "Co-argument_reference"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "simple|NA|portmanteau"
+                        },
+                        "required": true,
+                        "name": "Portmanteau"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "TAM"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "Predicate_class"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Slot"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "exemplar|any|non-exemplar"
+                        },
+                        "required": true,
+                        "name": "Exemplar"
+                    },
+                    {
+                        "datatype": "string",
+                        "separator": ";",
+                        "name": "Miscellaneous_condition"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "none|NA|DIR|INV"
+                        },
+                        "required": true,
+                        "name": "DIR/INV"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Glottocode"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "Glottocode"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Selector_ID"
+                        ],
+                        "reference": {
+                            "resource": "selectors.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "contexts.csv"
+        },
+        {
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype":"string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": true,
+                        "name": "Selector_label"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "flagging|indexing marker|indexing trigger"
+                        },
+                        "required": true,
+                        "name": "Selector_type"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "overt|zero"
+                        },
+                        "required": true,
+                        "name": "Marker_type"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Features"
+                    },
+                    {
+                        "datatype": "string",
+                        "separator": ";",
+                        "name": "S_references"
+                    },
+                    {
+                        "datatype": "string",
+                        "separator": ";",
+                        "name": "A_references"
+                    },
+                    {
+                        "datatype": "string",
+                        "separator": ";",
+                        "name": "P_references"
+                    },
+                    {
+                        "datatype": "string",
+                        "separator": ";",
+                        "name": "Alignment"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "required": true,
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "separator": ";",
+                        "required": true,
+                        "name": "Coder"
+                    }
+                ],
+                 "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Glottocode"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "Glottocode"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "selectors.csv"
+        },
+        {
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype":"string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "Language"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "Verb|Noun|Pro"
+                        },
+                        "required": true,
+                        "name": "Domain"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "exemplar|all"
+                        },
+                        "required": true,
+                        "name": "Exemplar"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "Monovalent_predicate_class"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "Bivalent_predicate_class"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "TAM"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "Referential_type"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Condition"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "separator": ";",
+                        "name": "P"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "separator": ";",
+                        "name": "A"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "S"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "separator": ";",
+                        "name": "Alignment"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "separator": ";",
+                        "name": "Alignment_not_local"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": true,
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "separator": ";",
+                        "name": "Coder"
+                    }
+                ],
+                 "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Glottocode"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "Glottocode"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "references.csv"
+        },
+        {
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype":"string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "Conditioning"
+                    },
+                    {
+                    	"datatype": "string",
+                        "required": true,
+                        "name": "Marking_1"
+                    },
+                    {
+                    	"datatype": "string",
+                        "required": true,
+                        "name": "Condition_1"
+                    },
+                    {
+                    	"datatype": "string",
+                        "required": true,
+                        "name": "Marking_2"
+                    },
+                    {
+                    	"datatype": "string",
+                        "required": true,
+                        "name": "Condition_2"
+                    },
+                    {
+                    	"datatype": "string",
+                        "required": false,
+                        "name": "Marking_3"
+                    },
+                    {
+                    	"datatype": "string",
+                        "required": false,
+                        "name": "Condition_3"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": true,
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "separator": ";",
+                        "name": "Coder"
+                    }
+                ],
+                 "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Glottocode"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "Glottocode"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "doms.csv"
+        }
+    ]
+}

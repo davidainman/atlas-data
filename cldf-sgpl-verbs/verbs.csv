@@ -1,0 +1,1460 @@
+"ID","Glottocode","Language","Forms","SG ~ PL","Meaning","Semantic_Category","Semantic_Subcategory","Bipartite_vs_Tripartite","Alternation_Type","Handling_Shape","Comment"
+1,"akab1249","Akabea","ab-päre ~ tar-mâli","SG ~ PL","chastise","?",,"bipartite","suppletion","no",
+2,"akab1249","Akabea","ar-baŋ ~ ar-baŋa","SG ~ PL","dig","?",,"bipartite","suppletion","no",
+3,"alse1251","Alsea-Yaquina","wustiin ~ tians","SG ~ PL","agree","?",,"bipartite","suppletion","no",
+4,"buru1296","Burushaski","-phús- ~ -phúša-","SG ~ PL","tie up","?",,"bipartite","regular",,
+5,"buru1296","Burushaski","(-)híl- ~ (-)hílja-","SG ~ PL","soak","?",,"bipartite","regular",,
+6,"buru1296","Burushaski","(ba)hált ~ (ba)hálča","SG ~ PL","wash","?",,"bipartite","regular",,
+7,"buru1296","Burushaski","bú- ~ búya","SG ~ PL","dry","?",,"bipartite","regular",,
+8,"buru1296","Burushaski","d ́-k(h)út ~ d ́-k(h)úča","SG ~ PL","lose weight","?",,"bipartite","regular",,
+9,"buru1296","Burushaski","d-ší- ~ d-ša","SG ~ PL","stop","?",,"bipartite","regular",,"also refrain"
+10,"buru1296","Burushaski","de-phérc ~ de-phérča (y); d ́--phérc ~ d ́-phérča (x)","SG ~ PL","remove/uproot","?",,"bipartite","regular",,
+11,"buru1296","Burushaski","dórgin- ~ dórgia-","SG ~ PL","quarrel/argue","?",,"bipartite","regular",,
+12,"buru1296","Burushaski","du-khát ~ du-kháča (y); d ́-khát ~ d ̊ -kháča (hx)","SG ~ PL","trouble oneself over something","?",,"bipartite","regular",,
+13,"buru1296","Burushaski","du-pháq ~ du-pháqia-","SG ~ PL","card","?",,"bipartite","regular",,
+14,"buru1296","Burushaski","ɣórc/ɣurc ~ ɣórča","SG ~ PL","sink","?",,"bipartite","regular",,
+15,"buru1296","Burushaski","khúrut ~ khúruča","SG ~ PL","open (a box)","?",,"bipartite","regular",,
+16,"buru1296","Burushaski","múrut ~ múruča","SG ~ PL","handle/stroke","?",,"bipartite","regular",,
+17,"cadd1256","Caddo","ya'ah ~ yábah","SG ~ PL","be","?",,"bipartite","suppletion","no",
+18,"cahu1264","Cahuilla","chút ~ chúshtan","INDIVIDUAL ~ COLLECTIVE","light a fire","?",,"bipartite","suppletion","no",
+19,"coah1252","Coahuilteco","-amī ~ -am-ā¢-a","SG ~ PL","have","?",,"bipartite","suppletion","no","-ā¢- infix plus suppletion"
+20,"coah1252","Coahuilteco","-hāwx(u) ~ -h-ā¢-awx(u)","SG ~ PL","be called","?",,"bipartite","regular",,"-ā¢- infix"
+21,"coah1252","Coahuilteco","-hōy ~ -h-aw-āy","SG ~ PL","do","?",,"bipartite","suppletion","no","-wa/aw- infix plus suppletion; also make"
+22,"coah1252","Coahuilteco","-kˀāw ~ xekˀ-ā¢-awam-ke","SG ~ PL","marry","?",,"bipartite","suppletion","no","-ā¢- infix plus -ke suffix plus suppletion"
+23,"coah1252","Coahuilteco","-māko ~ -m-ak-āko","SG ~ PL","think","?",,"bipartite","regular",,"-ak- infix"
+24,"coah1252","Coahuilteco","-pām ~ -ap-ak-ām","SG ~ PL","have a child, child","?",,"bipartite","regular",,"-ak- infix"
+25,"coah1252","Coahuilteco","-šap'ān ~ -šap'ā-wa-no","SG ~ PL","good, cleanse","?",,"bipartite","regular",,"-wa/aw- infix"
+26,"coah1252","Coahuilteco","-spāmo ~ -spā-wa-mō","SG ~ PL","believe","?",,"bipartite","regular",,"-wa/aw- infix"
+27,"coah1252","Coahuilteco","-tāy ~ -t-aw-āy","SG ~ PL","mother","?",,"bipartite","regular",,"-wa/aw- infix"
+28,"coah1252","Coahuilteco","-xawū ~ x-ak-ōymo","SG ~ PL","be joined","?",,"bipartite","suppletion","no","-ak- infix plus suppletion"
+29,"coah1252","Coahuilteco","-xāy ~ -x-ak-āy","SG ~ PL","end","?",,"bipartite","regular",,"-ak- infix"
+30,"coah1252","Coahuilteco","-xō ~ -x-ā¢-o","SG ~ PL","know","?",,"bipartite","regular",,"-ā¢- infix"
+31,"coah1252","Coahuilteco","? ~ k-ā¢-owō","SG ~ PL","pay for","?",,"bipartite","regular",,"-ā¢- infix"
+32,"coah1252","Coahuilteco","? ~ k'm-āk-ōx(sāwx)","SG ~ PL","kneel","?",,"bipartite","regular",,"-ak- infix"
+33,"coah1252","Coahuilteco","? ~ s(?)k'-ā¢-āwxt'am","SG ~ PL","dream","?",,"bipartite","regular",,"-ā¢- infix"
+34,"coah1252","Coahuilteco","p'ānmam ~ p'ā-ke-nmam","SG ~ PL","pass (time)","?",,"bipartite","regular",,"-ke- infix"
+35,"coma1245","Comanche","anitʉ ~ aanearʉ","SG ~ PL","give up exhausted","?",,"bipartite","suppletion","no","also die in an accident"
+36,"coma1245","Comanche","haakarʉ ~ hakaakarʉ","SG ~ PL","find room for","?",,"bipartite","regular",,"reduplication"
+37,"coma1245","Comanche","hanitʉ ~ hanikatʉ","SG ~ PL","fix","?",,"bipartite","regular",,"infixation; also do, repair"
+38,"coma1245","Comanche","kuʔnikakʉrʉ ~ kuwekwakʉrʉ (object)","SG ~ PL","rope someone","?",,"bipartite","suppletion","no","specifically while moving (lasso)"
+39,"coma1245","Comanche","kʉhkwitsitʉ ~ kʉhtoroki","SG ~ PL","grit teeth","?",,"bipartite","suppletion","no","also clack the teeth"
+40,"coma1245","Comanche","nohitekwarʉ ~ kaasuarʉ","SG ~ PL","intend to deceive or cheat","?",,"bipartite","suppletion","no","also pretend, kid around"
+41,"coma1245","Comanche","pihkarʉ ~ pipikutʉ","SG ~ PL","drum","?",,"bipartite","suppletion","no","also ring a bell"
+42,"coma1245","Comanche","tsahturerʉ ~ tsahtunetsʉtʉ","SG ~ PL","stretch","?",,"bipartite","suppletion","no","also pull with full strength"
+43,"coma1245","Comanche","tʉbinarʉ (sg object) ~ tʉrʉbinitu (pl object)","SG ~ PL","question someone","?",,"bipartite","regular",,"reduplication"
+44,"cree1270","Creek","a-kaɬp-itá ~ a-kaɬkap-íta","SG ~ PL","dry up (of a creek, etc)","?",,"bipartite","regular",,"C1V1 reduplication"
+45,"cree1270","Creek","a-ló.fk-i: ~ a-lo:flok-i: (‘smeared on in more than one place’)","SG ~ PL","smeared on","?",,"bipartite","regular",,"C1V1 reduplication"
+46,"cree1270","Creek","anataks-itá ~ anatasnak-íta","SG ~ PL","look up","?",,"bipartite","regular",,"C1V1 reduplication"
+47,"cree1270","Creek","nika:tt-itá ~ nika:tni:y-itá","SG ~ PL","nod once","?",,"bipartite","regular",,"C1V1 reduplication"
+48,"cree1270","Creek","som-iceyc-itá ~ som-hoy-c-itá","SG ~ PL","lose somebody","?",,"bipartite","regular",,"ho(y)/ic insertion"
+49,"cree1270","Creek","som-k-itá ~ som-ho-k-itá ~ som-ic-itá","SG ~ DU ~ PL","be lost","?",,"tripartite","regular",,"ho(y)/ic insertion"
+50,"cree1270","Creek","teyy-itá ~ tey-hoy-íta","SG ~ PL","ache","?",,"bipartite","regular",,"ho(y)/ic insertion"
+51,"daga1275","Daga","wabor ~ bor","SG ~ PL","close","?",,"bipartite","regular",,"there is an unknown number of additional verbs that take these plural prefixes"
+52,"gavi1246","Gavião Do Jiparaná","mága ~ mákiì","SG ~ PL","make","?",,"bipartite","suppletion","no",
+53,"gras1249","Grass Koiari","voi(nu) ~ vahei","SG ~ PL","become/be","?",,"bipartite","suppletion","no",
+54,"guah1255","Guahibo","küta ~ küba","SG ~ PL","tie","?",,"bipartite","regular",,"ta ~ ba (attacher), but also semelfactive  ~ iterative, and perfective ~ imperfective (queixalos1998sikuani:162)"
+55,"guah1255","Guahibo","mataya-ta ~ mataya-ba","SG ~ PL","hide someone","?",,"bipartite","regular",,"ta ~ ba (cacher)"
+56,"guah1255","Guahibo","nakopa-ta ~ nakopa-ba","SG ~ PL","be too much","?",,"bipartite","regular",,"ta ~ ba (être en trop)"
+57,"guah1255","Guahibo","namatoakota ~ namatakoba","SG ~ PL","incorporate (MID)","?",,"bipartite","regular",,"ta ~ ba (s'incorporer), but also semelfactive  ~ iterative, and perfective ~ imperfective (queixalos1998sikuani:162)"
+58,"guah1255","Guahibo","xena-ta ~ xena-ba","SG ~ PL","exceed","?",,"bipartite","regular",,"ta ~ ba (dépasser, outrepasser)"
+59,"coos1249","Hanis","ītsēm ~ ne'tsī","SG ~ PL","do","?",,"bipartite","suppletion","no",
+60,"hopi1249","Hopi","ngaaha ~ ngángàata, ngángàyta","SG ~ PL","untie","?",,"bipartite","regular",,
+61,"hopi1249","Hopi","ööyi ~ öö’öya","SG ~ PL","become satiated","?",,"bipartite","regular",,
+62,"hopi1249","Hopi","soma ~ sòmta","SG ~ PL","tie","?",,"bipartite","regular",,
+63,"hopi1249","Hopi","tuku ~ maawi","SG ~ PL","harvest/pick from a tree","?",,"bipartite","suppletion","no",
+64,"hopi1249","Hopi","yuku ~ yukùuta","SG ~ PL","fix","?",,"bipartite","regular",,
+65,"hopi1249","Hopi","yuwsi ~ yuuyaha","SG ~ PL","dress","?",,"bipartite","suppletion","no","dress for a formal occasion"
+66,"huas1242","Huastec","puwey ~ pakey","SG ~ PL","grow","?",,"bipartite","suppletion","no",
+67,"imon1245","Imonda","hõnõ ~ pueg","SG ~ PL","make netbag","?",,"bipartite","suppletion","no",
+68,"imon1245","Imonda","kuaksõ ~ kuaksõ-uõl","SG ~ PL","cough","?",,"bipartite","regular",,
+69,"imon1245","Imonda","lõhõ ~ lëfaha","SG ~ PL","not like","?",,"bipartite","suppletion","no","May be related to 'stand'"
+70,"imon1245","Imonda","nugahõ ~ nugathõ ~ nug","SG ~ DU ~ MANY","fill in","?",,"tripartite","suppletion","no",
+71,"iran1263","Irántxe-Münkü","? ~ kijaka","SG ~ PL","have","?",,"bipartite","regular",,
+72,"kett1243","Ket","?-qut ~ ?-damin","SG ~ PL","be tied up","?",,"bipartite","regular",,"0 ~ d"
+73,"kett1243","Ket","bit- ~ biɾeŋ-","SG ~ PL","strengthen","?",,"bipartite","regular",,"0 ~ n/ŋ"
+74,"kett1243","Ket","əqa-qut ~ əqa-damin","SG ~ PL","be visible","?",,"bipartite","regular",,"0 ~ d"
+75,"kett1243","Ket","k-qan ~ k-(k)sit-n","SG ~ PL","become","?",,"bipartite","suppletion","no",
+76,"kett1243","Ket","sitej/q-t ~ sitej/q-a","SG ~ PL","wake up","?",,"bipartite","suppletion","no",
+77,"kett1243","Ket","t-oŋ ~ t-ok-in","SG ~ PL","need","?",,"bipartite","suppletion","no",
+78,"koas1236","Koasati","anó:kan ~ anó-s-kan","SG ~ PL","finish","?",,"bipartite","regular",,"-s- infix"
+79,"koas1236","Koasati","anó:lin ~ anó-s-lin","SG ~ PL","finish (aux)","?",,"bipartite","regular",,"-s- infix"
+80,"koas1236","Koasati","falammí:cin ~ fal-kóh-kan","SG ~ PL","awaken somebody","?",,"bipartite","regular",,"infixed extension; possibly derived from 'wake up' but the morphology is unclear"
+81,"koas1236","Koasati","falánkan ~ fal-kóh-kan","SG ~ PL","wake up","?",,"bipartite","regular",,"infixed extension"
+82,"koas1236","Koasati","fáylin ~ fay-áh-lin","SG ~ PL","quit","?",,"bipartite","regular",,"infixed extension"
+83,"koas1236","Koasati","filánkan ~ fil-kóh-kan","SG ~ PL","diverge","?",,"bipartite","regular",,"infexed extension; also appears to derive a verb 'turn aside' with prefix a-"
+84,"koas1236","Koasati","Iofá-p-ii-n ~ lof-fí-:ci-n","SG ~ PL","take a lengthwise chip off","?",,"bipartite","regular",,"-ci suffix"
+85,"koas1236","Koasati","maká:lin ~ maká-s-lin","SG ~ PL","open the eyes","?",,"bipartite","regular",,"-s- infix"
+86,"koas1236","Koasati","nakáłłan ~ wasátkan","SG ~ PL","be lost","?",,"bipartite","suppletion","no",
+87,"koas1236","Koasati","nisá-f-fi-n ~ nis-li-:ci-n","SG ~ PL","take a small chip off","?",,"bipartite","regular",,"-ci suffix"
+88,"koas1236","Koasati","watá:lin ~ watá-s-lin","SG ~ PL","wear a necklace","?",,"bipartite","regular",,"-s- infix"
+89,"kuna1268","Kunama","ufe ~ ulufe","SG ~ PL","wash (oneself)","?",,"bipartite","regular",,"-lV-"
+90,"kwaz1243","Kwaza","a'sa- ~ (u?)u'ja-","SG ~ PL","end","?",,"bipartite","suppletion","no","also leave, terminate, obliterate"
+91,"kwaz1243","Kwaza","esa'hỹ-kuty- ~ tsādy-kuty-","SG ~ PL","sting on head","?",,"bipartite","suppletion","no",
+92,"laal1242","Laal","àny ~ ɨ̀ny","SG ~ PL","wait for","?",,"bipartite","regular",,"a > ɨ / i"
+93,"laal1242","Laal","buàŋ ~ bòŋ","SG ~ PL","resemble","?",,"bipartite","regular",,"ua / o"
+94,"laal1242","Laal","buāŋ ~ bòŋ","SG ~ PL","grow","?",,"bipartite","regular",,"M / L[-low, +round]"
+95,"laal1242","Laal","ɓáán ~ ɓɨ́ɨ́n","SG ~ PL","share","?",,"bipartite","regular",,"a > ɨ / i"
+96,"laal1242","Laal","ɗùrúg ~ ɗùrgɨ̀ny, ɗùrgì","SG ~ PL","rot, be rotten","?",,"bipartite","regular",,"0 / -iny ~ -i"
+97,"laal1242","Laal","gààr ~ gɨ̀ɨ̀r","SG ~ PL","sweep, scratch","?",,"bipartite","regular",,"a > ɨ / i"
+98,"laal1242","Laal","gág ~ gɨ́g","SG ~ PL","argue, doubt","?",,"bipartite","regular",,"a > ɨ / i"
+99,"laal1242","Laal","gàn ~ gɨ̀n","SG ~ PL","take ball from pot to serve","?",,"bipartite","regular",,"a > ɨ / i"
+100,"laal1242","Laal","ká ~ kí","SG ~ PL","do","?",,"bipartite","regular",,"a > ɨ / i; the form of 'do' and 'give' vary only in a subset of derived forms"
+101,"laal1242","Laal","ká ~ kí","SG ~ PL","give","?",,"bipartite","regular",,"a > ɨ / i; the form of 'do' and 'give' vary only in a subset of derived forms"
+102,"laal1242","Laal","kááw ~ kɨ́ɨ́w","SG ~ PL","make","?",,"bipartite","regular",,"a > ɨ / i"
+103,"laal1242","Laal","kál ~ kɨ́l","SG ~ PL","practice divination","?",,"bipartite","regular",,"a > ɨ / i"
+104,"laal1242","Laal","kány ~ kɨ́ny","SG ~ PL","untie","?",,"bipartite","regular",,"a > ɨ / i"
+105,"laal1242","Laal","kuām ~ kōm","SG ~ PL","laugh","?",,"bipartite","regular",,"uā / ō"
+106,"laal1242","Laal","kuár ~ kór","SG ~ PL","have sex with","?",,"bipartite","regular",,"low to mid vowel"
+107,"laal1242","Laal","láám ~ lɨ́ɨ́m","SG ~ PL","suck","?",,"bipartite","regular",,"a > ɨ / i"
+108,"laal1242","Laal","lāg ~ lɨ̄g","SG ~ PL","braid","?",,"bipartite","regular",,"a > ɨ / i"
+109,"laal1242","Laal","máá(r) ~ mɨ́ɨ́(r)","SG ~ PL","press, knead","?",,"bipartite","regular",,"a > ɨ / i"
+110,"laal1242","Laal","nāb ~ nɨ̄b","SG ~ PL","smoke (food)","?",,"bipartite","regular",,"a > ɨ / i"
+111,"laal1242","Laal","nàŋ ~ nɨ̀ŋ","SG ~ PL","sharpen","?",,"bipartite","regular",,"a > ɨ / i"
+112,"laal1242","Laal","nyām ~ nyɨ̄m","SG ~ PL","weave, braid","?",,"bipartite","regular",,"a > ɨ / i"
+113,"laal1242","Laal","nyāŋ ~ nyɨ̄ŋ","SG ~ PL","marry","?",,"bipartite","regular",,"a > ɨ / i"
+114,"laal1242","Laal","páár ~ pɨ́ɨ́r","SG ~ PL","knead in liquid","?",,"bipartite","regular",,"a > ɨ / i"
+115,"laal1242","Laal","pāl ~ pɨ̄l","SG ~ PL","refuse","?",,"bipartite","regular",,"a > ɨ / i"
+116,"laal1242","Laal","tāār ~ tɨ̄ɨ̄r","SG ~ PL","hunt","?",,"bipartite","regular",,"a > ɨ / i"
+117,"laal1242","Laal","tám ~ tɨ́m","SG ~ PL","kindle (fire)","?",,"bipartite","regular",,"a > ɨ / i"
+118,"laal1242","Laal","tuáár ~ tóór","SG ~ PL","agree","?",,"bipartite","regular",,"low to mid vowel"
+119,"laal1242","Laal","túrá ~ túrɨ̀ny, túrì (intr.)","SG ~ PL","be lost","?",,"bipartite","regular",,"-a / -iny ~ -i"
+120,"laal1242","Laal","wóóró ~ wóórɨ́ny, wóórí","SG ~ PL","cook","?",,"bipartite","regular",,"0 > -i"
+121,"laal1242","Laal","wúlá ~ wúlɨ̀ny, wúlì","SG ~ PL","finish, end","?",,"bipartite","regular",,"-a / -iny ~ -i"
+122,"nucl1622","Marind","bakeh ~ ɣok","SG ~ PL","plant coconut","?",,"bipartite","suppletion","no",
+123,"nucl1622","Marind","kaguh ~ ewah","SG ~ PL","give birth to","?",,"bipartite","suppletion","no",
+124,"nucl1622","Marind","katmetok ~ mamed","SG ~ PL","father (a child)","?",,"bipartite","suppletion","no",
+125,"nucl1622","Marind","win ~ in","SG ~ PL","become","?",,"bipartite","suppletion","no",
+126,"madi1260","Maʼdi","tɨ̀ ~ gɓà","SG ~ PL","pick leaf(ves)","?",,"bipartite","suppletion","no",
+127,"mull1237","Mullukmulluk","larap ~ lararp","SG ~ PL","bind","?",,"bipartite","regular",,
+128,"mull1237","Mullukmulluk","niwat ~ niwarat","SG ~ PL","name","?",,"bipartite","regular",,"also mention"
+129,"mull1237","Mullukmulluk","tat ~ tarat","SG ~ PL","find","?",,"bipartite","regular",,
+130,"mull1237","Mullukmulluk","tik ~ tirik","SG ~ PL","grow up","?",,"bipartite","regular",,
+131,"mull1237","Mullukmulluk","tut ~ turut","SG ~ PL","cause","?",,"bipartite","regular",,
+132,"mull1237","Mullukmulluk","tʸɛnʸ ~ tʸɛnʸenʸ","SG ~ PL","make","?",,"bipartite","regular",,
+133,"mull1237","Mullukmulluk","yařp ~ yařarp","SG ~ PL","rub","?",,"bipartite","regular",,
+134,"murr1258","Murriny Patha","ɖu ~ ɖɖu","SG ~ PL","impel","?",,"bipartite","regular",,
+135,"murr1258","Murriny Patha","la ~ lla","SG ~ PL","wipe","?",,"bipartite","regular",,
+136,"murr1258","Murriny Patha","na ~ nna","SG ~ PL","use fire","?",,"bipartite","regular",,
+137,"murr1258","Murriny Patha","nu ~ nnu","SG ~ PL","use feet","?",,"bipartite","regular",,
+138,"nisg1240","Nisgaʼa","m̓ás ~ límqs","SG ~ PL","grow","?",,"bipartite","suppletion","no",
+139,"nort2954","Northern Paiute","-kwonao ~ -wonitao","SG ~ PL","open","?",,"bipartite","suppletion","no",
+140,"nuuc1236","Nuu-chah-nulth","č̓aapaciił ~ č̓aapaciiłʕaqa","INDIVIDUAL ~ COLLECTIVE","make a boat","?",,"bipartite","regular",,"-!aqa"
+141,"nuuc1236","Nuu-chah-nulth","č̓iics ~ č̓iicsʕaqa","INDIVIDUAL ~ COLLECTIVE","troll/fish","?",,"bipartite","regular",,"-!aqa"
+142,"nuuc1236","Nuu-chah-nulth","haaʕin ~ haahaaʕinyu","INDIVIDUAL ~ COLLECTIVE","invite","?",,"bipartite","regular",,"-RL.yu"
+143,"nuuc1236","Nuu-chah-nulth","mamuuk ~ mamuuʕaqa","INDIVIDUAL ~ COLLECTIVE","work","?",,"bipartite","regular",,"-!aqa"
+144,"nuuc1236","Nuu-chah-nulth","pisatuk ~ pisat̓aqa","INDIVIDUAL ~ COLLECTIVE","play","?",,"bipartite","regular",,"-!aqa"
+145,"otta1242","Ottawa","X-have ~ X.RED-have","SG ~ PL","have X","?",,"bipartite","regular",,"The morphophonology of this language is difficult to parse and examples are unglossed."
+146,"shas1239","Shasta","i·m·a ~ ayk","SG ~ PL","hunt, dig, mine","?",,"bipartite","suppletion","no",
+147,"juho1239","South-Eastern Ju","g!xa ~ šwe","SG ~ PL","take off","?",,"bipartite","suppletion","no","only examples with clothing"
+148,"juho1239","South-Eastern Ju","ǂ'wã ~ kheu","SG ~ PL","pick","?",,"bipartite","suppletion","no",
+149,"juho1239","South-Eastern Ju","ǂhwe ~ tswa̯","SG ~ PL","uproot","?",,"bipartite","suppletion","no",
+150,"nucl1649","Southern Coastal Tsimshian","gaksk ~ liwdsk","SG ~ PL","wake up","?",,"bipartite","suppletion","no",
+151,"nucl1649","Southern Coastal Tsimshian","gyimł ~ siguunaks","SG ~ PL","wipe","?",,"bipartite","suppletion","no",
+152,"nucl1649","Southern Coastal Tsimshian","p’axs (maybe p'as) ~ maxs","SG ~ PL","grow","?",,"bipartite","suppletion","no","also develop"
+153,"nucl1649","Southern Coastal Tsimshian","waa ~ uust","SG ~ PL","name","?",,"bipartite","suppletion","no",
+154,"sulk1246","Sulka","kong ~ kung","SG ~ PL","dig","?",,"bipartite","suppletion","no",
+155,"sulk1246","Sulka","mat ~ mrut","SG ~ PL","cook","?",,"bipartite","suppletion","no","@DI: destruction?"
+156,"tabo1241","Tabo","ape ~ apepeho","SG ~ PL","grow","?",,"bipartite","suppletion","no",
+157,"ticu1245","Ticuna","go̊ ~ yì","SG ~ PL","grow","?",,"bipartite","suppletion","no","also sprout"
+158,"wari1268","Wari","hwap, hap ~ hwarahwap, harahap","SG ~ PL","do quickly","?",,"bipartite","regular",,"-rV(CV)- infixation"
+159,"wari1268","Wari","kep ~ kekep / kekekep","SG ~ PL","catch, touch","?",,"bipartite","regular",,"CV(CV)- reduplciation"
+160,"wari1268","Wari","toron ~ totoron","SG ~ PL","moan","?",,"bipartite","regular",,"CV(CV)- reduplciation"
+161,"wari1268","Wari","wan ~ wawawan","SG ~ PL","have sex","?",,"bipartite","regular",,"CV(CV)- reduplciation"
+162,"wari1268","Wari","xak ~ xaxaxak","SG ~ PL","suck fruit","?",,"bipartite","regular",,"CV(CV)- reduplciation"
+163,"wari1268","Wari","xope ~ xoto","SG ~ PL","be stuck","?",,"bipartite","suppletion","no",
+164,"west2632","Western Keres","-'áyawaaN ~ (dual suffix) ~ -'aʔíẓawaaN","SG ~ DU ~ PL","be lost","?",,"tripartite","suppletion","no",
+165,"west2632","Western Keres","-'ítûuníM ~ -áʔítûuníM ~ -QáatuuníM","SG ~ DU ~ PL","grow","?",,"tripartite","suppletion","no",
+166,"west2632","Western Keres","-'iẓáačúwaN(M) ~ -aiẓáačúwaN(M) ~ -'a̓aẓáačúwaN(M)","SG ~ DU ~ PL","wake up","?",,"tripartite","suppletion","no",
+167,"west2632","Western Keres","-'jíìnáwe̓etu0 ~ -qáináwe̓etu0 ~ (REG)","SG ~ DU ~ PL","grow old","?",,"tripartite","suppletion","no",
+168,"west2632","Western Keres","-'jína̓uda0{N} ~ -qáina̓uda0{N} ~ -qjéena̓udi","SG ~ DU ~ PL","finish","?",,"tripartite","suppletion","no",
+169,"west2632","Western Keres","-àat̓ùwiiY ~ (REG) ~ -qáat̓úwiiY-ʔVVD","SG ~ DU ~ PL","release","?",,"tripartite","suppletion","no",
+170,"west2632","Western Keres","-aʔáčəB ~ -âaʔáčəB ~ -jeʔéčəB","SG ~ DU ~ PL","be enclosed","?",,"tripartite","suppletion","no",
+171,"west2632","Western Keres","-ə́əč̓áiʔm ~ -qáič̓áim ~ -qjéeč̓áiʔm-iiD","SG ~ DU ~ PL","eyes to be closed","?",,"tripartite","suppletion","no",
+172,"west2632","Western Keres","-jíisdyaB(SD) ~ -qa̓isdyaB(SD) ~ -qje̓esdyaB(SD)-eeD","SG ~ DU ~ PL","nurse","?",,"tripartite","suppletion","no",
+173,"west2632","Western Keres","-jíiy̓âadyuwiiY ~ -qáaiy̓âadyuwiiY ~ -qáaiy̓âadyuwi-mišiiD","SG ~ DU ~ PL","be first","?",,"tripartite","suppletion","no",
+174,"west2632","Western Keres","-jišiyaW ~ (REG) ~ -âašiyaW-aaD","SG ~ DU ~ PL","win","?",,"tripartite","suppletion","no",
+175,"west2632","Western Keres","-jíya̓aN ~ -qáiya̓aN ~ -a̓idya̓aN","SG ~ DU ~ PL","be born","?",,"tripartite","suppletion","no",
+176,"west2632","Western Keres","-Júyáaska ~ (REG) ~ -âiya̓aska","SG ~ DU ~ PL","spend the night","?",,"tripartite","suppletion","no",
+177,"west2632","Western Keres","-Juy̓âin̓aW ~ (REG) ~ -úwádyâin̓aW","SG ~ DU ~ PL","find","?",,"tripartite","suppletion","no",
+178,"west2632","Western Keres","-JúyawaaN ~ (REG) ~ -aʔíẓawaaN","SG ~ DU ~ PL","lose","?",,"tripartite","suppletion","no",
+179,"west2632","Western Keres","-Júyu̓ugaiY ~ -âaʔayuugaiY ~ -a̓iẓu̓ugaiY","SG ~ DU ~ PL","tend","?",,"tripartite","suppletion","no","This may be related to 'take'"
+180,"west2632","Western Keres","-Júyûuk̓amiṢ ~ -âaʔayuuk̓amiṢ ~ -âiẓûuk̓amiṢ","SG ~ DU ~ PL","wait for","?",,"tripartite","suppletion","no","This may be related to 'take'"
+181,"west2632","Western Keres","-qâaʔaʔa ~ -aʔâaʔa ~ -qa̓ac̓isi","SG ~ DU ~ PL","have it closed","?",,"tripartite","suppletion","no",
+182,"west2632","Western Keres","-qagáyaM ~ -aagáyaM ~ -âagayaN-iiD","SG ~ DU ~ PL","be stuck","?",,"tripartite","suppletion","no",
+183,"west2632","Western Keres","-qáweeʔeṢ ~ (REG) ~ -âiweeʔeṢ-iiD","SG ~ DU ~ PL","have luck","?",,"tripartite","suppletion","no",
+184,"west2632","Western Keres","-u:níM ~ (REG) ~ -âiẓuuníM","SG ~ DU ~ PL","know","?",,"tripartite","suppletion","no",
+185,"west2632","Western Keres","-û:sú ~ (REG) ~ -ûuʔusa","SG ~ DU ~ PL","know how","?",,"tripartite","suppletion","no",
+186,"wich1260","Wichita","ʔarasi ~ wa:rani","SG ~ PL","cook","?",,"bipartite","suppletion","no",
+187,"wich1260","Wichita","ʔi ~ ʔiki","SG ~ PL","be","?",,"bipartite","suppletion","no","only examples seem to be with adjectival predication"
+188,"yana1271","Yana","miilabʔ ~ piilabʔ","SG ~ PL","awaken","?",,"bipartite","suppletion","no",
+189,"yana1271","Yana","peega...ʔa ~ pedga","SG ~ PL","snore","?",,"bipartite","regular",,
+190,"yura1255","Yuracaré","sheta ~ sheshe","? ~ ?","be lost","?",,"bipartite","regular",,
+191,"gras1249","Grass Koiari","dehe ~ devorei","SG ~ PL","defecate","bodily excretion",,"bipartite","suppletion","no",
+192,"gras1249","Grass Koiari","veu(vana) ~ vorei(na)","SG ~ PL","urinate","bodily excretion",,"bipartite","suppletion","no",
+193,"imon1245","Imonda","nuhõ ~ nuhõ-uõl","SG ~ PL","vomit","bodily excretion",,"bipartite","regular",,
+194,"laal1242","Laal","yǖsā ~ yǖs","SG ~ PL","have diarrhea","bodily excretion",,"bipartite","regular",,"-a / 0"
+195,"tabo1241","Tabo","a:hiya ~ a:hiyaha","SG ~ PL","sneeze","bodily excretion",,"bipartite","regular",,"-ha suffix"
+196,"djam1255","Jaminjung-Ngaliwurru","jarr ~ jurrb","SG ~ PL","be put down, be left in a place","caused location",,"bipartite","suppletion","no","Coverbs, look like bipartite stems. Waiting for Eva to get back to us on the presence of more than 1 pair."
+197,"nucl1622","Marind","ɣakeh ~ lemeh","SG ~ PL","catch","caused location",,"bipartite","suppletion","no",
+198,"laal1242","Laal","jááb ~ jɨ́ɨ́b","SG ~ PL","gather","caused location",,"bipartite","regular",,"a > ɨ / i"
+199,"kwaz1243","Kwaza","tsje- ~ tsi-tsje","SG ~ PL","grab","caused location",,"bipartite","regular",,
+200,"laal1242","Laal","káb ~ kɨ́b","SG ~ PL","grab","caused location",,"bipartite","regular",,"a > ɨ / i"
+201,"mull1237","Mullukmulluk","tap ~ tarap","SG ~ PL","grab","caused location",,"bipartite","regular",,
+202,"uppe1439","Upper Chehalis","kʷaná- ~ x̣ími-","SG ~ PL","grab","caused location",,"bipartite","suppletion","no",
+203,"nucl1622","Marind","han ~ yahanid","SG ~ PL","grasp horizontal item","caused location",,"bipartite","suppletion","yes",
+204,"nucl1622","Marind","bik ~ bituk","SG ~ PL","grasp vertical item","caused location",,"bipartite","suppletion","yes",
+205,"imon1245","Imonda","uluh ~ lëfah","SG ~ PL","hold","caused location",,"bipartite","suppletion","no",
+206,"djam1255","Jaminjung-Ngaliwurru","garrb ~ durd","SG ~ PL","hold","caused location",,"bipartite","suppletion","no",
+207,"kett1243","Ket","?-qut ~ ?-damin","SG ~ PL","hold","caused location",,"bipartite","regular",,"0 ~ d"
+208,"shas1239","Shasta","a·ʔa· ~ a·pi","SG ~ PL","hold","caused location",,"bipartite","suppletion","no","with hand/arm' in the grammar"
+209,"zuni1245","Zuni","ɬeya- ~ woppona-","SG ~ PL","hold","caused location",,"bipartite","suppletion","no",
+210,"jama1261","Madi","tama -na- ~ bokori -na-","SG ~ PL","hold in hand","caused location",,"bipartite","suppletion","no",
+211,"nisg1240","Nisgaʼa","tax̌yúkʷ ~ tax̌tóq","SG ~ PL","hold, carry","caused location",,"bipartite","suppletion","no","possibly related to 'take', but morphology is opaque or irregular"
+212,"imon1245","Imonda","ula ~ ula-fia","SG ~ PL","hold/possess","caused location",,"bipartite","suppletion","no",
+213,"laal1242","Laal","ʼyá ~ í (*ʼyí > [ʔí])","SG ~ PL","seize","caused location",,"bipartite","regular",,"a > ɨ / i"
+214,"nort2954","Northern Paiute","wɨttɨma ~ wɨttɨmita","SG ~ PL","shut in","caused location",,"bipartite","regular",,"-it- infix"
+215,"agua1253","Aguaruna","apuhut ~ chimpit","SG ~ PL","put","caused motion","deictic","bipartite","suppletion","no","Overall suggests that the singular is derived from 'live/be'"
+216,"ariz1237","Arizona Tewa","pe(') ~ ča(')","SG ~ PL","throw away","caused motion","manner; deictic","bipartite","suppletion","no",
+217,"bert1248","Berta","gagá ~ haara","SG ~ PL","chase","caused motion","manner; deictic","bipartite","suppletion","no",
+218,"buru1296","Burushaski","-wáš- (hx) ~ -wáš-/- gú- (hx); -bišá (y) ~ gí- (y)","SG ~ PL","drop","caused motion",,"bipartite","suppletion","no",
+219,"buru1296","Burushaski","ɣárk ~ ɣárča","SG ~ PL","grab/collect/carry fruit","caused motion",,"bipartite","regular","?",
+220,"cahu1264","Cahuilla","kús ~ hívin","INDIVIDUAL ~ COLLECTIVE","take","caused motion","deictic","bipartite","suppletion","no",
+221,"cahu1264","Cahuilla","tác ~ wén","INDIVIDUAL ~ COLLECTIVE","put","caused motion","deictic","bipartite","suppletion","no",
+222,"chim1301","Chimariko","ačele ~ ikičita","SG ~ PL","carry (a long object)","caused motion",,"bipartite","suppletion","yes",
+223,"chim1301","Chimariko","ic'i ~ ikičita","SG ~ PL","carry (a small animal)","caused motion",,"bipartite","suppletion","yes",
+224,"chim1301","Chimariko","ičhuk ~ ikičita","SG ~ PL","carry (a firm object)","caused motion",,"bipartite","suppletion","yes",
+225,"chim1301","Chimariko","ohumu ~ ikičita","SG ~ PL","carry (a load)","caused motion",,"bipartite","suppletion","yes",
+226,"choc1276","Choctaw","bohli ~ aša:či","SG ~ PL","put down","caused motion","deictic; directional","bipartite","suppletion","no",
+227,"choc1276","Choctaw","fokki ~ a:pitta / ani","SG ~ PL","put inside","caused motion","deictic; directional","bipartite","suppletion","no",
+228,"choc1276","Choctaw","iši ~ ayo:wa","SG ~ PL","pick up","caused motion",,"bipartite","suppletion","no",
+229,"coah1252","Coahuilteco","-hōwxt'am ~ -h-ak-ōxt'am","SG ~ PL","throw","caused motion","manner; deictic","bipartite","suppletion","no","-ak- infix plus suppletion"
+230,"coma1245","Comanche","kweʔya ~ kweyuʔi","SG ~ PL","remove","caused motion","deictic","bipartite","suppletion","no",
+231,"coma1245","Comanche","manukikʉrʉ/ manʉkikʉrʉ (sg object) ~ manurakʉ (pl object)","SG ~ PL","shoo away","caused motion","deictic","bipartite","suppletion","no","make something run"
+232,"coma1245","Comanche","taika ~ tahkia (pl object)","SG ~ PL","drive out","caused motion",,"bipartite","regular",,"infixation"
+233,"coma1245","Comanche","toʔnikarʉ ~ tʉbakitʉ","SG ~ PL","load","caused motion",,"bipartite","suppletion","no","load into a container"
+234,"coma1245","Comanche","tsahtoʔirʉ ~ tsapʉyetʉ","SG ~ PL","bring out","caused motion","deictic","bipartite","suppletion","no","take out"
+235,"coma1245","Comanche","tsakamiʔarʉ ~ umamiʔarʉ","SG ~ PL","lead","caused motion",,"bipartite","suppletion","no","lead along"
+236,"coma1245","Comanche","tʉkarʉ ~ tahniʔitʉ","SG ~ PL","put away","caused motion","deictic","bipartite","suppletion","no","also put in place, bury"
+237,"coma1245","Comanche","wʉhtiarʉ ~ toʔwʉʔwenitʉ","SG ~ PL","empty into","caused motion","manner","bipartite","suppletion","no",
+238,"coma1245","Comanche","wʉnʉkʉrʉ ~ tsihtaboʔikʉtʉ","SG ~ PL","insert","caused motion","directional","bipartite","suppletion","no","also set out, transplant"
+239,"coma1245","Comanche","yaarʉ ~ himaʔarʉ","SG ~ PL","pick up","caused motion",,"bipartite","suppletion","no",
+240,"cree1270","Creek","is-íta ~ caw-íta","SG ~ PL","take","caused motion","deictic","bipartite","suppletion","no",
+241,"daga1275","Daga","baR ~ se","SG ~ PL","put down","caused motion","deictic; directional","bipartite","suppletion","no",
+242,"daga1275","Daga","uaR ~ uaS","SG ~ PL","throw","caused motion","manner; deictic","bipartite","suppletion","no",
+243,"esse1238","Esselen","laha/la ~ čup/hu-","SG ~ PL","bring","caused motion","deictic","bipartite","suppletion","no",
+244,"nucl1302","Georgian","? ~ ? (Georgian script)","SG ~ PL","throw","caused motion","manner; deictic","bipartite","suppletion","no",
+245,"gras1249","Grass Koiari","maiama ~ uruha","SG ~ PL","put","caused motion","deictic","bipartite","suppletion","no",
+246,"guah1255","Guahibo","heta ~ heba","SG ~ PL","put, place","caused motion","deictic; directional","bipartite","regular",,"ta ~ ba. This alternation is responsible for about a third of the 'distensivité' pairs. heta may be related to eta 'sit.TR' (caused posture), but Queixalos (1988:69) also relates it to other verbs translated as 'put' (Sp. Colocar, depositar), so we analyzed it as caused motion."
+247,"guah1255","Guahibo","hia ~ heba","SG ~ PL","put, place","caused motion","deictic; directional","bipartite","suppletion",,"the sense that this pair and the heta ~ heba pair have the same meaning come from the dictionary (Queixalos 1988). Queixalos (1998:312) also seems to say that posture is neutralized with heba, so we analyze it as caused motion."
+248,"guah1255","Guahibo","hu-ta ~ hu-ka","SG ~ PL","extract","caused motion",,"bipartite","regular",,"ta ~ ka (extraire),  (also SPECIFIC fish (huta) vs fish in GEN (huka)). queixalos1995sikuani:253 first describes huka as a more generic event (an ""concret abstrait"" contrast in queixalos1998sikuani:160). But an example (queixalos1995sikuani:256) contrasts quantity, huta vs huka for extract the eye of 1 ape vs several apes."
+249,"guah1255","Guahibo","mataakata ~ mataakaba","SG ~ PL","put lid on, cover","caused motion","deictic; directional","bipartite","regular",,"ta ~ ba. recouvrir"
+250,"guah1255","Guahibo","pita ~ nota","SG ~ PL","pick up","caused motion","directional","bipartite","suppletion",,"SG~PL in example 572 in queixalos2000sikuani. Ramasser, recueillir"
+251,"guah1255","Guahibo","pitsa-ta ~ pitsa-ba","SG ~ PL","take out","caused motion","deictic; directional","bipartite","regular",,"ta ~ ba (faire sortir)"
+252,"guah1255","Guahibo","robota ~ roboba","SG ~ PL","throw","caused motion",,"bipartite","regular",,"ta ~ ba (jeter), but also semelfactive  ~ iterative and perfective  ~ imperfective"
+253,"guah1255","Guahibo","torota ~ toroba","SG ~ PL","push","caused motion",,"bipartite","regular",,"ta ~ ba (pousser), but also semelfactive  ~ iterative"
+254,"guah1255","Guahibo","xata-ta ~ xata-ba","SG ~ PL","put in, insert, adjust","caused motion","deictic; directional","bipartite","regular",,"ta ~ ba (insérer, ajuster)"
+255,"guah1255","Guahibo","yo-ta ~ yo-ba","SG ~ PL","lift","caused motion",,"bipartite","regular",,"ta ~ ba"
+256,"ainu1240","Hokkaido Ainu","anu ~ ari","SG ~ PL","put","caused motion",,"bipartite","suppletion","no",
+257,"ainu1240","Hokkaido Ainu","uk ~ uyna","SG ~ PL","take","caused motion",,"bipartite","suppletion","no",
+258,"hopi1249","Hopi","horo(k-) ~ ipwanìlti","SG ~ PL","get extracted","caused motion","deictic","bipartite","suppletion","no","also taken out"
+259,"hopi1249","Hopi","kùuta ~ kútata","SG ~ PL","turn upside down","caused motion",,"bipartite","regular",,
+260,"hopi1249","Hopi","kwisto (from kwusu, sg receive?) ~ yukuto (from yuku, sg fix?)","SG ~ PL","fetch","caused motion","deictic","bipartite","suppletion","no","also go get"
+261,"hopi1249","Hopi","lèeta ~ létata, lèetata","SG ~ PL","lay across","caused motion",,"bipartite","regular",,
+262,"hopi1249","Hopi","ngöyva ~ ngööngöya","SG ~ PL","chase","caused motion",,"bipartite","regular",,
+263,"hopi1249","Hopi","pana ~ tangata","SG ~ PL","put into a rigid/enclosed container","caused motion","deictic; directional","bipartite","suppletion","no",
+264,"hopi1249","Hopi","siikwa ~ sìiskwta","SG ~ PL","uproot","caused motion",,"bipartite","regular",,
+265,"hopi1249","Hopi","tavi ~ oya","SG ~ PL","put","caused motion","deictic","bipartite","suppletion","no","also place"
+266,"hopi1249","Hopi","tsó’okna ~ tsotso’na","SG ~ PL","drop off","caused motion",,"bipartite","regular",,"also make jump down"
+267,"hopi1249","Hopi","tsokya ~ kwapta","SG ~ PL","put on top","caused motion","deictic; directional","bipartite","suppletion","no","also place on top"
+268,"hopi1249","Hopi","tsòopi(k-) ~ tsopìmti, tsotspiti","SG ~ PL","get pulled out","caused motion",,"bipartite","regular",,
+269,"hopi1249","Hopi","tuuva ~ wawhi (throw multiple, one at a time), maspa (throw multiple, as aggregate)","SG ~ PL","throw","caused motion","manner; deictic","bipartite","suppletion","no",
+270,"hopi1249","Hopi","wiiki ~ tsaama","SG ~ PL","carry (anim)","caused motion",,"bipartite","suppletion","no","also take along, lead"
+271,"hopi1249","Hopi","wikva ~ tsamva","SG ~ PL","bring back (anim)","caused motion","deictic","bipartite","suppletion","no",
+272,"hopi1249","Hopi","yawma ~ kima","SG ~ PL","carry (inan)","caused motion",,"bipartite","suppletion","no","also take along, lead"
+273,"hupa1239","Hupa","daɛ ~ lel; ten/tiñ/tuw ~ lai/la/luw","SG ~ PL","carry","caused motion",,"bipartite","suppletion","no","There may be multiple carry verbs but is very unclear in the sources how they relate to each other."
+274,"hupa1239","Hupa","ʔaW/ʔan ~ liW/la","SG ~ PL","move X somewhere","caused motion",,"bipartite","suppletion","no","The second form of the pair is the same as the form for ""lie motionless"""
+275,"imon1245","Imonda","eha ~ hõ","SG ~ PL","put","caused motion","deictic","bipartite","suppletion","no",
+276,"imon1245","Imonda","hõdõ ~ hõthõ ~ hohlõ","SG ~ DU ~ MANY","put up","caused motion","deictic; directional","tripartite","suppletion","no",
+277,"imon1245","Imonda","shi ~ eh ~ ih","A+P SG ~ P PL ~ A+P PL","stick into","caused motion","directional; manner","?","suppletion","no","stick into' shi (A+P SG) ~ eh (P.PL) ~ ih (A+P.PL)"
+278,"imon1245","Imonda","ueha ~ uetha","SG ~ PL","put into fire","caused motion","deictic; directional; ground","bipartite","suppletion","no",
+279,"ingu1240","Ingush","d.oaqq ~ d.oax","SG ~ PL","take","caused motion","deictic","bipartite","suppletion","no",
+280,"ingu1240","Ingush","d.oll ~ d.oxk","SG ~ PL","insert","caused motion",,"bipartite","regular",,
+281,"ingu1240","Ingush","loall ~ loaxk","SG ~ PL","drive","caused motion",,"bipartite","regular",,
+282,"ingu1240","Ingush","qoll ~ qoxk","SG ~ PL","throw, cast","caused motion",,"bipartite","regular",,
+283,"ingu1240","Ingush","qoss ~ qous","SG ~ PL","cast","caused motion",,"bipartite","regular",,
+284,"ingu1240","Ingush","toss ~ tous","SG ~ PL","throw","caused motion",,"bipartite","regular",,
+285,"djam1255","Jaminjung-Ngaliwurru","mangaja ~ yurl","SG ~ PL","chase","caused motion",,"bipartite","suppletion","no","also hunt"
+286,"kain1272","Kaingang","ðʊn ~ lɛŋ","SG ~ PL","throw","caused motion","manner; deictic","bipartite","suppletion","no",
+287,"kain1272","Kaingang","vyn ~ génh","SG ~ PL","bring","caused motion","deictic","bipartite","suppletion","no",
+288,"karo1304","Karok","pae ~ ixya","SG ~ PL","throw","caused motion","manner; deictic","bipartite","suppletion","no",
+289,"kash1280","Kashaya","-t'e°t- ~ -hqʰoqᵒ-","SG ~ PL","implant long object","caused motion",,"bipartite","suppletion","yes",
+290,"kash1280","Kashaya","bane-, ban- ~ mihca-, mit-","SG ~ PL","put non-long object","caused motion","deictic; posture","bipartite","suppletion","yes","a ʔda- prefix derives ""throw away non-long object"""
+291,"kash1280","Kashaya","di- ~ diht-, biʔdi","SG ~ PL","hold or carry non-long object","caused motion",,"bipartite","suppletion","yes",
+292,"kash1280","Kashaya","ne-, an- ~ mihca-, mit-","SG ~ PL","put long object","caused motion","deictic; posture","bipartite","suppletion","yes","a ʔda- prefix derives ""throw away long object"""
+293,"kash1280","Kashaya","ʔbe- ~ beht-, biʔdi","SG ~ PL","hold or carry long object","caused motion",,"bipartite","suppletion","yes",
+294,"kash1280","Kashaya","ʔdi, de, d ~ haa","SG ~ PL","carry (any shape)","caused motion",,"bipartite","suppletion","no",
+295,"klam1254","Klamath-Modoc","ot'w ~ be, ke","INDIVIDUAL ~ COLLECTIVE","throw","caused motion","directional","bipartite","suppletion","no","Plural distinguishes ""throw a handful"" vs ""throw in a heap"""
+296,"koas1236","Koasati","acapilkan ~ askáhlin","SG ~ PL","release","caused motion",,"bipartite","suppletion","no",
+297,"koas1236","Koasati","akopí:lin ~ akopí-s-lin","SG ~ PL","knock over","caused motion",,"bipartite","regular",,"-s- infix"
+298,"koas1236","Koasati","apí:lin ~ apí-s-lin","SG ~ PL","throw away","caused motion",,"bipartite","regular",,"-s- infix"
+299,"koas1236","Koasati","hóklin áłłin","SG ~ PL","put in","caused motion","deictic; directional","bipartite","suppletion","no",
+300,"koas1236","Koasati","í:sin píhlin","SG ~ PL","pick up","caused motion",,"bipartite","suppletion","no",
+301,"kwaz1243","Kwaza","dai- ~ da-'dai","SG ~ PL","take","caused motion","deictic","bipartite","regular",,
+302,"laal1242","Laal","dāg ~ dɨ̄g","SG ~ PL","drag, pull","caused motion",,"bipartite","regular",,"a > ɨ / i"
+303,"laal1242","Laal","ɗā ~ ɗī","SG ~ PL","bring","caused motion",,"bipartite","regular",,"a > ɨ / i"
+304,"laal1242","Laal","kām ~ kɨ̄m","SG ~ PL","push to the ground","caused motion",,"bipartite","regular",,"a > ɨ / i"
+305,"laal1242","Laal","kár ~ kɨ́r","SG ~ PL","put","caused motion",,"bipartite","regular",,"a > ɨ / i"
+306,"laal1242","Laal","nāŋ ~ nɨ̄ŋ","SG ~ PL","throw","caused motion",,"bipartite","regular",,"a > ɨ / i"
+307,"laal1242","Laal","piáá ~ péé","SG ~ PL","pick up one by one","caused motion",,"bipartite","regular",,"low to mid vowel"
+308,"laal1242","Laal","sá ~ sí","SG ~ PL","take","caused motion",,"bipartite","regular",,"a > ɨ / i"
+309,"laal1242","Laal","suám ~ súm","SG ~ PL","take, pick up","caused motion",,"bipartite","regular",,"low to mid vowel"
+310,"laal1242","Laal","táág ~ tɨ́ɨ́g","SG ~ PL","take millet from the attic","caused motion",,"bipartite","regular",,"a > ɨ / i"
+311,"laal1242","Laal","wār (2, tr.) ~ wōr","SG ~ PL","pilot (a boat) downriver","caused motion",,"bipartite","regular",,"low to mid vowel"
+312,"laal1242","Laal","yāg ~ yɨ̄g","SG ~ PL","lay (several things), pour (liquid)","caused motion",,"bipartite","regular",,"a > ɨ / i"
+313,"jama1261","Madi","-iba- ~ mata -niha- ~ soo (to-)niha-","SG ~ DU ~ PL","put on ground/surface","caused motion","deictic; directional","tripartite","suppletion","no",
+314,"jama1261","Madi","-ibI- ~ tee -na- ~ -na-kibI- / -na-","SG ~ DU ~ PL","put inside","caused motion","deictic; directional","tripartite","suppletion","no",
+315,"jama1261","Madi","-ibofa- ~ mata -niha- ~ soo (to-)niha-","SG ~ DU ~ PL","put in water","caused motion","deictic; directional","tripartite","suppletion","no",
+316,"jama1261","Madi","-iti- ~ -jaba-","SG ~ PL","take out","caused motion","deictic; directional","bipartite","suppletion","no",
+317,"jama1261","Madi","koro -na- ~ were -na-","SG ~ PL","throw","caused motion","manner; deictic","bipartite","suppletion","no",
+318,"nucl1622","Marind","bákeh ~ ilawewn","SG ~ PL","put vertical item","caused motion",,"bipartite","suppletion","yes",
+319,"nucl1622","Marind","han ~ ibutuk","SG ~ PL","put horizontal item","caused motion",,"bipartite","suppletion","yes",
+320,"nucl1622","Marind","kahekon ~ ɣukahin","SG ~ PL","put inside","caused motion","deictic; directional","bipartite","suppletion","no",
+321,"nucl1622","Marind","kwegen ~ kugahin","SG ~ PL","throw","caused motion",,"bipartite","suppletion","no",
+322,"maxa1247","Maxakalí","mõxuk ~ xuk","SG ~ PL","put","caused motion","deictic","bipartite","suppletion","no",
+323,"maxa1247","Maxakalí","put ~ pop","SG ~ PL","take","caused motion","deictic","bipartite","suppletion","no","also catch"
+324,"madi1260","Maʼdi","dū ~ wù","SG ~ PL","take","caused motion","deictic","bipartite","suppletion","no",
+325,"mull1237","Mullukmulluk","karkwat ~ kararkwarat","SG ~ PL","take out","caused motion",,"bipartite","regular",,
+326,"mull1237","Mullukmulluk","kulpat ~ kulparat","SG ~ PL","load (into a canoe)","caused motion",,"bipartite","regular",,
+327,"nava1243","Navajo","háát ~ tɬ’iɬ","SG ~ PL","throw","caused motion","manner; deictic","bipartite","suppletion","no",
+328,"nava1243","Navajo","lóóz ~ ‘eezh","SG ~ PL","lead","caused motion",,"bipartite","suppletion","no",
+329,"nucl1633","Nimboran","piip ~ inʉa","SG ~ PL","throw","caused motion","manner; deictic","bipartite","suppletion","no",
+330,"nucl1633","Nimboran","tii ~ dao","SG ~ PL","take","caused motion","deictic","bipartite","suppletion","no",
+331,"nucl1633","Nimboran","tʉʉ ~ tau","SG ~ PL","put","caused motion","deictic","bipartite","suppletion","no",
+332,"nisg1240","Nisgaʼa","kú· ~ tóq","SG ~ PL","take","caused motion","deictic","bipartite","suppletion","no",
+333,"nisg1240","Nisgaʼa","málkʷ ~ tx̌ílt","SG ~ PL","throw in a fire","caused motion","manner; deictic; directional; ground","bipartite","suppletion","no",
+334,"nisg1240","Nisgaʼa","máq ~ t̓áɬ","SG ~ PL","put away","caused motion","deictic","bipartite","suppletion","no",
+335,"nort2954","Northern Paiute","tɨkɨ ~ tiuna","SG ~ PL","put","caused motion","deictic","bipartite","suppletion","no","also place"
+336,"nort2954","Northern Paiute","tsamɨna ~ tsamɨnita","SG ~ PL","turn over","caused motion","manner","bipartite","regular",,"-it- infix"
+337,"sand1273","Sandawe","pě: ~ kǎ:","SG ~ PL","put","caused motion","deictic","bipartite","suppletion","no",
+338,"sand1273","Sandawe","sí ~ tɬ'ǎ:","SG ~ PL","take","caused motion","deictic","bipartite","suppletion","no",
+339,"sand1273","Sandawe","ǁ'ê ~ kʰúʔ","SG ~ PL","throw","caused motion","manner; deictic","bipartite","suppletion","no",
+340,"juho1239","South-Eastern Ju","gù ~ nǀhuì","SG ~ PL","take","caused motion","deictic","bipartite","suppletion","no",
+341,"juho1239","South-Eastern Ju","n!áng ~ gǁà","SG ~ PL","put down","caused motion","deictic; directional","bipartite","suppletion","no",
+342,"sout2982","Southeastern Pomo","cqa ~ mya ~ x̥qo","SG ~ DU ~ PL","place X on ground","caused motion","directional","tripartite","suppletion","no",
+343,"sout2982","Southeastern Pomo","ko ~ x̥qo","SG ~ PL","place X on surface","caused motion","directional","bipartite","suppletion","no",
+344,"nucl1649","Southern Coastal Tsimshian","awülmaḵ ~ awült’ał","SG ~ PL","put away","caused motion","deictic","bipartite","suppletion","no","also put aside"
+345,"nucl1649","Southern Coastal Tsimshian","sgüü ~ doo, lałk","SG ~ PL","put down","caused motion","deictic; directional","bipartite","suppletion","no",
+346,"nucl1649","Southern Coastal Tsimshian","ts’lmgaa ~ ts’lmt’aa","SG ~ PL","take in","caused motion","deictic; directional","bipartite","suppletion","no",
+347,"sulk1246","Sulka","el ~ mar","SG ~ PL","put (away)","caused motion","deictic","bipartite","suppletion","no",
+348,"sume1241","Sumerian","túm ~ lah͜(5)","SG ~ PL","bring","caused motion","deictic","bipartite","suppletion","no",
+349,"tabo1241","Tabo","adila:{te|natene} ~ a:wadila:{a:te|latele}","SG ~ PL","lay down","caused motion",,"bipartite","regular",,"-:wa- infix; {} indicates different persons"
+350,"tabo1241","Tabo","adu{ti|natene} ~ a:wadu{a:te|latele}","SG ~ PL","push down","caused motion",,"bipartite","regular",,"-:wa- infix; {} indicates different persons"
+351,"tabo1241","Tabo","ihate{ne|0} ~ miya:te{e|0}","SG ~ PL","put","caused motion","deictic","bipartite","suppletion","no","{} indicates different persons"
+352,"tabo1241","Tabo","lawe{ne|0} ~ uwate{e|e}","SG ~ PL","take","caused motion","deictic","bipartite","suppletion","no","{} indicates different persons"
+353,"ticu1245","Ticuna","gå ~ nâ","SG ~ PL","lead","caused motion",,"bipartite","suppletion","no",
+354,"ticu1245","Ticuna","g̃e̊ ~ nâ","SG ~ PL","carry","caused motion",,"bipartite","suppletion","no",
+355,"ticu1245","Ticuna","ta̰ ~ wò","SG ~ PL","drop","caused motion",,"bipartite","suppletion","no",
+356,"ticu1245","Ticuna","ǘ ~ nů","SG ~ PL","put/take","caused motion",,"bipartite","suppletion","no",
+357,"toho1245","Tohono Oʼodham","bɨ́hi ~ ʔúʔa","SG ~ PL","take","caused motion","deictic","bipartite","suppletion","no",
+358,"uppe1439","Upper Chehalis","łə́q- ~ ʔáx̣ʷa-","SG ~ PL","throw","caused motion","manner; deictic","bipartite","suppletion","no","also throw away"
+359,"uppe1439","Upper Chehalis","p̓ə́ł- ~ ʔə́pxʷ-","SG ~ PL","drop","caused motion",,"bipartite","suppletion","no",
+360,"wapp1239","Wappo","?hɛ́tasɛ ~ piyɛ́tɛcɛ","SG ~ PL","carry","caused motion",,"bipartite","suppletion","no",
+361,"wari1268","Wari","an ~ kut","SG ~ PL","take","caused motion","deictic","bipartite","suppletion","no",
+362,"wari1268","Wari","pit ~ piripit","SG ~ PL","pull out/unravel","caused motion",,"bipartite","regular",,"-rV(CV)- infixation"
+363,"wari1268","Wari","xin ~ wixikao', waxakarakao'","SG ~ PL","throw","caused motion",,"bipartite","suppletion","no",
+364,"wari1268","Wari","yikat ~ yikarakat","SG ~ PL","pull out/break","caused motion",,"bipartite","regular",,"-rV(CV)- infixation"
+365,"west2632","Western Keres","-a̓awiiY ~ (REG) ~ -qa̓awiiY-ʔVVD","SG ~ DU ~ PL","throw","caused motion","manner; deictic","tripartite","suppletion","no",
+366,"west2632","Western Keres","-átiẓuwiiY ~ (REG) ~ -áatiẓuwiiY-ʔVVD","SG ~ DU ~ PL","throw away","caused motion","manner; deictic","tripartite","suppletion","no",
+367,"west2632","Western Keres","-Júyu̓uzeeY ~ -âaʔayuuzeeY ~ -a̓iẓu̓uzeeY","SG ~ DU ~ PL","take","caused motion","deictic","tripartite","suppletion","no",
+368,"yaqu1251","Yaqui","jimaa ~ go’ota","SG ~ PL","throw/drop","caused motion","manner; deictic","bipartite","suppletion","no",
+369,"yaum1237","Yau (Morobe Province)","k-e- ~ h-e-","SG ~ PL","bring","caused motion",,"bipartite","regular",,
+370,"yaqu1251","Yaqui","kibacha ~ kiima","SG ~ PL","put in, insert","caused motion","deictic, directional","bipartite","suppletion","no",
+371,"yaum1237","Yau (Morobe Province)","k-oo- ~ h-oo-","SG ~ PL","lower","caused motion",,"bipartite","regular",,
+372,"yaum1237","Yau (Morobe Province)","k-öö- ~ h-öö-","SG ~ PL","raise","caused motion",,"bipartite","regular",,
+373,"yaum1237","Yau (Morobe Province)","ku- ~ hu-","SG ~ PL","take away","caused motion","deictic","bipartite","suppletion","no","This probably comes from the regular pattern and a former -u- verb, which is synchronically nonexistente."
+374,"yaum1237","Yau (Morobe Province)","to- ~ yoo-","SG ~ PL","take, pick up","caused motion","deictic","bipartite","suppletion","no",
+375,"yura1255","Yuracaré","chitta ~ kokko","PAUCAL ~ MANY","throw","caused motion","manner; deictic","bipartite","suppletion","no",
+376,"yura1255","Yuracaré","mii ~ puu","? ~ ?","take","caused motion","deictic","bipartite","suppletion","no",
+377,"zuni1245","Zuni","‘ahha- ~ wo:tiha-","SG ~ PL","take","caused motion","deictic","bipartite","suppletion","no",
+378,"zuni1245","Zuni","a'u ~ wɔtu","SG ~ PL","put down","caused motion","deictic; directional","bipartite","suppletion","no",
+379,"zuni1245","Zuni","patce'a ~ pane'a(?)","SG ~ PL","put against","caused motion","deictic; posture","bipartite","suppletion","no",
+380,"cree1270","Creek","alokp-itá ~ aloklop-íta","SG ~ PL","stick to","caused posture",,"bipartite","regular",,"C1V1 reduplication"
+381,"guah1255","Guahibo","ruba ~ ruta","SG ~ PL","hang TR","caused posture",,"bipartite","regular",,"ta ~ ba -- in fact tsi ~ bi since it is the virtual here  (queixalos1998sikuani:165)"
+382,"imon1245","Imonda","keda ~ ketha ~ kal","SG ~ DU ~ MANY","hang up","caused posture","directional","tripartite","suppletion","no",
+383,"ingu1240","Ingush","d.ull ~ d.oxk","SG ~ PL","lay","caused posture",,"bipartite","regular",,
+384,"ingu1240","Ingush","oll ~ oxk","SG ~ PL","hang up","caused posture",,"bipartite","regular",,
+385,"ingu1240","Ingush","tull ~ toxk","SG ~ PL","put/lay","caused posture",,"bipartite","regular",,
+386,"kiow1266","Kiowa","c'ó· ~ k'ú·","SG ~ PL","lay","caused posture",,"bipartite","suppletion","no","land, fall against' derived from this; note that the form is almost the same as 'lie'"
+387,"kiow1266","Kiowa","cé· ~ sɔ́·","SG ~ PL","set","caused posture",,"bipartite","suppletion","no","inanimate ""be sitting"" derived from this"
+388,"laal1242","Laal","gààg ~ gɨ̀ɨ̀g","SG ~ PL","tilt","caused posture",,"bipartite","regular",,"a > ɨ / i"
+389,"laal1242","Laal","sāg ~ sɨ̄g","SG ~ PL","stand (tr.)","caused posture",,"bipartite","regular",,"a > ɨ / i"
+390,"jama1261","Madi","-kaho- ~ sere -na-","SG ~ PL","tie onto a hook","caused posture",,"bipartite","suppletion","no",
+391,"mats1244","Matsés","dectan ~ didica","PAUCAL ~ MANY","hang up","caused posture","directional","bipartite","suppletion","no","make hang"
+392,"mats1244","Matsés","nan ~ san","PAUCAL ~ MANY","put horizontally","caused posture",,"bipartite","suppletion","no",
+393,"mats1244","Matsés","tsadun ~ tabëc","PAUCAL ~ MANY","put vertically","caused posture",,"bipartite","suppletion","no",
+394,"maxa1247","Maxakalí","yũm ~ xak","SG ~ PL","lay down, leave","caused posture","directional","bipartite","suppletion","no","caused posture because of the formal similarity with the verb for 'sit'"
+395,"nucl1649","Southern Coastal Tsimshian","hatksn ~ maxsn","SG ~ PL","place upright","caused posture",,"bipartite","suppletion","no",
+396,"yaqu1251","Yaqui","kecha ~ ja'abwa","SG ~ PL","stand X, stop X","caused posture",,"bipartite","suppletion","no",
+397,"yaqu1251","Yaqui","teeka ~ to’a","SG ~ PL","lay down","caused posture","directional","bipartite","suppletion","no",
+398,"yaqu1251","Yaqui","yecha ~ joa","SG ~ PL","lift/set/sit","caused posture",,"bipartite","suppletion","no",
+399,"cree1270","Creek","hakeyh-k-itá ~ hakeyh-ho-k-íta ~ haka:h-ic-íta","SG ~ DU ~ PL","cry","cry",,"tripartite","regular",,"ho(y)/ic insertion"
+400,"kuna1268","Kunama","mbi ~ nimbi","SG ~ PL","weep","cry",,"bipartite","regular",,"nV-"
+401,"tabo1241","Tabo","ihi ~ ihimi","SG ~ PL","cry","cry",,"bipartite","regular",,"-mi suffix"
+402,"alse1251","Alsea-Yaquina","ain ~ tqaiL","SG ~ PL","cry","cry",,"bipartite","suppletion","no",
+403,"chin1286","Clatsop-Shoalwater Chinook","-gE'tsax ~ xēnēm","SG ~ PL","cry","cry",,"bipartite","suppletion","no",
+404,"coma1245","Comanche","yaketʉ ~ nawooʔi, nahwooi-","SG ~ PL","cry","cry",,"bipartite","suppletion","no",
+405,"fuln1247","Fulniô","khokhe ~ yo","SG ~ PL","cry","cry",,"bipartite","suppletion","no",
+406,"hopi1249","Hopi","pakmumuya ~ tsaykita","SG ~ PL","cry","cry",,"bipartite","suppletion","no","also weep, wail"
+407,"karo1305","Karo (Brazil)","wé ~ peri","SG ~ PL","cry","cry",,"bipartite","suppletion","no",
+408,"nucl1622","Marind","ihw ~ lihwanak","SG ~ PL","cry","cry",,"bipartite","suppletion","no",
+409,"nisg1240","Nisgaʼa","wiyítkʷ ~ sikʸátkʷ","SG ~ PL","cry","cry",,"bipartite","suppletion","no",
+410,"nuuc1236","Nuu-chah-nulth","ʕiiḥšiƛ ~ ƛ̓aałyuu","INDIVIDUAL ~ COLLECTIVE","cry","cry",,"bipartite","suppletion","no","Probably historically from a verb with -yu(u) pluralization"
+411,"tlin1245","Tlingit","g̱ax̱ ~ g̱ax̱-s-ti","SG ~ PL","cry","cry",,"bipartite","suppletion","no",
+412,"uppe1439","Upper Chehalis","šəʔúm ~ čəm-","SG ~ PL","cry","cry",,"bipartite","suppletion","no",
+413,"wari1268","Wari","aka ~ awaran","SG ~ PL","cry","cry",,"bipartite","suppletion","no",
+414,"west2632","Western Keres","-'a̓atikuya ~ -qa̓atikuya ~ -qáata","SG ~ DU ~ PL","cry","cry",,"tripartite","suppletion","no",
+415,"bert1248","Berta","bukqútha ~ fuura","SG ~ PL","pluck","destruction",,"bipartite","suppletion","no",
+416,"bert1248","Berta","fia ~ basha","SG ~ PL","hit","destruction",,"bipartite","suppletion","no",
+417,"buru1296","Burushaski","-xéš- ~ -xéša-","SG ~ PL","tear apart/scratch","destruction",,"bipartite","regular",,
+418,"buru1296","Burushaski","do-hór- ~ do-hória","SG ~ PL","collapse/topple","destruction",,"bipartite","regular",,
+419,"buru1296","Burushaski","du-húk-/du-húki ~ du-húkia","SG ~ PL","melt/dissolve","destruction",,"bipartite","regular",,
+420,"buru1296","Burushaski","ɣás ~ ɣáša","SG ~ PL","rot","destruction",,"bipartite","regular",,
+421,"buru1296","Burushaski","phán-phái ~ phánja","SG ~ PL","burst, swell","destruction",,"bipartite","regular",,
+422,"cahu1264","Cahuilla","múh ~ múmaan","INDIVIDUAL ~ COLLECTIVE","shoot","destruction",,"bipartite","suppletion","no","also 'sting'"
+423,"choc1276","Choctaw","tabli ~ amo","SG ~ PL","pull off/pick up fruit","destruction",,"bipartite","suppletion","?",
+424,"coah1252","Coahuilteco","-t'āl ~ -t'-ak-al","SG ~ PL","hurt","destruction",,"bipartite","regular",,"-ak- infix"
+425,"coah1252","Coahuilteco","? ~ k'ōxt-aw-āy","SG ~ PL","hit oneself","destruction",,"bipartite","regular",,"-wa/aw- infix"
+426,"coma1245","Comanche","kaʔa- (ko-?) ~ pomiʔi","SG ~ PL","break/snap/cut","destruction",,"bipartite","suppletion","no",
+427,"coma1245","Comanche","kobarʉ ~ kobiʔitʉ","SG ~ PL","break","destruction",,"bipartite","suppletion","no","""break (snap?)"""
+428,"coma1245","Comanche","kutsitonarʉ ~ kutsitowakarʉ (object)","SG ~ PL","burn","destruction",,"bipartite","suppletion","no","also set on fire"
+429,"coma1245","Comanche","kʉhtsiarʉ ~ kʉsoʔi","SG ~ PL","bite","destruction",,"bipartite","suppletion","no",
+430,"coma1245","Comanche","marátʉbaitʉ ~ maráhtataʔi","SG ~ PL","crack","destruction",,"bipartite","suppletion","no","with hand"
+431,"coma1245","Comanche","tonarʉ ~ towaka","SG ~ PL","pierce","destruction",,"bipartite","suppletion","no","also insect sting, stab"
+432,"coma1245","Comanche","tsisuʔwarʉ ~ tsisuʔkwaʔnekitʉ","SG ~ PL","poke","destruction",,"bipartite","suppletion","no","also jab"
+433,"coma1245","Comanche","wʉhkobarʉ ~ wʉhkobiʔitʉ","SG ~ PL","break up","destruction",,"bipartite","suppletion","no",
+434,"cree1270","Creek","citákk-i: ~ citakcik-í:","SG ~ PL","torn up","destruction",,"bipartite","regular",,"C1V1 reduplication"
+435,"cree1270","Creek","falápk-i: ~ falapfak-í:","SG ~ PL","split","destruction",,"bipartite","regular",,"C1V1 reduplication"
+436,"cree1270","Creek","kac-íta ~ kaci:y-itá","SG ~ PL","snap","destruction",,"bipartite","regular",,"ho(y)/ic insertion"
+437,"cree1270","Creek","kaláks-i: ~ kalaskak-í:","SG ~ PL","having a piece broken off","destruction",,"bipartite","regular",,"C1V1 reduplication"
+438,"daga1275","Daga","wadum ~ dum","SG ~ PL","split","destruction",,"bipartite","regular",,"there is an unknown number of additional verbs that take these plural prefixes"
+439,"gavi1246","Gavião Do Jiparaná","dagà, tágá ~ pea","SG ~ PL","beat","destruction",,"bipartite","suppletion","no",
+440,"gavi1246","Gavião Do Jiparaná","dígí ~ kíí","SG ~ PL","knock down","destruction",,"bipartite","suppletion","no",
+441,"guah1255","Guahibo","toxo-ta ~ toxo-ba","SG ~ PL","break","destruction",,"bipartite","regular",,"ta ~ ba (casser)"
+442,"guah1255","Guahibo","ukuta ~ ukuba","SG ~ PL","cut","destruction",,"bipartite","regular",,"ta ~ ba (couper), but also semelfactive  ~ iterative and [+ effective]  ~ [- effective] (queixalos1998sikuani:161)"
+443,"guah1255","Guahibo","upa ~ tsekona","SG ~ PL","shoot with arrow","destruction",,"bipartite","suppletion",,
+444,"coos1249","Hanis","xa'yat ~ xa'yīt","SG ~ PL","whittle","destruction",,"bipartite","regular",,
+445,"hopi1249","Hopi","naayawi ~ naanaywa","SG ~ PL","fight","destruction",,"bipartite","regular",,
+446,"hopi1249","Hopi","noyo(k-) ~ noyòmti","SG ~ PL","get dented/crushed","destruction",,"bipartite","regular",,
+447,"hopi1249","Hopi","qöhi(k)- ~ qöqhiti, kookon","SG ~ PL","break (linear segments)","destruction",,"bipartite","suppletion","no",
+448,"hopi1249","Hopi","yooha ~ yóngoyta","SG ~ PL","break/crack/fracture","destruction",,"bipartite","suppletion","no",
+449,"imon1245","Imonda","he ~ he-lõ","SG ~ PL","cut","destruction",,"tripartite","suppletion","no",
+450,"ingu1240","Ingush","eqq ~ hwelx","SG ~ PL","burst","destruction",,"bipartite","suppletion","no",
+451,"kain1272","Kaingang","kïbm ~ kle","SG ~ PL","cut","destruction",,"bipartite","suppletion","no",
+452,"kain1272","Kaingang","pänu̜ ~ pidn","SG ~ PL","hit","destruction",,"bipartite","suppletion","no","also shoot"
+453,"kash1280","Kashaya","hcoqᵒ- ~ cuʔdan","SG ~ PL","shoot","destruction",,"bipartite","suppletion","no",
+454,"kett1243","Ket","-tet ~ -teɣ","SG ~ PL","hit","destruction",,"bipartite","suppletion","no","also beat"
+455,"kett1243","Ket","?-qut ~ ?-damin","SG ~ PL","fight","destruction",,"bipartite","regular",,"0 ~ d"
+456,"kiow1266","Kiowa","t'ál ~ tʰá·","SG ~ PL","sever","destruction",,"bipartite","suppletion","no",
+457,"klam1254","Klamath-Modoc","sl'o:gl' ~ nk'eyse","SG/PAUCAL? ~ PL/MANY?","hit/shoot","destruction",,"bipartite","suppletion","no","Barker 1964 states that singular~plural is the most common alternation, but some examples of ""paucative"" number are found as well. It is unclear which verb pairs are paucative."
+458,"koas1236","Koasati","akolá-f-ka-n ~ akol-ka-:ci-n","SG ~ PL","erode and collapse","destruction",,"bipartite","regular",,"-ci suffix"
+459,"koas1236","Koasati","silá-f-fi-n ~ sil-li-:ci-n","SG ~ PL","tear sth","destruction",,"bipartite","regular",,"-ci suffix"
+460,"laal1242","Laal","báár ~ bɨ́ɨ́r","SG ~ PL","knock down","destruction",,"bipartite","regular",,"a > ɨ / i"
+461,"laal1242","Laal","cāg ~ cɨ̄g","SG ~ PL","bite","destruction",,"bipartite","regular",,"a > ɨ / i"
+462,"laal1242","Laal","cúná ~ cúnì","SG ~ PL","break (intr)","destruction",,"bipartite","regular",,"-a / -i"
+463,"laal1242","Laal","ɗál ~ ɗɨ́l","SG ~ PL","cut, tear","destruction",,"bipartite","regular",,"a > ɨ / i"
+464,"laal1242","Laal","gàŋ ~ gɨ̀ŋ","SG ~ PL","melt","destruction",,"bipartite","regular",,"a > ɨ / i"
+465,"laal1242","Laal","kàdàl ~ kɨ̀dɨ̀l","SG ~ PL","swell, wound","destruction",,"bipartite","regular",,"a > ɨ / i"
+466,"laal1242","Laal","mál ~ mɨ́l","SG ~ PL","prick, spear","destruction",,"bipartite","regular",,"a > ɨ / i"
+467,"laal1242","Laal","nyuág ~ nyógì","SG ~ PL","burn (cooking)","destruction",,"bipartite","regular",,"0 / -i"
+468,"laal1242","Laal","pāā ~ hòò","SG ~ PL","drop something from high up and break it","destruction",,"bipartite","regular",,"low to mid vowel"
+469,"laal1242","Laal","sáŋ ~ sɨ́ŋ","SG ~ PL","trample, step on","destruction",,"bipartite","regular",,"a > ɨ / i"
+470,"laal1242","Laal","sáw ~ sɨ́w","SG ~ PL","cut with a sickle","destruction",,"bipartite","regular",,"a > ɨ / i"
+471,"laal1242","Laal","tuágár (2, tr.) ~ tógór","SG ~ PL","break","destruction",,"bipartite","regular",,"low to mid vowel"
+472,"jama1261","Madi","-ibana- ~ -joka","SG ~ PL","roast/fry","destruction",,"bipartite","suppletion","no",
+473,"jama1261","Madi","-ita- ~ saka - na-","SG ~ PL","pierce","destruction",,"bipartite","suppletion","no",
+474,"nucl1622","Marind","deh ~ yas","SG ~ PL","shoot","destruction",,"bipartite","suppletion","no",
+475,"nucl1622","Marind","wamuk, wasib ~ isak","SG ~ PL","hit","destruction",,"bipartite","suppletion","no",
+476,"madi1260","Maʼdi","lí ~ rɛ̀","SG ~ PL","cut","destruction",,"bipartite","suppletion","no","also slaughter (presumably, as in cut up a carcass)"
+477,"mull1237","Mullukmulluk","tapak ~ tapöřök","SG ~ PL","break","destruction",,"bipartite","regular",,
+478,"mull1237","Mullukmulluk","tatʸ ~ taratʸ","SG ~ PL","hit","destruction",,"bipartite","regular",,
+479,"mull1237","Mullukmulluk","tʸukatʸ ~ tʸukaratʸ","SG ~ PL","pluck","destruction",,"bipartite","regular",,
+480,"mull1237","Mullukmulluk","tʸurp ~ tʸuřurp","SG ~ PL","cut","destruction",,"bipartite","regular",,
+481,"nort2954","Northern Paiute","wɨtawaaka ~ wɨtaaki","SG ~ PL","make a hole in","destruction",,"bipartite","suppletion","no",
+482,"nuuc1236","Nuu-chah-nulth","č̓iiqak ~ č̓iiʕaqa","INDIVIDUAL ~ COLLECTIVE","fight","destruction",,"bipartite","regular",,"-!aqa"
+483,"otta1242","Ottawa","baashkzaw ~ baapaashkzaw","SG ~ PL","shoot at ANIM","destruction",,"bipartite","regular",,"The morphophonology of this language is difficult to parse and examples are unglossed."
+484,"seri1257","Seri","-Qaχš ~ Qakx","SG ~ PL","hit with stick","destruction",,"bipartite","suppletion","no",
+485,"shas1239","Shasta","aʔu ~ e·p","SG ~ PL","bite","destruction",,"bipartite","suppletion","no","mouth' in the grammar"
+486,"juho1239","South-Eastern Ju","!hũ ~ !'wã","SG ~ PL","extinguish","destruction",,"bipartite","suppletion","no",
+487,"juho1239","South-Eastern Ju","!ò'á ~ xáí","SG ~ PL","break/snap","destruction",,"bipartite","suppletion","no",
+488,"nucl1649","Southern Coastal Tsimshian","p’eegl ~ p’eegn","SG ~ PL","tear out and turn over","destruction",,"bipartite","suppletion","no",
+489,"sulk1246","Sulka","hem ~ hep","SG ~ PL","file","destruction",,"bipartite","regular",,
+490,"sulk1246","Sulka","nhom ~ nhop","SG ~ PL","peel","destruction",,"bipartite","regular",,
+491,"sulk1246","Sulka","rham ~ rhek","SG ~ PL","scrape","destruction",,"bipartite","suppletion","no",
+492,"wari1268","Wari","hot ~ horohot","SG ~ PL","pluck","destruction",,"bipartite","regular",,"-rV(CV)- infixation"
+493,"wari1268","Wari","kat ~ karakat","SG ~ PL","break","destruction",,"bipartite","regular",,"-rV(CV)- infixation"
+494,"wari1268","Wari","nakam' ~ nakarakam'","SG ~ PL","cut in half / pieces","destruction",,"bipartite","regular",,"-rV(CV)- infixation"
+495,"wari1268","Wari","pahot ~ pahorohot / parohot","SG ~ PL","be split, collapse","destruction",,"bipartite","regular",,"-rV(CV)- infixation"
+496,"wari1268","Wari","tapa' ~ taparapa'","SG ~ PL","burst/pop","destruction",,"bipartite","regular",,"-rV(CV)- infixation"
+497,"wari1268","Wari","tape ~ taperepe","SG ~ PL","pierce","destruction",,"bipartite","regular",,"-rV(CV)- infixation"
+498,"wari1268","Wari","wein ~ werewein","SG ~ PL","rip/tear","destruction",,"bipartite","regular",,"-rV(CV)- infixation"
+499,"wari1268","Wari","wirik ~ wiririk","SG ~ PL","scrape, wrap up","destruction",,"bipartite","regular",,"-rV(CV)- infixation"
+500,"wich1260","Wichita","hiri ~ wa:hi","SG ~ PL","burn","destruction",,"bipartite","suppletion","no",
+501,"wich1260","Wichita","kaʔas ~ kwaʔas","SG ~ PL","break open","destruction",,"bipartite","suppletion","no",
+502,"wich1260","Wichita","kweʔeriki ~ kweʔerí:rʔi","SG ~ PL","grind","destruction",,"bipartite","suppletion","no",
+503,"wich1260","Wichita","ʔikacki ~ kakacki","SG ~ PL","cut off","destruction",,"bipartite","suppletion","no",
+504,"yana1271","Yana","piʔcun ~ pidʔc'un(?)","SG ~ PL","burst","destruction",,"bipartite","regular",,
+505,"yaum1237","Yau (Morobe Province)","et, wet ~ nisop","SG ~ PL","beat","destruction",,"bipartite","suppletion","no",
+506,"coah1252","Coahuilteco","-kʷān¢am ~ -kʷ-ak-ān¢am (Rio Grande dialect: xūm ~ xūm-ā¢-)","SG ~ PL","die","die",,"bipartite","regular",,"-ak- infix (Rio Grande dialect: -ā¢- infix)"
+507,"kett1243","Ket","qo- ~ qo-n","SG ~ PL","die","die",,"bipartite","regular",,"0 ~ n/ŋ"
+508,"tabo1241","Tabo","hoe ~ ha:la","? ~ ?","die","die",,"?","regular",,"vowel deleting -a:la; it has a bipartite pattern, but 2 additional plural forms for very many and very very many"
+509,"alse1251","Alsea-Yaquina","qan ~ hask'","SG ~ PL","die","die",,"bipartite","suppletion","no",
+510,"wara1302","Bauni","rai ~ viri","SG ~ PL","die","die",,"bipartite","suppletion","no",
+511,"cahu1264","Cahuilla","-múk- ~ -čéx-","SG ~ PL","die","die",,"bipartite","suppletion","no",
+512,"chin1286","Clatsop-Shoalwater Chinook","-ō-mEqt ~ x̣E'-L-ait","SG ~ PL","die","die",,"bipartite","suppletion","no",
+513,"coma1245","Comanche","tʉyaaitʉ ~ kooitʉ","SG ~ PL","die","die",,"bipartite","suppletion","no",
+514,"cree1270","Creek","il-íta ~ pasat-k-itá","SG ~ PL","die","die",,"bipartite","suppletion","no",
+515,"gavi1246","Gavião Do Jiparaná","viì ~ paà","SG ~ PL","die","die",,"bipartite","suppletion","no",
+516,"coos1249","Hanis","lEqaᵘ'wE ~ e'qe","SG ~ PL","die","die",,"bipartite","suppletion","no",
+517,"hopi1249","Hopi","mooki ~ so’a","SG ~ PL","die","die",,"bipartite","suppletion","no",
+518,"ingu1240","Ingush","le ~ d.ou","SG ~ PL","die","die",,"bipartite","suppletion","no",
+519,"kain1272","Kaingang","tɛlɛ ~ kökta̜","SG ~ PL","die","die",,"bipartite","suppletion","no",
+520,"klam1254","Klamath-Modoc","gleg ~ č'o:q","SG/PAUCAL? ~ PL/MANY?","die","die",,"bipartite","suppletion","no","Barker 1964 states that singular~plural is the most common alternation, but some examples of ""paucative"" number are found as well. It is unclear which verb pairs are paucative."
+521,"koas1236","Koasati","illin ~ hápkan","PAUCAL ~ MANY","die","die",,"bipartite","suppletion","no",
+522,"laal1242","Laal","mé ~ míwì","SG ~ PL","die","die",,"bipartite","suppletion","no","-wi suffix + vowel change"
+523,"nucl1622","Marind","kahwid ~ ɣahwahwih","SG ~ PL","die","die",,"bipartite","suppletion","no",
+524,"maxa1247","Maxakalí","xok ~ xakix","SG ~ PL","die","die",,"bipartite","suppletion","no",
+525,"nava1243","Navajo","tsaaɬ ~ nééɬ","SG ~ PL","die","die",,"bipartite","suppletion","no",
+526,"nisg1240","Nisgaʼa","n̓úw̓ ~ táxʷ","SG ~ PL","die","die",,"bipartite","suppletion","no",
+527,"nort2942","North Slavey","laniwe ~ lakenidé","SG ~ PL","die","die",,"bipartite","suppletion","no","note that a root is shared with 'kill'"
+528,"nort2954","Northern Paiute","yai, yaʔi ~ koi","SG ~ PL","die","die",,"bipartite","suppletion","no",
+529,"sand1273","Sandawe","tɬǎ:sì̥ ~ ɬàʔté","SG ~ PL","die","die",,"bipartite","suppletion","no",
+530,"juho1239","South-Eastern Ju","!áí ~ !àò","SG ~ PL","die","die",,"bipartite","suppletion","no",
+531,"toho1245","Tohono Oʼodham","mú·kihimɨ ~ kóʔihimɨ","SG ~ PL","die","die",,"bipartite","suppletion","no",
+532,"wapp1239","Wappo","tcɔ́ɛlkɛ ~ wéake","SG ~ PL","die","die",,"bipartite","suppletion","no","also ""be dead"""
+533,"wari1268","Wari","mi' ~ kono'","SG ~ PL","die","die",,"bipartite","suppletion","no",
+534,"west2632","Western Keres","-'u̓ust̓u0 ~ -aʔást̓u ~ (unattested)","SG ~ DU ~ PL","die","die",,"tripartite","suppletion","no",
+535,"yaqu1251","Yaqui","muuku ~ koko","SG ~ PL","die","die",,"bipartite","suppletion","no",
+536,"yura1255","Yuracaré","tuwi ~ shama","? ~ ?","die","die",,"bipartite","suppletion","no",
+537,"nucl1649","Southern Coastal Tsimshian","dzak ~ düü","SG ~ PL","die/kill","die/kill",,"bipartite","suppletion","no",
+538,"sume1241","Sumerian","úš ~ ug(7)","SG ~ PL","die/kill","die/kill",,"bipartite","suppletion","no",
+539,"cata1286","Catawba","hátkire ~ ikere","SG ~ PL","shout","emission",,"bipartite","suppletion","no","also exclaim"
+540,"coah1252","Coahuilteco","-k'tāy ~ -k't-ā¢-ēy","SG ~ PL","pray","emission",,"bipartite","suppletion","no","-ā¢- infix plus suppletion"
+541,"coah1252","Coahuilteco","-kʷa¢um ~ -kʷa¢-ka-m","SG ~ PL","ask (for)","emission",,"bipartite","suppletion","no","-ka- infix (unique)"
+542,"coah1252","Coahuilteco","-xlē ~ -l-ā¢-e","SG ~ PL","speak","emission",,"bipartite","suppletion","no","-ā¢- infix plus suppletion"
+543,"coah1252","Coahuilteco","-ʔūm ~ -ʔ-aw-ām, -ʔā-wa-m","SG ~ PL","tell","emission",,"bipartite","suppletion","no","-wa/aw- infix plus suppletion"
+544,"coma1245","Comanche","tekwa(rʉ) ~ niwʉnʉ(rʉ)","SG ~ PL","talk","emission",,"bipartite","suppletion","no",
+545,"coma1245","Comanche","yahneetu ~ naʔyʉnetʉ","SG ~ PL","laugh","emission",,"bipartite","suppletion","no",
+546,"coma1245","Comanche","yʉkwitʉ, yikwi (charney) ~ niwʉnʉrʉ, nikwi (charney)","SG ~ PL","say","emission",,"bipartite","suppletion","no",
+547,"cree1270","Creek","oponay-íta ~ opona:-hoy-ìta","SG ~ PL","talk","emission",,"bipartite","regular",,"ho(y)/ic insertion"
+548,"cree1270","Creek","peyh-k-itá ~ peyh-ho-k-itá ~ pa:h-ic-íta","SG ~ DU ~ PL","whoop","emission",,"tripartite","regular",,"ho(y)/ic insertion"
+549,"cree1270","Creek","wo:h-k-itá ~ wo:h-ho-k-íta ~ wo:h-ic-íta","SG ~ DU ~ PL","bark","emission",,"tripartite","regular",,"ho(y)/ic insertion"
+550,"guah1255","Guahibo","wahüta ~ wahüka","SG ~ PL","ask for (an object)","emission",,"bipartite","regular",,"ta ~ ka (demander) -- it is possible that this instead of sg/pl (or in addition) encodes generic/specific"
+551,"coos1249","Hanis","L!ä- ~ ɣā'la-","SG ~ PL","speak","emission",,"bipartite","suppletion","no",
+552,"hopi1249","Hopi","lalvaya ~ lavayta","SG ~ PL","talk about","emission",,"bipartite","suppletion","no",
+553,"hopi1249","Hopi","taya’iwta ~ tsutsuya","SG ~ PL","laugh","emission",,"bipartite","suppletion","no","be laughing"
+554,"laal1242","Laal","mààr ~ mɨ̀ɨ̀r","SG ~ PL","curse","emission",,"bipartite","regular",,"a > ɨ / i"
+555,"imon1245","Imonda","heulõ ~ heual","SG ~ PL","hear","perception",,"bipartite","suppletion","no",
+556,"mull1237","Mullukmulluk","lam ~ laram","SG ~ PL","talk","emission",,"bipartite","regular",,
+557,"imon1245","Imonda","nagla ~ nògõl","SG ~ PL","see","perception",,"tripartite","suppletion","no",
+558,"kett1243","Ket","t-oŋ ~ t-ok-in","SG ~ PL","see","perception",,"bipartite","suppletion","no",
+559,"magd1235","Magdalena Peñasco Mixtec","kaa ~ ndaa","SG ~ PL","be seen","perception",,"bipartite","suppletion","no",
+560,"nucl1622","Marind","lu ~ hyamin","SG ~ PL","call (sb's name)","emission",,"bipartite","suppletion","no",
+561,"nort2942","North Slavey","gohseh ~ gon-","SG ~ PL","talk","emission",,"bipartite","suppletion","no",
+562,"nort2942","North Slavey","ʔadehsi ~ adid-","SG ~ PL","say","emission",,"bipartite","suppletion","no",
+563,"nort2954","Northern Paiute","yadua ~ apiča, apikʸa","SG ~ PL","talk","emission",,"bipartite","suppletion","no",
+564,"seri1257","Seri","-aitom ~ -o:ša","SG ~ PL","talk","emission",,"bipartite","suppletion","no",
+565,"shas1239","Shasta","iʔ·ɨ ~ ip·ɨ","SG ~ PL","look","perception",,"bipartite","suppletion","no",
+566,"sume1241","Sumerian","du(11).g ~ e","SG ~ PL","say/do","emission",,"bipartite","suppletion","no",
+567,"kuna1268","Kunama","ena ~ enana","SG ~ PL","sing","emission",,"bipartite","regular",,"nV"
+568,"nuuc1236","Nuu-chah-nulth","ciqaa ~ ciciiqyu","INDIVIDUAL ~ COLLECTIVE","speak","emission",,"bipartite","regular",,"-RL.yu"
+569,"nuuc1236","Nuu-chah-nulth","waa ~ wawaałyu","INDIVIDUAL ~ COLLECTIVE","say","emission",,"bipartite","regular",,"-RL.yu"
+570,"tabo1241","Tabo","olamagi ~ olamagimi","SG ~ PL","speak","emission",,"bipartite","regular",,"-mi suffix"
+571,"tabo1241","Tabo","gaa:tepaha ~ ga:ga:","SG ~ PL","scream","emission",,"bipartite","suppletion","no",
+572,"akab1249","Akabea","mek ~ aka-wet","SG ~ PL","eat","ingestion",,"bipartite","suppletion","no",
+573,"buru1296","Burushaski","sí- ~ sú (hx); šé- ~ šé-","SG ~ PL","eat","ingestion",,"bipartite","suppletion","no",
+574,"nucl1302","Georgian","sx ~ sv","SG ~ PL","drink/pour","ingestion",,"bipartite","suppletion","no",
+575,"hopi1249","Hopi","tuumoyta ~ noonova (impf) nöönösa (perf)","SG ~ PL","eat","ingestion",,"bipartite","suppletion","no",
+576,"imon1245","Imonda","ne ~ hla","SG ~ PL","eat","ingestion",,"bipartite","suppletion","no",
+577,"koas1236","Koasati","anó:lin ~ anó-s-lin","SG ~ PL","devour","ingestion",,"bipartite","regular",,"-s- infix"
+578,"laal1242","Laal","kāw ~ kɨ̄w","SG ~ PL","eat, prepare to eat","ingestion",,"bipartite","regular",,"a > ɨ / i"
+579,"laal1242","Laal","nyāg ~ nyɨ̄g","SG ~ PL","eat (something not a ball or sauce)","ingestion",,"bipartite","regular",,"a > ɨ / i"
+580,"nucl1622","Marind","aheb ~ hi","SG ~ PL","eat","ingestion",,"bipartite","suppletion","no",
+581,"mull1237","Mullukmulluk","lak ~ larak","SG ~ PL","eat (meat)","ingestion",,"bipartite","regular",,
+582,"murr1258","Murriny Patha","la ~ lla","SG ~ PL","eat","ingestion",,"bipartite","regular",,
+583,"nisg1240","Nisgaʼa","yu:qxʷ ~ tXoqxʷ","SG ~ PL","eat","ingestion",,"bipartite","suppletion","no",
+584,"nort2942","North Slavey","shéti ~ shégeti ~ shégeyeh","SG ~ PAUCAL ~ PL","eat","ingestion",,"tripartite","suppletion","no",
+585,"nuuc1236","Nuu-chah-nulth","n̓uun̓uuk ~ n̓uun̓uuʕaqa","INDIVIDUAL ~ COLLECTIVE","swallow","ingestion",,"bipartite","regular",,"-!aqa"
+586,"nucl1649","Southern Coastal Tsimshian","txooxk ~ ‘yaak, ‘yaax","SG ~ PL","eat","ingestion",,"bipartite","suppletion","no",
+587,"tabo1241","Tabo","na ~ naha","SG ~ PL","eat (humans)","ingestion",,"bipartite","regular",,"-ha suffix"
+588,"tabo1241","Tabo","na ~ nale","SG ~ PL","eat (animals)","ingestion",,"bipartite","regular",,"-le suffix"
+589,"wari1268","Wari","kao ~ kakakao","SG ~ PL","eat","ingestion",,"bipartite","regular",,"CV(CV)- reduplciation"
+590,"wari1268","Wari","tok ~ torotok","SG ~ PL","drink","ingestion",,"bipartite","regular",,"-rV(CV)- infixation"
+591,"west2632","Western Keres","-'úbeW ~ -âaʔábeW ~ -âaʔábeW","SG ~ DU ~ PL","eat","ingestion",,"tripartite","suppletion","no",
+592,"west2632","Western Keres","-ə̓:sk̓aD ~ -aʔásk̓aD ~ -qáask̓aD-aaD","SG ~ DU ~ PL","drink","ingestion",,"tripartite","suppletion","no",
+593,"wich1260","Wichita","kaʔac ~ ʔa","SG ~ PL","eat","ingestion",,"bipartite","suppletion","no",
+594,"wari1268","Wari","topa' ~ toparapa'","SG ~ PL","kill","kill",,"bipartite","regular",,"-rV(CV)- infixation"
+595,"chin1286","Clatsop-Shoalwater Chinook","-ā-wa ~ -o-tēna","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+596,"coma1245","Comanche","-kuparʉ ~ -tokwe","SG ~ PL","kill","kill",,"bipartite","suppletion","no","separate bound form"
+597,"coma1245","Comanche","pehkarʉ ~ wasʉpʉ","SG ~ PL","kill","kill",,"bipartite","suppletion","no","separate unbound form"
+598,"cree1270","Creek","il-i:c-itá ~ pasat-itá","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+599,"daga1275","Daga","to ~ gut","SG ~ PL","kill/hit","kill",,"bipartite","suppletion","no","also hit"
+600,"gavi1246","Gavião Do Jiparaná","ka ~ abiì","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+601,"coos1249","Hanis","tsxaᵘ ~ aiʷ","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+602,"ainu1240","Hokkaido Ainu","rayke ~ ronnu","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+603,"hopi1249","Hopi","niina ~ qöya","SG ~ PL","kill","kill",,"bipartite","suppletion","no","also butcher, slaughter"
+604,"hupa1239","Hupa","wan ~ wen","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+605,"kash1280","Kashaya","pʰak'uᵒm- ~ duhkʰuy-","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+606,"klam1254","Klamath-Modoc","siwg ~ lwel","SG/PAUCAL? ~ PL/MANY?","kill","kill",,"bipartite","suppletion","no","Barker 1964 states that singular~plural is the most common alternation, but some examples of ""paucative"" number are found as well. It is unclear which verb pairs are paucative."
+607,"jama1261","Madi","-na(a)boha- ~ waka -na-","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+608,"maxa1247","Maxakalí","um-tex ~ kix","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+609,"nava1243","Navajo","hééɬ ~ ghááɬ ~ tsiɬ","SG ~ DU ~ PL","kill","kill",,"tripartite","suppletion","no",
+610,"nisg1240","Nisgaʼa","cákʷ ~ yác","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+611,"nort2942","North Slavey","lanihwhe ~ lanihdé","SG ~ PL","kill","kill",,"bipartite","suppletion","no","note that a root is shared with 'die'"
+612,"nort2954","Northern Paiute","patsa ~ koi","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+613,"rikb1245","Rikbaktsa","ba ~ beze","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+614,"juho1239","South-Eastern Ju","!hún ~ !'óán","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+615,"sout2956","Southern Haida","tiyaa ~ tl'ada","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+616,"tabo1241","Tabo","anagali{mi|name} ~ alukuli{i|0}","SG ~ PL","kill/strike","kill",,"bipartite","suppletion","no","{} indicates different persons"
+617,"ticu1245","Ticuna","ma̰ ~ dài","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+618,"toho1245","Tohono Oʼodham","mɨ'a ~ koktha(?)","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+619,"uppe1439","Upper Chehalis","tíxʷ-, manít- ~ łə́p-","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+620,"wapp1239","Wappo","t'óhɛ ~ lípɛlɛ","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+621,"wich1260","Wichita","ki ~ ʔe:seʔi","SG ~ PL","kill (PERF)","kill",,"bipartite","suppletion","no",
+622,"wich1260","Wichita","ki ~ ʔessa","SG ~ PL","kill (IMPF)","kill",,"bipartite","suppletion","no",
+623,"yaqu1251","Yaqui","me’a ~ sua","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+624,"zuni1245","Zuni","‘ayna- ~ ɬata-","SG ~ PL","kill","kill",,"bipartite","suppletion","no",
+625,"embe1260","Emberá-Catío","bu ~ panú","SG ~ PL","be","location",,"bipartite","suppletion","no","/have/stay/exist/live’"
+626,"imon1245","Imonda","iaulõ ~ iaulõ-uõl","SG ~ PL","be","location",,"bipartite","regular",,
+627,"murr1258","Murriny Patha","ni ~ nni","SG ~ PL","be","location",,"bipartite","regular",,
+628,"tuni1252","Tunica","-hki ~  -(ʔ)ɔ’na","SG ~ PL","be","location",,"bipartite","suppletion","no","also exist"
+629,"yuch1247","Yuchi","(go)-nõ ~ -ha","SG ~ PL","be","location",,"bipartite","suppletion","no","same plural as live/stay"
+630,"chin1286","Clatsop-Shoalwater Chinook","-ō-c ~ -x-ēla-itix·","SG ~ PL","be (there)","location",,"bipartite","suppletion","no",
+631,"high1242","Highland Oaxaca","baʔa ~ man","SG ~ PL","be (there), existential","location",,"bipartite","suppletion","no",
+632,"hida1246","Hidatsa","háhgu ~ áhgu","SG ~ PL","be about","location",,"bipartite","suppletion","no",
+633,"zuni1245","Zuni","akciye ~ wɔsliye","SG ~ PL","be among","location",,"bipartite","suppletion","no","either this is derived from 'put among' akcu ~ wɔslu or vice versa, we are not sure of the direction"
+634,"wari1268","Wari","pe ~ to","SG ~ PL","be at/live","location",,"bipartite","suppletion","no",
+635,"ingu1240","Ingush","d.oall ~ d.oaxk","SG ~ PL","be contained","location",,"bipartite","regular",,
+636,"teri1250","Teribe","teng ~ löng","SG ~ PL","be in possession","location",,"bipartite","suppletion","no",
+637,"choc1276","Choctaw","fõkka ~ ãɬɬo","SG ~ PL","be inside","location",,"bipartite","suppletion","no",
+638,"jama1261","Madi","-foja- ~ tee - na- ~ -kibI-","SG ~ DU ~ PL","be inside","location",,"tripartite","suppletion","no",
+639,"zuni1245","Zuni","‘učču- ~ ‘uppo-","SG ~ PL","be inside","location",,"bipartite","suppletion","no",
+640,"mari1440","Maricopa","uuvaa ~ uunu ~ dik","SG ~ DU ~ PL","be located","location",,"tripartite","suppletion","no",
+641,"tonk1249","Tonkawa","haw ~ haye·kwakw","SG ~ PL","be located","location",,"bipartite","suppletion","no",
+642,"mali1285","Malinaltepec Meʼphaa","gu'ma, kamu: ~ tima:","SG ~ PL","be outside","location",,"bipartite","suppletion","no",
+643,"ainu1240","Hokkaido Ainu","an ~ oka","SG ~ PL","be, exist","location",,"bipartite","suppletion","no",
+644,"mezo1235","Mezontla Popoloca","thę̀ ~ thèxú","SG ~ PL","be/live","location",,"bipartite","suppletion","no",
+645,"wari1268","Wari","mip ~ mimimip","SG ~ PL","do forcefully/hold tight","location",,"bipartite","regular",,"CV(CV)- reduplciation"
+646,"koas1236","Koasati","á:tan ~ áswan ~ i:san","SG ~ DU ~ PL","dwell","location",,"tripartite","suppletion","no",
+647,"west2632","Western Keres","-Aáuʔu ~ -áaʔa ~ -âaẓəədya","SG ~ DU ~ PL","dwell","location",,"tripartite","suppletion","no",
+648,"kuna1268","Kunama","uta ~ uluta","SG ~ PL","dwell, stay","location",,"bipartite","regular",,"-lV-"
+649,"agua1253","Aguaruna","a(ta) ~ aya","SG ~ PL","exist","location",,"bipartite","suppletion","no",
+650,"bert1248","Berta","zíí ~ hólí","SG ~ PL","exist","location",,"bipartite","suppletion","no",
+651,"cahu1264","Cahuilla","hiwqál ~ hem-qál","INDIVIDUAL ~ COLLECTIVE","exist","location",,"bipartite","suppletion","no","also be there"
+652,"ticu1245","Ticuna","ǘ ~ chó","SG ~ PL","find oneself","location",,"bipartite","suppletion","no",
+653,"coah1252","Coahuilteco","-tpāyam ~ -tpāy-ok-am","SG ~ PL","live","location",,"bipartite","suppletion","no","-ok- infix (unique)"
+654,"guah1255","Guahibo","ponapona ~ hinawonopa","SG ~ PL","live","location",,"bipartite","suppletion",,
+655,"hida1246","Hidatsa","mahgú ~ áhgu","SG ~ PL","live","location",,"bipartite","suppletion","no","dwell, stay"
+656,"iran1263","Irántxe-Münkü","ipi- ~ ika-","SG ~ PL","live","location",,"bipartite","suppletion","no",
+657,"mali1285","Malinaltepec Meʼphaa","-šta: ~ huwa","SG ~ PL","live","location",,"bipartite","suppletion","no",
+658,"yuch1247","Yuchi","-ci ~ -ha","SG ~ PL","live","location",,"bipartite","suppletion","no","also stay"
+659,"sume1241","Sumerian","lu(5).k ~ se(12)","SG ~ PL","live (in a place, for animals)","location",,"bipartite","suppletion","no",
+660,"sume1241","Sumerian","ti.l ~ se(12)","SG ~ PL","live (in a place, for human)","location",,"bipartite","suppletion","no",
+661,"agua1253","Aguaruna","puhut ~ batsat","SG ~ PL","live/be","location",,"bipartite","suppletion","no",
+662,"buru1296","Burushaski","du-wás- ~ -du-wáša- (y); d'-wás- ~ -d'-wáša- (hx)","SG ~ PL","stay","location",,"bipartite","regular",,"also be late"
+663,"cahu1264","Cahuilla","híw ~ máx","INDIVIDUAL ~ COLLECTIVE","stay","location",,"bipartite","suppletion","no","The singular form seems to be related to 'exist'"
+664,"choc1276","Choctaw","atta ~ ašwa ~ a:ša","SG ~ DU ~ PL","stay","location",,"tripartite","suppletion","no",
+665,"tabo1241","Tabo","luta ~ lumutita ~ pola:na","SG ~ DU ~ PL","stay","location",,"tripartite","suppletion","no",
+666,"ticu1245","Ticuna","ã̰u ~ chó","SG ~ PL","stay","location",,"bipartite","suppletion","no",
+667,"laal1242","Laal","sár ~ sə́rɨ̀ny, sə́rì","SG ~ PL","stay, remain","location",,"bipartite","regular",,"0 / -iny ~ -i"
+668,"hupa1239","Hupa","si...da ~ de-si-...c'e","SG ~ PL","stay/live","location",,"bipartite","suppletion","no",
+669,"sand1273","Sandawe","íé ~ ně:","SG ~ PL","stay/live","location",,"bipartite","suppletion","no",
+670,"wari1268","Wari","tak ~ taratak","SG ~ PL","trapped/kept on top","location",,"bipartite","regular",,"-rV(CV)- infixation"
+671,"agua1253","Aguaruna","wɨta ~ ashinat","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+672,"alse1251","Alsea-Yaquina","kūit ~ k'īlh","SG ~ PL","dance","motion","manner","bipartite","suppletion","no",
+673,"alse1251","Alsea-Yaquina","qaa ~ sí","SG ~ PL","enter","motion","directional","bipartite","suppletion","no",
+674,"alse1251","Alsea-Yaquina","qu, ku ~ k'ilu","SG ~ PL","enter water","motion","directional; ground","bipartite","suppletion","no",
+675,"alse1251","Alsea-Yaquina","tp ~ tsíns","SG ~ PL","jump","motion","manner","bipartite","suppletion","no",
+676,"ariz1237","Arizona Tewa","keˀt’ɑ ~ yemu","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no",
+677,"bert1248","Berta","adá ~ záá","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+678,"bert1248","Berta","buuna ~ thulá","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+679,"buru1296","Burushaski","-wál- (hx) ~ -wál-/- gía- (h); bal'- (y) ~ gía- (xy)","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no",
+680,"buru1296","Burushaski","-wáš- (hx) ~ -wáš-/-gú- (hx) ; -bišá (y) ~ gí- (y)","SG ~ PL","dance","motion","manner","bipartite","regular",,"also play"
+681,"buru1296","Burushaski","do-sók ~ do-sókia-","SG ~ PL","go down","motion",,"bipartite","regular",,
+682,"buru1296","Burushaski","du-ús- ~ -di-áša-/di-éša-","SG ~ PL","climb up/win (a bet)/cross/turn out","motion","manner","bipartite","suppletion","no",
+683,"buru1296","Burushaski","du-wál ~ du-wálja","SG ~ PL","fly","motion",,"bipartite","regular",,"also steal"
+684,"buru1296","Burushaski","gárc ~ gárča","SG ~ PL","run","motion",,"bipartite","regular",,"also leave"
+685,"buru1296","Burushaski","gí- ~ gía-","SG ~ PL","enter","motion",,"bipartite","regular",,
+686,"buru1296","Burushaski","yancar- ~ yancara","SG ~ PL","walk so","motion","manner","bipartite","regular",,
+687,"cahu1264","Cahuilla","-púli- (sg) ~ -čávi-","INDIVIDUAL ~ COLLECTIVE","fall","motion","directional; manner","bipartite","suppletion","no","also drop, be born"
+688,"cata1286","Catawba","kwatse ~ kwata","SG ~ PL","turn","motion",,"bipartite","suppletion","no",
+689,"chim1301","Chimariko","-mum- ~ -tcaxis-","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+690,"choc1276","Choctaw","ã:ya ~ itta-no:wa","SG ~ PL","go along","motion","directional","bipartite","suppletion","no","2-3+"
+691,"choc1276","Choctaw","akkowa ~ akka-koh-a","SG ~ PL","get down","motion",,"bipartite","regular",,
+692,"choc1276","Choctaw","ala ~ ittV-ala-či ~ a:-ala","SG ~ DU ~ PL","arrive here","motion",,"tripartite","regular",,
+693,"choc1276","Choctaw","bali:li ~ čaffa ~ tiɬa:ya ~ yiɬi:pa","SG ~ DU ~ PL","run","motion","manner","tripartite","suppletion","no","or even quadripartite?"
+694,"choc1276","Choctaw","čokkowa ~ abi:ha / aɬɬo","SG ~ PL","enter","motion","directional","bipartite","suppletion","no",
+695,"choc1276","Choctaw","hika ~ hi:li","SG ~ PL","fly","motion","manner","bipartite","suppletion","no",
+696,"choc1276","Choctaw","ittola ~ akkaha ~ liwi:li","SG ~ DU ~ PL","fall down","motion","directional; manner","tripartite","suppletion","no",
+697,"choc1276","Choctaw","iya ~ ittV-iya-či ~ ilko:ɬi","SG ~ DU ~ PL","go","motion","deictic","tripartite","suppletion","no",
+698,"choc1276","Choctaw","kočč-a ~ koča-wih-a","SG ~ PL","go out","motion",,"bipartite","regular",,
+699,"choc1276","Choctaw","ona ~ ittV-ona-či ~ a:-ona","SG ~ DU ~ PL","arrive there","motion",,"tripartite","regular",,
+700,"coma1245","Comanche","aimiʔarʉ ~ wahkamiʔarʉ","SG ~ PL","lope","motion","manner","bipartite","suppletion","no","also trot, move in slow motion"
+701,"coma1245","Comanche","ikarʉ ~ wekwiitʉ/ wekwimiʔaru","SG ~ PL","enter","motion","directional","bipartite","suppletion","no",
+702,"coma1245","Comanche","kimaru ~ sʉmʉ nokima(rʉ)","SG ~ PL","come","motion","deictic","bipartite","suppletion","no",
+703,"coma1245","Comanche","koʔitʉ ~ koyama-","SG ~ PL","return","motion","deictic","bipartite","suppletion","no","also come back"
+704,"coma1245","Comanche","kunakuarʉ/kuroʔitu ~ kunakʉʉʔetaru","SG ~ PL","appear","motion",,"bipartite","suppletion","no","appear, bob up, protrude"
+705,"coma1245","Comanche","mutsʉʔitʉ ~ mutsiʔitʉ","SG ~ PL","dive","motion","manner","bipartite","suppletion","no",
+706,"coma1245","Comanche","nahaniitʉ ~ nayʉkwiitʉ","SG ~ PL","go along","motion",,"bipartite","suppletion","no","continue"
+707,"coma1245","Comanche","naʔanitʉ ~ naʔaniʔitʉ","SG ~ PL","wallow/roll over","motion",,"bipartite","regular",,"infixation"
+708,"coma1245","Comanche","nʉmirʉ ~ yʉkarʉ","SG ~ PL","walk","motion","manner","bipartite","suppletion","no","also move about"
+709,"coma1245","Comanche","pahitʉ ~ yumarʉ","SG ~ PL","fall off","motion","directional; manner; deictic","bipartite","suppletion","no",
+710,"coma1245","Comanche","pohbitʉ/popitʉ ~ pohbiarʉ","SG ~ PL","jump","motion","manner","bipartite","suppletion","no",
+711,"coma1245","Comanche","toʔitʉ ~ kʉarʉ","SG ~ PL","appear","motion",,"bipartite","suppletion","no","escape, come out, climb out"
+712,"coma1245","Comanche","weehtsitʉ ~ weerʉ","SG ~ PL","go down","motion","directional","bipartite","suppletion","no",
+713,"coma1245","Comanche","yʉtsʉrʉ ~ yorimiʔarʉ","SG ~ PL","rise","motion","directional","bipartite","suppletion","no","also go up, fly up"
+714,"cree1270","Creek","‘yifol-k-itá ~ ‘yifol-ho-k-itá ~ ‘yifol-ic-íta","SG ~ DU ~ PL","go back","motion","directional","tripartite","regular",,"ho(y)/ic insertion"
+715,"cree1270","Creek","(a)cim-k-itá ~ (a)cim-ho-k-íta ~ (a)cim-ic-íta","SG ~ DU ~ PL","climb","motion","manner","tripartite","regular",,"ho(y)/ic insertion"
+716,"cree1270","Creek","alak-itá ~ ala:-ho-k-itá ~ ye-yc-itá","SG ~ DU ~ PL","arrive","motion","deictic","tripartite","suppletion","no",
+717,"cree1270","Creek","aɬ-íta ~ wilak-itá (probably not -ak- as it includes true suppletion) ~ foll-itá","SG ~ DU ~ PL","go about","motion","directional","tripartite","suppletion","no",
+718,"cree1270","Creek","apey-k-itá ~ atih-k-itá","SG ~ PL","get inside","motion","directional","bipartite","suppletion","no","also put inside"
+719,"cree1270","Creek","at-íta ~ at-hoy-itá ~ ?","? ~ ? ~ ?","come","motion","directional","?","regular",,"ho(y)/ic insertion"
+720,"cree1270","Creek","ay-íta ~ a-hoy-itá ~ ?","? ~ ? ~ ?","go","motion",,"?","regular",,"ho(y)/ic insertion"
+721,"cree1270","Creek","cami:ss-itá ~ cami:sca:y-itá","SG ~ PL","dodge","motion",,"bipartite","regular",,"C1V1 reduplication"
+722,"cree1270","Creek","como:tt-itá ~ como:tco:y-itá","SG ~ PL","hop","motion",,"bipartite","regular",,"C1V1 reduplication"
+723,"cree1270","Creek","fey-k-ità ~ fey-ho-k-íta ~ fay-ic-itá","SG ~ DU ~ PL","turn","motion",,"tripartite","regular",,"ho(y)/ic insertion"
+724,"cree1270","Creek","hatap-k-itá ~ hatap-ic-íta","SG ~ PL","go down","motion","directional","bipartite","regular",,"ho(y)/ic insertion"
+725,"cree1270","Creek","hoyan-itá ~ hoyan-hoy-íta ~ hoyan-ic-íta","SG ~ DU ~ PL","pass by","motion",,"tripartite","regular",,"ho(y)/ic insertion"
+726,"cree1270","Creek","lat-k-itá ~ yoɬ-k-itá ~ palat-k-itá","SG ~ DU ~ PL","fall","motion","directional; manner","tripartite","suppletion","no",
+727,"cree1270","Creek","lit-ic-eyc-itá ~ tokoɬ-hoy-c-itá ~ pifa:t-ic-eyc-itá","SG ~ DU ~ PL","run off","motion","manner; deictic","tripartite","suppletion","no",
+728,"cree1270","Creek","lit-k-itá ~ tokoɬ-k-itá ~ pifa:t-k-itá","SG ~ DU ~ PL","run","motion","manner","tripartite","suppletion","no",
+729,"cree1270","Creek","oss-itá ~ os-hoy-itá ~ ?","? ~ ? ~ ?","go out","motion","directional","?","regular",,"ho(y)/ic insertion"
+730,"cree1270","Creek","solot-ic-eyc-itá ~ solot-hoy-c-itá","SG ~ DU ~ PL","slide","motion","manner","tripartite","regular",,"ho(y)/ic insertion"
+731,"cree1270","Creek","ta:s-k-itá ~ ta:s-ho-k-íta ~ ta:s-ic-íta","SG ~ DU ~ PL","jump","motion","manner","tripartite","regular",,"ho(y)/ic insertion"
+732,"cree1270","Creek","tam-k-itá ~ tam-ho-k-íta ~ tam-ic-itá","SG ~ DU ~ PL","fly","motion","manner","tripartite","regular",,"ho(y)/ic insertion"
+733,"cree1270","Creek","tey-k-itá ~ tey-ho-k-íta ~ tay-ic-íta","SG ~ DU ~ PL","go across water","motion",,"tripartite","regular",,"ho(y)/ic insertion"
+734,"eyak1241","Eyak","a ~ 'a'ch'","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+735,"eyak1241","Eyak","Xdl-'ya - l-qu","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+736,"fuln1247","Fulniô","kê ~ sí","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+737,"fuln1247","Fulniô","tkoho ~ tkese","SG ~ PL","enter","motion","directional","bipartite","suppletion","no",
+738,"gavi1246","Gavião Do Jiparaná","gaà ~ va̧lá̧","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+739,"guah1255","Guahibo","hopa ~ othopa","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion",,"tomber; otho-othopa can mean 'i fall over and over' or 'we fall over and over', i.e. the plural root can appear with a sg subject... we consider that otho-otho is another lexical entry, and the 1st person is thus not using the plural root , but a reduplicated root which no longer encodes any participant number"
+740,"guah1255","Guahibo","kuhita ~ kuhiba","SG ~ PL","approach X","motion","deictic","bipartite","regular",,"ta ~ ba (approcher)"
+741,"guah1255","Guahibo","nahetabihiriba ~ rüküpa","SG ~ PL","run","motion","manner","bipartite","suppletion",,
+742,"guah1255","Guahibo","naropo-ta ~ naropo-ba","SG ~ PL","leave","motion","deictic","bipartite","regular",,"ta ~ ba (se mettre en route)"
+743,"guah1255","Guahibo","nawia-ta ~ nawia-ba","SG ~ PL","go back","motion","deictic","bipartite","regular",,"ta ~ ba"
+744,"coos1249","Hanis","t'a'lats ~ t'a'līt","SG ~ PL","dance","motion","manner","bipartite","regular",,
+745,"coos1249","Hanis","tc!a'at ~ tc!aīt","SG ~ PL","walk","motion","manner","bipartite","regular",,
+746,"coos1249","Hanis","wî'nat ~ wî'nīt","SG ~ PL","wade out","motion","manner","bipartite","regular",,
+747,"coos1249","Hanis","xneˣ·t- ~ xwaiłt-","SG ~ PL","fly/jump","motion","manner","bipartite","suppletion","no",
+748,"coos1249","Hanis","yīxu'm̄e ~ yuwī'tit, yuwat-","SG ~ PL","travel","motion","directional","bipartite","suppletion","no",
+749,"hida1246","Hidatsa","gíí ~ ~ náághi","SG ~ PL","get back here","motion",,"bipartite","regular",,
+750,"hida1246","Hidatsa","gúú ~ náághu","SG ~ PL","come back","motion",,"bipartite","regular",,
+751,"hida1246","Hidatsa","húù ~ nááhu","SG ~ PL","come","motion",,"bipartite","regular",,
+752,"hida1246","Hidatsa","náàgua ~ náágaa","SG ~ PL","go home","motion","ground","bipartite","suppletion","no",
+753,"hida1246","Hidatsa","néè ~ nááhi","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+754,"hida1246","Hidatsa","nuwí ~ náári","SG ~ PL","moving around","motion","directional","bipartite","suppletion","no",
+755,"ainu1240","Hokkaido Ainu","ahu-n ~ ahu-p","SG ~ PL","go in","motion","directional","bipartite","regular",,
+756,"ainu1240","Hokkaido Ainu","arpa ~ paye","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+757,"ainu1240","Hokkaido Ainu","ek ~ arki","SG ~ PL","come","motion","deictic","bipartite","suppletion","no",
+758,"ainu1240","Hokkaido Ainu","maka-n ~ maka-p","SG ~ PL","go back","motion","directional","bipartite","regular",,
+759,"ainu1240","Hokkaido Ainu","omanan ~ payeoka, payoka","SG ~ PL","wander","motion",,"bipartite","suppletion","no",
+760,"ainu1240","Hokkaido Ainu","ra-n ~ ra-p","SG ~ PL","go down","motion","directional","bipartite","regular",,
+761,"ainu1240","Hokkaido Ainu","riki-n ~ riki-p","SG ~ PL","go up","motion","directional","bipartite","regular",,
+762,"ainu1240","Hokkaido Ainu","sa-n ~ sa-p","SG ~ PL","go forward","motion","directional","bipartite","regular",,
+763,"ainu1240","Hokkaido Ainu","ya-n ~ ya-p","SG ~ PL","land, go toward shore","motion","directional","bipartite","regular",,
+764,"hopi1249","Hopi","haawi ~ haani","SG ~ PL","climb down","motion","manner; directional","bipartite","suppletion","no",
+765,"hopi1249","Hopi","naahoy ~ naanahoy","SG ~ PL","part company","motion",,"bipartite","regular",,
+766,"hopi1249","Hopi","nakwsu ~ nànkwusa","SG ~ PL","leave","motion",,"bipartite","regular",,
+767,"hopi1249","Hopi","paki ~ yungya","SG ~ PL","enter","motion","directional","bipartite","suppletion","no","also go in"
+768,"hopi1249","Hopi","pitu ~ öki","SG ~ PL","arrive","motion","deictic","bipartite","suppletion","no","also come"
+769,"hopi1249","Hopi","pòosi- ~ löhö(k-)","SG ~ PL","fall, drop (solid things)","motion","directional; manner","bipartite","suppletion","no",
+770,"hopi1249","Hopi","waaya ~ watqa","SG ~ PL","escape","motion","deictic; manner","bipartite","suppletion","no","also run/fly away, flee, get away"
+771,"hopi1249","Hopi","wari(k-) ~ yùutu(k-)","SG ~ PL","run","motion","manner","bipartite","suppletion","no","also race"
+772,"hopi1249","Hopi","waynuma ~ yakta","SG ~ PL","wander","motion","directional","bipartite","suppletion","no","also walk around"
+773,"hopi1249","Hopi","wunima ~ tiiva","SG ~ PL","dance","motion","manner","bipartite","suppletion","no","be dancing"
+774,"hopi1249","Hopi","wuuvi ~ yayva","SG ~ PL","climb up","motion","manner; directional","bipartite","suppletion","no","also ascend"
+775,"hopi1249","Hopi","yama(k-) ~ nönga(k-)","SG ~ PL","come out","motion","deictic; directional","bipartite","suppletion","no","also emerge"
+776,"hupa1239","Hupa","daW/ʔiʒ ~ ʔaW/ʔan","SG ~ PL","run","motion","manner","bipartite","suppletion","no","also jump"
+777,"hupa1239","Hupa","yaW/ya ~ dił/deƛ̓","SG ~ PL","move","motion",,"bipartite","suppletion","no",
+778,"imon1245","Imonda","eg ~ eg-l","SG ~ PL","follow","motion","deictic","bipartite","suppletion","no",
+779,"ingu1240","Ingush","d.oal ~ d.oul","SG ~ PL","go/start","motion",,"bipartite","regular",,
+780,"ingu1240","Ingush","d.od ~ d.oud","SG ~ PL","run","motion",,"bipartite","regular",,
+781,"ingu1240","Ingush","d.uoda ~ d.olx","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+782,"ingu1240","Ingush","hwed ~ hwelx","SG ~ PL","run out","motion","manner; directional","bipartite","suppletion","no",
+783,"iran1263","Irántxe-Münkü","atxo- ~ atxaka-","SG ~ PL","return","motion","deictic","bipartite","regular",,
+784,"iran1263","Irántxe-Münkü","o- ~ aka","SG ~ PL","go","motion",,"bipartite","regular",,
+785,"iton1250","Itonama","oli ~ soloh","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no",
+786,"djam1255","Jaminjung-Ngaliwurru","bunburr ~ gurd","SG ~ PL","rise, take off, leave","motion",,"bipartite","suppletion","no",
+787,"djam1255","Jaminjung-Ngaliwurru","yawal ~ yugung","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+788,"kain1272","Kaingang","kãrã ~ kãge","SG ~ PL","enter","motion","directional","bipartite","suppletion","no",
+789,"kain1272","Kaingang","kãtĩg ~ kãtmũ","SG ~ PL","come","motion","deictic","bipartite","suppletion","no",
+790,"kain1272","Kaingang","kuta' ~ vö'lö","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no",
+791,"kain1272","Kaingang","tavi ~ yulu","SG ~ PL","arrive","motion","deictic","bipartite","suppletion","no",
+792,"kain1272","Kaingang","teŋ, tĩ ~ mu̜, mũ","SG ~ PL","go","motion","deictic","bipartite","suppletion","no","goncalves2011kaingang claims that go.PL can also mean 'make go', but this is not attested in wieseman2002"
+793,"kain1272","Kaingang","tĩg ~ mũn","SG ~ PL","walk","motion","manner","bipartite","suppletion","no","also go"
+794,"karo1305","Karo (Brazil)","paraʔkə ~ ciraʔkə","SG ~ PL","come back","motion","deictic","bipartite","suppletion","no",
+795,"karo1305","Karo (Brazil)","pecɨt ~ kori","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+796,"karo1304","Karok","ik-fuk ~ ʔi-fuk (du, pl)","SG ~ PL","climb","motion","manner","bipartite","suppletion","no",
+797,"karo1304","Karok","ik-puh ~ iθ-puh ~ ihtak","SG ~ DU ~ PL","swim","motion","manner","tripartite","suppletion","no",
+798,"karo1304","Karok","ik-xip ~ iθ-xip ~ ʔi-xip","SG ~ DU ~ PL","fly","motion","manner","tripartite","suppletion","no",
+799,"kash1280","Kashaya","ciw- ~ ciy, ciyahtv","SG ~ PL","crawl/swim","motion","manner","bipartite","suppletion","no","plural distinguishes in a group/not in a group"
+800,"kash1280","Kashaya","w- ~ pʰilv-, pʰi-","SG ~ PL","go","motion","deictic","bipartite","suppletion","no","plural distinguishes in a group/not in a group/unspecified"
+801,"kett1243","Ket","-aq, -daq ~ -aq-n, -daq-n","SG ~ PL","go","motion",,"bipartite","regular",,"0 ~ n/ŋ"
+802,"kett1243","Ket","doq- ~ doq-ŋ","SG ~ PL","fly","motion",,"bipartite","regular",,"0 ~ n/ŋ"
+803,"kett1243","Ket","eska-is ~ eska-dis-","SG ~ PL","go upriver and stay","motion","ground","bipartite","suppletion","no",
+804,"kett1243","Ket","ikd[a]-daq ~ ikd[a]-qut","SG ~ PL","go to the river bank and stay","motion","ground","bipartite","suppletion","no",
+805,"kett1243","Ket","ka- ~ qot-n","SG ~ PL","walk","motion","manner","bipartite","suppletion","no",
+806,"kiow1266","Kiowa","ól ~ p'él","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no",
+807,"kitj1240","Kitja","pertij ~ pawart","PAUCAL ~ MANY","climb","motion","manner","bipartite","suppletion","no",
+808,"kitj1240","Kitja","wiji ~ yuwurr","PAUCAL ~ MANY","run","motion","manner","bipartite","suppletion","no",
+809,"klam1254","Klamath-Modoc","hod ~ dos ~ din","SG ~ PAUCAL ~ MANY","run","motion","manner","tripartite","suppletion","no",
+810,"koas1236","Koasati","á:yan ~ yomáhlin","PAUCAL ~ MANY","go about","motion","directional","bipartite","suppletion","no",
+811,"koas1236","Koasati","ałi:yan ~ amá:kan","PAUCAL ~ MANY","go","motion","deictic","bipartite","suppletion","no",
+812,"koas1236","Koasati","łóykan ~ łóy-óh-kan","SG ~ PL","return","motion","deictic","bipartite","regular",,"infixed extension"
+813,"koas1236","Koasati","onohali:kan ~ onokahkan","SG ~ PL","clamber up","motion","manner","bipartite","suppletion","no","""enter"" and ""exit"" appear derived from this verb, or perhaps all three are derived from a now-frozen suppletive root"
+814,"koas1236","Koasati","óntin ~ ilma:kan","PAUCAL ~ MANY","come","motion","deictic","bipartite","suppletion","no",
+815,"koas1236","Koasati","wali:kan ~ tółkan","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+816,"koas1236","Koasati","wáykan ~ way-óh-kan","SG ~ PL","fly","motion",,"bipartite","regular",,"infixed extension"
+817,"kuna1268","Kunama","(i)o ~ (i)lo ~ (i)mo","SG ~ DU ~ PL","come","motion",,"tripartite","regular",,"-lV-, -mV-"
+818,"kuna1268","Kunama","egi ~ ilagi","SG ~ PL","run","motion",,"bipartite","regular",,"-lV-, maybe with some irregularity"
+819,"kuna1268","Kunama","i ~ ili ~ imi","SG ~ DU ~ PL","arrive","motion",,"tripartite","regular",,"-lV-, -mV-"
+820,"kuna1268","Kunama","u ~ ulu ~ umu(?)","SG ~ DU ~ PL","enter","motion",,"tripartite","regular",,"-lV-, -mV-; this is written in the grammar as tripartite u ~ ulu ~ ulu, but we suspect the last form is a typo for umu"
+821,"kwaz1243","Kwaza","aruu- ~ aruru'nỹ","SG ~ PL","cross","motion","directional","bipartite","suppletion","no",
+822,"kwaz1243","Kwaza","bui- ~ bu'bui-","SG ~ PL","go outside","motion","directional","bipartite","regular",,
+823,"kwaz1243","Kwaza","hy- ~ tow-","? ~ ?","move","motion",,"bipartite","suppletion","no","derives 'walk on the path', 'enter the ground', 'enter', and probably more; This is possibly individual~collective, but whether it is or not is unclear"
+824,"kwaz1243","Kwaza","oja- ~ o?o'ja-","? ~ ?","go","motion","deictic","bipartite","regular",,"This is possibly individual~collective, but whether it is or not is unclear"
+825,"laal1242","Laal","bīn ~ bínì","SG ~ PL","jump","motion",,"bipartite","regular",,"0 / -i"
+826,"laal1242","Laal","ɓóg ~ ɓúgə̀y (<|ɓóg-ì|)","SG ~ PL","go (home)","motion","directional","bipartite","regular",,"0 / -i"
+827,"laal1242","Laal","cólé ~ cúlí","SG ~ PL","come back","motion","deictic","bipartite","suppletion","no","-e / -i"
+828,"laal1242","Laal","cúlá ~ cúlìny","SG ~ PL","go back, bring back","motion","directional","bipartite","regular",,"-a / -iny ~ -i"
+829,"laal1242","Laal","duāg ~ dùgɨ̀ny, dùgì","SG ~ PL","go down","motion","directional","bipartite","regular",,"0 / -iny ~ -i"
+830,"laal1242","Laal","ɗāār ~ ɗīīr","SG ~ PL","enter","motion","directional","bipartite","regular",,"a > ɨ / i"
+831,"laal1242","Laal","ɗuāl ~ ɗòlì (intr.)","SG ~ PL","go into the bush","motion","directional","bipartite","regular",,"0 / -i"
+832,"laal1242","Laal","gāāny ~ gɨ̄ɨ̄ny","SG ~ PL","crawl","motion",,"bipartite","regular",,"a > ɨ / i"
+833,"laal1242","Laal","guān ~ gōn","SG ~ PL","dance","motion","manner","bipartite","regular",,"uā / ō"
+834,"laal1242","Laal","kàn ~ kɨ̀n","SG ~ PL","arrive","motion",,"bipartite","regular",,"a > ɨ / i"
+835,"laal1242","Laal","māg ~ mɨ̄g (or māg ~ mə̄g-ī)","SG ~ PL","pass by","motion",,"bipartite","regular",,"a > ɨ / i"
+836,"laal1242","Laal","mə́rə́ ~ mírí","SG ~ PL","run (hither)","motion","deictic; manner","bipartite","regular",,"0 / -i"
+837,"laal1242","Laal","múr ~ múrɨ̀ny, múrì","SG ~ PL","run away","motion","deictic; manner","bipartite","regular",,"0 / -iny ~ -i"
+838,"laal1242","Laal","nyáá ~ nyíí","SG ~ PL","leave","motion","directional","bipartite","regular",,"a > ɨ / i"
+839,"laal1242","Laal","nyuáá ~ nyóó","SG ~ PL","move away","motion","deictic","bipartite","regular",,"low to mid vowel"
+840,"laal1242","Laal","nyuáárí ~ nyóórí","SG ~ PL","move closer","motion","deictic","bipartite","regular",,"low to mid vowel"
+841,"laal1242","Laal","nyún ~ nyúnì","SG ~ PL","walk, go away","motion","deictic","bipartite","regular",,"0 / -i"
+842,"laal1242","Laal","sùbrà ~ sùbrí","SG ~ PL","slip through","motion",,"bipartite","regular",,"-a / -i"
+843,"laal1242","Laal","wál ~ wə́lì","SG ~ PL","fall","motion",,"bipartite","regular",,"0 / -i"
+844,"laal1242","Laal","wār (1, intr.) ~ wòrì","SG ~ PL","flow (river)","motion",,"bipartite","regular",,"0 / -i"
+845,"laal1242","Laal","wúsɨ̀ny, wúsì","SG ~ PL","go out","motion","directional","bipartite","regular",,"0 / -iny ~ -i"
+846,"jama1261","Madi","-sona- ~ foro -na-","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no",
+847,"male1292","Malecite-Passamaquoddy","wəhse ~ hkawəti (~ apasi, plural + distributive action)","SG ~ PL","walk","motion","manner","bipartite","suppletion","no",
+848,"mali1285","Malinaltepec Meʼphaa","-kamu'u:n ~ kakwa'a:n","SG ~ PL","jump","motion","manner","bipartite","suppletion","no",
+849,"mali1285","Malinaltepec Meʼphaa","-rakun, -raka ~ grigwa:n, gri'gu","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no",
+850,"mali1285","Malinaltepec Meʼphaa","gatiyu:n ~ nguhwya:n","SG ~ PL","leave","motion","deictic","bipartite","suppletion","no","also exit"
+851,"nucl1622","Marind","ɣet ~ naɣat","SG ~ PL","be in movement","motion",,"bipartite","suppletion","no",
+852,"nucl1622","Marind","ihon ~ awan","SG ~ PL","run away","motion","manner; deictic","bipartite","suppletion","no",
+853,"nucl1622","Marind","kahek ~ kapet","SG ~ PL","climb","motion",,"bipartite","suppletion","no",
+854,"nucl1622","Marind","man ~ naɣam","SG ~ PL","come","motion","deictic","bipartite","suppletion","no",
+855,"nucl1622","Marind","umak ~ awat-a","SG ~ PL","run","motion","manner","bipartite","suppletion","no","be running' in the grammar; plural form derived from 'run away'"
+856,"nucl1622","Marind","umuh ~ umah","SG ~ PL","go, leave","motion",,"bipartite","suppletion","no",
+857,"mats1244","Matsés","capu ~ shayaque","PAUCAL ~ MANY","walk","motion","manner","bipartite","suppletion","no","""locomote"""
+858,"mats1244","Matsés","cuen ~ nique","PAUCAL ~ MANY","run off","motion","manner; deictic","bipartite","suppletion","no",
+859,"mats1244","Matsés","paëd ~ tididique","PAUCAL ~ MANY","fall","motion","directional; manner","bipartite","suppletion","no",
+860,"maxa1247","Maxakalí","mõnãhã ~ mõxakux","SG ~ PL","enter","motion","directional","bipartite","suppletion","no",
+861,"maxa1247","Maxakalí","nãhã ~ ?","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no","also descend"
+862,"maxa1247","Maxakalí","topaha ~ kopuk","SG ~ PL","fly","motion","manner","bipartite","suppletion","no",
+863,"madi1260","Maʼdi","mū ~ vù","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+864,"saki1248","Mekens","it ~ ia","INDIVIDUAL ~ COLLECTIVE","go","motion","deictic","bipartite","suppletion","no",
+865,"saki1248","Mekens","seesoe ~ seesoa","INDIVIDUAL ~ COLLECTIVE","walk","motion","manner","bipartite","suppletion","no",
+866,"saki1248","Mekens","set ~ ɨrɨrɨt","INDIVIDUAL ~ COLLECTIVE","go/come","motion",,"bipartite","suppletion","no",
+867,"mull1237","Mullukmulluk","kark ~ karark","SG ~ PL","go up","motion",,"bipartite","regular",,
+868,"mull1237","Mullukmulluk","kupuk ~ kuwpuk","SG ~ PL","dive","motion","manner","bipartite","regular",,
+869,"mull1237","Mullukmulluk","parat ~ pařatat","SG ~ PL","get up","motion",,"bipartite","regular",,
+870,"mull1237","Mullukmulluk","tʸurk ~ tʸuřurk","SG ~ PL","enter","motion",,"bipartite","regular",,"also bury"
+871,"mull1237","Mullukmulluk","wařat ~ wařarat","SG ~ PL","walkabout","motion",,"bipartite","regular",,
+872,"mull1237","Mullukmulluk","wil ~ wilil","SG ~ PL","swim","motion",,"bipartite","regular",,
+873,"murl1244","Murle","-kɔ ~ -vɔ","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+874,"murl1244","Murle","-ku ~ -vu","SG ~ PL","come","motion","deictic","bipartite","suppletion","no",
+875,"nava1243","Navajo","ghoɬ ~ chééɬ ~ jah","SG ~ DU ~ PL","run","motion","manner","tripartite","suppletion","no",
+876,"nava1243","Navajo","yá ~ ‘ash ~ kah","SG ~ DU ~ PL","go","motion","deictic","tripartite","suppletion","no",
+877,"nucl1633","Nimboran","bekei ~ klo","SG ~ PL","climb","motion","manner","bipartite","suppletion","no",
+878,"nisg1240","Nisgaʼa","ksáxʷ ~ ksiɬóʔ","SG ~ PL","go out","motion","directional","bipartite","suppletion","no",
+879,"nisg1240","Nisgaʼa","k̓ʸé·x̌kʷ ~ hú·t","SG ~ PL","flee","motion","manner; deictic","bipartite","suppletion","no",
+880,"nisg1240","Nisgaʼa","máx̌kʷ ~ síntkʷ","SG ~ PL","ride","motion","manner","bipartite","suppletion","no","in a boat/vehicle"
+881,"nisg1240","Nisgaʼa","páx̌ ~ qúi","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+882,"nisg1240","Nisgaʼa","pax̌yúkʷ pax̌tx̌áwskʷ","SG ~ PL","go up a slope","motion","directional","bipartite","suppletion","no",
+883,"nisg1240","Nisgaʼa","tá·w̓iɬ ~ sákskʷ","SG ~ PL","leave","motion","deictic","bipartite","suppletion","no",
+884,"nisg1240","Nisgaʼa","w̓ítkʷ ~ pakʷ","SG ~ PL","be back/come back","motion","deictic","bipartite","suppletion","no",
+885,"nisg1240","Nisgaʼa","yé· ~ ɬóʔ","SG ~ PL","go/walk","motion",,"bipartite","suppletion","no",
+886,"nort2942","North Slavey","déhtlah ~ legedéhtthe ~ gogedéhtthe","SG ~ PAUCAL ~ PL","go (uncontrolled)","motion","deictic; manner","tripartite","suppletion","no",
+887,"nort2942","North Slavey","déy a ~ kedéʔa ~ kedédee","SG ~ PAUCAL ~ PL","go (controlled)","motion","deictic; manner","tripartite","suppletion","no",
+888,"nort2942","North Slavey","kina-bee ~ kínake-bee ~ kínakeʔóh","SG ~ PAUCAL ~ PL","swim","motion","manner","tripartite","suppletion","no",
+889,"nort2942","North Slavey","tedewe ~ teniki ~ tenitl'i","SG ~ PAUCAL ~ PL","fall","motion","directional; manner","tripartite","suppletion","no",
+890,"nort2954","Northern Paiute","iǰa, igʸa ~ sunua","SG ~ PL","enter","motion","directional","bipartite","suppletion","no",
+891,"nort2954","Northern Paiute","kima ~ kikima ~ kimaʔa","SG ~ DU ~ PL","come","motion","deictic","tripartite","suppletion","no",
+892,"nort2954","Northern Paiute","kočɨ ~ kokočɨ ~ kočɨmmi","SG ~ DU ~ PL","return","motion","deictic","tripartite","suppletion","no",
+893,"nort2954","Northern Paiute","mia ~ mimia ~ miʔa","SG ~ DU ~ PL","go","motion","deictic","tripartite","suppletion","no",
+894,"nort2954","Northern Paiute","n̓+immi ~ moo, moʔo","SG ~ PL","travel","motion","directional","bipartite","suppletion","no",
+895,"nort2954","Northern Paiute","yotsi ~ yozi","SG ~ PL","fly","motion","manner","bipartite","suppletion","no","also rise"
+896,"nuuc1236","Nuu-chah-nulth","č̓iiłšiƛ ~ č̓iiłʕaqa","INDIVIDUAL ~ COLLECTIVE","escape","motion",,"bipartite","regular",,"-!aqa"
+897,"nuuc1236","Nuu-chah-nulth","haat̓inqšiƛ ~ haat̓inʕaqa","INDIVIDUAL ~ COLLECTIVE","swim","motion",,"bipartite","regular",,"-!aqa"
+898,"nuuc1236","Nuu-chah-nulth","kamitquk ~ puʔak","INDIVIDUAL ~ COLLECTIVE","run","motion","manner","bipartite","suppletion","no",
+899,"nuuc1236","Nuu-chah-nulth","mataa ~ huʔak","INDIVIDUAL ~ COLLECTIVE","fly","motion","manner","bipartite","suppletion","no",
+900,"nuuc1236","Nuu-chah-nulth","wałšiƛ ~ wałʕaqa","INDIVIDUAL ~ COLLECTIVE","go home","motion",,"bipartite","regular",,"-!aqa"
+901,"rikb1245","Rikbaktsa","parak ~ norũ","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+902,"sand1273","Sandawe","!'àwé ~ !ʰó:","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no",
+903,"sand1273","Sandawe","hík'ì̥ ~ níʔ","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+904,"sand1273","Sandawe","tʰâ ~ gìrì̥bé","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+905,"sand1273","Sandawe","ǀí ~ ⁿǀàtí","SG ~ PL","come","motion","deictic","bipartite","suppletion","no",
+906,"seri1257","Seri","-afp ~ -ašk-am","SG ~ PL","arrive","motion","deictic","bipartite","suppletion","no",
+907,"seri1257","Seri","-ašk-im ~ oišk-t","SG ~ PL","enter","motion","directional","bipartite","suppletion","no",
+908,"seri1257","Seri","-ya:i ~ -oší:t","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+909,"shas1239","Shasta","at·ɨ ~ eʔ·i","SG ~ PL","walk","motion","manner","bipartite","suppletion","no",
+910,"shas1239","Shasta","ehe ~ é·pxa·","SG ~ PL","jump","motion","manner","bipartite","suppletion","no",
+911,"shas1239","Shasta","ehe·ti ~ aska","SG ~ PL","run","motion","manner","bipartite","suppletion","no","there are two verbs translated as 'run'"
+912,"shas1239","Shasta","epxù ~ axisu","SG ~ PL","go out to camp","motion",,"bipartite","suppletion","no",
+913,"shas1239","Shasta","iri ~ u·mpi","SG ~ PL","run","motion","manner","bipartite","suppletion","no","there are two verbs translated as 'run'"
+914,"shas1239","Shasta","itantu ~ atkara","SG ~ PL","move suddenly","motion",,"bipartite","suppletion","no",
+915,"shas1239","Shasta","uč̓·i ~ arak̓w, itik̓w","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no",
+916,"shas1239","Shasta","uhu ~ aha","SG ~ PL","move along in space","motion","directional","bipartite","suppletion","no",
+917,"shas1239","Shasta","umpɨ ~ e·w","SG ~ PL","swim","motion","manner","bipartite","suppletion","no",
+918,"ship1254","Shipibo-Conibo","jo- ~ be-","SG ~ PL","come","motion","deictic","bipartite","suppletion","no","The plural form can also mean 'bring' (for singular or plural objects)"
+919,"ship1254","Shipibo-Conibo","ka- ~ bo-","SG ~ PL","go","motion","deictic","bipartite","suppletion","no","The plural form can also mean 'take' (for singular or plural objects)"
+920,"juho1239","South-Eastern Ju","gǀáí ~ g!à'í","SG ~ PL","go out","motion","directional","bipartite","suppletion","no",
+921,"juho1239","South-Eastern Ju","nǂhao ~ tàqm","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no","also land, go down"
+922,"juho1239","South-Eastern Ju","tsáú ~ tuìh","SG ~ PL","rise","motion","directional","bipartite","suppletion","no",
+923,"sout2982","Southeastern Pomo","bhe ~ mya","SG ~ PL","swim","motion","manner","bipartite","suppletion","no","motion through a fluid"
+924,"sout2982","Southeastern Pomo","bo ~ bla ~ mha","SG ~ DU ~ PL","crawl","motion","manner","tripartite","suppletion","no","motion along a surface by a long object"
+925,"sout2982","Southeastern Pomo","ca ~ ko ~ mha","SG ~ DU ~ PL","run/fly/flow","motion","manner","tripartite","suppletion","no",
+926,"sout2982","Southeastern Pomo","cki ~ x̥qo + b","SG ~ PL","long object comes to rest","motion",,"bipartite","suppletion","no",
+927,"sout2982","Southeastern Pomo","di ~ li ~ li+t","SG ~ DU ~ PL","float","motion","deictic; manner","tripartite","suppletion","no","motion suspended in fluid"
+928,"sout2982","Southeastern Pomo","kna ~ x̥qo + b","SG ~ PL","plop down","motion",,"bipartite","suppletion","no",
+929,"sout2982","Southeastern Pomo","t̥la ~ št̥a ~ x̥qo","SG ~ DU ~ PL","roll/fall","motion","manner","tripartite","suppletion","no","long object turns on a horizontal axis"
+930,"sout2982","Southeastern Pomo","wa/a/o ~ yhe ~ ʔye","SG ~ DU ~ PL","walk/go","motion","manner","tripartite","suppletion","no",
+931,"sout2982","Southeastern Pomo","xka ~ ʔye","SG ~ PL","come to rest on water","motion","ground","bipartite","suppletion","no",
+932,"nucl1649","Southern Coastal Tsimshian","baa ~ k’ol","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+933,"nucl1649","Southern Coastal Tsimshian","k’yeexk ~ huut","SG ~ PL","escape","motion","deictic; manner","bipartite","suppletion","no","also flee"
+934,"nucl1649","Southern Coastal Tsimshian","ksüü ~ ksoox","SG ~ PL","go out","motion","directional","bipartite","suppletion","no","also exit"
+935,"nucl1649","Southern Coastal Tsimshian","kwdaxs ~ kwdaałaxs","SG ~ PL","leave","motion","deictic","bipartite","suppletion","no",
+936,"nucl1649","Southern Coastal Tsimshian","sagyooks ~ saalooksk","SG ~ PL","drift away","motion","manner; deictic","bipartite","suppletion","no",
+937,"nucl1649","Southern Coastal Tsimshian","sit’aatk ~ sigyootk","SG ~ PL","start off","motion",,"bipartite","suppletion","no",
+938,"nucl1649","Southern Coastal Tsimshian","yaa ~ łoga, waalxs","SG ~ PL","go","motion","deictic","bipartite","suppletion","no","also step, walk"
+939,"sout2956","Southern Haida","qa ~ da","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+940,"sout2956","Southern Haida","x̣it ~ nāxa","SG ~ PL","fly","motion","manner","bipartite","suppletion","no",
+941,"sulk1246","Sulka","pɨs ~ pagɨs","SG ~ PL","arrive","motion","deictic","bipartite","suppletion","no",
+942,"sume1241","Sumerian","er ~ su(8).b","SG ~ PL","go/come (PERF)","motion",,"bipartite","suppletion","no",
+943,"sume1241","Sumerian","ĝen ~ du","SG ~ PL","go/come (IMPF)","motion",,"bipartite","suppletion","no",
+944,"tabo1241","Tabo","moe ~ ma:la","SG ~ PL","dance","motion",,"bipartite","regular",,"vowel deleting -a:la"
+945,"tabo1241","Tabo","pe ~ pelame","SG ~ PL","come","motion",,"bipartite","regular",,"-lame suffix"
+946,"tabo1241","Tabo","to ~ tolame","SG ~ PL","go","motion",,"bipartite","regular",,"-lame suffix"
+947,"tabo1241","Tabo","uluhuku ~ ikuli","SG ~ PL","appear","motion",,"bipartite","suppletion","no",
+948,"tabo1241","Tabo","wila ~ wilale","SG ~ PL","return","motion","deictic","bipartite","regular",,"-le suffix"
+949,"tabo1241","Tabo","epatega ~ iya:patila: ~ iya:patila:ha","SG ~ DU ~ PL","jump","motion","manner","tripartite","suppletion","no",
+950,"tabo1241","Tabo","ihitiga ~ ihita ~ palaga","SG ~ DU ~ PL","descend","motion","directional","tripartite","suppletion","no",
+951,"tabo1241","Tabo","odolo ~ odoloho ~ palehawamina","SG ~ DU ~ PL","ascend","motion","directional","tripartite","suppletion","no",
+952,"ticu1245","Ticuna","go̊ ~ ǖ","SG ~ PL","fly","motion","manner","bipartite","suppletion","no","also rush"
+953,"ticu1245","Ticuna","g̃û ~ yì","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no",
+954,"ticu1245","Ticuna","ñā ~ ǖ(gǜʼü̃)","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+955,"ticu1245","Ticuna","ta̋-ègu ~ wò-ègu","SG ~ PL","return","motion","deictic","bipartite","suppletion","no",
+956,"ticu1245","Ticuna","ṹ ~ i ̃̂","SG ~ PL","go/come","motion",,"bipartite","suppletion","no",
+957,"ticu1245","Ticuna","ǘ-ku ~ chó-ku","SG ~ PL","enter","motion","directional","bipartite","suppletion","no",
+958,"ticu1245","Ticuna","ṹ-ʼü̃ ~ chó-ʼü̃","SG ~ PL","exit","motion","directional","bipartite","suppletion","no",
+959,"tlin1245","Tlingit","gut ~ .at","SG ~ PL","walk","motion","manner","bipartite","suppletion","no",
+960,"tlin1245","Tlingit","ḵin ~ yich","SG ~ PL","fly","motion","manner","bipartite","suppletion","no",
+961,"tlin1245","Tlingit","xix ~ lu-guḵ","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+962,"toho1245","Tohono Oʼodham","dádɨ· ~ ɲɨ́ʔi","SG ~ PL","fly","motion","manner","bipartite","suppletion","no","also jump"
+963,"tonk1249","Tonkawa","daclo· ~ cilwe-","SG ~ PL","wander","motion","manner","bipartite","suppletion","no",
+964,"tonk1249","Tonkawa","ha·- ~ da·-","SG ~ PL","move","motion",,"bipartite","suppletion","no","not an independent verb root, but combines with other elements to make many verbs"
+965,"tonk1249","Tonkawa","ya·de- ~ 'eida-","SG ~ PL","come","motion","deictic","bipartite","suppletion","no",
+966,"tuni1252","Tunica","-sa ~ -tani","SG ~ PL","come","motion","deictic","bipartite","suppletion","no",
+967,"tuni1252","Tunica","-ya/-wa ~ -laši","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+968,"uppe1439","Upper Chehalis","wə́q̓- ~ ʔax̣ʷá-","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+969,"uppe1439","Upper Chehalis","yə́lkʷ- ~ sə́p-","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no",
+970,"uppe1439","Upper Chehalis","yə́p- (?) ~ t̓ə́yc̓-","SG ~ PL","walk","motion","manner","bipartite","suppletion","no","also travel"
+971,"urni1239","Urningangg","-rly ~ -ny","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+972,"wapp1239","Wappo","(kúwɛ) hokúwala ~ holɛ́aya","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+973,"wapp1239","Wappo","hotcɔ́hala ~ hotcó'mɛ","SG ~ PL","walk","motion","manner","bipartite","suppletion","no",
+974,"wapp1239","Wappo","púliya ~ hosíwɛlki","SG ~ PL","go away","motion","deictic","bipartite","suppletion","no",
+975,"wapp1239","Wappo","ts'ulɛ́'sɛ ~ pɔ́kci","SG ~ PL","come out","motion","deictic; directional","bipartite","suppletion","no",
+976,"wari1268","Wari","hwet ~ hwerehwet","SG ~ PL","approach/leave/appear","motion",,"bipartite","regular",,"-rV(CV)- infixation"
+977,"wari1268","Wari","mao ~ mama'","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+978,"wari1268","Wari","mo ~ yein/yeriyein, iriyein","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+979,"wari1268","Wari","napat, yapat ~ naparapat, yaparapat","SG ~ PL","walk through bush","motion",,"bipartite","regular",,"-rV(CV)- infixation"
+980,"wari1268","Wari","pan kam ~ pan karakam","SG ~ PL","swim across","motion",,"bipartite","regular",,"-rV(CV)- infixation"
+981,"wari1268","Wari","pan' ~ kamara'","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no",
+982,"wari1268","Wari","tahwet, tahet ~ tahwerehwet, tarehet","SG ~ PL","come out of the bush/leave","motion",,"bipartite","regular",,"-rV(CV)- infixation"
+983,"wari1268","Wari","takam' ~ takarakam'","SG ~ PL","cross","motion",,"bipartite","regular",,"-rV(CV)- infixation"
+984,"wari1268","Wari","taki' ~ toin","SG ~ PL","fly","motion","manner","bipartite","suppletion","no",
+985,"wari1268","Wari","tapan ~ taparapan","SG ~ PL","climb","motion",,"bipartite","regular",,"-rV(CV)- infixation"
+986,"wari1268","Wari","wa' ~ tan'","SG ~ PL","arrive","motion","deictic","bipartite","suppletion","no",
+987,"wari1268","Wari","weo ~ wereweo","SG ~ PL","cross","motion",,"bipartite","regular",,"-rV(CV)- infixation"
+988,"wari1268","Wari","xut, tut ~ xuruxut, turutut","SG ~ PL","walk","motion","manner","bipartite","regular",,"-rV(CV)- infixation"
+989,"wash1253","Washo","k̓uyéʔeš ~ šíʔiš","SG ~ PL","swim","motion","manner","bipartite","suppletion","no","same plural form as 'fly', and similar sg form (prefix difference)"
+990,"wash1253","Washo","múʔuš ~ yeŋíʔiš","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+991,"wash1253","Washo","piti ~ diti","SG ~ PL","fall off","motion","directional; manner; deictic","bipartite","suppletion","no",
+992,"wash1253","Washo","piwe ~ heti","SG ~ PL","fall over","motion","directional; manner","bipartite","suppletion","no",
+993,"wash1253","Washo","yéʔeš ~ šíʔiš","SG ~ PL","fly","motion","manner","bipartite","suppletion","no",
+994,"west2632","Western Keres","-'jíy̓u0(N) ~ -qáiy̓u ~ -áay̓u","SG ~ DU ~ PL","fly","motion","manner","tripartite","suppletion","no",
+995,"west2632","Western Keres","-âanaẓədeyaW ~ -qjéeyáan ~ -jéʔegúy̓a","SG ~ DU ~ PL","walk","motion","manner","tripartite","suppletion","no","be walking in the grammar"
+996,"west2632","Western Keres","-ə:'dyaaN ~ -âaʔadyaaN ~ (unattested)","SG ~ DU ~ PL","step down","motion","directional","tripartite","suppletion","no",
+997,"west2632","Western Keres","-əyaN ~ -a̓ayaN ~ -jéeyaN","SG ~ DU ~ PL","climb","motion","manner","tripartite","suppletion","no",
+998,"west2632","Western Keres","-jaʔac̓íN ~ -âaʔác̓iN ~ -jéedyuB","SG ~ DU ~ PL","arrive","motion","deictic","tripartite","suppletion","no",
+999,"west2632","Western Keres","-jípəteeʔedyə ~ -qápəteeʔepədyə ~ -qjiépəteeʔedyəM-eeD","SG ~ DU ~ PL","rise","motion",,"tripartite","suppletion","no",
+1000,"west2632","Western Keres","-Júyádyu ~ -qáiyádyu ~ -áiẓádyu","SG ~ DU ~ PL","pass by","motion","directional","tripartite","suppletion","no",
+1001,"west2632","Western Keres","-u̓:bəN ~ -âaʔabəN ~ -je̓ebəN","SG ~ DU ~ PL","enter","motion","directional","tripartite","suppletion","no",
+1002,"west2632","Western Keres","-û:m̓əN ~ -ûum̓əN ~ -jêem̓əN","SG ~ DU ~ PL","leave","motion","deictic","tripartite","suppletion","no",
+1003,"west2632","Western Keres","-ûuẓaʔabəN ~ -a̓uẓa̓abəN ~ -qje̓eẓa̓abəN-iiD","SG ~ DU ~ PL","fall in","motion","directional; manner","tripartite","suppletion","no","this may be derived predictably from 'fall off' or vice versa"
+1004,"west2632","Western Keres","-ûuẓaʔač̓a ~ -a̓uẓa̓ač̓a ~ (unattested)","SG ~ DU ~ PL","fall off","motion","directional; manner; deictic","tripartite","suppletion","no","this may be derived predictably from 'fall in' or vice versa"
+1005,"west2632","Western Keres","zu̓u- ~ -qje̓eyup̓ ~ -jeʔéguY","SG ~ DU ~ PL","go","motion","deictic","tripartite","suppletion","no",
+1006,"wich1260","Wichita","iwaʔeha ~ kekweʔeha","SG ~ PL","fall over","motion","directional; manner","bipartite","suppletion","no",
+1007,"yana1271","Yana","ba- ~ su-...-ʔa","SG ~ PL","run","motion","manner","bipartite","suppletion","no",
+1008,"yana1271","Yana","ha- ~ han-","SG ~ PL","go (F)","motion","deictic","bipartite","suppletion","no","the go verb differentiates M and F subjects; this is a parameter that has nothing to do with sg-pl, we are entering it as two separate verbs, in order to be consistent with how we have counted posture pairs when there was several sg roots for sit, stand and/or lie but one plural form only,"
+1009,"yana1271","Yana","hii- ~ pii-","SG ~ PL","go, move","motion",,"bipartite","suppletion","no","also move; hii- vs yaa- in Mithun (2022:387)"
+1010,"yana1271","Yana","ni- ~ han-","SG ~ PL","go (M)","motion","deictic","bipartite","suppletion","no","the go verb differentiates M and F subjects; this is a parameter that has nothing to do with sg-pl, we are entering it as two separate verbs, in order to be consistent with how we have counted posture pairs when there was several sg roots for sit, stand and/or lie but one plural form only,"
+1011,"yaqu1251","Yaqui","buite (or wante?) ~ tenne","SG ~ PL","run (away)","motion","manner","bipartite","suppletion","no",
+1012,"yaqu1251","Yaqui","kibake ~ kiimu","SG ~ PL","enter","motion","directional","bipartite","suppletion","no",
+1013,"yaqu1251","Yaqui","síme ~ sája, saka","SG ~ PL","go","motion","deictic","bipartite","suppletion","no","Also derives 'carry' with nuk-"
+1014,"yaqu1251","Yaqui","weama ~ rejte","SG ~ PL","go to/walk","motion","deictic","bipartite","suppletion","no",
+1015,"yaqu1251","Yaqui","weche ~ watte","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no",
+1016,"yaqu1251","Yaqui","weye ~ kaate","SG ~ PL","walk","motion","manner","bipartite","suppletion","no",
+1017,"yaqu1251","Yaqui","yepsa ~ yaja","SG ~ PL","arrive","motion","deictic","bipartite","suppletion","no",
+1018,"yaum1237","Yau (Morobe Province)","na, ga, tan ~ handan","SG ~ PL","follow","motion","deictic","bipartite","suppletion","no",
+1019,"yuch1247","Yuchi","-da/-sha/-thla ~ -fe","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+1020,"yuch1247","Yuchi","-de ~ -õ","SG ~ PL","fly","motion","manner","bipartite","suppletion","no",
+1021,"yuch1247","Yuchi","-wi ~ -yã","SG ~ PL","fall","motion","directional; manner","bipartite","suppletion","no",
+1022,"yura1255","Yuracaré","chittu ~ chitchi","SG ~ PL","cross","motion","directional","bipartite","regular",,
+1023,"yura1255","Yuracaré","dele - ñeta","PAUCAL ~ MANY","fall","motion","directional; manner","bipartite","suppletion","no",
+1024,"yura1255","Yuracaré","mala ~ bali","SG ~ PL","go","motion","deictic","bipartite","suppletion","no",
+1025,"yura1255","Yuracaré","wita ~ wiwi","SG ~ PL","arrive","motion","deictic","bipartite","regular",,
+1026,"yura1255","Yuracaré","yupa ~ yupata","SG ~ PL","go in","motion","directional","bipartite","suppletion","no",
+1027,"yuro1248","Yurok","neskwec ~ nuʔm","INDIVIDUAL ~ COLLECTIVE","arrive","motion","deictic","bipartite","suppletion","no",
+1028,"zuni1245","Zuni","‘ana- ~ ‘utula-","SG ~ PL","run away","motion","manner; deictic","bipartite","suppletion","no",
+1029,"coah1252","Coahuilteco","? ~ č-ak-ōy","SG ~ PL","hear","perception",,"bipartite","regular",,"-ak- infix"
+1030,"guah1255","Guahibo","nahume-ta ~ nahume-ba","SG ~ PL","make oneself audible","perception",,"bipartite","regular",,"ta ~ ba (se faire entendre)"
+1031,"wapp1239","Wappo","otaí'mi ~ hotcɛ́ti","SG ~ PL","sing","emission",,"bipartite","suppletion","no",
+1032,"west2632","Western Keres","-am̓áṣaN ~ (REG) ~ -âam̓áṣaN","SG ~ DU ~ PL","speak up","emission",,"tripartite","suppletion","no",
+1033,"west2632","Western Keres","-án̓aat̓aN ~ -qáan̓ikuya ~ -qáan̓a","SG ~ DU ~ PL","say","emission",,"tripartite","suppletion","no",
+1034,"west2632","Western Keres","-'a̓ka̓aN ~ (REG) ~ -'a̓ka̓aN-iiD","SG ~ DU ~ PL","hear","perception",,"tripartite","suppletion","no",
+1035,"west2632","Western Keres","-áač̓a̓aẓa ~ (REG) ~ -qáača̓aẓaSD-eeD","SG ~ DU ~ PL","listen","perception",,"tripartite","suppletion","no",
+1036,"west2632","Western Keres","-Juy̓áibaaD(N) ~ (REG) ~ -ûwát̓yáibaaD(N)","SG ~ DU ~ PL","look for","perception",,"tripartite","suppletion","no",
+1037,"wich1260","Wichita","wakʔa ~ wahaʔa","SG ~ PL","say","emission",,"bipartite","suppletion","no",
+1038,"yana1271","Yana","ʒaali ~ halaimic'i","SG ~ PL","laugh","emission",,"bipartite","suppletion","no","also in Mithun (2022:387)"
+1039,"nung1290","Wubuy","na ~ mulu=na","INDIVIDUAL ~ COLLECTIVE","see","perception",,"bipartite","regular",,"mulunᶢ"
+1040,"alse1251","Alsea-Yaquina","piltku ~ pil","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1041,"alse1251","Alsea-Yaquina","płu ~ squl","SG ~ PL","tsa","posture",,"bipartite","suppletion","no",
+1042,"ariz1237","Arizona Tewa","‘En, soge ~ k’wón, k’wóódi","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1043,"ariz1237","Arizona Tewa","hȨ’Ȩ na-kyan ~ saa","SG ~ PL","stand up","posture",,"bipartite","suppletion","no",
+1044,"ariz1237","Arizona Tewa","k’ó, k’wíí ~ k’wón, k’wóódi","SG ~ PL","lie","posture",,"bipartite","suppletion","no",
+1045,"buru1296","Burushaski","dé-yáš-/d-yáš- ~ dé-yáša-/d-yáša","SG ~ PL","get up","posture",,"bipartite","regular",,"also quarrel"
+1046,"buru1296","Burushaski","hurút ~ hurúča","SG ~ PL","sit","posture",,"bipartite","regular",,
+1047,"cahu1264","Cahuilla","qál ~ hem-wén","INDIVIDUAL ~ COLLECTIVE","lying flat","posture",,"bipartite","suppletion","no","also located"
+1048,"cher1273","Cherokee","oohla ~ na","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1049,"cher1273","Cherokee","tooka ~ tóòna","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1050,"chim1301","Chimariko","-wo- ~ -pat-","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1051,"choc1276","Choctaw","bača:ya ~ ?","? ~ ?","stretch out in an horizontal plane","posture",,"?","regular",,
+1052,"choc1276","Choctaw","binili ~ či:ya ~ binohli","SG ~ DU ~ PL","sit down","posture",,"tripartite","suppletion","no",
+1053,"choc1276","Choctaw","hiki:ya- ~ hi:li ~ hiyohli","SG ~ DU ~ PL","stand up","posture",,"tripartite","regular",,
+1054,"choc1276","Choctaw","itto:la-~ ka:ha- ~ kaha-","SG ~ DU ~ PL","lie down","posture",,"tripartite","suppletion","no",
+1055,"choc1276","Choctaw","lapa:li ~ ?","? ~ ?","to be against a vertical surface","posture",,"?","regular",,
+1056,"choc1276","Choctaw","lipi-a ~ lip-kači","SG ~ PL","lie face down","posture",,"bipartite","regular",,
+1057,"choc1276","Choctaw","taka:li ~ tak-oh-li","SG ~ PL","be hanging up","posture",,"bipartite","regular",,
+1058,"choc1276","Choctaw","tala-a ~ tal-oh-a","SG ~ PL","be right-side up","posture",,"bipartite","regular",,
+1059,"chin1286","Clatsop-Shoalwater Chinook","-tx̣uit ~ -xēna","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1060,"coma1245","Comanche","habiitʉ, hapi (charney) ~ kwabitʉ, kwapi (charney)","SG ~ PL","lie down","posture",,"bipartite","suppletion","no",
+1061,"coma1245","Comanche","karʉkatʉ ~ yʉkwi(itʉ)","SG ~ PL","sit down","posture",,"bipartite","suppletion","no","also stay"
+1062,"coma1245","Comanche","yukarʉrʉ ~ yuuyʉkwitʉ","SG ~ PL","sit still","posture",,"bipartite","regular",,"reduplication"
+1063,"cree1270","Creek","a-cákh-i: ~ a-cakcah-í:","SG ~ PL","(one) sticking in (a wall)","posture",,"bipartite","regular",,"C1V1 reduplication"
+1064,"cree1270","Creek","a-leyk-itá ~ a-leylak-itá (‘to sit here and there’)","SG ~ PL","(one / here and there) to sit at, sit on a wall","posture",,"bipartite","regular",,"C1V1 reduplication"
+1065,"cree1270","Creek","atáɬk-i: ~ ataɬtak-i:","SG ~ PL","(be) hanging","posture",,"bipartite","regular",,"C1V1 reduplication"
+1066,"cree1270","Creek","comok-itá ~ comolcok-íta","SG ~ PL","stoop over","posture",,"bipartite","regular",,"C1V1 reduplication"
+1067,"cree1270","Creek","fánk-i: ~ fanfak-i","SG ~ PL","sticking out","posture",,"bipartite","regular",,"C1V1 reduplication"
+1068,"cree1270","Creek","hoyɬ-itá ~ siho:k-itá ~ sapakl-itá","SG ~ DU ~ PL","stand","posture",,"tripartite","suppletion","no",
+1069,"cree1270","Creek","ley-k-itá ~ ka:-k-itá ~ apo:-k-itá","SG ~ DU ~ PL","sit","posture",,"tripartite","suppletion","no",
+1070,"cree1270","Creek","wak-ic-itá ~ wak-ho-k-eyc-itá ~ lomh-eyc-itá","SG ~ DU ~ PL","lay","posture",,"tripartite","suppletion","no","This is derived from 'lie' but the valence morphemes are irregular so it is captured."
+1071,"cree1270","Creek","wak-k-itá ~ wak-ho-k-itá ~ lomh-itá","SG ~ DU ~ PL","lie","posture",,"tripartite","suppletion","no",
+1072,"eyak1241","Eyak","da ~ qu","SG ~ PL","sit","posture",,"bipartite","suppletion","no","also stay"
+1073,"eyak1241","Eyak","gu-LA-a:n' ~ gu-LA-'a'ch'","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1074,"eyak1241","Eyak","i:'ah ~ 'i:sid","SG ~ PL","extend","posture",,"bipartite","suppletion","no",
+1075,"eyak1241","Eyak","te ~ tu'ch'","SG ~ PL","lie prone","posture",,"bipartite","suppletion","no",
+1076,"fuln1247","Fulniô","‘kha ~ lô","SG ~ PL","lie down","posture",,"bipartite","suppletion","no",
+1077,"fuln1247","Fulniô","‘kine ~ 'xi","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1078,"nucl1302","Georgian","zi-s ~ sxed-an","SG ~ PL","sit","posture",,"bipartite","suppletion","no","be seated"
+1079,"gras1249","Grass Koiari","gura ~ raraha","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1080,"guah1255","Guahibo","eka ~ ena","SG ~ PL","sit","posture",,"bipartite","suppletion",,"also an auxiliary; ONLY SG-PL. Participant number exclusively"
+1081,"coos1249","Hanis","Lōwa'kats ~ tîla'qai, kwee'tî","SG ~ PL","sit","posture",,"bipartite","suppletion","no","also live"
+1082,"coos1249","Hanis","tsxū ~ ha'yatî","SG ~ PL","lie","posture",,"bipartite","suppletion","no",
+1083,"hida1246","Hidatsa","maagí ~ gáá","SG ~ PL","lie","posture",,"bipartite","suppletion","no",
+1084,"hida1246","Hidatsa","naagí ~ gáá","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1085,"hida1246","Hidatsa","naharéé ~ nahagáá","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1086,"hida1246","Hidatsa","nahgú ~ áhgu","SG ~ PL","be in a sitting position / sit as an auxiliary","posture",,"bipartite","suppletion","no",
+1087,"ainu1240","Hokkaido Ainu","a ~ rok","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1088,"ainu1240","Hokkaido Ainu","as ~ roski","SG ~ PL","stand","posture",,"bipartite","suppletion","no","""put up"" is derived from this verb"
+1089,"hopi1249","Hopi","haaya ~ hàyta","SG ~ PL","hang","posture",,"bipartite","regular",,
+1090,"hopi1249","Hopi","qatu ~ yeese","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1091,"hopi1249","Hopi","wunu ~ hoongi","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1092,"hupa1239","Hupa","di...ʔa ~ di...-eL","SG ~ PL","have a position","posture",,"bipartite","suppletion","no","maybe ""extend out from"""
+1093,"hupa1239","Hupa","si-...-yen ~ de-si-...-l-ya","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1094,"hupa1239","Hupa","ten ~ tetc","SG ~ PL","lie down","posture",,"bipartite","suppletion","no",
+1095,"hupa1239","Hupa","ʔan ~ la","SG ~ PL","lie motionless","posture",,"bipartite","suppletion","no",
+1096,"imon1245","Imonda","afö ~ afõ-fia","SG ~ PL","sit down","posture",,"bipartite","suppletion","no","note that there is an almost regular pattern (with the 'sit down' verb) with a suffix -fia, but the root is eroded when the suffix attaches to the 'sit' verb, and not with 'sit down'"
+1097,"imon1245","Imonda","ale ~ a-fia","SG ~ PL","sit","posture",,"bipartite","suppletion","no","note that there is an almost regular pattern (with the 'sit down' verb) with a suffix -fia, but the root is eroded when the suffix attaches to the 'sit' verb, and not with 'sit down'"
+1098,"imon1245","Imonda","li ~ alõh","SG ~ PL","lie","posture",,"bipartite","suppletion","no",
+1099,"imon1245","Imonda","lõh ~ lëfah","PAUCAL ~ MANY","stand","posture",,"bipartite","suppletion","no",
+1100,"ingu1240","Ingush","d.udzh ~ d.uush","SG ~ PL","lie PERF","posture",,"bipartite","suppletion","no",
+1101,"ingu1240","Ingush","ott ~ out","SG ~ PL","stand up","posture",,"bipartite","regular",,
+1102,"ingu1240","Ingush","ull ~ d.aada","SG ~ PL","lie IMPF","posture",,"bipartite","suppletion","no",
+1103,"ingu1240","Ingush","ull ~ uxk","SG ~ PL","lie","posture",,"bipartite","regular",,
+1104,"ingu1240","Ingush","xou ~ xoush","SG ~ PL","sit down","posture",,"bipartite","suppletion","no",
+1105,"djam1255","Jaminjung-Ngaliwurru","darrmarr ~ jalalang","SG ~ PL","hang","posture",,"bipartite","suppletion","no",
+1106,"djam1255","Jaminjung-Ngaliwurru","lula ~ mugurn","SG ~ PL","lie","posture",,"bipartite","suppletion","no","also sleep"
+1107,"djam1255","Jaminjung-Ngaliwurru","warrb ~ waga","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1108,"karo1304","Karok","ikri ~ ʔina ~ ʔararahigih","SG ~ DU ~ PL","sit","posture",,"tripartite","suppletion","no","also live"
+1109,"kash1280","Kashaya","ca- ~ hihkoc","SG ~ PL","sit on ground","posture",,"bipartite","suppletion","no",
+1110,"kash1280","Kashaya","cohto- ~ qoᵒla-, qolataᵒd-, qohqᵒo-","SG ~ PL","stand (as tree)","posture",,"bipartite","suppletion","no","Plurals distinguish group/not in a group/unspecified"
+1111,"kash1280","Kashaya","cuma- ~ hihkom-","SG ~ PL","sit on platform","posture",,"bipartite","suppletion","no",
+1112,"kash1280","Kashaya","hcʰil- ~ siwiᵒc-","SG ~ PL","hang","posture",,"bipartite","suppletion","no",
+1113,"kash1280","Kashaya","miṭi- ~ baṭi-","SG ~ PL","lie","posture",,"bipartite","suppletion","no",
+1114,"kash1280","Kashaya","nt'et- ~ qohqʰo-","SG ~ PL","stand (on feet)","posture",,"bipartite","suppletion","no",
+1115,"kett1243","Ket","t/b?-qut ~ t/b?-damin","SG ~ PL","lie down","posture",,"bipartite","regular",,"0 ~ d"
+1116,"kiow1266","Kiowa","ą́·gyà ~ k'úl","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1117,"kiow1266","Kiowa","k'ɔ́· (có·-) ~ k'úl (~kóp, kú·-)","SG ~ PL","lie","posture",,"bipartite","suppletion","no","note that the form is almost the same as 'lay'"
+1118,"kitj1240","Kitja","rurt ~ rurrjip","PAUCAL ~ MANY","sit","posture",,"bipartite","suppletion","no",
+1119,"kitj1240","Kitja","that ~ thayarr, thaarr","PAUCAL ~ MANY","stand","posture",,"bipartite","suppletion","no",
+1120,"klam1254","Klamath-Modoc","čv  ~ wa:","SG/PAUCAL? ~ PL/MANY?","sit/live/stay","posture",,"bipartite","suppletion","no","Barker 1964 states that singular~plural is the most common alternation, but some examples of ""paucative"" number are found as well. It is unclear which verb pairs are paucative."
+1121,"klam1254","Klamath-Modoc","mpet' ~ lmey","SG/PAUCAL? ~ PL/MANY?","float","posture",,"bipartite","suppletion","no","Barker 1964 states that singular~plural is the most common alternation, but some examples of ""paucative"" number are found as well. It is unclear which verb pairs are paucative."
+1122,"klam1254","Klamath-Modoc","sqol ~ lol'all'ga","SG/PAUCAL? ~ PL/MANY?","lie down","posture",,"bipartite","suppletion","no","Barker 1964 states that singular~plural is the most common alternation, but some examples of ""paucative"" number are found as well. It is unclear which verb pairs are paucative."
+1123,"klam1254","Klamath-Modoc","tg- ~ lw'lw- ~ logn-","SG ~ PAUCAL ~ MANY","stand","posture",,"tripartite","suppletion","no",
+1124,"koas1236","Koasati","cokkó:lin ~ cikkí:kan ~ i:san","SG ~ DU ~ PL","sit","posture",,"tripartite","suppletion","no",
+1125,"koas1236","Koasati","haccá:lin ~ hikkí:lin ~ lokkó:lin","SG ~ DU ~ PL","stand","posture",,"tripartite","suppletion","no",
+1126,"kwak1269","Kwakʼwala","k̓ʷa- ~ k̓ʷəs-","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1127,"kwak1269","Kwakʼwala","ƛaxʷ- ~ ƛaxʷƛəxʷ-, ƛaxʷƛa-, ƛaxʷƛo-, ƛiƛaxʷ- (mostly morphophonological alternation)","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1128,"kwaz1243","Kwaza","bu?ũ'rjỹ- ~ bu?ũmũ'rjỹ","SG ~ PL","sit","posture",,"bipartite","suppletion","no","probably related to 'lie down'"
+1129,"kwaz1243","Kwaza","ũi- ~ u'mũi-","SG ~ PL","lie down","posture",,"bipartite","suppletion","no",
+1130,"laal1242","Laal","cī ~ cìnyì","SG ~ PL","stand up","posture",,"bipartite","suppletion","no","X / [low] + nyì"
+1131,"laal1242","Laal","gàl ~ gɨ̀l","SG ~ PL","hang","posture",,"bipartite","regular",,"a > ɨ / i"
+1132,"laal1242","Laal","ɨ́ny ~ ɨ́nyì","SG ~ PL","sit","posture",,"bipartite","regular",,"0 / -i"
+1133,"laal1242","Laal","sāg ~ sə̄gī","SG ~ PL","stand","posture",,"bipartite","regular",,"0 / -i"
+1134,"laal1242","Laal","tɨ̄n ~ tɨ̀nì","SG ~ PL","lie (down)","posture",,"bipartite","regular",,"0 / -i"
+1135,"jama1261","Madi","-forI- ~ mata-na- ~ soo (to-)na(-sa)","SG ~ DU ~ PL","lie on surface","posture",,"tripartite","suppletion","no",
+1136,"jama1261","Madi","-homa- ~ mata-na- ~ soo (to-)na(-sa)","SG ~ DU ~ PL","lie on ground","posture",,"tripartite","suppletion","no",
+1137,"jama1261","Madi","-ita- ~ joro -na- / teme -na- ~ -naho- (anim) / sii -na- (inan)","SG ~ DU ~ PL","sit/stay","posture",,"tripartite","suppletion","no",
+1138,"jama1261","Madi","-wa(a)- ~ joro -na- / teme -na- ~ -naho- (anim) / sii -na- (inan)","SG ~ DU ~ PL","stand","posture",,"tripartite","suppletion","no",
+1139,"jama1261","Madi","-wina- ~ -wata- ~ -wina-","SG ~ DU ~ PL","hang","posture",,"tripartite","suppletion","no","Note that singular and plural are the same while dual differs"
+1140,"jama1261","Madi","hofa-/-fowa- ~ mata-na- ~ soo (to-)na(-sa)","SG ~ DU ~ PL","lie on water","posture",,"tripartite","suppletion","no",
+1141,"mali1285","Malinaltepec Meʼphaa","-wraka ~ šprigu:","SG ~ PL","hang","posture",,"bipartite","suppletion","no","being hung up on"
+1142,"mali1285","Malinaltepec Meʼphaa","gun' ~ kwihya:n","SG ~ PL","sit","posture",,"bipartite","suppletion","no","be seated"
+1143,"mari1440","Maricopa","dik ~ daw ~ tiiv","SG ~ DU ~ PL","lie","posture",,"tripartite","suppletion","no",
+1144,"mari1440","Maricopa","v'aw ~ uuv'o ~ vuu'osh","SG ~ DU ~ PL","stand","posture",,"tripartite","suppletion","no",
+1145,"mari1440","Maricopa","va ~ daw ~ tiiv","SG ~ DU ~ PL","sit","posture",,"tripartite","suppletion","no",
+1146,"nucl1622","Marind","ambid ~ haman","SG ~ PL","sit down","posture",,"bipartite","suppletion","no",
+1147,"nucl1622","Marind","atin ~ waɣaman","SG ~ PL","stand up","posture",,"bipartite","suppletion","no",
+1148,"nucl1622","Marind","ɣali ~ hok","SG ~ PL","lie down","posture",,"bipartite","suppletion","no",
+1149,"nucl1622","Marind","itala ~ waɣamat-a","SG ~ PL","be standing","posture",,"bipartite","suppletion","no","plural form derived from 'stand up'"
+1150,"nucl1622","Marind","mil ~ hamat-a","SG ~ PL","be sitting","posture",,"bipartite","suppletion","no","plural form derived from 'sit down'"
+1151,"nucl1622","Marind","tel ~ hok-a","SG ~ PL","be lying","posture",,"bipartite","suppletion","no","plural derived from 'lie down'"
+1152,"mats1244","Matsés","diad ~ didique","PAUCAL ~ MANY","hang","posture",,"bipartite","suppletion","no",
+1153,"mats1244","Matsés","nid ~ tabad","PAUCAL ~ MANY","stand","posture",,"bipartite","suppletion","no",
+1154,"mats1244","Matsés","ue ~ samëd","PAUCAL ~ MANY","lie","posture",,"bipartite","suppletion","no",
+1155,"maxa1247","Maxakalí","xup ~ gtetex","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1156,"maxa1247","Maxakalí","yũhũm ~ mãhãm","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1157,"saki1248","Mekens","tat ~ taa","INDIVIDUAL ~ COLLECTIVE","stand","posture",,"bipartite","suppletion","no",
+1158,"saki1248","Mekens","top ~ toa","INDIVIDUAL ~ COLLECTIVE","lie","posture",,"bipartite","suppletion","no",
+1159,"saki1248","Mekens","yẽt ~ yã","INDIVIDUAL ~ COLLECTIVE","sit","posture",,"bipartite","suppletion","no",
+1160,"mezo1235","Mezontla Popoloca","thākʔè ~ thèxú","SG ~ PL","sit/become","posture",,"bipartite","suppletion","no",
+1161,"mull1237","Mullukmulluk","tikal ~ tikalal","SG ~ PL","lie down","posture",,"bipartite","regular",,"There are two verbs translated as 'lie down'"
+1162,"mull1237","Mullukmulluk","tʸɛt ~ tʸɛřat","SG ~ PL","stand","posture",,"bipartite","regular",,"also be born"
+1163,"mull1237","Mullukmulluk","yur ~ yurur","SG ~ PL","lie down","posture",,"bipartite","regular",,"There are two verbs translated as 'lie down'"
+1164,"nava1243","Navajo","daaɬ ~ keeɬ ~ biiɬ","SG ~ DU ~ PL","sit","posture",,"tripartite","suppletion","no",
+1165,"nava1243","Navajo","tééɬ ~ tish ~ jah","SG ~ DU ~ PL","lie down","posture",,"tripartite","suppletion","no",
+1166,"nisg1240","Nisgaʼa","hítkʷ ~ máqskʷ","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1167,"nisg1240","Nisgaʼa","skʸí ~ tóx̌","SG ~ PL","lie","posture",,"bipartite","suppletion","no",
+1168,"nisg1240","Nisgaʼa","t̓á· ~ wán","SG ~ PL","sit","posture",,"bipartite","suppletion","no","also exist"
+1169,"nisg1240","Nisgaʼa","y̓áq ~ lískʷ","SG ~ PL","hang","posture",,"bipartite","suppletion","no",
+1170,"nort2942","North Slavey","whida ~ whɪkee ~ ts'edehkw'i","SG ~ PAUCAL ~ PL","sit","posture",,"tripartite","suppletion","no","be seated"
+1171,"nort2954","Northern Paiute","hapi ~ kwapi ~ pokwa, wakwapi","SG ~ DU ~ PL","lie","posture",,"tripartite","suppletion","no",
+1172,"nort2954","Northern Paiute","katɨ ~ [k]yɨgwi ~ aataʔa","SG ~ DU ~ PL","sit","posture",,"tripartite","suppletion","no",
+1173,"nort2954","Northern Paiute","wɨnnɨ ~ wammi ~ kono","SG ~ DU ~ PL","stand","posture",,"tripartite","suppletion","no",
+1174,"sand1273","Sandawe","hǎ:kíts'ì̥ ~ hǎ:nàkí","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1175,"sand1273","Sandawe","ⁿǁúmé ~ ɬé:","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1176,"shas1239","Shasta","ak̓a ~ e·ruk̓a","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1177,"shas1239","Shasta","aki· ~ a·cwiki","SG ~ PL","lean","posture",,"bipartite","suppletion","no",
+1178,"shas1239","Shasta","is·a· ~ ará·","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1179,"sier1250","Sierra de Juárez Zapotec","cué'ni, thúání ~ xúaní","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1180,"sier1250","Sierra de Juárez Zapotec","thú ~ tháà","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1181,"juho1239","South-Eastern Ju","cú ~ gǂà","SG ~ PL","lie","posture",,"bipartite","suppletion","no",
+1182,"juho1239","South-Eastern Ju","n!ún ~ gǁà","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1183,"juho1239","South-Eastern Ju","nǀáng ~ g!hòó","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1184,"juho1239","South-Eastern Ju","ǁu ~ gǁao","SG ~ PL","hang","posture",,"bipartite","suppletion","no",
+1185,"sout2982","Southeastern Pomo","kbi ~ x̥qo + b","SG ~ PL","sit down","posture",,"bipartite","suppletion","no",
+1186,"sout2982","Southeastern Pomo","kto ~ no ~ blo","SG ~ DU ~ PL","stand (long object)","posture",,"tripartite","suppletion","no",
+1187,"sout2982","Southeastern Pomo","mt̥i ~ bt̥i ~ x̥qo","SG ~ DU ~ PL","lie (long object)","posture",,"tripartite","suppletion","no",
+1188,"sout2982","Southeastern Pomo","sca ~ mye ~ blo","SG ~ DU ~ PL","sit (non-long object)","posture",,"tripartite","suppletion","no",
+1189,"nucl1649","Southern Coastal Tsimshian","bat- ~ max-","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1190,"nucl1649","Southern Coastal Tsimshian","nook ~ laałk, lełk","SG ~ PL","lie","posture",,"bipartite","suppletion","no",
+1191,"nucl1649","Southern Coastal Tsimshian","t̓aa ~ wan","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1192,"sout2956","Southern Haida","taay ~ q'aaw","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1193,"sume1241","Sumerian","dúr ~ durun","SG ~ PL","sit (PERF)","posture",,"bipartite","suppletion","no",
+1194,"sume1241","Sumerian","gub ~ šu(4).g/su(8).g","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1195,"sume1241","Sumerian","tuš ~ durun","SG ~ PL","sit (IMPF)","posture",,"bipartite","suppletion","no",
+1196,"tabo1241","Tabo","emede ~ emedeho ~ ahidi, gagahidi","SG ~ DU ~ PL","sit","posture",,"tripartite","suppletion","no",
+1197,"take1257","Takelma","s·uᵊal-sit ~ al-xaliⁱ","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1198,"take1257","Takelma","sas- ~ sal-xogw","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1199,"teri1250","Teribe","buk ~ löng","SG ~ PL","lie","posture",,"bipartite","suppletion","no",
+1200,"teri1250","Teribe","jong ~ löng","SG ~ PL","stand permanently","posture",,"bipartite","suppletion","no",
+1201,"teri1250","Teribe","pang ~ löng","SG ~ PL","hang","posture",,"bipartite","suppletion","no",
+1202,"teri1250","Teribe","shäng ~ löng","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1203,"teri1250","Teribe","sök ~ löng","SG ~ PL","sit, live","posture",,"bipartite","suppletion","no",
+1204,"tlin1245","Tlingit",".a ~ ḵi","SG ~ PL","sitting","posture",,"bipartite","suppletion","no",
+1205,"tlin1245","Tlingit","han ~ naḵ","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1206,"tlin1245","Tlingit","nuk ~ ḵi","SG ~ PL","sit down","posture",,"bipartite","suppletion","no",
+1207,"tlin1245","Tlingit","taʰ ~ x̱exʼw","SG ~ PL","lie","posture",,"bipartite","suppletion","no",
+1208,"toho1245","Tohono Oʼodham","ká·c ~ wé·c","SG ~ PL","lie (inan)","posture",,"bipartite","suppletion","no",
+1209,"toho1245","Tohono Oʼodham","wóʔǒ ~ wópǐ","SG ~ PL","lie (anim)","posture",,"bipartite","suppletion","no",
+1210,"tonk1249","Tonkawa","heilab-e·- ~ hendoc-e·-","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1211,"tonk1249","Tonkawa","ye ~ yakca","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1212,"uppe1439","Upper Chehalis","cakʷí- ~ q̓ʷá·ƛ̓a-","SG ~ PL","lie/put down","posture",,"bipartite","suppletion","no",
+1213,"uppe1439","Upper Chehalis","tawílš- ~ laʔk̓ʷ- (lakʷa- ?)","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1214,"uppe1439","Upper Chehalis","ʔúcax̣ʷ- ~ c̓əláp-","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1215,"wapp1239","Wappo","hɔ́lkɛ ~ lɛ́pukɛ","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1216,"wapp1239","Wappo","múkuki ~ keɪ́ki","SG ~ PL","lie","posture",,"bipartite","suppletion","no",
+1217,"wapp1239","Wappo","yɔ́'ɛkɛ ~ háwekɛ","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1218,"wari1268","Wari","ho, hoho ~ horoho","SG ~ PL","float","posture",,"bipartite","regular",,"-rV(CV)- infixation"
+1219,"wari1268","Wari","pokom ~ pokorom","SG ~ PL","be submerged","posture",,"bipartite","regular",,"-rV(CV)- infixation; categorized as posture rather than location due to the very large number of other posture verbs"
+1220,"wari1268","Wari","terem' ~ toko'","SG ~ PL","lie down","posture",,"bipartite","suppletion","no",
+1221,"wari1268","Wari","wa ~ warawa","SG ~ PL","hang","posture",,"bipartite","regular",,"-rV(CV)- infixation"
+1222,"wari1268","Wari","xat ~ koko'","SG ~ PL","stand","posture",,"bipartite","suppletion","no","also stop"
+1223,"wash1253","Washo","á·hu ~ gá·hu","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1224,"wash1253","Washo","macam ~ mayac","SG ~ PL","lie","posture",,"bipartite","suppletion","no",
+1225,"wash1253","Washo","ʔlúweʔ ~ gé·gel","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1226,"west2632","Western Keres","-'jígút̓a0-iṢ ~ -a̓ígút̓a0-iṢ ~ (unattested)","SG ~ DU ~ PL","lean","posture",,"tripartite","suppletion","no",
+1227,"west2632","Western Keres","-ə:čán̓iṢ ~ -a̓ičán̓iṢ ~ -qjéečán̓iṢ-iiD","SG ~ DU ~ PL","be standing","posture",,"tripartite","suppletion","no",
+1228,"west2632","Western Keres","-ə:t̓aadyəM ~ -qa̓it̓aadyəM ~ -qjêet̓aadyəM","SG ~ DU ~ PL","stand up","posture",,"tripartite","suppletion","no",
+1229,"west2632","Western Keres","-jidáaʔa ~ -a̓idáaʔa ~ (unattested)","SG ~ DU ~ PL","float","posture",,"tripartite","suppletion","no",
+1230,"west2632","Western Keres","-JíikaiD ~ (REG) ~ -jûuc̓ai","SG ~ DU ~ PL","lie down","posture",,"tripartite","suppletion","no",
+1231,"nung1290","Wubuy","bura ~ mulu-nᶢu=bura","INDIVIDUAL ~ COLLECTIVE","sit","posture",,"bipartite","regular",,"mulunᶢ"
+1232,"nung1290","Wubuy","murgulha ~ mulu=murgulha","INDIVIDUAL ~ COLLECTIVE","lie down","posture",,"bipartite","regular",,"mulunᶢ"
+1233,"yana1271","Yana","baa- ~ lai-","SG ~ PL","lie (stone-like object)","posture",,"bipartite","suppletion","yes",
+1234,"yana1271","Yana","daa- ~ mii-","SG ~ PL","lie (inanimate object)","posture",,"bipartite","suppletion","no",
+1235,"yana1271","Yana","wa- ~ yai-","SG ~ PL","sit, stay, live","posture",,"bipartite","suppletion","no","also have; derives a verb 'stand'"
+1236,"yana1271","Yana","ʒu ~ ʒai","SG ~ PL","sit","posture",,"bipartite","suppletion","no","just sit"
+1237,"yaqu1251","Yaqui","katek ~ jooka","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1238,"yaqu1251","Yaqui","kikte ~ japte","SG ~ PL","stand, stand up, stop","posture",,"bipartite","suppletion","no",
+1239,"yaqu1251","Yaqui","weyek ~ ja’abwek","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1240,"yura1255","Yuracaré","bushu ~ peta","? ~ ?","lie, lie down","posture",,"bipartite","suppletion","no",
+1241,"yura1255","Yuracaré","letu ~ lele","? ~ ?","sit down","posture",,"bipartite","regular",,
+1242,"yuro1248","Yurok","cyu:kwen ~ rek'in","INDIVIDUAL ~ COLLECTIVE","sit","posture",,"bipartite","suppletion","no",
+1243,"yuro1248","Yurok","tepon ~ roʔoh","INDIVIDUAL ~ COLLECTIVE","stand (inanimate)","posture",,"bipartite","suppletion","no","also be fixed, rooted"
+1244,"zuni1245","Zuni","‘ela- ~ ɬuwa-","SG ~ PL","stand","posture",,"bipartite","suppletion","no",
+1245,"zuni1245","Zuni","‘imo- ~ tina-","SG ~ PL","sit","posture",,"bipartite","suppletion","no",
+1246,"zuni1245","Zuni","ale ~ wɔtiye","SG ~ PL","lie","posture",,"bipartite","suppletion","no","two verbs translated as 'lie'"
+1247,"zuni1245","Zuni","čuwa- ~ wo’yo-","SG ~ PL","lie","posture",,"bipartite","suppletion","no","two verbs translated as 'lie'"
+1248,"zuni1245","Zuni","p'iyaye ~ wɔ-hanaye","SG ~ PL","hang","posture",,"bipartite","suppletion","no","causative 'hang X' derived from this"
+1249,"buru1296","Burushaski","balú- (y), -wálu- (hx) ~ wálja","SG ~ PL","lost/broke","property","human propensity","bipartite","suppletion","no",
+1250,"buru1296","Burushaski","du-ɣát- ~ du-ɣáša","SG ~ PL","be selected/put apart","property",,"bipartite","regular",,
+1251,"buru1296","Burushaski","gál ~ gálja","SG ~ PL","be broken","property",,"bipartite","regular",,
+1252,"choc1276","Choctaw","?","?","be pale-skinned","property",,"?","regular",,
+1253,"choc1276","Choctaw","?","?","be short","property",,"?","regular",,
+1254,"choc1276","Choctaw","?","?","have short hair","property",,"?","regular",,
+1255,"choc1276","Choctaw","čito ~ ho:čito","SG ~ PL","be big","property",,"bipartite","regular",,
+1256,"choc1276","Choctaw","fala-a ~ -ho-fal-oh-a-","SG ~ PL","be long","property",,"bipartite","regular",,
+1257,"choc1276","Choctaw","himitt-a ~ himitt-ho-a","SG ~ PL","be young","property","age","bipartite","regular",,
+1258,"choc1276","Choctaw","itta-toklo ~ ita-hob-a","SG ~ PL","together","property","non Dixonian","bipartite","suppletion","no","2-3+"
+1259,"choc1276","Choctaw","oš-kobo-li ~ oš-kobo-š-li","SG ~ PL","have grey hair","property",,"bipartite","regular",,
+1260,"choc1276","Choctaw","osi ~ čipõ:ta","SG ~ PL","small","property","size","bipartite","suppletion","no",
+1261,"coah1252","Coahuilteco","-nān ~ -n-ak-ān","SG ~ PL","be great","property",,"bipartite","regular",,"-ak- infix"
+1262,"coah1252","Coahuilteco","-šāyš ~ -š-ak-āyš","SG ~ PL","be bad","property","value","bipartite","regular",,"-ak- infix"
+1263,"coah1252","Coahuilteco","-šāyš ~ -š-ak-āyš","SG ~ PL","be good","property","value","bipartite","regular",,"-ak- infix"
+1264,"coah1252","Coahuilteco","-tū, tō ~ -xtāyam-kē","SG ~ PL","related","property","non Dixonian","bipartite","suppletion","no","-ke suffix plus suppletion"
+1265,"cree1270","Creek","acá:k-i: ~ aca:cak-i: ","SG ~ PL","(be) precious","property","value","bipartite","regular",,"C1V1 reduplication"
+1266,"cree1270","Creek","ahóɬk-i: ~ ahoɬhok-í:","SG ~ PL","(be) sewn","property",,"bipartite","regular",,"C1V1 reduplication"
+1267,"cree1270","Creek","cafíkn-i: ~ cafincak-í:","SG ~ PL","(be) healthy","property",,"bipartite","regular",,"C1V1 reduplication"
+1268,"cree1270","Creek","cafíkn-i: ~ cafincak-í:","SG ~ PL","(be) heavy","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1269,"cree1270","Creek","calákn-i: ~ calancak-í:","SG ~ PL","(be) mushy","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1270,"cree1270","Creek","cámp-i: ~ camcap-í:","SG ~ PL","(be) sweet","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1271,"cree1270","Creek","caníks-i: ~ caniscak-í:","SG ~ PL","(be) sideways","property",,"bipartite","regular",,"C1V1 reduplication"
+1272,"cree1270","Creek","cápk-i: ~ capcak-i:","SG ~ PL","(be) long","property","size","bipartite","regular",,"C1V1 reduplication"
+1273,"cree1270","Creek","cíkf-i: ~ cikcif-í:","SG ~ PL","(be) thick (of paper, cloth, etc)","property","size","bipartite","regular",,"C1V1 reduplication"
+1274,"cree1270","Creek","cofókn-i: ~ cofoncok-í:","SG ~ PL","(be) pointed","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1275,"cree1270","Creek","comok-itá ~ comolcok-íta","SG ~ PL","(be) bent","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1276,"cree1270","Creek","cót-k-i ~ lopóc-k-i-i","SG ~ PL","small","property","size","bipartite","suppletion","no",
+1277,"cree1270","Creek","fáck-i: ~ facfak-í:","SG ~ PL","(be) full (of a container)","property",,"bipartite","regular",,"C1V1 reduplication"
+1278,"cree1270","Creek","falíkn-i: ~ fainfak-í:","SG ~ PL","(be) lopsided","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1279,"cree1270","Creek","fámp-i: ~ famfap-í:","SG ~ PL","(be) stinking, bad-smelling","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1280,"cree1270","Creek","fásk-i ~ fasfak-í:","SG ~ PL","(be) sharp","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1281,"cree1270","Creek","fayátk-i: ~ fayatfak:í:","SG ~ PL","(be) crooked","property","physical property?","bipartite","regular",,"C1V1 reduplication"
+1282,"cree1270","Creek","háɬp-i: ~ halhaw-í:","SG ~ PL","(be) high","property",,"bipartite","regular",,"C1V1 reduplication"
+1283,"cree1270","Creek","hasátk-i: ~ hasathak-í","SG ~ PL","(be) clean","property",,"bipartite","regular",,"C1V1 reduplication"
+1284,"cree1270","Creek","hátk-i: ~ hatha-k-i:","SG ~ PL","(be) white","property","color","bipartite","regular",,"C1V1 reduplication"
+1285,"cree1270","Creek","háwk-i: ~ hawhak-í:","SG ~ PL","(be) open","property",,"bipartite","regular",,"C1V1 reduplication"
+1286,"cree1270","Creek","hayákp-i: ~ hayakyap-í:","SG ~ PL","(be) uninhabited","property",,"bipartite","regular",,"C2V2"
+1287,"cree1270","Creek","héyy-i: ~ hey-ho-y-i:","SG ~ PL","(be) hot","property","physical property","bipartite","regular",,"ho(y)/ic insertion"
+1288,"cree1270","Creek","holá:tt-i: ~ hola:thoy-í","SG ~ PL","(be) blue","property","color","bipartite","regular",,"C1V1 reduplication"
+1289,"cree1270","Creek","hopánk-i: ~ hopanhok-í","SG ~ PL","(be) broken","property",,"bipartite","regular",,"C1V1 reduplication"
+1290,"cree1270","Creek","inók-k-i: ~ inok-ho-k-í:","SG ~ PL","(be) sick","property",,"bipartite","regular",,"ho(y)/ic insertion"
+1291,"cree1270","Creek","káɬp-i: ~ kaɬkap-í:","SG ~ PL","(be) dry","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1292,"cree1270","Creek","kamóks-i: ~ kamoskak-í:","SG ~ PL","(be) sour","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1293,"cree1270","Creek","kasápp-i: ~ kasap-hoy-í:","SG ~ PL","(be) cold","property","physical property","bipartite","regular",,"ho(y)/ic insertion"
+1294,"cree1270","Creek","kocókn-i: ~ koconcok-í:","SG ~ PL","(be) short","property","size","bipartite","regular",,"C2V2"
+1295,"cree1270","Creek","lácp-i: ~ laclap-í:","SG ~ PL","(be) wet","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1296,"cree1270","Creek","lapótk-i: ~ lapotlak-í:","SG ~ PL","(be) straight (of a stick, etc)","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1297,"cree1270","Creek","lást-i: ~ laslat-i:","SG ~ PL","(be) black","property","color","bipartite","regular",,"C1V1 reduplication"
+1298,"cree1270","Creek","láwk-i: ~ lawlak-í:","SG ~ PL","(be) deep (of water)","property","physical property?","bipartite","regular",,"C1V1 reduplication"
+1299,"cree1270","Creek","likácw-i: ~ likacliw-i:","SG ~ PL","(be) dirty","property",,"bipartite","regular",,"C1V1 reduplication"
+1300,"cree1270","Creek","likóth-i: ~ likotlih-í:","SG ~ PL","(be) warm","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1301,"cree1270","Creek","líkw-i: ~ likliw-í:","SG ~ PL","(be) rotten, rusted","property","physical property?","bipartite","regular",,"C1V1 reduplication"
+1302,"cree1270","Creek","lísk-i: ~ lislik-í:","SG ~ PL","(be) old (of a thing)","property","age","bipartite","regular",,"C1V1 reduplication"
+1303,"cree1270","Creek","lowâ:k-i: ~ lowa:lok-í:","SG ~ PL","(be) limber, flexible","property","human propensity","bipartite","regular",,"C1V1 reduplication"
+1304,"cree1270","Creek","lowáck-i: ~ lowaclok-i:","SG ~ PL","(be) soft","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1305,"cree1270","Creek","ɬákk-i: ~ ɬakɬak-í:","SG ~ PL","(be) big","property","size","bipartite","regular",,"C1V1 reduplication"
+1306,"cree1270","Creek","má:h-i: ~ ma:hmay-í:","SG ~ PL","(be) tall","property","size","bipartite","regular",,"C1V1 reduplication"
+1307,"cree1270","Creek","pá:kk-i ~ pa:kpak-í:","SG ~ PL","(be) inflated","property","size? physical property?","bipartite","regular",,"C1V1 reduplication"
+1308,"cree1270","Creek","páfn-i: ~ pafpan-í:","SG ~ PL","(be) fast, quick","property","speed","bipartite","regular",,"C1V1 reduplication"
+1309,"cree1270","Creek","paták-i: ~ pata:pak-í:","SG ~ PL","(be) spread out","property",,"bipartite","regular",,"C1V1 reduplication"
+1310,"cree1270","Creek","polóks-i: ~ polospok-í:","SG ~ PL","(be) round","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1311,"cree1270","Creek","sicó:tt-i: ~ sicóco:tt-í:-n","SG ~ PL","having a tingling sensation","property",,"bipartite","regular",,"C2V2"
+1312,"cree1270","Creek","sílk-i: ~ silsik-í:","SG ~ PL","(be) sliced","property",,"bipartite","regular",,"C1V1 reduplication"
+1313,"cree1270","Creek","sófk-i: ~ sofsok-í:","SG ~ PL","(be) deep (of a hole, etc)","property","physical property?","bipartite","regular",,"C1V1 reduplication"
+1314,"cree1270","Creek","tahókn-i: ~ tahontak-í:","SG ~ PL","(be) light in weight","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1315,"cree1270","Creek","taíks-i: ~ talistak-í:","SG ~ PL","(be) flared","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1316,"cree1270","Creek","takácw-i: ~ takactaw-í:","SG ~ PL","(be) hard (of dried corn)","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1317,"cree1270","Creek","talásw-i: ~ talastaw-í: (as of pork chops)","SG ~ PL","(be) tough","property",,"bipartite","regular",,"C1V1 reduplication"
+1318,"cree1270","Creek","tánk-i: ~ tantak-í:","SG ~ PL","(be) empty","property",,"bipartite","regular",,"C1V1 reduplication"
+1319,"cree1270","Creek","táph-i: ~ taptah-í:","SG ~ PL","(be) wide","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1320,"cree1270","Creek","tapíks-i: ~ tapistak-í:","SG ~ PL","(be) flat","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1321,"cree1270","Creek","tífn-i: ~ tiftin-í:","SG ~ PL","(be) dull","property","deictic; manner","bipartite","regular",,"C1V1 reduplication"
+1322,"cree1270","Creek","tilíkm-i: ~ tilimtik-í:","SG ~ PL","(be) fine","property",,"bipartite","regular",,"C1V1 reduplication"
+1323,"cree1270","Creek","tó:sk-i: ~ to:stok-í:","SG ~ PL","(be) mangy","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1324,"cree1270","Creek","tónk-i: ~ tontok-í:","SG ~ PL","(be) trimmed (of hair, etc)","property",,"bipartite","regular",,"C1V1 reduplication"
+1325,"cree1270","Creek","topáks-i: ~ topastok-í:","SG ~ PL","(be) bland","property",,"bipartite","regular",,"C1V1 reduplication"
+1326,"cree1270","Creek","wanák-i: ~ wana:wak-í:","SG ~ PL","(be) tied","property",,"bipartite","regular",,"C1V1 reduplication"
+1327,"cree1270","Creek","wánh-i: ~ wanwah-í:","SG ~ PL","(be) hard","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1328,"cree1270","Creek","wapáks-i: ~ wapaswak-í:","SG ~ PL","(be) bloated","property",,"bipartite","regular",,"C1V1 reduplication"
+1329,"cree1270","Creek","wipíkl-i: ~ wipilwik-í:","SG ~ PL","(be) furry","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1330,"cree1270","Creek","yákp-i: ~ yakyap-í:","SG ~ PL","(be) forked","property","physical property","bipartite","regular",,"C1V1 reduplication"
+1331,"cree1270","Creek","yomóck-i: ~ yomocyok-í: (as of several rooms)","SG ~ PL","(be) dark","property","color?","bipartite","regular",,"C1V1 reduplication"
+1332,"iran1263","Irántxe-Münkü","xip- ~ ximaka-","SG ~ PL","be afraid","property",,"bipartite","regular",,
+1333,"kiow1266","Kiowa","cé- ~ cá·dó·","SG ~ PL","short","property","size","bipartite","suppletion","no",
+1334,"kiow1266","Kiowa","ét ~ bîn","SG ~ PL","big","property","size","bipartite","suppletion","no","also important"
+1335,"kiow1266","Kiowa","kyǫ́y ~ kį́·ní·","SG ~ PL","tall/long","property","size","bipartite","suppletion","no",
+1336,"kiow1266","Kiowa","syɔ́n ~ syân","SG ~ PL","small","property","size","bipartite","suppletion","no","also young"
+1337,"koas1236","Koasati","aká:non ~ aká-s-non","SG ~ PL","be hungry","property",,"bipartite","regular",,"-s- infix"
+1338,"koas1236","Koasati","imanó:kan ~ imanó-s-kan","SG ~ PL","be winded","property",,"bipartite","regular",,"-s- infix"
+1339,"koas1236","Koasati","stipi:lan ~ stipi-s-lan","SG ~ PL","be sexually attractive","property",,"bipartite","regular",,"-s- infix"
+1340,"kron1241","Krongo","àbìrí-ící ~ tìbìrí","SG ~ PL","narrow","property","size","bipartite","regular",,
+1341,"kron1241","Krongo","àfàláŋá ~ t-ìfàláŋ","SG ~ PL","large, broad","property","size","bipartite","regular",,
+1342,"kron1241","Krongo","àrìbí-ící ~ t-ìrìbí","SG ~ PL","pointy","property",,"bipartite","regular",,
+1343,"kron1241","Krongo","òbòróŋó ~ t-ìbòróŋ","SG ~ PL","big/tall","property","size","bipartite","regular",,
+1344,"kron1241","Krongo","òdòfó-óló ~ t-ìdòfó","SG ~ PL","empty","property",,"bipartite","regular",,
+1345,"kron1241","Krongo","òkùʈú-úlú","SG ~ PL","big/fat","property","size","bipartite","regular",,
+1346,"kron1241","Krongo","òtìdí-írí ~ t-ìttìdí","SG ~ PL","short","property",,"bipartite","regular",,
+1347,"kron1241","Krongo","òtòló-ókó","SG ~ PL","half full","property",,"bipartite","regular",,
+1348,"kron1241","Krongo","òʈùɲóŋó ~ t-ùʈʈùɲóŋ","SG ~ PL","dull","property",,"bipartite","regular",,
+1349,"kron1241","Krongo","t-áttéɲá ~ t-ìyéllí","SG ~ PL","small","property","size","bipartite","suppletion","no","3 ""small""s -- unknown differences"
+1350,"kron1241","Krongo","t-áʈʈéllé ~ t-ìyéllí","SG ~ PL","small","property","size","bipartite","suppletion","no","3 ""small""s -- unknown differences"
+1351,"kron1241","Krongo","t-íicì ~ t-ìifí","SG ~ PL","big","property","size","bipartite","suppletion","no",
+1352,"kron1241","Krongo","t-íiró ~ t-ìiròoró","SG ~ PL","really far/deep","property","size","bipartite","suppletion","no",
+1353,"kron1241","Krongo","t-óʈʈyó ~ t-ìyéllí","SG ~ PL","small","property","size","bipartite","suppletion","no","3 ""small""s -- unknown differences"
+1354,"laal1242","Laal","biārāg ~ bǜrùg","SG ~ PL","be broad","property","size","bipartite","regular",,"M / L[+high, +round]"
+1355,"laal1242","Laal","bōny ~ bùny","SG ~ PL","be full","property",,"bipartite","regular",,"M / L[+high, +round]"
+1356,"laal1242","Laal","ɓāgāl ~ ɓùgùl","SG ~ PL","be tough","property","physical property","bipartite","regular",,"M / L[+high, +round]"
+1357,"laal1242","Laal","ɓùùrá ~ ɓúúrá","SG ~ PL","fearful","property","human propensity","bipartite","suppletion","no","L / H"
+1358,"laal1242","Laal","cúláŋ ~ cūlŋā","SG ~ PL","be selfish","property","human propensity","bipartite","regular",,"0 / -a"
+1359,"laal1242","Laal","dɨ̄gā ~ dɨ̀g","SG ~ PL","be bad","property","value","bipartite","regular",,"-a / 0"
+1360,"laal1242","Laal","dōŋ ~ dùŋ","SG ~ PL","be long","property","size","bipartite","regular",,"M / L[+high, +round]"
+1361,"laal1242","Laal","ɗāgān ~ ɗɨ̀gɨ̀n","SG ~ PL","be heavy","property","physical property","bipartite","regular",,"M / L[+high, +round]"
+1362,"laal1242","Laal","gūdā ~ gùdùg","SG ~ PL","be big","property","size","bipartite","regular",,"M / L[+high, +round]"
+1363,"laal1242","Laal","hūūr ~ húúrá","SG ~ PL","be deaf","property",,"bipartite","regular",,"0 / -a"
+1364,"laal1242","Laal","ììr ~ ììrɨ̀m","SG ~ PL","black","property","color","bipartite","suppletion","no","-ɨ̀m"
+1365,"laal1242","Laal","jūrūg ~ jùrùg","SG ~ PL","be deep","property","size","bipartite","regular",,"M / L[+high, +round]"
+1366,"laal1242","Laal","káw ~ kɨ́w","SG ~ PL","be too few, insufficient","property","value","bipartite","regular",,"a > ɨ / i"
+1367,"laal1242","Laal","kàwlí ~ kɨ̄wlā","SG ~ PL","be a big eater (gourmand)","property","human propensity?","bipartite","suppletion","no","-a2 suffix + vowel and tone change"
+1368,"laal1242","Laal","kuārī ~ kòrì (intr)","SG ~ PL","be decorated","property",,"bipartite","regular",,"M / L[-low, +round]"
+1369,"laal1242","Laal","láá ~ dììw","SG ~ PL","small","property","size","bipartite","suppletion","no",
+1370,"laal1242","Laal","lūr ~ lūrā","SG ~ PL","be short","property","size","bipartite","regular",,"0 / -a"
+1371,"laal1242","Laal","mān ~ mùn","SG ~ PL","be good, tasty","property","value","bipartite","regular",,"M / L[+high, +round]"
+1372,"laal1242","Laal","miáám ~ méémí","SG ~ PL","be bitter","property",,"bipartite","regular",,"0 / -i"
+1373,"laal1242","Laal","miālāg ~ mǜlùg","SG ~ PL","be red","property","color","bipartite","regular",,"M / L[+high, +round]"
+1374,"laal1242","Laal","mōr ~ mùr","SG ~ PL","be tough (of meat)","property","physical property","bipartite","regular",,"M / L[+high, +round]"
+1375,"laal1242","Laal","niāār ~ nèèr","SG ~ PL","be new","property","age","bipartite","regular",,"M / L[-low, +round]"
+1376,"laal1242","Laal","nyuágár ~ nyógrìny","SG ~ PL","be destroyed","property",,"bipartite","regular",,"0 / -iny ~ -i"
+1377,"laal1242","Laal","ŋgáá ~ ŋgɨ́ɨ́","SG ~ PL","be strong, be healthy","property","human propensity","bipartite","regular",,"a > ɨ / i"
+1378,"laal1242","Laal","ŋgámál ~ ŋgə́mí","SG ~ PL","be dried (e.g. fish)","property",,"bipartite","regular",,"-Vl / -i"
+1379,"laal1242","Laal","páá ~ hóó","SG ~ PL","be white","property","color","bipartite","regular",,"M / L[-low, +round]"
+1380,"laal1242","Laal","pāy ~ hùny","SG ~ PL","be painful","property",,"bipartite","regular",,"M / L[+high, +round]"
+1381,"laal1242","Laal","piáál ~ péélì","SG ~ PL","be awake, alive","property",,"bipartite","regular",,"0 / -i"
+1382,"laal1242","Laal","ràw ~ rɨ̀w","SG ~ PL","be lazy","property","human propensity","bipartite","regular",,"a > ɨ / i"
+1383,"laal1242","Laal","sáál = |sÁ-al| ~ séé = |sÁ-i| (intr)","SG ~ PL","be old","property","age","bipartite","regular",,"-Vl / -i"
+1384,"laal1242","Laal","sám ~ sə́mì, sə́mìny","SG ~ PL","be acidic","property",,"bipartite","regular",,"0 / -iny ~ -i"
+1385,"laal1242","Laal","siān ~ sèn (intr)","SG ~ PL","be pregnant","property",,"bipartite","regular",,"low to mid vowel"
+1386,"laal1242","Laal","sōgōr ~ sùgùr","SG ~ PL","be light","property","physical property","bipartite","regular",,"M / L[+high, +round]"
+1387,"laal1242","Laal","tuágár (1, intr.) ~ tógrì","SG ~ PL","be broken","property",,"bipartite","regular",,"low to mid vowel"
+1388,"laal1242","Laal","tūr ~ tūrā","SG ~ PL","be good","property","value","bipartite","regular",,"0 / -a"
+1389,"laal1242","Laal","yéér ~ yārmī","SG ~ PL","crazy","property","human propensity","bipartite","suppletion","no","-mi suffix"
+1390,"jama1261","Madi","-nafi(ha)- ~ -fota-","SG ~ PL","be big","property","size","bipartite","suppletion","no","also much"
+1391,"nisg1240","Nisgaʼa","c'ú·skʸ ~ sisú·s","SG ~ PL","small","property","size","bipartite","suppletion","no",
+1392,"otta1242","Ottawa","dawk ~ RED.dawk","SG ~ PL","short","property",,"bipartite","regular",,"The morphophonology of this language is difficult to parse and examples are unglossed."
+1393,"otta1242","Ottawa","ginw ~ RED.ginw","SG ~ PL","long","property",,"bipartite","regular",,"The morphophonology of this language is difficult to parse and examples are unglossed."
+1394,"otta1242","Ottawa","mang ~ RED.mang","SG ~ PL","big","property",,"bipartite","regular",,"The morphophonology of this language is difficult to parse and examples are unglossed."
+1395,"nucl1649","Southern Coastal Tsimshian","gatgyet ~ gatleet","SG ~ PL","strong","property","human propensity? physical property","bipartite","suppletion","no",
+1396,"nucl1649","Southern Coastal Tsimshian","ḵ’aas ~ mukmoolsk","SG ~ PL","sour","property","physical property?","bipartite","suppletion","no",
+1397,"nucl1649","Southern Coastal Tsimshian","miik ~ üm’am","SG ~ PL","ripe (rain cloud)","property","physical property","bipartite","suppletion","no",
+1398,"nucl1649","Southern Coastal Tsimshian","sgyeetk ~ skatktanik","SG ~ PL","easy","property","value?","bipartite","suppletion","no",
+1399,"nucl1649","Southern Coastal Tsimshian","ts’a’adziks ~ ts’a’aksiks","SG ~ PL","dirty","property","physical property? value?","bipartite","suppletion","no",
+1400,"tabo1241","Tabo","deha:poto ~ hegehege","SG ~ PL","small","property","size","bipartite","suppletion","no",
+1401,"tabo1241","Tabo","hido ~ hidohido","SG ~ PL","good","property","value","bipartite","regular",,"reduplication"
+1402,"tabo1241","Tabo","ko ~ koko","SG ~ PL","big","property","size","bipartite","regular",,"reduplication"
+1403,"tabo1241","Tabo","pulu ~ pulupulu","SG ~ PL","light (not heavy)","property","physical property","bipartite","regular",,"reduplication"
+1404,"wari1268","Wari","amon ~ aramon","SG ~ PL","be little (little more)","property",,"bipartite","regular",,"-rV(CV)- infixation"
+1405,"wari1268","Wari","hwara' ~ horon","SG ~ PL","big","property","size","bipartite","suppletion","no","also tall"
+1406,"wari1268","Wari","kaxi ~ kakaxi","SG ~ PL","be sick, hurt","property",,"bipartite","regular",,"CV(CV)- reduplciation"
+1407,"wari1268","Wari","moin' ~ moromoin'","SG ~ PL","fill, be filled","property",,"bipartite","regular",,"-rV(CV)- infixation"
+1408,"wari1268","Wari","nam' ~ nananam'","SG ~ PL","be pregnant","property",,"bipartite","regular",,"CV(CV)- reduplciation"
+1409,"wari1268","Wari","yain, ayin ~ yarayain, arayain","SG ~ PL","be afraid","property",,"bipartite","regular",,"-rV(CV)- infixation"
+1410,"west2632","Western Keres","-'íṣát̓a0 ~ -aíṣát̓a0 ~ -ay̓a̓aṣát̓a0","SG ~ DU ~ PL","fat","property","physical property","tripartite","suppletion","no",
+1411,"west2632","Western Keres","-(q)ázáʔaN ~ -a̓azáʔaN ~ -a̓azíy̓a","SG ~ DU ~ PL","talkative","property","human propensity","tripartite","suppletion","no",
+1412,"west2632","Western Keres","-jíčə ~ -a̓iča̓a ~ -a̓iča̓a","SG ~ DU ~ PL","big","property","size","tripartite","suppletion","no",
+1413,"west2632","Western Keres","-Jíiyái ~ -aʔáyái ~ -áidyái","SG ~ DU ~ PL","be a fast runner","property","human propensity?","tripartite","suppletion","no",
+1414,"west2632","Western Keres","-JugûuʔN ~ -a̓igûuʔn ~ (REG)","SG ~ DU ~ PL","be pregnant","property",,"tripartite","suppletion","no",
+1415,"west2632","Western Keres","-Juša̓aziṢ ~ -a̓iša̓aziṢ ~ -ay̓a̓̓ašaaziṢ","SG ~ DU ~ PL","strong","property","human propensity? physical property?","tripartite","suppletion","no",
+1416,"west2632","Western Keres","-Júyám̓ast̓u0 ~ (REG) ~ -áʔíẓám̓ast̓u0","SG ~ DU ~ PL","hungry","property",,"tripartite","suppletion","no",
+1417,"yana1271","Yana","lau- ~ laawi","SG ~ PL","be strong","property","human propensity? physical property?","bipartite","suppletion","no",
+1418,"yana1271","Yana","maagaʒa ~ madʔgaaʒa","SG ~ PL","be swollen","property",,"bipartite","regular",,
+1419,"yana1271","Yana","ʒul ~ ʒauli","SG ~ PL","be long","property","size","bipartite","suppletion","no","however, this may be related to the verb for 'sit'"
+1420,"yuch1247","Yuchi","-æ- ~ -thlæ-","SG ~ PL","be big","property","size","bipartite","suppletion","no","why 'be'?"
+1421,"yuch1247","Yuchi","-ge- ~ -gethlæ-","SG ~ PL","be tall/long","property","size","bipartite","suppletion","no","why 'be'?"
+1422,"alse1251","Alsea-Yaquina","atsk' ~ atsk'ūyux","SG ~ PL","sleep","sleep",,"bipartite","suppletion","no","there are two verbs for sleep, which may be historically related but have different forms"
+1423,"alse1251","Alsea-Yaquina","tsk' ~ tsinsu, tsūns","SG ~ PL","sleep","sleep",,"bipartite","suppletion","no","there are two verbs for sleep, which may be historically related but have different forms"
+1424,"cher1273","Cherokee","hlvvhn ~ hlina","SG ~ PL","sleep","sleep",,"bipartite","suppletion","no",
+1425,"fuln1247","Fulniô","kwafá ~ flëá","SG ~ PL","sleep","sleep",,"bipartite","suppletion","no",
+1426,"coos1249","Hanis","qa'qał ~ tsîmsîmt","SG ~ PL","sleep","sleep",,"bipartite","suppletion","no",
+1427,"hopi1249","Hopi","puuwi ~ tookya","SG ~ PL","sleep","sleep",,"bipartite","suppletion","no",
+1428,"imon1245","Imonda","li ~ shaulõ","SG ~ PL","sleep","sleep",,"bipartite","suppletion","no",
+1429,"iran1263","Irántxe-Münkü","ituku- ~ itaka","SG ~ PL","sleep","sleep",,"bipartite","regular",,
+1430,"karo1305","Karo (Brazil)","ket ~ kérat","SG ~ PL","sleep","sleep",,"bipartite","suppletion","no",
+1431,"kett1243","Ket","t-tn ~ t-ən","SG ~ PL","sleep","sleep",,"bipartite","suppletion","no",
+1432,"nort2942","North Slavey","shoti ~ shukiya","SG ~ PL","sleep","sleep",,"bipartite","suppletion","no",
+1433,"nuuc1236","Nuu-chah-nulth","waʔič ~ huuʔič","INDIVIDUAL ~ COLLECTIVE","sleep","sleep",,"bipartite","suppletion","no",
+1434,"shas1239","Shasta","icma ~ i·wan·ɨ","SG ~ PL","sleep","sleep",,"bipartite","suppletion","no",
+1435,"wapp1239","Wappo","hɪntɔ́ke ~ hɪnweáke","SG ~ PL","sleep","sleep",,"bipartite","suppletion","no","plural very probably linked to 'die'"
+1436,"west2632","Western Keres","-jíibáiY ~ -qáibáiY ~ -qjéeba̓iY-ʔVVD","SG ~ DU ~ PL","sleep","sleep",,"tripartite","suppletion","no",
+1437,"yana1271","Yana","sam(si) ~ saadim(si)","SG ~ PL","sleep","sleep",,"bipartite","regular",,
+1438,"yaqu1251","Yaqui","bo’e ~ to’e","SG ~ PL","sleep","sleep",,"bipartite","suppletion","no","plural looks like it is related to the plural of 'lay down'"
+1439,"zuni1245","Zuni","‘ala- ~ ya:tela-","SG ~ PL","sleep","sleep",,"bipartite","suppletion","no",
+1440,"ariz1237","Arizona Tewa","ke ~ xon","SG ~ PL","get","transfer",,"bipartite","suppletion","no",
+1441,"wara1302","Bauni","-ko ~ -úna","SG ~ PL","get","transfer",,"bipartite","suppletion","no",
+1442,"choc1276","Choctaw","kan-či ~ kan-pila","SG ~ PL","sell","transfer",,"bipartite","suppletion","no",
+1443,"coma1245","Comanche","naʔuhturʉ (sg. Object) ~ hinanahimiitʉ (pl object)","SG ~ PL","exchange gifts","transfer",,"bipartite","suppletion","no",
+1444,"daga1275","Daga","waR ~ tam/tambu/ai","SG ~ PL","get","transfer",,"bipartite","suppletion","no",
+1445,"gras1249","Grass Koiari","ma ~ didi","SG ~ PL","get","transfer",,"bipartite","suppletion","no",
+1446,"hopi1249","Hopi","kwusu ~ ömàata","SG ~ PL","receive","transfer",,"bipartite","suppletion","no",
+1447,"hopi1249","Hopi","maqa ~ huyta","PAUCAL ~ MANY","give","transfer",,"bipartite","suppletion","no",
+1448,"imon1245","Imonda","ai ~ 0 ~ 0","SG ~ PL","give","transfer",,"tripartite","suppletion","no","Object classifiers for dual and plural delete the root"
+1449,"imon1245","Imonda","fia ~ 0 ~ fie","SG ~ PL","get","transfer",,"bipartite","suppletion","no","Object classifiers mutate the root or make it disappear"
+1450,"kain1272","Kaingang","fẽg ~ nɛm","SG ~ PL","give (shape 3)","transfer",,"bipartite","suppletion","yes",
+1451,"kain1272","Kaingang","fòn ~ nɛm","SG ~ PL","give (shape 2)","transfer",,"bipartite","suppletion","yes",
+1452,"kain1272","Kaingang","nĩm ~ nɛm","SG ~ PL","give (shape 1)","transfer",,"bipartite","suppletion","yes",
+1453,"kash1280","Kashaya","dihqa- ~ coʔdoqᵒ","SG ~ PL","give","transfer",,"bipartite","suppletion","no",
+1454,"klam1254","Klamath-Modoc","oy ~ sʔewanʔ","SG/PAUCAL? ~ PL/MANY?","give","transfer",,"bipartite","suppletion","no","In the singular this requires one of 3 classifiers (flat, round live), but the plural does not require a classifier"
+1455,"kuna1268","Kunama","na ~ nu'na","SG ~ PL","steal","transfer",,"bipartite","regular",,"nV"
+1456,"nort2954","Northern Paiute","gia ~ himi","SG ~ PL","give","transfer",,"bipartite","suppletion","no",
+1457,"sulk1246","Sulka","kol ~ lol","SG ~ PL","get","transfer",,"bipartite","suppletion","no",
+1458,"west2632","Western Keres","-Júna̓adaN ~ (REG) ~ -áana̓adaN-qaaD","SG ~ DU ~ PL","buy","transfer",,"tripartite","suppletion","no",
+1459,"zuni1245","Zuni","utsi- ~ yakna","SG ~ PL","give","transfer",,"bipartite","suppletion","no",

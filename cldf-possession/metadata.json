@@ -1,0 +1,269 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
+    "dc:source": "sources.bib",
+    "tables": [
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-.]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": true,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+                        "required": false,
+                        "name": "Macroarea"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-90",
+                            "maximum": "90"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-180",
+                            "maximum": "180"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    }
+                ],
+                "primaryKey": [
+                    "Glottocode"
+                ]
+            },
+            "url": "languages.csv"
+        },
+        {
+            "dc:extent": 939,
+            "propertyUrl": "ConstructionTable",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9\u0257\u0290_\\-.]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "separator": ";",
+                        "name": "Class_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "Construction_Form"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "name": "Construction_Type"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Remark"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "separator": ";",
+                        "name": "Coder"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": true,
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "dd_Construction_Directness"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "dd_Construction_Type_Simplified"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "dd_Construction_Type_Generic"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Glottocode"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "Glottocode"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Class_ID"
+                        ],
+                        "reference": {
+                            "resource": "classes.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "constructions.csv"
+        },
+        {
+            "dc:extent": 750,
+            "propertyUrl": "ClassTable",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\u0257\u0290\\-.]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Noun_Class"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "separator": ";",
+                        "name": "Semantic_Categories"
+                    },
+                    {
+                        "datatype": "string",
+                        "separator": ";",
+                        "name": "Unpossession_Marker_Type"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Remark"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": true,
+                        "separator": ";",
+                        "name": "Coder"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": true,
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "dd_Valency"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "dd_Semantic_Type"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "dd_Construction_Type_Simplified"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "dd_Construction_Type_Generic"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "dd_Unpossession_Construction"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Glottocode"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "Glottocode"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "classes.csv"
+        }
+    ]
+}

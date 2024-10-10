@@ -1,0 +1,7 @@
+attrs==22.1.0
+openpyxl==3.0.10
+pandas==1.4.4
+protobuf==4.24.2
+pycldf==1.27.0
+tqdm==4.64.1
+slugify==8.0.1

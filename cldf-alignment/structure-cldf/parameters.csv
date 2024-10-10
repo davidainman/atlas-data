@@ -1,0 +1,24 @@
+Parameter_ID,Question
+flagging,Is there flagging in the language?
+indexing,Is there core argument indexing in the language?
+tam-split,Is there a TAM-based split in the language?
+split-s,Is there split-S marking in the language?
+indexing-features,What features of nominals receive indexing?
+dom,Is there differential object marking?
+dom-trigger,What is the trigger for differential object marking?
+align-noun,What is the most frequent referent-based alignment pattern for flagging in nouns?
+align-pro,What is the most frequent referent-based alignment pattern for flagging in pronouns?
+align-index,What is the most frequent referent-based alignment pattern for indexing?
+align-noun-nl,Not local only: What is the most frequent referent-based alignment pattern for flagging in nouns?
+align-pro-nl,Not local only: What is the most frequent referent-based alignment pattern for flagging in pronouns?
+align-index-nl,Not local only: What is the most frequent referent-based alignment pattern for indexing?
+ref-ergative,Is there any ergative alignment among referents?
+ref-ergative-domain,"If there is ergative alignment among referents, which loci have this alignment?"
+ref-tripartite,Is there any tripartite alignment among referents?
+ref-tripartite-domain,"If there is any tripartite alignment among referents, which loci have this alignment?"
+ref-horizontal,Is there any horizontal alignment among referents?
+ref-horizontal-domain,"If there is any horizontal alignment among referents, which loci have this alignment?"
+ref-sensitive,Is there any coargument-sensitive alignment among referents?
+ref-sensitive-domain,"If there is any coargument-sensitive alignment among referents, which loci have this alignment?"
+coargument-sensitivity flagging,Is there any coargument sensitivity in flagging in the language that is not due exclusively to portmanteaus?
+coargument-sensitivity indexing,Is there any coargument sensitivity in indexing the language that is not due exclusively to portmanteaus?
