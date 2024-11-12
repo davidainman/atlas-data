@@ -29,7 +29,7 @@ boro1282,True,True,False,True,person+number,False,NA,no marking,no marking,overt
 brah1256,True,True,True,False,person+number,True,Reference,accusative,accusative,accusative,accusative,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no
 buki1249,False,True,False,True,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,True,Verb,False,NA,False,NA,False,NA,no,no
 bulo1242,False,False,False,False,NA,False,NA,no marking,no marking,no marking,no marking,no marking,no marking,False,NA,False,NA,False,NA,False,NA,no,no
-buru1296,True,True,False,True,person+number,False,NA,ergative,ergative,accusative,ergative,ergative,accusative,True,Noun;Pro;Verb,True,Verb,False,NA,False,NA,no,no
+buru1296,True,True,False,True,person+number,False,NA,ergative,ergative,accusative,ergative,ergative,accusative,True,Noun;Pro,True,Verb,False,NA,False,NA,no,no
 cacu1241,True,True,False,False,person+number,True,Reference,accusative;no marking,accusative,accusative;no marking,accusative;no marking,accusative,accusative;no marking,False,NA,False,NA,False,NA,False,NA,no,no
 cadd1256,False,True,False,True,number;person,False,NA,no marking,NA,sensitive,no marking,NA,accusative,True,Verb,False,NA,False,NA,True,Verb,no,yes
 cahu1264,True,True,False,False,person+number,True,Miscellaneous_condition,accusative;no marking,accusative,accusative,accusative;no marking,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no
@@ -306,7 +306,7 @@ wyan1247,False,True,?,?,?,False,NA,no marking,NA,NA,no marking,NA,NA,False,NA,Fa
 xava1240,False,True,True,False,other;person;person+number;person+other,False,NA,no marking,no marking,ergative,no marking,no marking,ergative,True,Verb,True,Verb,False,NA,True,Verb,no,yes
 xinc1242,False,True,True,False,number;person;person+number,False,NA,no marking,no marking,tripartite,no marking,no marking,tripartite,True,Verb,True,Verb,False,NA,False,NA,no,no
 yagu1244,False,True,False,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no
-yaki1237,True,True,False,False,person;person+number,True,Co-argument_reference+Miscellaneous_condition+Reference,no marking;sensitive,accusative,sensitive,no marking,accusative,sensitive,True,Noun,True,Noun,False,NA,True,Noun;Verb,yes,yes
+yaki1237,True,True,False,False,person;person+number,True,Co-argument_reference+Miscellaneous_condition+Reference,no marking;sensitive,accusative,sensitive,no marking,accusative,overt neutral,True,Noun,True,Noun,False,NA,True,Noun;Verb,yes,yes
 yana1271,True,True,False,False,person;person+number,False,NA,accusative,no marking,sensitive,accusative,no marking,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes
 yane1238,False,True,False,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no
 yano1262,True,True,False,False,person+number,False,NA,ergative,ergative,sensitive,ergative,ergative,ergative,True,Noun;Pro;Verb,False,NA,False,NA,True,Verb,no,yes
