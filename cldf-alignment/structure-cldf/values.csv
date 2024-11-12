@@ -3337,7 +3337,7 @@ buru1296-align-noun-nl,buru1296,align-noun-nl,ergative,AN,munshi2018srinagar[146
 buru1296-align-pro-nl,buru1296,align-pro-nl,ergative,AN,munshi2018srinagar[146-148]
 buru1296-align-index-nl,buru1296,align-index-nl,accusative,AN,munshi2018srinagar[146-148]
 buru1296-ref-ergative,buru1296,ref-ergative,True,AN,munshi2018srinagar[146-148]
-buru1296-ref-ergative-domain,buru1296,ref-ergative-domain,Noun;Pro;Verb,AN,munshi2018srinagar[146-148]
+buru1296-ref-ergative-domain,buru1296,ref-ergative-domain,Noun;Pro,AN,munshi2018srinagar[146-148]
 buru1296-ref-tripartite,buru1296,ref-tripartite,True,AN,munshi2018srinagar[146-148]
 buru1296-ref-tripartite-domain,buru1296,ref-tripartite-domain,Verb,AN,munshi2018srinagar[146-148]
 buru1296-ref-horizontal,buru1296,ref-horizontal,False,AN,munshi2018srinagar[146-148]
@@ -7213,7 +7213,7 @@ yaki1237-align-pro,yaki1237,align-pro,accusative,AN,"jansen2010northernsahaptin[
 yaki1237-align-index,yaki1237,align-index,sensitive,AN,"jansen2010northernsahaptin[126-140,160,183-186]"
 yaki1237-align-noun-nl,yaki1237,align-noun-nl,no marking,AN,"jansen2010northernsahaptin[126-140,160,183-186]"
 yaki1237-align-pro-nl,yaki1237,align-pro-nl,accusative,AN,"jansen2010northernsahaptin[126-140,160,183-186]"
-yaki1237-align-index-nl,yaki1237,align-index-nl,sensitive,AN,"jansen2010northernsahaptin[126-140,160,183-186]"
+yaki1237-align-index-nl,yaki1237,align-index-nl,overt neutral,AN,"jansen2010northernsahaptin[126-140,160,183-186]"
 yaki1237-ref-ergative,yaki1237,ref-ergative,True,AN,"jansen2010northernsahaptin[126-140,160,183-186]"
 yaki1237-ref-ergative-domain,yaki1237,ref-ergative-domain,Noun,AN,"jansen2010northernsahaptin[126-140,160,183-186]"
 yaki1237-ref-tripartite,yaki1237,ref-tripartite,True,AN,"jansen2010northernsahaptin[126-140,160,183-186]"

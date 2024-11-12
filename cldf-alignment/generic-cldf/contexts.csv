@@ -4859,14 +4859,22 @@ coma1245-49,coma1245,coma1245-role-not-marked,NA,NA,any,any,any,any,any,NA,any,d
 cree1270-7,cree1270,cree1270-null-marker,NA,NA,S,3,NA,NA,any,NA,any,default,,martin2011creek[168-174],,MV; DI; AWM
 cree1270-8,cree1270,cree1270-null-marker,NA,simple,A,3,P,any,any,none,any,default,,martin2011creek[168-174],,MV; DI; AWM
 cree1270-9,cree1270,cree1270-null-marker,NA,simple,P,3,A,any,any,none,any,default,,martin2011creek[168-174],,MV; DI; AWM
-cree1270-10,cree1270,cree1270-p-marking-indexing-marker,-1,simple,P,1,A,any,any,none,any,default,,martin2011creek[168-174],,MV; DI; AWM
-cree1270-11,cree1270,cree1270-p-marking-indexing-marker,-1,NA,S,1,NA,NA,any,NA,non-exemplar,stative,,martin2011creek[168-174],,MV; DI; AWM
-cree1270-12,cree1270,cree1270-p-marking-indexing-marker,-1,simple,P,2,A,any,any,none,any,default,,martin2011creek[168-174],,MV; DI; AWM
-cree1270-13,cree1270,cree1270-p-marking-indexing-marker,-1,NA,S,2,NA,NA,any,NA,non-exemplar,stative,,martin2011creek[168-174],,MV; DI; AWM
-cree1270-14,cree1270,cree1270-s-a-marking-indexing-marker,1,NA,S,1,NA,NA,any,NA,any,default,,martin2011creek[168-174],,MV; DI; AWM
-cree1270-15,cree1270,cree1270-s-a-marking-indexing-marker,1,simple,A,1,P,any,any,none,any,default,,martin2011creek[168-174],,MV; DI; AWM
-cree1270-16,cree1270,cree1270-s-a-marking-indexing-marker,1,NA,S,2,NA,NA,any,NA,any,default,,martin2011creek[168-174],,MV; DI; AWM
-cree1270-17,cree1270,cree1270-s-a-marking-indexing-marker,1,simple,A,2,P,any,any,none,any,default,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-10,cree1270,cree1270-p-marking-indexing-marker,-1,simple,P,1sg,A,any,any,none,any,default,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-11,cree1270,cree1270-p-marking-indexing-marker,-1,NA,S,1sg,NA,NA,any,NA,non-exemplar,stative,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-12,cree1270,cree1270-p-marking-indexing-marker,-1,simple,P,2sg,A,any,any,none,any,default,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-13,cree1270,cree1270-p-marking-indexing-marker,-1,NA,S,2sg,NA,NA,any,NA,non-exemplar,stative,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-14,cree1270,cree1270-p-marking-indexing-marker,-1,simple,P,1pl,A,any,any,none,any,default,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-15,cree1270,cree1270-p-marking-indexing-marker,-1,NA,S,1pl,NA,NA,any,NA,non-exemplar,stative,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-16,cree1270,cree1270-p-marking-indexing-marker,-1,simple,P,2pl,A,any,any,none,any,default,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-17,cree1270,cree1270-p-marking-indexing-marker,-1,NA,S,2pl,NA,NA,any,NA,non-exemplar,stative,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-18,cree1270,cree1270-s-a-marking-indexing-marker,1,NA,S,1sg,NA,NA,any,NA,any,default,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-19,cree1270,cree1270-s-a-marking-indexing-marker,1,simple,A,1sg,P,any,any,none,any,default,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-20,cree1270,cree1270-s-a-marking-indexing-marker,1,NA,S,2sg,NA,NA,any,NA,any,default,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-21,cree1270,cree1270-s-a-marking-indexing-marker,1,simple,A,2sg,P,any,any,none,any,default,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-22,cree1270,cree1270-s-a-marking-indexing-marker,1,NA,S,1pl,NA,NA,any,NA,any,default,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-23,cree1270,cree1270-s-a-marking-indexing-marker,1,simple,A,1pl,P,any,any,none,any,default,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-24,cree1270,cree1270-s-a-marking-indexing-marker,1,NA,S,2pl,NA,NA,any,NA,any,default,,martin2011creek[168-174],,MV; DI; AWM
+cree1270-25,cree1270,cree1270-s-a-marking-indexing-marker,1,simple,A,2pl,P,any,any,none,any,default,,martin2011creek[168-174],,MV; DI; AWM
 cube1242-6,cube1242,cube1242-role-not-marked,NA,NA,P,any,A,any,any,none,any,default,,"chacon2012cubeo[263,270-271,276,305]",,HT
 cube1242-7,cube1242,cube1242-s-a-marker-indexing-marker,1,NA,S,any,NA,NA,any,NA,any,default,,"chacon2012cubeo[263,270-271,276,305]",,HT
 cube1242-8,cube1242,cube1242-s-a-marker-indexing-marker,1,simple,A,any,P,any,any,none,any,default,,"chacon2012cubeo[263,270-271,276,305]",,HT

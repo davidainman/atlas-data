@@ -490,8 +490,8 @@ cree1270-acc-marking-flagging,cree1270,flagging,ACC marking,overt,,"martin2011cr
 cree1270-no-flagging,cree1270,flagging,NO_FLAGGING,zero,,"martin2011creek[142,337-343]",HT,Noun,Noun,Noun,neutral
 cree1270-nom-marking-flagging,cree1270,flagging,NOM marking,overt,,"martin2011creek[142,337-343]",HT,any,any,NONE,accusative
 cree1270-null-marker,cree1270,indexing marker,NULL_MARKER,zero,person,martin2011creek[168-174],MV; DI; AWM,3,3,3,neutral
-cree1270-p-marking-indexing-marker,cree1270,indexing marker,P marking,overt,person,martin2011creek[168-174],MV; DI; AWM,1;2,NONE,1;2,ergative
-cree1270-s-a-marking-indexing-marker,cree1270,indexing marker,S/A marking,overt,person,martin2011creek[168-174],MV; DI; AWM,1;2,1;2,NONE,accusative
+cree1270-p-marking-indexing-marker,cree1270,indexing marker,P marking,overt,person,martin2011creek[168-174],MV; DI; AWM,1pl;1sg;2pl;2sg,NONE,1pl;1sg;2pl;2sg,ergative
+cree1270-s-a-marking-indexing-marker,cree1270,indexing marker,S/A marking,overt,person,martin2011creek[168-174],MV; DI; AWM,1pl;1sg;2pl;2sg,1pl;1sg;2pl;2sg,NONE,accusative
 cube1242-acc-marking-flagging,cube1242,flagging,ACC marking,overt,,"chacon2012cubeo[311-314];morse1999cubeo[110-111,83]",HT;AWM,NONE,NONE,Noun-high;Pro,accusative
 cube1242-no-flagging,cube1242,flagging,NO_FLAGGING,zero,,"chacon2012cubeo[311-314];morse1999cubeo[110-111,83]",HT;AWM,any,any,Noun-low,neutral
 cube1242-role-not-marked,cube1242,indexing trigger,ROLE_NOT_MARKED,zero,NA,"chacon2012cubeo[263,270-271,276,305]",HT,NONE,NONE,any,NA
