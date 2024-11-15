@@ -321,7 +321,7 @@ processAlignment <- function(featurestable, languagescsv, contextscsv, selectors
   dir_inv_lgs <- unique(contextscsv$Glottocode[contextscsv$DIR.INV == 'DIR' | contextscsv$DIR.INV == 'INV'])
   
   stateCol <- ifelse(featurestable$Glottocode %in% languagescsv$Glottocode[languagescsv$sufficient_data_indexing == 'False'], '?',
-              ifelse(featurestable$Glottocode %in% featurestable$Glottocode[(featurestable$`Align-15` == 'indexing') | (derivedtable$Align.15 == 'flagging') | (featurestable$`Align-15` == 'both')],
+              ifelse(featurestable$Glottocode %in% featurestable$Glottocode[(featurestable$`Align-15` == 'indexing') | (featurestable$Align.15 == 'flagging') | (featurestable$`Align-15` == 'both')],
               ifelse(featurestable$Glottocode %in% dir_inv_lgs, 'yes', 'no'), 'NA'))
   featurestable <- addDerivedState(featurestable, 'Align-16', stateCol, featurestable$`Align-06.Source`, coderslookup$Coder)
   
