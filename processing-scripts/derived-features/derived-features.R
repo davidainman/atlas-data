@@ -201,17 +201,14 @@ main <- function(maincldfloc, alignmentcldfloc, possessioncldfloc, sgplloc, nonc
   globalPreprocess(wide_no_derived, warnings, errors)
   validateValues(wide_no_derived, codescsv, errors)
   
-  # TODO left off here
-  # changed 
-  
   long_data <- convertToLong(wide_no_derived, parameterscsv, codescsv)
   long_data <- long_data[order(long_data$ID),]
   valuescsv <- valuescsv[order(valuescsv$ID),]
-  #long_data_coders <- dplyr::filter(long_data, (long_data$Coder != valuescsv$Coder))$Coder
-  #valuescsv_coders <- dplyr::filter(valuescsv, (long_data$Coder != valuescsv$Coder))$Coder
   
-  if (all.equal(valuescsv, long_data, check.attributes = FALSE)) {
-    print("Confirming that nothing changed in the data.")
+  if (nrow(valuescsv) == nrow(long_data)) {
+    if (all(all.equal(valuescsv, long_data, check.attributes = FALSE) == TRUE)) {
+      print("Confirming that nothing changed in the data.")
+    }
   }
   print(paste0("Writing new values.csv to ", maincldfloc, "/values.csv"))
   write.csv(long_data, paste0(maincldfloc, "/values.csv"), na="", row.names=FALSE)
