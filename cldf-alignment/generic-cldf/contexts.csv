@@ -1829,9 +1829,8 @@ quil1240-9,quil1240,quil1240-no-flagging,,simple,A,3Pro,P,1Pro,any,none,any,defa
 quil1240-10,quil1240,quil1240-no-flagging,,simple,A,3Pro,P,3Pro,any,none,any,default,,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]",,HT
 quil1240-11,quil1240,quil1240-acc-pronoun-flagging,,simple,P,1Pro,A,any,any,none,any,default,,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]",,HT
 quil1240-12,quil1240,quil1240-acc-pronoun-flagging,,simple,P,2Pro,A,1Pro,any,none,any,default,,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]",,HT
-quil1240-13,quil1240,quil1240-no-flagging,,simple,P,2Pro,A,3Pro,any,none,any,default,,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]",,HT
-quil1240-14,quil1240,quil1240-no-flagging,,simple,P,2Pro,A,Noun,any,none,any,default,,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]",,HT
-quil1240-15,quil1240,quil1240-no-flagging,,simple,P,3Pro,A,any,any,none,any,default,,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]",,HT
+quil1240-13,quil1240,quil1240-no-flagging,,simple,P,2Pro,A,3Pro,any,INV,any,default,,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]",Note that the inverse morpheme is described as an obligatory passive,HT; DI
+quil1240-14,quil1240,quil1240-no-flagging,,simple,P,2Pro,A,Noun,any,INV,any,default,,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]",Note that the inverse morpheme is described as an obligatory passive,HT; DI
 rama1270-1,rama1270,rama1270-no-flagging,,simple,A,any,P,any,any,none,any,default,,grinevald1990rama[104-110],,HT;AWM
 rama1270-2,rama1270,rama1270-no-flagging,,simple,P,Noun,A,any,any,none,any,default,,grinevald1990rama[104-111],,HT;AWM
 rama1270-3,rama1270,rama1270-acc-marking-flagging,,simple,P,Pro,A,any,any,none,any,default,,grinevald1990rama[104-112],,HT;AWM
@@ -10286,7 +10285,7 @@ qawa1238-40,qawa1238,qawa1238-null-marker,NA,simple,P,3,A,any,any,none,any,defau
 quer1236-4,quer1236,quer1236-g-k-indexing-marker,1,simple,P,1,A,any,any,none,any,default,,palancar2009otomi[226f],"This can be an enclitic or suffix, and there are many allomorphs.",DI
 quer1236-5,quer1236,quer1236-indexing-marker,1,simple,P,2,A,any,any,none,any,default,,palancar2009otomi[226f],This can be an enclitic or suffix.,DI
 quer1236-6,quer1236,quer1236-null-marker,NA,simple,P,3,A,any,any,none,any,default,,palancar2009otomi[226f],,DI
-quil1240-16,quil1240,quil1240-role-not-marked,NA,NA,any,any,any,any,any,NA,any,default,,andrade1933quileute;powell1976quileute,,HT
+quil1240-15,quil1240,quil1240-role-not-marked,NA,NA,any,any,any,any,any,NA,any,default,,andrade1933quileute;powell1976quileute,,HT
 rama1270-5,rama1270,rama1270-role-not-marked,NA,NA,any,any,any,any,any,NA,any,default,,grinevald1990rama,,HT;AWM
 rikb1245-7,rikb1245,rikb1245-naha-pl-s-a-indexing-marker,clitic 1,NA,S,any,NA,NA,any,NA,any,default,,"silva2011rikbaktsa[124-125,133-134]",,AN
 rikb1245-8,rikb1245,rikb1245-naha-pl-s-a-indexing-marker,clitic 1,NA,A,any,P,any,any,none,any,default,,"silva2011rikbaktsa[124-125,133-134]",,AN

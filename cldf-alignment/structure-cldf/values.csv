@@ -746,7 +746,7 @@ jama1261-indexing,jama1261,indexing,True,AWM;HT,"dixon2004jarawara[101-114,76-80
 jama1261-indexing-features,jama1261,indexing-features,person+number,AWM;HT,"dixon2004jarawara[101-114,76-80,90]"
 jama1261-tam-split,jama1261,tam-split,False,AWM;HT,"dixon2004jarawara[101-114,76-80,87,90]"
 jama1261-split-s,jama1261,split-s,False,AWM;HT,"dixon2004jarawara[101-114,76-80,87,90]"
-jama1261-coargument-sensitivity flagging,jama1261,coargument-sensitivity flagging,no,AWM;HT,"dixon2004jarawara[101-114,76-80,87,90]"
+jama1261-coargument-sensitivity flagging,jama1261,coargument-sensitivity flagging,yes,AWM;HT,"dixon2004jarawara[101-114,76-80,87,90]"
 jama1261-coargument-sensitivity indexing,jama1261,coargument-sensitivity indexing,no,AWM;HT,"dixon2004jarawara[101-114,76-80,87,90]"
 jaqa1244-flagging,jaqa1244,flagging,True,HT,"hardman1966jaqaru[93];hardman2000jaqaru[15,27]"
 jaqa1244-indexing,jaqa1244,indexing,True,AWM;HT,"hardman1966jaqaru[93];hardman2000jaqaru[15,27]"
@@ -1243,7 +1243,7 @@ movi1243-indexing,movi1243,indexing,True,DI;MV,haude2011argument;haude2023pc
 movi1243-indexing-features,movi1243,indexing-features,person,DI;MV,haude2011argument;haude2023pc
 movi1243-tam-split,movi1243,tam-split,False,DI;MV,haude2011argument;haude2023pc
 movi1243-split-s,movi1243,split-s,False,DI;MV,haude2011argument;haude2023pc
-movi1243-coargument-sensitivity flagging,movi1243,coargument-sensitivity flagging,no,DI;MV,haude2011argument;haude2023pc
+movi1243-coargument-sensitivity flagging,movi1243,coargument-sensitivity flagging,yes,DI;MV,haude2011argument;haude2023pc
 movi1243-coargument-sensitivity indexing,movi1243,coargument-sensitivity indexing,no,DI;MV,haude2011argument;haude2023pc
 mull1237-flagging,mull1237,flagging,False,HT,"cahir2006verb[25,27]"
 mull1237-indexing,mull1237,indexing,True,HT,"cahir2006verb[25,27]"
@@ -1591,10 +1591,10 @@ quer1236-coargument-sensitivity indexing,quer1236,coargument-sensitivity indexin
 quil1240-flagging,quil1240,flagging,True,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
 quil1240-indexing,quil1240,indexing,False,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
 quil1240-indexing-features,quil1240,indexing-features,NA,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
-quil1240-tam-split,quil1240,tam-split,False,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
-quil1240-split-s,quil1240,split-s,False,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
-quil1240-coargument-sensitivity flagging,quil1240,coargument-sensitivity flagging,no,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
-quil1240-coargument-sensitivity indexing,quil1240,coargument-sensitivity indexing,no,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
+quil1240-tam-split,quil1240,tam-split,False,DI;HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
+quil1240-split-s,quil1240,split-s,False,DI;HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
+quil1240-coargument-sensitivity flagging,quil1240,coargument-sensitivity flagging,yes,DI;HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
+quil1240-coargument-sensitivity indexing,quil1240,coargument-sensitivity indexing,no,DI;HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
 rama1270-flagging,rama1270,flagging,True,AWM;HT,grinevald1990rama[104-112]
 rama1270-indexing,rama1270,indexing,False,AWM;HT,grinevald1990rama[104-112]
 rama1270-indexing-features,rama1270,indexing-features,NA,AWM;HT,grinevald1990rama[104-112]
@@ -1964,7 +1964,7 @@ tupi1273-indexing,tupi1273,indexing,True,NCP,"barbosa1956tupi[117-119,124-126];n
 tupi1273-indexing-features,tupi1273,indexing-features,person;person+number,NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-tam-split,tupi1273,tam-split,False,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-split-s,tupi1273,split-s,True,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
-tupi1273-coargument-sensitivity flagging,tupi1273,coargument-sensitivity flagging,no,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
+tupi1273-coargument-sensitivity flagging,tupi1273,coargument-sensitivity flagging,yes,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-coargument-sensitivity indexing,tupi1273,coargument-sensitivity indexing,yes,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tusc1257-flagging,tusc1257,flagging,False,HT,williams1974tuscarora[14]
 tusc1257-indexing,tusc1257,indexing,True,AWM;HT,williams1974tuscarora[14]
@@ -2258,7 +2258,7 @@ yuro1248-indexing,yuro1248,indexing,True,AN,robins1958yurok[20]
 yuro1248-indexing-features,yuro1248,indexing-features,person+number,AN,robins1958yurok[20]
 yuro1248-tam-split,yuro1248,tam-split,False,AN;AWM,"robins1958yurok[20,31-33]"
 yuro1248-split-s,yuro1248,split-s,False,AN;AWM,"robins1958yurok[20,31-33]"
-yuro1248-coargument-sensitivity flagging,yuro1248,coargument-sensitivity flagging,no,AN;AWM,"robins1958yurok[20,31-33]"
+yuro1248-coargument-sensitivity flagging,yuro1248,coargument-sensitivity flagging,yes,AN;AWM,"robins1958yurok[20,31-33]"
 yuro1248-coargument-sensitivity indexing,yuro1248,coargument-sensitivity indexing,no,AN;AWM,"robins1958yurok[20,31-33]"
 zapa1253-flagging,zapa1253,flagging,True,DI,"peeke1991zaparo[12-24,26-32]"
 zapa1253-indexing,zapa1253,indexing,False,DI,"peeke1991zaparo[12-24,26-32]"
@@ -6103,10 +6103,10 @@ quer1236-ref-horizontal-domain,quer1236,ref-horizontal-domain,NA,DI,"palancar200
 quer1236-ref-sensitive,quer1236,ref-sensitive,False,DI,"palancar2009otomi[335,63f]"
 quer1236-ref-sensitive-domain,quer1236,ref-sensitive-domain,NA,DI,"palancar2009otomi[335,63f]"
 quil1240-align-noun,quil1240,align-noun,no marking,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
-quil1240-align-pro,quil1240,align-pro,accusative;no marking;sensitive,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
+quil1240-align-pro,quil1240,align-pro,accusative,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
 quil1240-align-index,quil1240,align-index,no marking,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
 quil1240-align-noun-nl,quil1240,align-noun-nl,no marking,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
-quil1240-align-pro-nl,quil1240,align-pro-nl,no marking,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
+quil1240-align-pro-nl,quil1240,align-pro-nl,accusative,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
 quil1240-align-index-nl,quil1240,align-index-nl,no marking,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
 quil1240-ref-ergative,quil1240,ref-ergative,False,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
 quil1240-ref-ergative-domain,quil1240,ref-ergative-domain,NA,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"

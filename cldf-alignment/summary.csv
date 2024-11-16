@@ -55,11 +55,10 @@ Language,align-noun-nl,ergative;overt neutral,2,0.006153846153846154
 Language,align-noun-nl,no marking,189,0.5815384615384616
 Language,align-noun-nl,overt neutral,1,0.003076923076923077
 Language,align-noun-nl,sensitive,1,0.003076923076923077
-Language,align-pro,accusative,100,0.31645569620253167
+Language,align-pro,accusative,101,0.31962025316455694
 Language,align-pro,accusative;ergative,1,0.0031645569620253164
 Language,align-pro,accusative;ergative;no marking,1,0.0031645569620253164
 Language,align-pro,accusative;no marking,10,0.03164556962025317
-Language,align-pro,accusative;no marking;sensitive,1,0.0031645569620253164
 Language,align-pro,accusative;sensitive,1,0.0031645569620253164
 Language,align-pro,accusative;tripartite,1,0.0031645569620253164
 Language,align-pro,ergative,24,0.0759493670886076
@@ -69,7 +68,7 @@ Language,align-pro,ergative;tripartite,1,0.0031645569620253164
 Language,align-pro,no marking,162,0.5126582278481012
 Language,align-pro,sensitive,3,0.00949367088607595
 Language,align-pro,tripartite,1,0.0031645569620253164
-Language,align-pro-nl,accusative,101,0.31962025316455694
+Language,align-pro-nl,accusative,102,0.3227848101265823
 Language,align-pro-nl,accusative;ergative,1,0.0031645569620253164
 Language,align-pro-nl,accusative;ergative;no marking,1,0.0031645569620253164
 Language,align-pro-nl,accusative;no marking,10,0.03164556962025317
@@ -79,11 +78,11 @@ Language,align-pro-nl,ergative,24,0.0759493670886076
 Language,align-pro-nl,ergative;no marking,9,0.028481012658227847
 Language,align-pro-nl,ergative;overt neutral,1,0.0031645569620253164
 Language,align-pro-nl,ergative;tripartite,1,0.0031645569620253164
-Language,align-pro-nl,no marking,164,0.5189873417721519
+Language,align-pro-nl,no marking,163,0.5158227848101266
 Language,align-pro-nl,sensitive,1,0.0031645569620253164
 Language,align-pro-nl,tripartite,1,0.0031645569620253164
-Language,coargument-sensitivity flagging,no,318,0.9784615384615385
-Language,coargument-sensitivity flagging,yes,7,0.021538461538461538
+Language,coargument-sensitivity flagging,no,313,0.963076923076923
+Language,coargument-sensitivity flagging,yes,12,0.036923076923076927
 Language,coargument-sensitivity indexing,no,224,0.6892307692307692
 Language,coargument-sensitivity indexing,yes,101,0.31076923076923074
 Language,dom,No,269,0.8276923076923077

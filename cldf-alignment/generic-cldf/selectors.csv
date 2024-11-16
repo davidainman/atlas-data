@@ -1977,7 +1977,7 @@ quer1236-indexing-marker,quer1236,indexing marker,-',overt,person,palancar2009ot
 quer1236-no-flagging,quer1236,flagging,NO_FLAGGING,zero,,"palancar2009otomi[335,63f]",DI,any,any,any,neutral
 quer1236-null-marker,quer1236,indexing marker,NULL_MARKER,zero,NA,palancar2009otomi[226f],DI,NONE,NONE,3,accusative
 quil1240-acc-pronoun-flagging,quil1240,flagging,ACC pronoun,overt,,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]",HT,NONE,NONE,1Pro;2Pro_1Pro,accusative
-quil1240-no-flagging,quil1240,flagging,NO_FLAGGING,zero,,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]",HT,1Pro;2Pro;3Pro;Noun,1Pro;2Pro;3Pro_1Pro;3Pro_3Pro;Noun,2Pro_3Pro;2Pro_Noun;3Pro;Noun,neutral
+quil1240-no-flagging,quil1240,flagging,NO_FLAGGING,zero,,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]",HT,1Pro;2Pro;3Pro;Noun,1Pro;2Pro;3Pro_1Pro;3Pro_3Pro;Noun,2Pro_3Pro;2Pro_Noun;Noun,neutral
 quil1240-role-not-marked,quil1240,indexing trigger,ROLE_NOT_MARKED,zero,NA,andrade1933quileute;powell1976quileute,HT,NONE,NONE,NONE,NA
 rama1270-acc-marking-flagging,rama1270,flagging,ACC marking,overt,,grinevald1990rama[104-112],HT;AWM,NONE,NONE,Pro,accusative
 rama1270-no-flagging,rama1270,flagging,NO_FLAGGING,zero,,grinevald1990rama[104-111],HT;AWM,any,any,Noun,neutral
