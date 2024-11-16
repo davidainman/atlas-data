@@ -1225,7 +1225,7 @@ def coarg_sensitivity(references, contexts, selectors):
                     transitive_values = transitive_values + morphs
             # remove portmanteaus
             for marker in transitive_values.copy():
-                if "INFERRED_NULL" in marker or marker == "ROLE_NOT_MARKED_zero" or marker == "NO_PRONOUN":
+                if "INFERRED_NULL" in marker or marker == "ROLE_NOT_MARKED_zero" or marker == "INFERRED_NO_PRONOUN":
                     continue
                 if ("NULL_MARKER" in marker):
                     selector_ID = selectors[(selectors.Selector_label == "NULL_MARKER") & (selectors.Glottocode == glot)].ID.values[0]
@@ -1317,7 +1317,7 @@ if __name__ == "__main__":
     contexts_flagging, selectors_flagging = filter_for_flagging(contexts, selectors)
     contexts_indexing, selectors_indexing = filter_for_indexing(contexts, selectors)
     references = pd.read_csv(references_loc, keep_default_na=False)
-    sensitive_lgs_flagging = coarg_sensitivity(references[(references.Domain.isin(set(["Noun","Pronoun"])))], contexts_flagging, selectors_flagging)
+    sensitive_lgs_flagging = coarg_sensitivity(references[(references.Domain.isin(set(["Noun","Pro"])))], contexts_flagging, selectors_flagging)
     sensitive_lgs_indexing = coarg_sensitivity(references[(references.Domain == "Verb")], contexts_indexing, selectors_indexing)
     # read information from existing csvs in preparation for language level aggregation
     ref_dict = read_reference_aggregation(references_loc)
