@@ -722,7 +722,7 @@
 "yaum1237_inalienable-no","yaum1237","inalienable-no","kin","NA","Many kinship terms, 3 body parts (also any ""inalienable"" words ending in either -t or vowel).","AM","sarvasy2017grammar[208]","Optionally possessed","Inalienable","PSSD;PSSR-PSSD","MARKER","Noun"
 "yaum1237_inalienable-o","yaum1237","inalienable-o","body;kin;plant_part;owner","NA","Most body parts, some kinship terms, plant parts, ""owner"", the word for ""time/season/day"" (all of them only when not ending in -t or vowel).","AM","sarvasy2017grammar[208]","Optionally possessed","Inalienable","PSSD;PSSR-PSSD","MARKER","Noun"
 "yaum1237_alienable","yaum1237","alienable","default","NA","","AM","sarvasy2017grammar[208]","Optionally possessed","Default","PSSD;PSSR;PSSR-PSSD","MARKER","Noun"
-"yecu1235_inalienable","yecu1235","inalienable","body","NA","","DI","mackay1999yecuatlatotonac[347-352]","Optionally possessed","Inalienable","NULL;PSSD","MARKER;NULL","Noun"
+"yecu1235_inalienable","yecu1235","inalienable","body","NA","","DI","mackay1999yecuatlatotonac[347-352]","Obligatorily possessed","Inalienable","PSSD","MARKER","NULL"
 "yecu1235_alienable","yecu1235","alienable","default","NA","","DI","mackay1999yecuatlatotonac[347-352]","Optionally possessed","Default","PSSD","MARKER","Noun"
 "yima1243_alienable","yima1243","alienable","default","NA","","TH","foley1991yimas[182]","Optionally possessed","Default","PSSR","MARKER","Noun"
 "yima1243_inalienable","yima1243","inalienable","kin","NA","Non-kin words can take the inalienable construction, but very rarely.","TH","foley1991yimas[182]","Optionally possessed","Inalienable","PSSR","MARKER","Noun"
