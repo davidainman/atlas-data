@@ -1309,7 +1309,7 @@ if __name__ == "__main__":
     new_refs_values.insert(0,new_refs_header)
     new_refs.to_csv(references_loc, index=False)
     # sort references.csv so it is reproduceable run-to-run
-    refs = pd.read_csv(references_loc)
+    refs = pd.read_csv(references_loc, keep_default_na=False)
     refs = refs.sort_values(by = "ID")
     refs.to_csv(references_loc, index=False)
     # generate doms.csv
