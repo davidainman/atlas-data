@@ -1170,14 +1170,16 @@ def other_alignments(ref_loc):
         # generate alignment with local scenarios removed
         A_values_not_local = fix_not_local(A_values, reftype)
         P_values_not_local = fix_not_local(P_values, reftype)
-        S_values = [x if "_zero" not in x else "_zero" for x in S_values]
-        A_values_not_local = [x if "_zero" not in x else "_zero" for x in A_values_not_local]
-        P_values_not_local = [x if "_zero" not in x else "_zero" for x in P_values_not_local]
+        S_values = [x if "_zero" not in x and x != "NO_PRONOUN_zero" else "_zero" for x in S_values]
+        A_values_not_local = [x if "_zero" not in x and x != "NO_PRONOUN_zero" else "_zero" for x in A_values_not_local]
+        P_values_not_local = [x if "_zero" not in x and x != "NO_PRONOUN_zero" else "_zero" for x in P_values_not_local]
         # get rid of duplication
         S_values = list(set(S_values))
         A_values_not_local = list(set(A_values_not_local))
         P_values_not_local = list(set(P_values_not_local))
-        if all("_zero" in x and "_overt" not in x for x in S_values) and all("_zero" in x and "_overt" not in x for x in A_values_not_local) and all("_zero" in x and "_overt" not in x for x in P_values_not_local):
+        if all(x == "NO_PRONOUN_zero" for x in S_values + A_values_not_local + P_values_not_local):
+            alignment_not_local = "NA"
+        elif all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" for x in S_values) and all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" for x in A_values_not_local) and all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" for x in P_values_not_local):
             alignment_not_local = "no marking"
         elif any("coarg:" in x for x in S_values) or any("coarg:" in x for x in A_values_not_local) or any("coarg:" in x for x in P_values_not_local):
             alignment_not_local = "sensitive"

@@ -927,9 +927,9 @@ def add_alignment(
         and "coarg:" not in out_row[I_P]
     ):
         if (
-            "no pronoun" in out_row[I_A]
-            and "no pronoun" in out_row[I_S]
-            and "no pronoun" in out_row[I_P]
+            "NO_PRONOUN" in out_row[I_A]
+            and "NO_PRONOUN" in out_row[I_S]
+            and "NO_PRONOUN" in out_row[I_P]
         ):
             alignment = "NA"
     # for purposes of comparison, remove zeros coordinated with an overt
@@ -938,13 +938,13 @@ def add_alignment(
     out_row[I_P] = re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",out_row[I_P]);
 
     # replace complex strings with ZERO
-    if (all(["_zero" in coarg and "_overt" not in coarg for coarg in out_row[I_A].split(";")])) :
+    if (all(["_zero" in coarg and "_overt" not in coarg and coarg != "NO_PRONOUN_zero" for coarg in out_row[I_A].split(";")])) :
         out_row[I_A] = "ZERO"
 
-    if (all(["_zero" in coarg and "_overt" not in coarg for coarg in out_row[I_S].split(";")])) :
+    if (all(["_zero" in coarg and "_overt" not in coarg and coarg != "NO_PRONOUN_zero" for coarg in out_row[I_S].split(";")])) :
         out_row[I_S] = "ZERO"
 
-    if (all(["_zero" in coarg and "_overt" not in coarg for coarg in out_row[I_P].split(";")])) :
+    if (all(["_zero" in coarg and "_overt" not in coarg and coarg != "NO_PRONOUN_zero" for coarg in out_row[I_P].split(";")])) :
         out_row[I_P] = "ZERO"
 
     # elif ";" in out_row[I_A] or ";" in out_row[I_P] or ";" in out_row[I_S]:
