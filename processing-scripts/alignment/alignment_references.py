@@ -648,7 +648,7 @@ def get_role_value(
                     overts = {rows[i][E_OV] for i in roles_indices}
 
                     if len(selectors) == len(overts) == 1:
-                        role_values = [f"{rows[0][E_SEL]}_{rows[0][E_OV]}"]
+                        role_values = [f"{rows[list(roles_indices)[0]][E_SEL]}_{rows[list(roles_indices)[0]][E_OV]}"]
                     else:
 
                         role_values = [
@@ -843,7 +843,7 @@ def get_role_value(
                 selectors = {rows[i][E_SEL] for i in roles_indices}
                 overts = {rows[i][E_OV] for i in roles_indices}
                 if len(selectors) == len(overts) == 1:
-                    role_values = [f"{rows[0][E_SEL]}_{rows[0][E_OV]}"]
+                    role_values = [f"{rows[list(roles_indices)[0]][E_SEL]}_{rows[list(roles_indices)[0]][E_OV]}"]
                 else:
                     role_values = [
                         f"{rows[i][E_SEL]}_{rows[i][E_OV]}_coarg:{rows[i][E_CO]}"
