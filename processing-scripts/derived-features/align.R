@@ -463,6 +463,9 @@ processAlignmentDomain <- function(featurestable, intermediate, shortname, longn
     group_by(Glottocode,Exemplar) %>%
     summarise_all(funs(gsub("NA;|;NA","",trimws(paste(unique(.),collapse=';')))))
   
+  #remove any spaces between coders
+  intermediate_squared$Coder <- lapply(intermediate_squared$Coder, function(x) paste0(sort(unique(trimws(unlist(strsplit(x, ";"))))), collapse=";"))
+  
   intermediate_squared$Source <- collapseSourceColumns(list(intermediate_squared$Source))
   
   for(alignment in POSSIBLE_ALIGNMENTS[POSSIBLE_ALIGNMENTS %in% intermediate$Alignment]) {
