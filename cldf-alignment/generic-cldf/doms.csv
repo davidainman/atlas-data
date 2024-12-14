@@ -1,5 +1,5 @@
 ID,Glottocode,Conditioning,Marking_1,Alignments_1,Condition_1,Marking_2,Alignments_2,Condition_2,Marking_3,Alignments_3,Condition_3,Marking_4,Alignments_4,Condition_4,Source,Coder
-agua1253-1,agua1253,Co-argument_reference,ACC case,incalculable from references.csv: see raw data,1sgPro;3plPro;3sgPro;Noun,NO_FLAGGING,incalculable from references.csv: see raw data,1plPro;2plPro;2sgPro,,,,,,,overall2017aguaruna[233-272],AWM
+agua1253-1,agua1253,Co-argument_reference,ACC case,incalculable from references.csv: see raw data,1sgPro;3plPro;3sgPro;Noun,NO_FLAGGING,incalculable from references.csv: see raw data,1plPro;2plPro;2sgPro,,,,,,,overall2017aguaruna[233-282],AWM; DI; NCP
 awac1239-1,awac1239,Reference,ACC marking,accusative,Noun-high,NO_FLAGGING,no marking,Noun-low,,,,,,,"curnow1997awacuaiquer[64-65,85-86]",HT;AWM
 basq1248-1,basq1248,Predicate_class,DAT marking,accusative;tripartite,bivalent 3,NO_FLAGGING,accusative;ergative,bivalent 1,,,,,,,"hualde2003basque[171-179,363-364];zuniga2019basque[186-187]",DI; NCP
 bora1263-1,bora1263,Reference,ACC -ke,accusative,Noun-animate,NO_FLAGGING,no marking,Noun-inanimate,,,,,,,seifart2005mirana[65],MV
@@ -40,7 +40,7 @@ nucl1302-1,nucl1302,TAM,DAT case,accusative;no marking,present,NO_FLAGGING,accus
 nucl1649-1,nucl1649,Miscellaneous_condition+Reference,connective =a/=ł,overt neutral,overt A+Noun-common;suppressed A+Noun-common,connective =s,ergative,suppressed A+Noun-determinate,connective =t,horizontal,overt A+Noun-determinate,,,,forbes2018tsimshianic[198-201],DI
 nuuc1236-1,nuuc1236,Miscellaneous_condition,ACC case,accusative,default,NO_FLAGGING,no marking,condition 2,,,,,,,woo2007nuuchahnulth[178-180],AWM
 paez1247-1,paez1247,Reference,Dative,accusative,Noun-high,NO_FLAGGING,no marking,Noun-low,,,,,,,jung2008paez[115-116],DI
-para1311-1,para1311,Reference,ACC case =pe/=me,accusative,Noun-animate,NO_FLAGGING,no marking,Noun-inanimate,,,,,,,"estigarriba2020paraguayanguarani[105-106,132-133,69-70,velazquezcastillo2002grammatical]",AWM
+para1311-1,para1311,Reference,ACC case =pe/=me,accusative,Noun-animate,NO_FLAGGING,no marking,Noun-inanimate,,,,,,,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]",NCP
 pure1242-1,pure1242,Reference,ACC case,accusative,Noun-low,NO_FLAGGING,no marking,Noun-high,,,,,,,"foster1965tarascan[71,chamoreau2000purepecha]",HT;AWM
 rikb1245-1,rikb1245,TAM,ACC case,accusative,periphrastic constructions,NO_FLAGGING,no marking,synthetic constructions,,,,,,,"silva2011rikbaktsa[111-112,289]",AN
 shek1245-1,shek1245,Reference,ACC case -əra,accusative,Noun-high,NO_FLAGGING,no marking,Noun-low,,,,,,,hellenthal2010sheko[259],HT;AWM
