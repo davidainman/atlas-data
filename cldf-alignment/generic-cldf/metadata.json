@@ -482,12 +482,22 @@
                     {
                     	"datatype": "string",
                         "required": true,
+                        "name": "Alignments_1"
+                    },
+                    {
+                    	"datatype": "string",
+                        "required": true,
                         "name": "Marking_2"
                     },
                     {
                     	"datatype": "string",
                         "required": true,
                         "name": "Condition_2"
+                    },
+                    {
+                    	"datatype": "string",
+                        "required": true,
+                        "name": "Alignments_2"
                     },
                     {
                     	"datatype": "string",
@@ -498,6 +508,26 @@
                     	"datatype": "string",
                         "required": false,
                         "name": "Condition_3"
+                    },
+                    {
+                    	"datatype": "string",
+                        "required": false,
+                        "name": "Alignments_3"
+                    },
+                    {
+                    	"datatype": "string",
+                        "required": false,
+                        "name": "Marking_4"
+                    },
+                    {
+                    	"datatype": "string",
+                        "required": false,
+                        "name": "Condition_4"
+                    },
+                    {
+                    	"datatype": "string",
+                        "required": false,
+                        "name": "Alignments_4"
                     },
                     {
                         "datatype": "string",
