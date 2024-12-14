@@ -99,7 +99,7 @@
                         "datatype": "string",
                         "required": true,
                         "separator": "~",
-                        "name": "Number"
+                        "name": "SG ~ PL"
                     },
                     {
                         "datatype": "string",
