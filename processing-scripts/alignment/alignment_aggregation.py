@@ -341,6 +341,9 @@ def basic_language_level(contexts, selectors, languages, sensitive_lgs_flagging,
         coder_indexation = ";".join(sorted(
             set([x.strip() for x in coder_indexation.split(";")])
         ))
+        # if coder is blank, this means there was not enough data in sources: give it "auto"
+        if len(coder_indexation) == 0:
+            coder_indexation = "auto"
         source_indexation = combine_sources(
             set(
                 selectors[
