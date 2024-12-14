@@ -245,8 +245,8 @@ cane1242-split-s,cane1242,split-s,False,DI,"miranda2014kraho[106-109,120-121,71f
 cane1242-coargument-sensitivity flagging,cane1242,coargument-sensitivity flagging,no,DI,"miranda2014kraho[106-109,120-121,71f,76f]"
 cane1242-coargument-sensitivity indexing,cane1242,coargument-sensitivity indexing,no,DI,"miranda2014kraho[106-109,120-121,71f,76f]"
 cata1286-flagging,cata1286,flagging,False,HT,"gatschet1900catawba[532,537-538]"
-cata1286-indexing,cata1286,indexing,True,,"gatschet1900catawba[532,537-538]"
-cata1286-indexing-features,cata1286,indexing-features,?,,"gatschet1900catawba[532,537-538]"
+cata1286-indexing,cata1286,indexing,True,auto,"gatschet1900catawba[532,537-538]"
+cata1286-indexing-features,cata1286,indexing-features,?,auto,"gatschet1900catawba[532,537-538]"
 cata1286-tam-split,cata1286,tam-split,?,HT,"gatschet1900catawba[532,537-538]"
 cata1286-split-s,cata1286,split-s,?,HT,"gatschet1900catawba[532,537-538]"
 cata1286-coargument-sensitivity flagging,cata1286,coargument-sensitivity flagging,no,HT,"gatschet1900catawba[532,537-538]"
@@ -357,8 +357,8 @@ chuk1273-split-s,chuk1273,split-s,False,AWM;DI;MV,"dunn1999chukchi[177-255,97-99
 chuk1273-coargument-sensitivity flagging,chuk1273,coargument-sensitivity flagging,no,AWM;DI;MV,"dunn1999chukchi[177-255,97-99]"
 chuk1273-coargument-sensitivity indexing,chuk1273,coargument-sensitivity indexing,yes,AWM;DI;MV,"dunn1999chukchi[177-255,97-99]"
 coah1252-flagging,coah1252,flagging,True,DI,troike1996coahuilteco[59-62]
-coah1252-indexing,coah1252,indexing,True,,troike1996coahuilteco[59-62]
-coah1252-indexing-features,coah1252,indexing-features,?,,troike1996coahuilteco[59-62]
+coah1252-indexing,coah1252,indexing,True,auto,troike1996coahuilteco[59-62]
+coah1252-indexing-features,coah1252,indexing-features,?,auto,troike1996coahuilteco[59-62]
 coah1252-tam-split,coah1252,tam-split,?,DI,troike1996coahuilteco[59-62]
 coah1252-split-s,coah1252,split-s,?,DI,troike1996coahuilteco[59-62]
 coah1252-coargument-sensitivity flagging,coah1252,coargument-sensitivity flagging,no,DI,troike1996coahuilteco[59-62]
@@ -812,8 +812,8 @@ kana1291-split-s,kana1291,split-s,False,AN;AWM,queixalos2010katukina[236-239]
 kana1291-coargument-sensitivity flagging,kana1291,coargument-sensitivity flagging,no,AN;AWM,queixalos2010katukina[236-239]
 kana1291-coargument-sensitivity indexing,kana1291,coargument-sensitivity indexing,no,AN;AWM,queixalos2010katukina[236-239]
 kano1245-flagging,kano1245,flagging,False,MV;NCP,bacelar2023kanoe[685]
-kano1245-indexing,kano1245,indexing,True,,bacelar2023kanoe[685]
-kano1245-indexing-features,kano1245,indexing-features,?,,bacelar2023kanoe[685]
+kano1245-indexing,kano1245,indexing,True,auto,bacelar2023kanoe[685]
+kano1245-indexing-features,kano1245,indexing-features,?,auto,bacelar2023kanoe[685]
 kano1245-tam-split,kano1245,tam-split,?,MV;NCP,bacelar2023kanoe[685]
 kano1245-split-s,kano1245,split-s,?,MV;NCP,bacelar2023kanoe[685]
 kano1245-coargument-sensitivity flagging,kano1245,coargument-sensitivity flagging,no,MV;NCP,bacelar2023kanoe[685]
@@ -826,8 +826,8 @@ kara1500-split-s,kara1500,split-s,False,DI,"ribeiro2012karaja[173-174,198,205-20
 kara1500-coargument-sensitivity flagging,kara1500,coargument-sensitivity flagging,no,DI,"ribeiro2012karaja[173-174,198,205-208]"
 kara1500-coargument-sensitivity indexing,kara1500,coargument-sensitivity indexing,no,DI,"ribeiro2012karaja[173-174,198,205-208]"
 kari1254-flagging,kari1254,flagging,True,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
-kari1254-indexing,kari1254,indexing,True,,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
-kari1254-indexing-features,kari1254,indexing-features,?,,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
+kari1254-indexing,kari1254,indexing,True,auto,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
+kari1254-indexing-features,kari1254,indexing-features,?,auto,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
 kari1254-tam-split,kari1254,tam-split,?,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
 kari1254-split-s,kari1254,split-s,?,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
 kari1254-coargument-sensitivity flagging,kari1254,coargument-sensitivity flagging,no,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
@@ -1183,8 +1183,8 @@ mezo1235-split-s,mezo1235,split-s,True,DI,"veermanleichsenring1991metzontla[111-
 mezo1235-coargument-sensitivity flagging,mezo1235,coargument-sensitivity flagging,no,DI,"veermanleichsenring1991metzontla[111-112,128-130,152-154,332,379]"
 mezo1235-coargument-sensitivity indexing,mezo1235,coargument-sensitivity indexing,no,DI,"veermanleichsenring1991metzontla[111-112,128-130,152-154,332,379]"
 miam1252-flagging,miam1252,flagging,False,AWM,"costa2003miami[215-216,248]"
-miam1252-indexing,miam1252,indexing,True,,"costa2003miami[215-216,248]"
-miam1252-indexing-features,miam1252,indexing-features,?,,"costa2003miami[215-216,248]"
+miam1252-indexing,miam1252,indexing,True,auto,"costa2003miami[215-216,248]"
+miam1252-indexing-features,miam1252,indexing-features,?,auto,"costa2003miami[215-216,248]"
 miam1252-tam-split,miam1252,tam-split,?,AWM,"costa2003miami[215-216,248]"
 miam1252-split-s,miam1252,split-s,?,AWM,"costa2003miami[215-216,248]"
 miam1252-coargument-sensitivity flagging,miam1252,coargument-sensitivity flagging,no,AWM,"costa2003miami[215-216,248]"
@@ -1428,8 +1428,8 @@ nucl1302-split-s,nucl1302,split-s,True,AWM,"gurevich2006constructional[75-81];he
 nucl1302-coargument-sensitivity flagging,nucl1302,coargument-sensitivity flagging,no,AWM,"gurevich2006constructional[75-81];hewitt1987georgian[33-50,77];hewitt1995georgian[217,242,258]"
 nucl1302-coargument-sensitivity indexing,nucl1302,coargument-sensitivity indexing,yes,AWM,"gurevich2006constructional[75-81];hewitt1987georgian[33-50,77];hewitt1995georgian[217,242,258]"
 nucl1327-flagging,nucl1327,flagging,False,AWM;HT,harvey2001limilngan
-nucl1327-indexing,nucl1327,indexing,True,,harvey2001limilngan
-nucl1327-indexing-features,nucl1327,indexing-features,?,,harvey2001limilngan
+nucl1327-indexing,nucl1327,indexing,True,auto,harvey2001limilngan
+nucl1327-indexing-features,nucl1327,indexing-features,?,auto,harvey2001limilngan
 nucl1327-tam-split,nucl1327,tam-split,?,AWM;HT,harvey2001limilngan
 nucl1327-split-s,nucl1327,split-s,?,AWM;HT,harvey2001limilngan
 nucl1327-coargument-sensitivity flagging,nucl1327,coargument-sensitivity flagging,no,AWM;HT,harvey2001limilngan
@@ -1491,8 +1491,8 @@ olut1240-split-s,olut1240,split-s,False,AWM;HT,"zavala2000olutec[131,140,149-150
 olut1240-coargument-sensitivity flagging,olut1240,coargument-sensitivity flagging,no,AWM;HT,"zavala2000olutec[131,140,149-150,162,182,186,206,215,223-225,235-239,49-51]"
 olut1240-coargument-sensitivity indexing,olut1240,coargument-sensitivity indexing,yes,AWM;HT,"zavala2000olutec[131,140,149-150,162,182,186,206,215,223-225,235-239,49-51]"
 otta1242-flagging,otta1242,flagging,False,DI,"valentine2001ottawa[122-123,173,183-184]"
-otta1242-indexing,otta1242,indexing,True,,"valentine2001ottawa[122-123,173,183-184]"
-otta1242-indexing-features,otta1242,indexing-features,?,,"valentine2001ottawa[122-123,173,183-184]"
+otta1242-indexing,otta1242,indexing,True,auto,"valentine2001ottawa[122-123,173,183-184]"
+otta1242-indexing-features,otta1242,indexing-features,?,auto,"valentine2001ottawa[122-123,173,183-184]"
 otta1242-tam-split,otta1242,tam-split,?,DI,"valentine2001ottawa[122-123,173,183-184]"
 otta1242-split-s,otta1242,split-s,?,DI,"valentine2001ottawa[122-123,173,183-184]"
 otta1242-coargument-sensitivity flagging,otta1242,coargument-sensitivity flagging,no,DI,"valentine2001ottawa[122-123,173,183-184]"
@@ -1995,8 +1995,8 @@ urar1246-split-s,urar1246,split-s,False,HT,"olawsky2006urarina[213-214,360-362,4
 urar1246-coargument-sensitivity flagging,urar1246,coargument-sensitivity flagging,no,HT,"olawsky2006urarina[213-214,360-362,431-444]"
 urar1246-coargument-sensitivity indexing,urar1246,coargument-sensitivity indexing,no,HT,"olawsky2006urarina[213-214,360-362,431-444]"
 urni1239-flagging,urni1239,flagging,False,AN,"campbell2006urningangk[36-37,45]"
-urni1239-indexing,urni1239,indexing,True,,"campbell2006urningangk[36-37,45]"
-urni1239-indexing-features,urni1239,indexing-features,?,,"campbell2006urningangk[36-37,45]"
+urni1239-indexing,urni1239,indexing,True,auto,"campbell2006urningangk[36-37,45]"
+urni1239-indexing-features,urni1239,indexing-features,?,auto,"campbell2006urningangk[36-37,45]"
 urni1239-tam-split,urni1239,tam-split,?,AN,"campbell2006urningangk[36-37,45]"
 urni1239-split-s,urni1239,split-s,?,AN,"campbell2006urningangk[36-37,45]"
 urni1239-coargument-sensitivity flagging,urni1239,coargument-sensitivity flagging,no,AN,"campbell2006urningangk[36-37,45]"
@@ -2114,8 +2114,8 @@ wiyo1248-split-s,wiyo1248,split-s,False,AN,reichard1925wiyot[73-74];teeter1964wi
 wiyo1248-coargument-sensitivity flagging,wiyo1248,coargument-sensitivity flagging,no,AN,reichard1925wiyot[73-74];teeter1964wiyot[78]
 wiyo1248-coargument-sensitivity indexing,wiyo1248,coargument-sensitivity indexing,yes,AN,reichard1925wiyot[73-74];teeter1964wiyot[78]
 wyan1247-flagging,wyan1247,flagging,False,AN,kopris2001huron[340-341]
-wyan1247-indexing,wyan1247,indexing,True,,kopris2001huron[340-341]
-wyan1247-indexing-features,wyan1247,indexing-features,?,,kopris2001huron[340-341]
+wyan1247-indexing,wyan1247,indexing,True,auto,kopris2001huron[340-341]
+wyan1247-indexing-features,wyan1247,indexing-features,?,auto,kopris2001huron[340-341]
 wyan1247-tam-split,wyan1247,tam-split,?,AN,kopris2001huron[340-341]
 wyan1247-split-s,wyan1247,split-s,?,AN,kopris2001huron[340-341]
 wyan1247-coargument-sensitivity flagging,wyan1247,coargument-sensitivity flagging,no,AN,kopris2001huron[340-341]
@@ -3416,18 +3416,18 @@ cane1242-ref-sensitive,cane1242,ref-sensitive,False,DI,"miranda2014kraho[106-109
 cane1242-ref-sensitive-domain,cane1242,ref-sensitive-domain,NA,DI,"miranda2014kraho[106-109,71f,76f]"
 cata1286-align-noun,cata1286,align-noun,no marking,HT,"gatschet1900catawba[532,537-538]"
 cata1286-align-pro,cata1286,align-pro,no marking,HT,"gatschet1900catawba[532,537-538]"
-cata1286-align-index,cata1286,align-index,NA,,"gatschet1900catawba[532,537-538]"
+cata1286-align-index,cata1286,align-index,NA,auto,"gatschet1900catawba[532,537-538]"
 cata1286-align-noun-nl,cata1286,align-noun-nl,no marking,HT,"gatschet1900catawba[532,537-538]"
 cata1286-align-pro-nl,cata1286,align-pro-nl,no marking,HT,"gatschet1900catawba[532,537-538]"
-cata1286-align-index-nl,cata1286,align-index-nl,NA,,"gatschet1900catawba[532,537-538]"
-cata1286-ref-ergative,cata1286,ref-ergative,False,HT,"gatschet1900catawba[532,537-538]"
-cata1286-ref-ergative-domain,cata1286,ref-ergative-domain,NA,HT,"gatschet1900catawba[532,537-538]"
-cata1286-ref-tripartite,cata1286,ref-tripartite,False,HT,"gatschet1900catawba[532,537-538]"
-cata1286-ref-tripartite-domain,cata1286,ref-tripartite-domain,NA,HT,"gatschet1900catawba[532,537-538]"
-cata1286-ref-horizontal,cata1286,ref-horizontal,False,HT,"gatschet1900catawba[532,537-538]"
-cata1286-ref-horizontal-domain,cata1286,ref-horizontal-domain,NA,HT,"gatschet1900catawba[532,537-538]"
-cata1286-ref-sensitive,cata1286,ref-sensitive,False,HT,"gatschet1900catawba[532,537-538]"
-cata1286-ref-sensitive-domain,cata1286,ref-sensitive-domain,NA,HT,"gatschet1900catawba[532,537-538]"
+cata1286-align-index-nl,cata1286,align-index-nl,NA,auto,"gatschet1900catawba[532,537-538]"
+cata1286-ref-ergative,cata1286,ref-ergative,False,HT;auto,"gatschet1900catawba[532,537-538]"
+cata1286-ref-ergative-domain,cata1286,ref-ergative-domain,NA,HT;auto,"gatschet1900catawba[532,537-538]"
+cata1286-ref-tripartite,cata1286,ref-tripartite,False,HT;auto,"gatschet1900catawba[532,537-538]"
+cata1286-ref-tripartite-domain,cata1286,ref-tripartite-domain,NA,HT;auto,"gatschet1900catawba[532,537-538]"
+cata1286-ref-horizontal,cata1286,ref-horizontal,False,HT;auto,"gatschet1900catawba[532,537-538]"
+cata1286-ref-horizontal-domain,cata1286,ref-horizontal-domain,NA,HT;auto,"gatschet1900catawba[532,537-538]"
+cata1286-ref-sensitive,cata1286,ref-sensitive,False,HT;auto,"gatschet1900catawba[532,537-538]"
+cata1286-ref-sensitive-domain,cata1286,ref-sensitive-domain,NA,HT;auto,"gatschet1900catawba[532,537-538]"
 cavi1250-align-noun,cavi1250,align-noun,ergative,AWM,"guillaume2008cavinena[16,571,66,78];guillaume2010ergative[101]"
 cavi1250-align-pro,cavi1250,align-pro,ergative,AWM,"guillaume2008cavinena[16,571,66,78];guillaume2010ergative[101]"
 cavi1250-align-index,cavi1250,align-index,ergative,DI;MV,"guillaume2008cavinena[16,571,66,78];guillaume2010ergative[101]"
@@ -3640,18 +3640,18 @@ chuk1273-ref-sensitive,chuk1273,ref-sensitive,True,AWM;DI;MV,dunn1999chukchi[97-
 chuk1273-ref-sensitive-domain,chuk1273,ref-sensitive-domain,Verb,AWM;DI;MV,dunn1999chukchi[97-99]
 coah1252-align-noun,coah1252,align-noun,accusative,DI,troike1996coahuilteco[59-62]
 coah1252-align-pro,coah1252,align-pro,accusative,DI,troike1996coahuilteco[59-62]
-coah1252-align-index,coah1252,align-index,NA,,troike1996coahuilteco[59-62]
+coah1252-align-index,coah1252,align-index,NA,auto,troike1996coahuilteco[59-62]
 coah1252-align-noun-nl,coah1252,align-noun-nl,accusative,DI,troike1996coahuilteco[59-62]
 coah1252-align-pro-nl,coah1252,align-pro-nl,accusative,DI,troike1996coahuilteco[59-62]
-coah1252-align-index-nl,coah1252,align-index-nl,NA,,troike1996coahuilteco[59-62]
-coah1252-ref-ergative,coah1252,ref-ergative,False,DI,troike1996coahuilteco[59-62]
-coah1252-ref-ergative-domain,coah1252,ref-ergative-domain,NA,DI,troike1996coahuilteco[59-62]
-coah1252-ref-tripartite,coah1252,ref-tripartite,False,DI,troike1996coahuilteco[59-62]
-coah1252-ref-tripartite-domain,coah1252,ref-tripartite-domain,NA,DI,troike1996coahuilteco[59-62]
-coah1252-ref-horizontal,coah1252,ref-horizontal,False,DI,troike1996coahuilteco[59-62]
-coah1252-ref-horizontal-domain,coah1252,ref-horizontal-domain,NA,DI,troike1996coahuilteco[59-62]
-coah1252-ref-sensitive,coah1252,ref-sensitive,False,DI,troike1996coahuilteco[59-62]
-coah1252-ref-sensitive-domain,coah1252,ref-sensitive-domain,NA,DI,troike1996coahuilteco[59-62]
+coah1252-align-index-nl,coah1252,align-index-nl,NA,auto,troike1996coahuilteco[59-62]
+coah1252-ref-ergative,coah1252,ref-ergative,False,DI;auto,troike1996coahuilteco[59-62]
+coah1252-ref-ergative-domain,coah1252,ref-ergative-domain,NA,DI;auto,troike1996coahuilteco[59-62]
+coah1252-ref-tripartite,coah1252,ref-tripartite,False,DI;auto,troike1996coahuilteco[59-62]
+coah1252-ref-tripartite-domain,coah1252,ref-tripartite-domain,NA,DI;auto,troike1996coahuilteco[59-62]
+coah1252-ref-horizontal,coah1252,ref-horizontal,False,DI;auto,troike1996coahuilteco[59-62]
+coah1252-ref-horizontal-domain,coah1252,ref-horizontal-domain,NA,DI;auto,troike1996coahuilteco[59-62]
+coah1252-ref-sensitive,coah1252,ref-sensitive,False,DI;auto,troike1996coahuilteco[59-62]
+coah1252-ref-sensitive-domain,coah1252,ref-sensitive-domain,NA,DI;auto,troike1996coahuilteco[59-62]
 coca1259-align-noun,coca1259,align-noun,no marking,AWM,"vallejos2016kukama[158-162,262-267]"
 coca1259-align-pro,coca1259,align-pro,no marking,AWM,"vallejos2016kukama[158-162,262-267]"
 coca1259-align-index,coca1259,align-index,no marking,AWM;DI;MV,"vallejos2016kukama[158-162,262-267]"
@@ -4550,18 +4550,18 @@ kana1291-ref-sensitive,kana1291,ref-sensitive,False,AN;AWM,queixalos2010katukina
 kana1291-ref-sensitive-domain,kana1291,ref-sensitive-domain,NA,AN;AWM,queixalos2010katukina[236-239]
 kano1245-align-noun,kano1245,align-noun,no marking,MV;NCP,bacelar2023kanoe[685]
 kano1245-align-pro,kano1245,align-pro,no marking,MV;NCP,bacelar2023kanoe[685]
-kano1245-align-index,kano1245,align-index,NA,,bacelar2023kanoe[685]
+kano1245-align-index,kano1245,align-index,NA,auto,bacelar2023kanoe[685]
 kano1245-align-noun-nl,kano1245,align-noun-nl,no marking,MV;NCP,bacelar2023kanoe[685]
 kano1245-align-pro-nl,kano1245,align-pro-nl,no marking,MV;NCP,bacelar2023kanoe[685]
-kano1245-align-index-nl,kano1245,align-index-nl,NA,,bacelar2023kanoe[685]
-kano1245-ref-ergative,kano1245,ref-ergative,False,MV;NCP,bacelar2023kanoe[685]
-kano1245-ref-ergative-domain,kano1245,ref-ergative-domain,NA,MV;NCP,bacelar2023kanoe[685]
-kano1245-ref-tripartite,kano1245,ref-tripartite,False,MV;NCP,bacelar2023kanoe[685]
-kano1245-ref-tripartite-domain,kano1245,ref-tripartite-domain,NA,MV;NCP,bacelar2023kanoe[685]
-kano1245-ref-horizontal,kano1245,ref-horizontal,False,MV;NCP,bacelar2023kanoe[685]
-kano1245-ref-horizontal-domain,kano1245,ref-horizontal-domain,NA,MV;NCP,bacelar2023kanoe[685]
-kano1245-ref-sensitive,kano1245,ref-sensitive,False,MV;NCP,bacelar2023kanoe[685]
-kano1245-ref-sensitive-domain,kano1245,ref-sensitive-domain,NA,MV;NCP,bacelar2023kanoe[685]
+kano1245-align-index-nl,kano1245,align-index-nl,NA,auto,bacelar2023kanoe[685]
+kano1245-ref-ergative,kano1245,ref-ergative,False,MV;NCP;auto,bacelar2023kanoe[685]
+kano1245-ref-ergative-domain,kano1245,ref-ergative-domain,NA,MV;NCP;auto,bacelar2023kanoe[685]
+kano1245-ref-tripartite,kano1245,ref-tripartite,False,MV;NCP;auto,bacelar2023kanoe[685]
+kano1245-ref-tripartite-domain,kano1245,ref-tripartite-domain,NA,MV;NCP;auto,bacelar2023kanoe[685]
+kano1245-ref-horizontal,kano1245,ref-horizontal,False,MV;NCP;auto,bacelar2023kanoe[685]
+kano1245-ref-horizontal-domain,kano1245,ref-horizontal-domain,NA,MV;NCP;auto,bacelar2023kanoe[685]
+kano1245-ref-sensitive,kano1245,ref-sensitive,False,MV;NCP;auto,bacelar2023kanoe[685]
+kano1245-ref-sensitive-domain,kano1245,ref-sensitive-domain,NA,MV;NCP;auto,bacelar2023kanoe[685]
 kara1500-align-noun,kara1500,align-noun,no marking,DI,"ribeiro2012karaja[173,198,205-208]"
 kara1500-align-pro,kara1500,align-pro,accusative,DI,"ribeiro2012karaja[173,198,205-208]"
 kara1500-align-index,kara1500,align-index,accusative,DI,"ribeiro2012karaja[173,198,205-208]"
@@ -4578,18 +4578,18 @@ kara1500-ref-sensitive,kara1500,ref-sensitive,False,DI,"ribeiro2012karaja[173,19
 kara1500-ref-sensitive-domain,kara1500,ref-sensitive-domain,NA,DI,"ribeiro2012karaja[173,198,205-208]"
 kari1254-align-noun,kari1254,align-noun,no marking,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
 kari1254-align-pro,kari1254,align-pro,ergative,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
-kari1254-align-index,kari1254,align-index,NA,,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
+kari1254-align-index,kari1254,align-index,NA,auto,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
 kari1254-align-noun-nl,kari1254,align-noun-nl,no marking,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
 kari1254-align-pro-nl,kari1254,align-pro-nl,ergative,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
-kari1254-align-index-nl,kari1254,align-index-nl,NA,,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
-kari1254-ref-ergative,kari1254,ref-ergative,True,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
-kari1254-ref-ergative-domain,kari1254,ref-ergative-domain,Pro,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
-kari1254-ref-tripartite,kari1254,ref-tripartite,False,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
-kari1254-ref-tripartite-domain,kari1254,ref-tripartite-domain,NA,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
-kari1254-ref-horizontal,kari1254,ref-horizontal,False,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
-kari1254-ref-horizontal-domain,kari1254,ref-horizontal-domain,NA,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
-kari1254-ref-sensitive,kari1254,ref-sensitive,False,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
-kari1254-ref-sensitive-domain,kari1254,ref-sensitive-domain,NA,MV;NCP,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
+kari1254-align-index-nl,kari1254,align-index-nl,NA,auto,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
+kari1254-ref-ergative,kari1254,ref-ergative,True,MV;NCP;auto,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
+kari1254-ref-ergative-domain,kari1254,ref-ergative-domain,Pro,MV;NCP;auto,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
+kari1254-ref-tripartite,kari1254,ref-tripartite,False,MV;NCP;auto,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
+kari1254-ref-tripartite-domain,kari1254,ref-tripartite-domain,NA,MV;NCP;auto,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
+kari1254-ref-horizontal,kari1254,ref-horizontal,False,MV;NCP;auto,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
+kari1254-ref-horizontal-domain,kari1254,ref-horizontal-domain,NA,MV;NCP;auto,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
+kari1254-ref-sensitive,kari1254,ref-sensitive,False,MV;NCP;auto,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
+kari1254-ref-sensitive-domain,kari1254,ref-sensitive-domain,NA,MV;NCP;auto,"queiroz2012dzubukua[131,149,152,196,245,288,328,335-337]"
 kari1311-align-noun,kari1311,align-noun,no marking,AWM,everett2007patterns[300-320]
 kari1311-align-pro,kari1311,align-pro,no marking,AWM,everett2007patterns[300-320]
 kari1311-align-index,kari1311,align-index,ergative,AN,everett2007patterns[300-320]
@@ -5292,18 +5292,18 @@ mezo1235-ref-sensitive,mezo1235,ref-sensitive,True,DI,"veermanleichsenring1991me
 mezo1235-ref-sensitive-domain,mezo1235,ref-sensitive-domain,Verb,DI,"veermanleichsenring1991metzontla[332,379]"
 miam1252-align-noun,miam1252,align-noun,no marking,AWM,"costa2003miami[215-216,248]"
 miam1252-align-pro,miam1252,align-pro,no marking,AWM,"costa2003miami[215-216,248]"
-miam1252-align-index,miam1252,align-index,NA,,"costa2003miami[215-216,248]"
+miam1252-align-index,miam1252,align-index,NA,auto,"costa2003miami[215-216,248]"
 miam1252-align-noun-nl,miam1252,align-noun-nl,no marking,AWM,"costa2003miami[215-216,248]"
 miam1252-align-pro-nl,miam1252,align-pro-nl,no marking,AWM,"costa2003miami[215-216,248]"
-miam1252-align-index-nl,miam1252,align-index-nl,NA,,"costa2003miami[215-216,248]"
-miam1252-ref-ergative,miam1252,ref-ergative,False,AWM,"costa2003miami[215-216,248]"
-miam1252-ref-ergative-domain,miam1252,ref-ergative-domain,NA,AWM,"costa2003miami[215-216,248]"
-miam1252-ref-tripartite,miam1252,ref-tripartite,False,AWM,"costa2003miami[215-216,248]"
-miam1252-ref-tripartite-domain,miam1252,ref-tripartite-domain,NA,AWM,"costa2003miami[215-216,248]"
-miam1252-ref-horizontal,miam1252,ref-horizontal,False,AWM,"costa2003miami[215-216,248]"
-miam1252-ref-horizontal-domain,miam1252,ref-horizontal-domain,NA,AWM,"costa2003miami[215-216,248]"
-miam1252-ref-sensitive,miam1252,ref-sensitive,False,AWM,"costa2003miami[215-216,248]"
-miam1252-ref-sensitive-domain,miam1252,ref-sensitive-domain,NA,AWM,"costa2003miami[215-216,248]"
+miam1252-align-index-nl,miam1252,align-index-nl,NA,auto,"costa2003miami[215-216,248]"
+miam1252-ref-ergative,miam1252,ref-ergative,False,AWM;auto,"costa2003miami[215-216,248]"
+miam1252-ref-ergative-domain,miam1252,ref-ergative-domain,NA,AWM;auto,"costa2003miami[215-216,248]"
+miam1252-ref-tripartite,miam1252,ref-tripartite,False,AWM;auto,"costa2003miami[215-216,248]"
+miam1252-ref-tripartite-domain,miam1252,ref-tripartite-domain,NA,AWM;auto,"costa2003miami[215-216,248]"
+miam1252-ref-horizontal,miam1252,ref-horizontal,False,AWM;auto,"costa2003miami[215-216,248]"
+miam1252-ref-horizontal-domain,miam1252,ref-horizontal-domain,NA,AWM;auto,"costa2003miami[215-216,248]"
+miam1252-ref-sensitive,miam1252,ref-sensitive,False,AWM;auto,"costa2003miami[215-216,248]"
+miam1252-ref-sensitive-domain,miam1252,ref-sensitive-domain,NA,AWM;auto,"costa2003miami[215-216,248]"
 miri1266-align-noun,miri1266,align-noun,no marking,AWM,kofod1978miriwung[47]
 miri1266-align-pro,miri1266,align-pro,no marking,AWM,kofod1978miriwung[47]
 miri1266-align-index,miri1266,align-index,sensitive,AWM,kofod1978miriwung[47]
@@ -5782,18 +5782,18 @@ nucl1302-ref-sensitive,nucl1302,ref-sensitive,True,AWM,"gurevich2006construction
 nucl1302-ref-sensitive-domain,nucl1302,ref-sensitive-domain,Verb,AWM,"gurevich2006constructional[75-80];hewitt1987georgian[33-50,77]"
 nucl1327-align-noun,nucl1327,align-noun,no marking,AWM;HT,harvey2001limilngan
 nucl1327-align-pro,nucl1327,align-pro,no marking,AWM;HT,harvey2001limilngan
-nucl1327-align-index,nucl1327,align-index,NA,,harvey2001limilngan
+nucl1327-align-index,nucl1327,align-index,NA,auto,harvey2001limilngan
 nucl1327-align-noun-nl,nucl1327,align-noun-nl,no marking,AWM;HT,harvey2001limilngan
 nucl1327-align-pro-nl,nucl1327,align-pro-nl,no marking,AWM;HT,harvey2001limilngan
-nucl1327-align-index-nl,nucl1327,align-index-nl,NA,,harvey2001limilngan
-nucl1327-ref-ergative,nucl1327,ref-ergative,False,AWM;HT,harvey2001limilngan
-nucl1327-ref-ergative-domain,nucl1327,ref-ergative-domain,NA,AWM;HT,harvey2001limilngan
-nucl1327-ref-tripartite,nucl1327,ref-tripartite,False,AWM;HT,harvey2001limilngan
-nucl1327-ref-tripartite-domain,nucl1327,ref-tripartite-domain,NA,AWM;HT,harvey2001limilngan
-nucl1327-ref-horizontal,nucl1327,ref-horizontal,False,AWM;HT,harvey2001limilngan
-nucl1327-ref-horizontal-domain,nucl1327,ref-horizontal-domain,NA,AWM;HT,harvey2001limilngan
-nucl1327-ref-sensitive,nucl1327,ref-sensitive,False,AWM;HT,harvey2001limilngan
-nucl1327-ref-sensitive-domain,nucl1327,ref-sensitive-domain,NA,AWM;HT,harvey2001limilngan
+nucl1327-align-index-nl,nucl1327,align-index-nl,NA,auto,harvey2001limilngan
+nucl1327-ref-ergative,nucl1327,ref-ergative,False,AWM;HT;auto,harvey2001limilngan
+nucl1327-ref-ergative-domain,nucl1327,ref-ergative-domain,NA,AWM;HT;auto,harvey2001limilngan
+nucl1327-ref-tripartite,nucl1327,ref-tripartite,False,AWM;HT;auto,harvey2001limilngan
+nucl1327-ref-tripartite-domain,nucl1327,ref-tripartite-domain,NA,AWM;HT;auto,harvey2001limilngan
+nucl1327-ref-horizontal,nucl1327,ref-horizontal,False,AWM;HT;auto,harvey2001limilngan
+nucl1327-ref-horizontal-domain,nucl1327,ref-horizontal-domain,NA,AWM;HT;auto,harvey2001limilngan
+nucl1327-ref-sensitive,nucl1327,ref-sensitive,False,AWM;HT;auto,harvey2001limilngan
+nucl1327-ref-sensitive-domain,nucl1327,ref-sensitive-domain,NA,AWM;HT;auto,harvey2001limilngan
 nucl1622-align-noun,nucl1622,align-noun,no marking,AWM;HT,"olsson2017coastal[295-297,79]"
 nucl1622-align-pro,nucl1622,align-pro,no marking,AWM;HT,"olsson2017coastal[295-297,79]"
 nucl1622-align-index,nucl1622,align-index,accusative,AWM;HT,"olsson2017coastal[295-297,79]"
@@ -5908,18 +5908,18 @@ olut1240-ref-sensitive,olut1240,ref-sensitive,True,AWM;HT,"zavala2000olutec[149-
 olut1240-ref-sensitive-domain,olut1240,ref-sensitive-domain,Verb,AWM;HT,"zavala2000olutec[149-150,49-51]"
 otta1242-align-noun,otta1242,align-noun,no marking,DI,"valentine2001ottawa[122-123,173,183-184]"
 otta1242-align-pro,otta1242,align-pro,no marking,DI,"valentine2001ottawa[122-123,173,183-184]"
-otta1242-align-index,otta1242,align-index,NA,,"valentine2001ottawa[122-123,173,183-184]"
+otta1242-align-index,otta1242,align-index,NA,auto,"valentine2001ottawa[122-123,173,183-184]"
 otta1242-align-noun-nl,otta1242,align-noun-nl,no marking,DI,"valentine2001ottawa[122-123,173,183-184]"
 otta1242-align-pro-nl,otta1242,align-pro-nl,no marking,DI,"valentine2001ottawa[122-123,173,183-184]"
-otta1242-align-index-nl,otta1242,align-index-nl,NA,,"valentine2001ottawa[122-123,173,183-184]"
-otta1242-ref-ergative,otta1242,ref-ergative,False,DI,"valentine2001ottawa[122-123,173,183-184]"
-otta1242-ref-ergative-domain,otta1242,ref-ergative-domain,NA,DI,"valentine2001ottawa[122-123,173,183-184]"
-otta1242-ref-tripartite,otta1242,ref-tripartite,False,DI,"valentine2001ottawa[122-123,173,183-184]"
-otta1242-ref-tripartite-domain,otta1242,ref-tripartite-domain,NA,DI,"valentine2001ottawa[122-123,173,183-184]"
-otta1242-ref-horizontal,otta1242,ref-horizontal,False,DI,"valentine2001ottawa[122-123,173,183-184]"
-otta1242-ref-horizontal-domain,otta1242,ref-horizontal-domain,NA,DI,"valentine2001ottawa[122-123,173,183-184]"
-otta1242-ref-sensitive,otta1242,ref-sensitive,False,DI,"valentine2001ottawa[122-123,173,183-184]"
-otta1242-ref-sensitive-domain,otta1242,ref-sensitive-domain,NA,DI,"valentine2001ottawa[122-123,173,183-184]"
+otta1242-align-index-nl,otta1242,align-index-nl,NA,auto,"valentine2001ottawa[122-123,173,183-184]"
+otta1242-ref-ergative,otta1242,ref-ergative,False,DI;auto,"valentine2001ottawa[122-123,173,183-184]"
+otta1242-ref-ergative-domain,otta1242,ref-ergative-domain,NA,DI;auto,"valentine2001ottawa[122-123,173,183-184]"
+otta1242-ref-tripartite,otta1242,ref-tripartite,False,DI;auto,"valentine2001ottawa[122-123,173,183-184]"
+otta1242-ref-tripartite-domain,otta1242,ref-tripartite-domain,NA,DI;auto,"valentine2001ottawa[122-123,173,183-184]"
+otta1242-ref-horizontal,otta1242,ref-horizontal,False,DI;auto,"valentine2001ottawa[122-123,173,183-184]"
+otta1242-ref-horizontal-domain,otta1242,ref-horizontal-domain,NA,DI;auto,"valentine2001ottawa[122-123,173,183-184]"
+otta1242-ref-sensitive,otta1242,ref-sensitive,False,DI;auto,"valentine2001ottawa[122-123,173,183-184]"
+otta1242-ref-sensitive-domain,otta1242,ref-sensitive-domain,NA,DI;auto,"valentine2001ottawa[122-123,173,183-184]"
 paez1247-align-noun,paez1247,align-noun,accusative,DI,"jung2008paez[115-116,136-137]"
 paez1247-align-pro,paez1247,align-pro,accusative,DI,"jung2008paez[115-116,136-137]"
 paez1247-align-index,paez1247,align-index,accusative,DI,"jung2008paez[115-116,136-137]"
@@ -6916,18 +6916,18 @@ urar1246-ref-sensitive,urar1246,ref-sensitive,False,HT,olawsky2006urarina[213-21
 urar1246-ref-sensitive-domain,urar1246,ref-sensitive-domain,NA,HT,olawsky2006urarina[213-214]
 urni1239-align-noun,urni1239,align-noun,no marking,AN,"campbell2006urningangk[36-37,45]"
 urni1239-align-pro,urni1239,align-pro,no marking,AN,"campbell2006urningangk[36-37,45]"
-urni1239-align-index,urni1239,align-index,NA,,"campbell2006urningangk[36-37,45]"
+urni1239-align-index,urni1239,align-index,NA,auto,"campbell2006urningangk[36-37,45]"
 urni1239-align-noun-nl,urni1239,align-noun-nl,no marking,AN,"campbell2006urningangk[36-37,45]"
 urni1239-align-pro-nl,urni1239,align-pro-nl,no marking,AN,"campbell2006urningangk[36-37,45]"
-urni1239-align-index-nl,urni1239,align-index-nl,NA,,"campbell2006urningangk[36-37,45]"
-urni1239-ref-ergative,urni1239,ref-ergative,False,AN,"campbell2006urningangk[36-37,45]"
-urni1239-ref-ergative-domain,urni1239,ref-ergative-domain,NA,AN,"campbell2006urningangk[36-37,45]"
-urni1239-ref-tripartite,urni1239,ref-tripartite,False,AN,"campbell2006urningangk[36-37,45]"
-urni1239-ref-tripartite-domain,urni1239,ref-tripartite-domain,NA,AN,"campbell2006urningangk[36-37,45]"
-urni1239-ref-horizontal,urni1239,ref-horizontal,False,AN,"campbell2006urningangk[36-37,45]"
-urni1239-ref-horizontal-domain,urni1239,ref-horizontal-domain,NA,AN,"campbell2006urningangk[36-37,45]"
-urni1239-ref-sensitive,urni1239,ref-sensitive,False,AN,"campbell2006urningangk[36-37,45]"
-urni1239-ref-sensitive-domain,urni1239,ref-sensitive-domain,NA,AN,"campbell2006urningangk[36-37,45]"
+urni1239-align-index-nl,urni1239,align-index-nl,NA,auto,"campbell2006urningangk[36-37,45]"
+urni1239-ref-ergative,urni1239,ref-ergative,False,AN;auto,"campbell2006urningangk[36-37,45]"
+urni1239-ref-ergative-domain,urni1239,ref-ergative-domain,NA,AN;auto,"campbell2006urningangk[36-37,45]"
+urni1239-ref-tripartite,urni1239,ref-tripartite,False,AN;auto,"campbell2006urningangk[36-37,45]"
+urni1239-ref-tripartite-domain,urni1239,ref-tripartite-domain,NA,AN;auto,"campbell2006urningangk[36-37,45]"
+urni1239-ref-horizontal,urni1239,ref-horizontal,False,AN;auto,"campbell2006urningangk[36-37,45]"
+urni1239-ref-horizontal-domain,urni1239,ref-horizontal-domain,NA,AN;auto,"campbell2006urningangk[36-37,45]"
+urni1239-ref-sensitive,urni1239,ref-sensitive,False,AN;auto,"campbell2006urningangk[36-37,45]"
+urni1239-ref-sensitive-domain,urni1239,ref-sensitive-domain,NA,AN;auto,"campbell2006urningangk[36-37,45]"
 wage1238-align-noun,wage1238,align-noun,ergative;no marking,HT,"cook1987wagiman[125-126,129-130,94-95]"
 wage1238-align-pro,wage1238,align-pro,ergative;no marking,HT,"cook1987wagiman[125-126,129-130,94-95]"
 wage1238-align-index,wage1238,align-index,sensitive,AWM;HT,"cook1987wagiman[125-126,129-130,94-95]"
@@ -7154,18 +7154,18 @@ wiyo1248-ref-sensitive,wiyo1248,ref-sensitive,True,AN,teeter1964wiyot[78]
 wiyo1248-ref-sensitive-domain,wiyo1248,ref-sensitive-domain,Verb,AN,teeter1964wiyot[78]
 wyan1247-align-noun,wyan1247,align-noun,no marking,AN,kopris2001huron[340-341]
 wyan1247-align-pro,wyan1247,align-pro,NA,AN,kopris2001huron[340-341]
-wyan1247-align-index,wyan1247,align-index,NA,,kopris2001huron[340-341]
+wyan1247-align-index,wyan1247,align-index,NA,auto,kopris2001huron[340-341]
 wyan1247-align-noun-nl,wyan1247,align-noun-nl,no marking,AN,kopris2001huron[340-341]
 wyan1247-align-pro-nl,wyan1247,align-pro-nl,NA,AN,kopris2001huron[340-341]
-wyan1247-align-index-nl,wyan1247,align-index-nl,NA,,kopris2001huron[340-341]
-wyan1247-ref-ergative,wyan1247,ref-ergative,False,AN,kopris2001huron[340-341]
-wyan1247-ref-ergative-domain,wyan1247,ref-ergative-domain,NA,AN,kopris2001huron[340-341]
-wyan1247-ref-tripartite,wyan1247,ref-tripartite,False,AN,kopris2001huron[340-341]
-wyan1247-ref-tripartite-domain,wyan1247,ref-tripartite-domain,NA,AN,kopris2001huron[340-341]
-wyan1247-ref-horizontal,wyan1247,ref-horizontal,False,AN,kopris2001huron[340-341]
-wyan1247-ref-horizontal-domain,wyan1247,ref-horizontal-domain,NA,AN,kopris2001huron[340-341]
-wyan1247-ref-sensitive,wyan1247,ref-sensitive,False,AN,kopris2001huron[340-341]
-wyan1247-ref-sensitive-domain,wyan1247,ref-sensitive-domain,NA,AN,kopris2001huron[340-341]
+wyan1247-align-index-nl,wyan1247,align-index-nl,NA,auto,kopris2001huron[340-341]
+wyan1247-ref-ergative,wyan1247,ref-ergative,False,AN;auto,kopris2001huron[340-341]
+wyan1247-ref-ergative-domain,wyan1247,ref-ergative-domain,NA,AN;auto,kopris2001huron[340-341]
+wyan1247-ref-tripartite,wyan1247,ref-tripartite,False,AN;auto,kopris2001huron[340-341]
+wyan1247-ref-tripartite-domain,wyan1247,ref-tripartite-domain,NA,AN;auto,kopris2001huron[340-341]
+wyan1247-ref-horizontal,wyan1247,ref-horizontal,False,AN;auto,kopris2001huron[340-341]
+wyan1247-ref-horizontal-domain,wyan1247,ref-horizontal-domain,NA,AN;auto,kopris2001huron[340-341]
+wyan1247-ref-sensitive,wyan1247,ref-sensitive,False,AN;auto,kopris2001huron[340-341]
+wyan1247-ref-sensitive-domain,wyan1247,ref-sensitive-domain,NA,AN;auto,kopris2001huron[340-341]
 xava1240-align-noun,xava1240,align-noun,no marking,AN,estevam2011xavante[148]
 xava1240-align-pro,xava1240,align-pro,no marking,AN,estevam2011xavante[148]
 xava1240-align-index,xava1240,align-index,ergative,AN,estevam2011xavante[148]
