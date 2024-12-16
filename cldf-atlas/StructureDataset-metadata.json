@@ -35,10 +35,6 @@
                     },
                     {
                         "datatype": "string",
-                        "null": [
-                            "?",
-                            ""
-                        ],
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": false,
                         "name": "Value"
