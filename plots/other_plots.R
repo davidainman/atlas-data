@@ -287,135 +287,141 @@ atlasdata <- atlasdata[!(row.names(atlasdata) %in% row.names.remove), ]
 # make into factors
 atlasdata[] <- lapply(atlasdata, factor)
 
-# do FAMD
-# impute data
-atlasdata.impute <- imputeFAMD(atlasdata, ncp=3, maxiter = 1000000)
-# do FAMD
-atlasdata.famd <- FAMD(atlasdata, tab.disj = atlasdata.impute$tab.disj, graph=FALSE, ncp=3)
-# plot(atlasdata.famd, choix="ind", axes=c(1,2), lab.var=TRUE)
-fviz_famd_ind(atlasdata.famd, col.ind = "cos2",
-              label=c("ind"), labelsize=3, arrowsize=0,
-              gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"),
-              repel = FALSE)
+# hclustering: world
+atlasdata.renamed <- atlasdata
+atlasdata.renamed$Glottocode <- rownames(atlasdata.renamed)
+atlasdata.renamed <- merge(atlasdata.renamed, languagescsv, by.x = "Glottocode", by.y="Glottocode")
+rownames(atlasdata.renamed) <- atlasdata.renamed$Name
+atlasdata.renamed <- atlasdata.renamed %>% select(-names(languagescsv))
 
-# maps
-RGB_mapping <- function(famd.object, taxonomy_matrix, pc1flip=F, pc2flip=F, pc3flip=F) {
-  library(scales)
-  gg <- as.data.frame(taxonomy_matrix)[ , c('Glottocode','lat', 'lon')]
-  df <- data.frame(get_famd(famd.object)$coord, level1=rownames(get_famd(famd.object)$coord))
-  
-  # map PCs to RGB:
-  if(pc1flip){
-    pcrange <- range(df$Dim.1)
-    pcmid <- mean(pcrange)
-    pcflip <- df$Dim.1-2*(df$Dim.1-pcmid)
-    df$Dim.1 <- pcflip
-  }
-  
-  if(pc2flip){
-    pcrange <- range(df$Dim.2)
-    pcmid <- mean(pcrange)
-    pcflip <- df$Dim.2-2*(df$Dim.2-pcmid)
-    df$Dim.2 <- pcflip
-  }
-  
-  if(pc3flip){
-    pcrange <- range(df$Dim.3)
-    pcmid <- mean(pcrange)
-    pcflip <- df$Dim.3-2*(df$Dim.3-pcmid)
-    df$Dim.3 <- pcflip
-  }
-  
-  df$pc.colors1to3 <- with(df, rgb(red=rescale_mid(Dim.1), 
-                                   green=rescale_mid(Dim.2), 
-                                   blue=rescale_mid(Dim.3), alpha=0.8))
-  # df$pc.colors4to6 <- with(df, rgb(red=rescale_mid(Dim.4), 
-  #                                  green=rescale_mid(Dim.5), 
-  #                                  blue=rescale_mid(Dim.6), alpha=0.8))
-  # df$pc.colors7to9 <- with(df, rgb(red=rescale_mid(Dim.7), 
-  #                                  green=rescale_mid(Dim.8), 
-  #                                  blue=rescale_mid(Dim.9), alpha=0.8))
-  geo <- subset(gg, gg[,1] %in% df$level1)
-  geo.world <- merge(df, 
-                     geo, by.x='level1', by.y=names(gg)[1])
-  return(geo.world)
-}
+gower.dist <- daisy(atlasdata.renamed[ , 1:length(names(atlasdata.renamed))], metric = c("gower"))
 
-grayscale_mapping <- function(famd.object, taxonomy_matrix) {
-  library(scales)
-  gg <- as.data.frame(taxonomy_matrix)[ , c('Glottocode','lat', 'lon')]
-  df <- data.frame(get_famd(famd.object)$coord, level1=rownames(get_famd(famd.object)$coord))
-  
-  # map dimension to grayscale:
-  df$dim.color1 <- with(df, gray(rescale_mid(Dim.1), alpha=0.8))
-  df$dim.color2 <- with(df, gray(rescale_mid(Dim.2), alpha=0.8))
-  df$dim.color3 <- with(df, gray(rescale_mid(Dim.3), alpha=0.8))
-  df$dim.color4 <- with(df, gray(rescale_mid(Dim.4), alpha=0.8))
-  df$dim.color5 <- with(df, gray(rescale_mid(Dim.5), alpha=0.8))
-  df$dim.color6 <- with(df, gray(rescale_mid(Dim.6), alpha=0.8))
-  df$dim.color7 <- with(df, gray(rescale_mid(Dim.7), alpha=0.8))
-  df$dim.color8 <- with(df, gray(rescale_mid(Dim.8), alpha=0.8))
-  df$dim.color9 <- with(df, gray(rescale_mid(Dim.9), alpha=0.8))
-  geo <- subset(gg, gg[,1] %in% df$level1)
-  geo.world <- merge(df, 
-                     geo, by.x='level1', by.y=names(gg)[1])
-  return(geo.world)
-}
+# divisive clustering
+divisive.clust <- diana(as.matrix(gower.dist), diss = TRUE, keep.diss = TRUE)
+plot(divisive.clust, main = "Divisive")
 
-# plotting RGB map 
-rgb_map <- function(rgb_data_frame, world_map_initial, main, plot, size, famd.object){
-  main <- paste(main,", Dim1-Dim3 (",round(get_eigenvalue(famd.object)['Dim.3', 'cumulative.variance.percent'],2),"%)",sep="")
-  rgb_shifted <- project_data(df = rgb_data_frame, world_map_initial = world_map_initial)
-  pacific_centered_map <- rgb_shifted$base_plot +
-    geom_sf(data = rgb_shifted$data, aes(fill = pc.colors1to3, color = pc.colors1to3), shape = 21, size = size) +
-    labs(title = main) +
-    theme_minimal() +
-    scale_fill_identity() +  # use color values as specified in the data
-    scale_color_identity() +  # use color values as specified in the data
-    guides(fill = "none", color = "none")+
-    theme(panel.grid.major = element_blank(), plot.title = element_text(hjust = 0.5),
-          axis.text = element_blank(),axis.ticks = element_blank())
-  if(plot==T){
-    print(pacific_centered_map)
-  }
-  return(pacific_centered_map)
-}
+# agglomerative clustering
+aggl.clust.c <- hclust(gower.dist, method = "complete")
+plot(aggl.clust.c, main = "Agglomerative, complete linkages")
 
-gray_map <- function(gray_data_frame, world_map_initial, main, plot, size, dim, famd.object) {
-  main <- paste(main,", Dim", dim, sep="")
-  gray_shifted <- project_data(df = gray_data_frame, world_map_initial = world_map_initial)
-  dimension <- paste0("dim.color",dim)
-  pacific_centered_map <- gray_shifted$base_plot +
-    geom_sf(data = gray_shifted$data, aes(fill = !!sym(dimension), color = !!sym(dimension)), shape = 21, size = size) +
-    labs(title = main) +
-    theme_minimal() +
-    scale_fill_identity() +  # use color values as specified in the data
-    scale_color_identity() +  # use color values as specified in the data
-    guides(fill = "none", color = "none")+
-    theme(panel.grid.major = element_blank(), plot.title = element_text(hjust = 0.5),
-          axis.text = element_blank(),axis.ticks = element_blank())
-  if(plot==T){
-    print(pacific_centered_map)
-  }
-  return(pacific_centered_map)
-}
+# look for best algorithm, best k
 
-"all FTT"
-"4/5 no Piraha TFF FTF"
-"3/4 no Piraha FTF"
-atlas.rgb <- RGB_mapping(atlasdata.famd, languagescsv, pc1flip = F, pc2flip = T, pc3flip = F) %>% na.omit()
-atlas.rgbmap <- rgb_map(atlas.rgb, world_map_initial, main="ATLAs FAMD", plot=F, size = 2, famd.object = atlasdata.famd)
-ggsave("atlas_famd-singlevaluedonly-0.8.png", plot = atlas.rgbmap, width = 9, height = 8, dpi = 500)
+# Elbow
+ggplot(data = data.frame(t(cstats.table(gower.dist, divisive.clust, 20))), 
+       aes(x=cluster.number, y=within.cluster.ss)) + 
+  geom_point()+
+  geom_line()+
+  ggtitle("Divisive clustering") +
+  labs(x = "Num.of clusters", y = "Within clusters sum of squares (SS)") +
+  theme(plot.title = element_text(hjust = 0.5))
 
-# gray maps
+ggplot(data = data.frame(t(cstats.table(gower.dist, aggl.clust.c, 20))), 
+       aes(x=cluster.number, y=within.cluster.ss)) + 
+  geom_point()+
+  geom_line()+
+  ggtitle("Agglomerative clustering") +
+  labs(x = "Num.of clusters", y = "Within clusters sum of squares (SS)") +
+  theme(plot.title = element_text(hjust = 0.5))
 
-atlas.gray <- grayscale_mapping(atlasdata.famd, languagescsv) %>% na.omit()
-atlas.graymap1 <- gray_map(atlas.gray, world_map_initial, main="ATLAs FAMD", plot=F, size = 1.2, dim = 1, famd.object = atlasdata.famd)
-atlas.graymap2 <- gray_map(atlas.gray, world_map_initial, main="ATLAs FAMD", plot=F, size = 1.2, dim = 2, famd.object = atlasdata.famd)
-atlas.graymap3 <- gray_map(atlas.gray, world_map_initial, main="ATLAs FAMD", plot=F, size = 1.2, dim = 3, famd.object = atlasdata.famd)
-atlas.graymap4 <- gray_map(atlas.gray, world_map_initial, main="ATLAs FAMD", plot=F, size = 1.2, dim = 4, famd.object = atlasdata.famd)
-atlas.graymap5 <- gray_map(atlas.gray, world_map_initial, main="ATLAs FAMD", plot=F, size = 1.2, dim = 5, famd.object = atlasdata.famd)
-atlas.graymap6 <- gray_map(atlas.gray, world_map_initial, main="ATLAs FAMD", plot=F, size = 1.2, dim = 6, famd.object = atlasdata.famd)
-atlas.graymap7 <- gray_map(atlas.gray, world_map_initial, main="ATLAs FAMD", plot=F, size = 1.2, dim = 7, famd.object = atlasdata.famd)
-atlas.graymap8 <- gray_map(atlas.gray, world_map_initial, main="ATLAs FAMD", plot=F, size = 1.2, dim = 8, famd.object = atlasdata.famd)
-atlas.graymap9 <- gray_map(atlas.gray, world_map_initial, main="ATLAs FAMD", plot=F, size = 1.2, dim = 9, famd.object = atlasdata.famd)
+# Silhouette
+ggplot(data = data.frame(t(cstats.table(gower.dist, divisive.clust, 20))), 
+       aes(x=cluster.number, y=avg.silwidth)) + 
+  geom_point()+
+  geom_line()+
+  ggtitle("Divisive clustering") +
+  labs(x = "Num.of clusters", y = "Average silhouette width") +
+  theme(plot.title = element_text(hjust = 0.5))
+
+ggplot(data = data.frame(t(cstats.table(gower.dist, aggl.clust.c, 20))), 
+       aes(x=cluster.number, y=avg.silwidth)) + 
+  geom_point()+
+  geom_line()+
+  ggtitle("Agglomerative clustering") +
+  labs(x = "Num.of clusters", y = "Average silhouette width") +
+  theme(plot.title = element_text(hjust = 0.5))
+
+# assuming best k is 6, put cluster into atlasdata.renamed 
+clusters <- cutree(aggl.clust.c, 6)
+atlasdata.renamed$clusters <- clusters
+atlasdata.renamed$clusters <- ifelse(atlasdata.renamed$clusters == 1, "brown2",
+                                     ifelse(atlasdata.renamed$clusters == 2, "orange",
+                                            ifelse(atlasdata.renamed$clusters == 3, "yellow",
+                                                   ifelse(atlasdata.renamed$clusters == 4, "springgreen",
+                                                          ifelse(atlasdata.renamed$clusters == 5, "#1A2CEB", "#874AFC")))))
+
+# add back lat/lon
+atlasdata.renamed$Name <- rownames(atlasdata.renamed)
+atlasdata.renamed <- merge(atlasdata.renamed, languagescsv, by.x = "Name", by.y="Name")
+toremove <- names(languagescsv)
+toremove <- toremove[!toremove %in% c("lat", "lon", "Glottocode")]
+atlasdata.renamed <- atlasdata.renamed %>% select(-all_of(toremove))
+
+# get map
+rgb_shifted <- project_data(df = atlasdata.renamed, world_map_initial = world_map_initial)
+
+pacific_centered_map <- rgb_shifted$base_plot +
+  geom_sf(data = rgb_shifted$data, aes(fill = clusters, color = clusters), shape = 21, size = 1.5) +
+  labs(title = "Hierarchical clustering k=6") +
+  theme_minimal() +
+  scale_fill_identity() +  # use color values as specified in the data
+  scale_color_identity() +  # use color values as specified in the data
+  guides(fill = "none", color = "none")+
+  theme(panel.grid.major = element_blank(), plot.title = element_text(hjust = 0.5),
+        axis.text = element_blank(),axis.ticks = element_blank())
+
+
+dendro <- as.dendrogram(aggl.clust.c)
+dendro.col <- dendro %>%
+  set("branches_k_color", k = 6) %>% #, value=c("brown2", "orange", "yellow", "springgreen", "#1A2CEB", "#874AFC")) %>%
+  set("branches_lwd", 0.6) %>%
+  set("labels_colors", 
+      value = c("black")) %>% 
+  set("labels_cex", 0.3)
+ggd1 <- as.ggdend(dendro.col)
+ggp <- ggplot(ggd1, theme = theme_minimal()) +
+  labs(x = "Num. observations", y = "Height", title = "Dendrogram, k = 6") +
+  theme_void()
+ggsave("clustering.png", plot=ggp, width=14, height=16, dpi=500)
+
+#hclustering, americas
+atlasdata.americas <- atlasdata
+atlasdata.americas$Glottocode <- rownames(atlasdata.americas)
+atlasdata.americas <- merge(atlasdata.americas, languagescsv, by = "Glottocode") %>% 
+  filter(Macroarea == "North America" | Macroarea == "South America")
+rownames(atlasdata.americas) <- atlasdata.americas$Glottocode
+atlasdata.americas <- atlasdata.americas %>% select(-names(languagescsv))
+
+gower.dist <- daisy(atlasdata.americas[ , 1:length(names(atlasdata.americas))], metric = c("gower"))
+
+# agglomerative clustering
+aggl.clust.c <- hclust(gower.dist, method = "complete")
+plot(aggl.clust.c, main = "Agglomerative, complete linkages")
+
+# assuming best k is 5, put cluster into atlasdata.americas 
+clusters <- cutree(aggl.clust.c, 5)
+atlasdata.americas$clusters <- clusters
+atlasdata.americas$clusters <- ifelse(atlasdata.americas$clusters == 1, "brown2",
+                                      ifelse(atlasdata.americas$clusters == 2, "yellow",
+                                             ifelse(atlasdata.americas$clusters == 3, "springgreen",
+                                                    ifelse(atlasdata.americas$clusters == 4, "#1A2CEB", "#874AFC"))))
+
+# add back lat/lon
+atlasdata.americas$Glottocode <- rownames(atlasdata.americas)
+atlasdata.americas <- merge(atlasdata.americas, languagescsv, by = "Glottocode")
+toremove <- names(languagescsv)
+toremove <- toremove[!toremove %in% c("lat", "lon", "Glottocode")]
+atlasdata.americas <- atlasdata.americas %>% select(-all_of(toremove))
+
+# get map
+rgb_shifted <- project_data(df = atlasdata.americas, world_map_initial = world_map_initial)
+
+pacific_centered_map <- rgb_shifted$base_plot +
+  geom_sf(data = rgb_shifted$data, aes(fill = clusters, color = clusters), shape = 21, size = 1.5) +
+  labs(title = "Hierarchical clustering k=6") +
+  theme_minimal() +
+  scale_fill_identity() +  # use color values as specified in the data
+  scale_color_identity() +  # use color values as specified in the data
+  guides(fill = "none", color = "none")+
+  theme(panel.grid.major = element_blank(), plot.title = element_text(hjust = 0.5),
+        axis.text = element_blank(),axis.ticks = element_blank())
+
