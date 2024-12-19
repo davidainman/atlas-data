@@ -255,6 +255,11 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
                         "required": true,
                         "name": "Name"
+                    },
+                    {
+                        "datatype": "integer",
+                        "required": true,
+                        "name": "Editor_Ord"
                     }
                 ],
                 "primaryKey": [

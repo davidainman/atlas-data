@@ -1,23 +1,23 @@
-ContributorID,Name
-DI,David Inman
-NCP,Natalia Chousou-Polydouri
-MV,Marine Vuillermet
-KPVD,Kellen Parker van Dam
-NJM,Nora Muheim
-DP,David Timothy Perrot
-AG,Anna Graff
-SH,Selma Hardegger
-DK,Diana Krasovskaya
-TH,Thomas C Huber
-HT,Tai Hong
-KMB,Kevin Baetscher
-FR,Françoise Rose
-OCD,Oscar Cocaud-Degrève
-SE,Shelece Easterday
-RL,Raphaël Luffroy
-BB,Balthasar Bickel
-AWM,Alena Witzlack-Makarevich
-auto,automatically coded
-AM,André Müller
-AN,Alexandra Nogina
-MS,Melvin Steiger
+ContributorID,Name,Editor_Ord
+DI,David Inman,1
+NCP,Natalia Chousou-Polydouri,2
+MV,Marine Vuillermet,3
+KPVD,Kellen Parker van Dam,0
+NJM,Nora Muheim,0
+DP,David Timothy Perrot,0
+AG,Anna Graff,0
+SH,Selma Hardegger,0
+DK,Diana Krasovskaya,0
+TH,Thomas C Huber,0
+HT,Tai Hong,0
+KMB,Kevin Baetscher,0
+FR,Françoise Rose,0
+OCD,Oscar Cocaud-Degrève,0
+SE,Shelece Easterday,0
+RL,Raphaël Luffroy,0
+BB,Balthasar Bickel,0
+AWM,Alena Witzlack-Makarevich,0
+auto,automatically coded,0
+AM,André Müller,0
+AN,Alexandra Nogina,0
+MS,Melvin Steiger,0
