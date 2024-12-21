@@ -9564,43 +9564,43 @@ natc1249-6,natc1249,natc1249-p-marking-indexing-marker,1,simple,P,2,A,any,any,no
 natc1249-7,natc1249,natc1249-p-marking-indexing-marker,1,NA,S,any,NA,NA,any,NA,non-exemplar,stative,,"kimball2005natchez[407-410,413,439-440]",,HT
 natc1249-8,natc1249,natc1249-s-a-marking-indexing-marker,-1,NA,S,any,NA,NA,any,NA,any,default,,"kimball2005natchez[407-410,413,439-440]",,HT
 natc1249-9,natc1249,natc1249-s-a-marking-indexing-marker,-1,simple,A,any,P,any,any,none,any,default,,"kimball2005natchez[407-410,413,439-440]",,HT
-nava1243-6,nava1243,nava1243-bi-yi-3obv-3prox-indexing-marker,-6,portmanteau,P,3-high,A,3-low,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]","bi- is used when the object is topicalized, yi- is used when the object is focused.",AN
-nava1243-7,nava1243,nava1243-ha-3prox-3obv-indexing-marker,-6,portmanteau,P,3-low,A,3-high,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-8,nava1243,nava1243-ii-1nsgs-a-indexing-marker,-2,NA,S,1du,NA,NA,any,NA,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-9,nava1243,nava1243-ii-1nsgs-a-indexing-marker,-2,simple,A,1du,P,any,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-10,nava1243,nava1243-ii-1nsgs-a-indexing-marker,-2,NA,S,1pl,NA,NA,any,NA,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-11,nava1243,nava1243-ii-1nsgs-a-indexing-marker,-2,simple,A,1pl,P,any,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-12,nava1243,nava1243-ji-3obvs-a-indexing-marker,-5,simple,A,3-low,P,3-high,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-13,nava1243,nava1243-ji-3obvs-a-indexing-marker,-5,simple,A,3-low,P,any,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-14,nava1243,nava1243-ji-3obvs-a-indexing-marker,-5,NA,S,3-low,NA,NA,any,NA,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-15,nava1243,nava1243-ni-2sgp-indexing-marker,-6,simple,P,2sg,A,any,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-16,nava1243,nava1243-ni-2sgs-a-indexing-marker,-2,NA,S,2sg,NA,NA,any,NA,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-17,nava1243,nava1243-ni-2sgs-a-indexing-marker,-2,simple,A,2sg,P,any,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-18,nava1243,nava1243-nihi-1nsgp-2nsgp-indexing-marker,-6,simple,P,1du,A,any,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-19,nava1243,nava1243-nihi-1nsgp-2nsgp-indexing-marker,-6,simple,P,1pl,A,any,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-20,nava1243,nava1243-nihi-1nsgp-2nsgp-indexing-marker,-6,simple,P,2du,A,any,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-21,nava1243,nava1243-nihi-1nsgp-2nsgp-indexing-marker,-6,simple,P,2pl,A,any,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-22,nava1243,nava1243-null-marker,NA,simple,P,3-low,A,1du,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-23,nava1243,nava1243-null-marker,NA,simple,P,3-low,A,1pl,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-24,nava1243,nava1243-null-marker,NA,simple,P,3-low,A,1sg,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-25,nava1243,nava1243-null-marker,NA,simple,P,3-low,A,2du,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-26,nava1243,nava1243-null-marker,NA,simple,P,3-low,A,2pl,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-27,nava1243,nava1243-null-marker,NA,simple,P,3-low,A,2sg,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-28,nava1243,nava1243-null-marker,NA,simple,P,3-high,A,1sg,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-29,nava1243,nava1243-null-marker,NA,simple,P,3-high,A,2sg,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-30,nava1243,nava1243-null-marker,NA,simple,P,3-high,A,1du,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-31,nava1243,nava1243-null-marker,NA,simple,P,3-high,A,1pl,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-32,nava1243,nava1243-null-marker,NA,simple,P,3-high,A,2du,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-33,nava1243,nava1243-null-marker,NA,simple,P,3-high,A,2pl,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-34,nava1243,nava1243-null-marker,NA,NA,S,3-high,NA,NA,any,NA,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-35,nava1243,nava1243-null-marker,NA,simple,A,3-high,P,any,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-36,nava1243,nava1243-o-h-2nsgs-a-indexing-marker,-2,NA,S,2du,NA,NA,any,NA,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-37,nava1243,nava1243-o-h-2nsgs-a-indexing-marker,-2,simple,A,2du,P,any,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-38,nava1243,nava1243-o-h-2nsgs-a-indexing-marker,-2,NA,S,2pl,NA,NA,any,NA,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-39,nava1243,nava1243-o-h-2nsgs-a-indexing-marker,-2,simple,A,2pl,P,any,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-40,nava1243,nava1243-sh-1sgs-a-indexing-marker,-2,NA,S,1sg,NA,NA,any,NA,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-41,nava1243,nava1243-sh-1sgs-a-indexing-marker,-2,simple,A,1sg,P,any,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
-nava1243-42,nava1243,nava1243-shi-1sgp-indexing-marker,-6,simple,P,1sg,A,any,any,none,any,default,,"young1987navajo[112-117 willie2000navajo,64,74-75]",,AN
+nava1243-6,nava1243,nava1243-bi-yi-3obv-3prox-indexing-marker,-6,portmanteau,P,3-high,A,3-low,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]","bi- is used when the object is topicalized, yi- is used when the object is focused.",AN
+nava1243-7,nava1243,nava1243-ha-3prox-3obv-indexing-marker,-6,portmanteau,P,3-low,A,3-high,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-8,nava1243,nava1243-ii-1nsgs-a-indexing-marker,-2,NA,S,1du,NA,NA,any,NA,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-9,nava1243,nava1243-ii-1nsgs-a-indexing-marker,-2,simple,A,1du,P,any,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-10,nava1243,nava1243-ii-1nsgs-a-indexing-marker,-2,NA,S,1pl,NA,NA,any,NA,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-11,nava1243,nava1243-ii-1nsgs-a-indexing-marker,-2,simple,A,1pl,P,any,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-12,nava1243,nava1243-ji-3obvs-a-indexing-marker,-5,simple,A,3-low,P,3-high,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-13,nava1243,nava1243-ji-3obvs-a-indexing-marker,-5,simple,A,3-low,P,any,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-14,nava1243,nava1243-ji-3obvs-a-indexing-marker,-5,NA,S,3-low,NA,NA,any,NA,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-15,nava1243,nava1243-ni-2sgp-indexing-marker,-6,simple,P,2sg,A,any,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-16,nava1243,nava1243-ni-2sgs-a-indexing-marker,-2,NA,S,2sg,NA,NA,any,NA,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-17,nava1243,nava1243-ni-2sgs-a-indexing-marker,-2,simple,A,2sg,P,any,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-18,nava1243,nava1243-nihi-1nsgp-2nsgp-indexing-marker,-6,simple,P,1du,A,any,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-19,nava1243,nava1243-nihi-1nsgp-2nsgp-indexing-marker,-6,simple,P,1pl,A,any,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-20,nava1243,nava1243-nihi-1nsgp-2nsgp-indexing-marker,-6,simple,P,2du,A,any,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-21,nava1243,nava1243-nihi-1nsgp-2nsgp-indexing-marker,-6,simple,P,2pl,A,any,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-22,nava1243,nava1243-null-marker,NA,simple,P,3-low,A,1du,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-23,nava1243,nava1243-null-marker,NA,simple,P,3-low,A,1pl,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-24,nava1243,nava1243-null-marker,NA,simple,P,3-low,A,1sg,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-25,nava1243,nava1243-null-marker,NA,simple,P,3-low,A,2du,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-26,nava1243,nava1243-null-marker,NA,simple,P,3-low,A,2pl,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-27,nava1243,nava1243-null-marker,NA,simple,P,3-low,A,2sg,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-28,nava1243,nava1243-null-marker,NA,simple,P,3-high,A,1sg,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-29,nava1243,nava1243-null-marker,NA,simple,P,3-high,A,2sg,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-30,nava1243,nava1243-null-marker,NA,simple,P,3-high,A,1du,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-31,nava1243,nava1243-null-marker,NA,simple,P,3-high,A,1pl,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-32,nava1243,nava1243-null-marker,NA,simple,P,3-high,A,2du,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-33,nava1243,nava1243-null-marker,NA,simple,P,3-high,A,2pl,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-34,nava1243,nava1243-null-marker,NA,NA,S,3-high,NA,NA,any,NA,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-35,nava1243,nava1243-null-marker,NA,simple,A,3-high,P,any,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-36,nava1243,nava1243-o-h-2nsgs-a-indexing-marker,-2,NA,S,2du,NA,NA,any,NA,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-37,nava1243,nava1243-o-h-2nsgs-a-indexing-marker,-2,simple,A,2du,P,any,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-38,nava1243,nava1243-o-h-2nsgs-a-indexing-marker,-2,NA,S,2pl,NA,NA,any,NA,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-39,nava1243,nava1243-o-h-2nsgs-a-indexing-marker,-2,simple,A,2pl,P,any,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-40,nava1243,nava1243-sh-1sgs-a-indexing-marker,-2,NA,S,1sg,NA,NA,any,NA,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-41,nava1243,nava1243-sh-1sgs-a-indexing-marker,-2,simple,A,1sg,P,any,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
+nava1243-42,nava1243,nava1243-shi-1sgp-indexing-marker,-6,simple,P,1sg,A,any,any,none,any,default,,"young1987navajo[112-117];willie2000navajo[64,74-75]",,AN
 negi1245-6,negi1245,negi1245-lti-1pl-incl-s-a-indexing-marker,4,NA,S,1pl.incl,NA,NA,default,NA,any,default,,pakendorf2020northerntungusic[295],"The TAM included under ""default"" is past and future. The non-future TAM is mostly present, and only in combination with some aspects it can have a past interpretation.",AN
 negi1245-7,negi1245,negi1245-lti-1pl-incl-s-a-indexing-marker,4,simple,A,1pl.incl,P,any,default,none,any,default,,pakendorf2020northerntungusic[295],"The TAM included under ""default"" is past and future. The non-future TAM is mostly present, and only in combination with some aspects it can have a past interpretation.",AN
 negi1245-8,negi1245,negi1245-m-1sgs-a-indexing-marker,4,NA,S,1sg,NA,NA,non-future,NA,non-exemplar,default,,pakendorf2020northerntungusic[295],,AN

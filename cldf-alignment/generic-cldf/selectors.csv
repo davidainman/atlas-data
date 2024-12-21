@@ -1631,18 +1631,18 @@ natc1249-no-flagging,natc1249,flagging,NO_FLAGGING,zero,,kimball2005natchez[442-
 natc1249-null-marker,natc1249,indexing marker,NULL_MARKER,zero,person,"kimball2005natchez[407-410,413,439-440]",HT,NONE,NONE,3,accusative
 natc1249-p-marking-indexing-marker,natc1249,indexing marker,P marking,overt,person,"kimball2005natchez[407-410,413,439-440]",HT,any,NONE,1;2,ergative
 natc1249-s-a-marking-indexing-marker,natc1249,indexing marker,S/A marking,overt,person+number,"kimball2005natchez[407-410,413,439-440]",HT,any,any,NONE,accusative
-nava1243-bi-yi-3obv-3prox-indexing-marker,nava1243,indexing marker,bi-/yi- 3obv>3prox,overt,person,"young1987navajo[112-117 willie2000navajo,64,74-75]",AN,NONE,NONE,3-high_3-low,accusative
-nava1243-ha-3prox-3obv-indexing-marker,nava1243,indexing marker,ha- 3prox>3obv,overt,person,"young1987navajo[112-117 willie2000navajo,64,74-75]",AN,NONE,NONE,3-low_3-high,accusative
-nava1243-ii-1nsgs-a-indexing-marker,nava1243,indexing marker,ii- 1nsgS/A,overt,person+number,"young1987navajo[112-117 willie2000navajo,64,74-75]",AN,1du;1pl,1du;1pl,NONE,accusative
-nava1243-ji-3obvs-a-indexing-marker,nava1243,indexing marker,ji- 3obvS/A,overt,person,"young1987navajo[112-117 willie2000navajo,64,74-75]",AN,3-low,3-low;3-low_3-high,NONE,accusative
-nava1243-ni-2sgp-indexing-marker,nava1243,indexing marker,ni- 2sgP,overt,person+number,"young1987navajo[112-117 willie2000navajo,64,74-75]",AN,NONE,NONE,2sg,accusative
-nava1243-ni-2sgs-a-indexing-marker,nava1243,indexing marker,ni- 2sgS/A,overt,person+number,"young1987navajo[112-117 willie2000navajo,64,74-75]",AN,2sg,2sg,NONE,accusative
-nava1243-nihi-1nsgp-2nsgp-indexing-marker,nava1243,indexing marker,"nihi- 1nsgP, 2nsgP",overt,person+number,"young1987navajo[112-117 willie2000navajo,64,74-75]",AN,NONE,NONE,1du;1pl;2du;2pl,accusative
+nava1243-bi-yi-3obv-3prox-indexing-marker,nava1243,indexing marker,bi-/yi- 3obv>3prox,overt,person,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,NONE,NONE,3-high_3-low,accusative
+nava1243-ha-3prox-3obv-indexing-marker,nava1243,indexing marker,ha- 3prox>3obv,overt,person,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,NONE,NONE,3-low_3-high,accusative
+nava1243-ii-1nsgs-a-indexing-marker,nava1243,indexing marker,ii- 1nsgS/A,overt,person+number,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,1du;1pl,1du;1pl,NONE,accusative
+nava1243-ji-3obvs-a-indexing-marker,nava1243,indexing marker,ji- 3obvS/A,overt,person,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,3-low,3-low;3-low_3-high,NONE,accusative
+nava1243-ni-2sgp-indexing-marker,nava1243,indexing marker,ni- 2sgP,overt,person+number,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,NONE,NONE,2sg,accusative
+nava1243-ni-2sgs-a-indexing-marker,nava1243,indexing marker,ni- 2sgS/A,overt,person+number,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,2sg,2sg,NONE,accusative
+nava1243-nihi-1nsgp-2nsgp-indexing-marker,nava1243,indexing marker,"nihi- 1nsgP, 2nsgP",overt,person+number,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,NONE,NONE,1du;1pl;2du;2pl,accusative
 nava1243-no-flagging,nava1243,flagging,NO_FLAGGING,zero,,"young1987navajo[1,8]",AN,Noun;Pro,Noun;Pro,Noun,neutral
-nava1243-null-marker,nava1243,indexing marker,NULL_MARKER,zero,NA,"young1987navajo[112-117 willie2000navajo,64,74-75]",AN,3-high,3-high,3-high_1du;3-high_1pl;3-high_1sg;3-high_2du;3-high_2pl;3-high_2sg;3-low_1du;3-low_1pl;3-low_1sg;3-low_2du;3-low_2pl;3-low_2sg,neutral
-nava1243-o-h-2nsgs-a-indexing-marker,nava1243,indexing marker,o(h)- 2nsgS/A,overt,person+number,"young1987navajo[112-117 willie2000navajo,64,74-75]",AN,2du;2pl,2du;2pl,NONE,accusative
-nava1243-sh-1sgs-a-indexing-marker,nava1243,indexing marker,sh- 1sgS/A,overt,person+number,"young1987navajo[112-117 willie2000navajo,64,74-75]",AN,1sg,1sg,NONE,accusative
-nava1243-shi-1sgp-indexing-marker,nava1243,indexing marker,shi- 1sgP,overt,person+number,"young1987navajo[112-117 willie2000navajo,64,74-75]",AN,NONE,NONE,1sg,accusative
+nava1243-null-marker,nava1243,indexing marker,NULL_MARKER,zero,NA,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,3-high,3-high,3-high_1du;3-high_1pl;3-high_1sg;3-high_2du;3-high_2pl;3-high_2sg;3-low_1du;3-low_1pl;3-low_1sg;3-low_2du;3-low_2pl;3-low_2sg,neutral
+nava1243-o-h-2nsgs-a-indexing-marker,nava1243,indexing marker,o(h)- 2nsgS/A,overt,person+number,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,2du;2pl,2du;2pl,NONE,accusative
+nava1243-sh-1sgs-a-indexing-marker,nava1243,indexing marker,sh- 1sgS/A,overt,person+number,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,1sg,1sg,NONE,accusative
+nava1243-shi-1sgp-indexing-marker,nava1243,indexing marker,shi- 1sgP,overt,person+number,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,NONE,NONE,1sg,accusative
 negi1245-acc-case-ja-flagging,negi1245,flagging,ACC case -jA,overt,,"pakendorf2020northerntungusic[292,pakendorf2023pc]",AWM;AN,NONE,NONE,Noun-low,accusative
 negi1245-acc-case-wa-flagging,negi1245,flagging,ACC case -wA,overt,,"pakendorf2020northerntungusic[292,pakendorf2023pc]",AWM;AN,NONE,NONE,Noun-high;Pro,accusative
 negi1245-lti-1pl-incl-s-a-indexing-marker,negi1245,indexing marker,-lti 1pl.incl.S/A,overt,person+number,pakendorf2020northerntungusic[295],AN,1pl.incl,1pl.incl,NONE,accusative
