@@ -360,6 +360,11 @@
                         "name": "Macroarea"
                     },
                     {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "American_Macroarea"
+                    },
+                    {
                         "datatype": {
                             "base": "decimal",
                             "minimum": -90,
