@@ -33,7 +33,7 @@
 "horizontal_Align-02","Align-02","horizontal","#554066"
 "sensitive_Align-02","Align-02","sensitive","#e43baf"
 "?_Align-02","Align-02","?",
-"yes_Align-03","Align-03","yes","#2246c9"
+"yes_Align-03","Align-03","yes","#016acb"
 "no_Align-03","Align-03","no","#a1a1a1"
 "?_Align-03","Align-03","?",
 "no-marking_Align-04","Align-04","no marking","#f1ca0d"
@@ -74,7 +74,7 @@
 "sensitive_Align-05","Align-05","sensitive","#e33bad"
 "NA_Align-05","Align-05","NA",
 "?_Align-05","Align-05","?",
-"yes_Align-06","Align-06","yes","#2246c9"
+"yes_Align-06","Align-06","yes","#016acb"
 "no_Align-06","Align-06","no","#a1a1a1"
 "?_Align-06","Align-06","?",
 "no-marking_Align-07","Align-07","no marking","#f0ca00"
@@ -115,84 +115,84 @@
 "sensitive_Align-08","Align-08","sensitive","#de35a7"
 "NA_Align-08","Align-08","NA",
 "?_Align-08","Align-08","?",
-"yes_Align-09","Align-09","yes","#2246c9"
+"yes_Align-09","Align-09","yes","#016acb"
 "no_Align-09","Align-09","no","#a1a1a1"
 "?_Align-09","Align-09","?",
 "NA_Align-10","Align-10","NA",
-"yes_Align-10","Align-10","yes","#2246c9"
+"yes_Align-10","Align-10","yes","#016acb"
 "no_Align-10","Align-10","no","#a1a1a1"
 "?_Align-10","Align-10","?",
 "NA_Align-11","Align-11","NA",
-"yes_Align-11","Align-11","yes","#2246c9"
+"yes_Align-11","Align-11","yes","#016acb"
 "no_Align-11","Align-11","no","#a1a1a1"
 "?_Align-11","Align-11","?",
 "NA_Align-12","Align-12","NA",
-"yes_Align-12","Align-12","yes","#2246c9"
+"yes_Align-12","Align-12","yes","#016acb"
 "no_Align-12","Align-12","no","#a1a1a1"
 "?_Align-12","Align-12","?",
 "NA_Align-13","Align-13","NA",
-"yes_Align-13","Align-13","yes","#2246c9"
+"yes_Align-13","Align-13","yes","#016acb"
 "no_Align-13","Align-13","no","#a1a1a1"
 "?_Align-13","Align-13","?",
 "NA_Align-14","Align-14","NA",
-"yes_Align-14","Align-14","yes","#2246c9"
+"yes_Align-14","Align-14","yes","#016acb"
 "no_Align-14","Align-14","no","#a1a1a1"
 "?_Align-14","Align-14","?",
-"no_Align-15","Align-15","no","#f0c808"
-"indexing_Align-15","Align-15","indexing","#462255"
-"flagging_Align-15","Align-15","flagging","#e03a3a"
-"both_Align-15","Align-15","both","#0d6fd1"
+"indexing_Align-15","Align-15","indexing","#016acb"
+"flagging_Align-15","Align-15","flagging","#e63636"
+"both_Align-15","Align-15","both","#9a4667"
+"no_Align-15","Align-15","no","#a1a1a1"
 "?_Align-15","Align-15","?",
-"yes_Align-15a","Align-15a","yes","#2246c9"
+"yes_Align-15a","Align-15a","yes","#016acb"
 "no_Align-15a","Align-15a","no","#a1a1a1"
 "?_Align-15a","Align-15a","?",
 "NA_Align-16","Align-16","NA",
-"yes_Align-16","Align-16","yes","#2246c9"
+"yes_Align-16","Align-16","yes","#016acb"
 "no_Align-16","Align-16","no","#a1a1a1"
 "?_Align-16","Align-16","?",
-"yes_Appr-01","Appr-01","yes","#2246c9"
+"yes_Appr-01","Appr-01","yes","#016acb"
 "no_Appr-01","Appr-01","no","#a1a1a1"
 "?_Appr-01","Appr-01","?",
-"yes_Appr-02","Appr-02","yes","#2246c9"
+"yes_Appr-02","Appr-02","yes","#016acb"
 "no_Appr-02","Appr-02","no","#a1a1a1"
 "NA_Appr-02","Appr-02","NA",
 "?_Appr-02","Appr-02","?",
 "NA_Appr-03","Appr-03","NA",
-"1_Appr-03","Appr-03","1","#0d6fd1"
-"2_Appr-03","Appr-03","2","#e03a3a"
-"3_Appr-03","Appr-03","3","#462255"
+"1_Appr-03","Appr-03","1","#016acb"
+"2_Appr-03","Appr-03","2","#f4cd16"
+"3_Appr-03","Appr-03","3","#f74f74"
 "?_Appr-03","Appr-03","?",
-"threat_Appr-04","Appr-04","threat","#e03a3a"
-"warning_Appr-04","Appr-04","warning","#462255"
-"both_Appr-04","Appr-04","both","#0d6fd1"
+"threat_Appr-04","Appr-04","threat","#016acb"
+"warning_Appr-04","Appr-04","warning","#e63636"
+"both_Appr-04","Appr-04","both","#9a4667"
 "NA_Appr-04","Appr-04","NA",
 "?_Appr-04","Appr-04","?",
-"no_Appr-05","Appr-05","no","#e03a3a"
-"direct-control_Appr-05","Appr-05","direct control","#0d6fd1"
-"other_Appr-05","Appr-05","other","#462255"
+"direct-control_Appr-05","Appr-05","direct control","#016acb"
+"other_Appr-05","Appr-05","other","#e63636"
+"no_Appr-05","Appr-05","no","#a1a1a1"
 "NA_Appr-05","Appr-05","NA",
 "?_Appr-05","Appr-05","?",
-"yes_Appr-06","Appr-06","yes","#2246c9"
+"yes_Appr-06","Appr-06","yes","#016acb"
 "no_Appr-06","Appr-06","no","#a1a1a1"
 "NA_Appr-06","Appr-06","NA",
 "?_Appr-06","Appr-06","?",
-"yes_Appr-07","Appr-07","yes","#2246c9"
+"yes_Appr-07","Appr-07","yes","#016acb"
 "no_Appr-07","Appr-07","no","#a1a1a1"
 "NA_Appr-07","Appr-07","NA",
 "?_Appr-07","Appr-07","?",
-"yes_Appr-08","Appr-08","yes","#2246c9"
+"yes_Appr-08","Appr-08","yes","#016acb"
 "no_Appr-08","Appr-08","no","#a1a1a1"
 "NA_Appr-08","Appr-08","NA",
 "?_Appr-08","Appr-08","?",
-"yes_Appr-09","Appr-09","yes","#2246c9"
+"yes_Appr-09","Appr-09","yes","#016acb"
 "no_Appr-09","Appr-09","no","#a1a1a1"
 "NA_Appr-09","Appr-09","NA",
 "?_Appr-09","Appr-09","?",
-"yes_Appr-10","Appr-10","yes","#2246c9"
+"yes_Appr-10","Appr-10","yes","#016acb"
 "no_Appr-10","Appr-10","no","#a1a1a1"
 "NA_Appr-10","Appr-10","NA",
 "?_Appr-10","Appr-10","?",
-"yes_Appr-11","Appr-11","yes","#2246c9"
+"yes_Appr-11","Appr-11","yes","#016acb"
 "no_Appr-11","Appr-11","no","#a1a1a1"
 "NA_Appr-11","Appr-11","NA",
 "?_Appr-11","Appr-11","?",
@@ -219,42 +219,42 @@
 "3_Appr-12a","Appr-12a","3","#21b8a4"
 "?_Appr-12a","Appr-12a","?",
 "NA_Appr-12b","Appr-12b","NA",
-"a_Appr-12b","Appr-12b","a","#0d6fd1"
+"a_Appr-12b","Appr-12b","a","#016acb"
 "p_Appr-12b","Appr-12b","p","#462255"
 "t_Appr-12b","Appr-12b","t","#f0c808"
 "f_Appr-12b","Appr-12b","f","#e03a3a"
 "?_Appr-12b","Appr-12b","?",
-"adjective_Attr-01","Attr-01","adjective","#0d6fd1"
+"adjective_Attr-01","Attr-01","adjective","#016acb"
 "modifier_Attr-01","Attr-01","modifier","#462255"
 "adverb_Attr-01","Attr-01","adverb","#e03a3a"
 "noun_Attr-01","Attr-01","noun","#f0c808"
 "verb_Attr-01","Attr-01","verb","#e33bae"
 "predicative-only_Attr-01","Attr-01","predicative only","#1fa380"
 "?_Attr-01","Attr-01","?",
-"noun_Attr-01a","Attr-01a","noun","#e03a3a"
-"verb_Attr-01a","Attr-01a","verb","#462255"
-"modifier-pos_Attr-01a","Attr-01a","modifier pos","#0d6fd1"
+"noun_Attr-01a","Attr-01a","noun","#016acb"
+"verb_Attr-01a","Attr-01a","verb","#f4cd16"
+"modifier-pos_Attr-01a","Attr-01a","modifier pos","#f74f74"
 "NA_Attr-01a","Attr-01a","NA",
 "?_Attr-01a","Attr-01a","?",
 "NA_Attr-02","Attr-02","NA",
-"open_Attr-02","Attr-02","open","#e03a3a"
-"open-but_Attr-02","Attr-02","open but","#462255"
-"closed_Attr-02","Attr-02","closed","#0d6fd1"
+"open_Attr-02","Attr-02","open","#e63636"
+"open-but_Attr-02","Attr-02","open but","#eb9898"
+"closed_Attr-02","Attr-02","closed","#016acb"
 "?_Attr-02","Attr-02","?",
 "NA_Attr-03","Attr-03","NA",
-"adj-n_Attr-03","Attr-03","adj-n","#0d6fd1"
-"n-adj_Attr-03","Attr-03","n-adj","#e03a3a"
-"no-dominant-order_Attr-03","Attr-03","no dominant order","#462255"
+"adj-n_Attr-03","Attr-03","adj-n","#016acb"
+"n-adj_Attr-03","Attr-03","n-adj","#e63636"
+"no-dominant-order_Attr-03","Attr-03","no dominant order","#9a4667"
 "?_Attr-03","Attr-03","?",
 "1_Cor-01","Cor-01","1","#2817a6"
 "2_Cor-01","Cor-01","2","#2467a5"
 "3_Cor-01","Cor-01","3","#21b8a4"
 "?_Cor-01","Cor-01","?",
-"1_Cor-01a","Cor-01a","1","#0d6fd1"
+"1_Cor-01a","Cor-01a","1","#016acb"
 "more-than-1_Cor-01a","Cor-01a","more than 1","#e03a3a"
 "?_Cor-01a","Cor-01a","?",
 "up-to-2_Cor-01b","Cor-01b","up to 2","#e03a3a"
-"more-than-2_Cor-01b","Cor-01b","more than 2","#0d6fd1"
+"more-than-2_Cor-01b","Cor-01b","more than 2","#016acb"
 "?_Cor-01b","Cor-01b","?",
 "0_Cor-02","Cor-02","0","#000080"
 "1_Cor-02","Cor-02","1","#002f9f"
@@ -262,70 +262,70 @@
 "3_Cor-02","Cor-02","3","#008fdf"
 "4_Cor-02","Cor-02","4","#00bfff"
 "?_Cor-02","Cor-02","?",
+"yes_Cor-02a","Cor-02a","yes","#016acb"
 "no_Cor-02a","Cor-02a","no","#a1a1a1"
-"yes_Cor-02a","Cor-02a","yes","#2246c9"
 "?_Cor-02a","Cor-02a","?",
 "up-to-1_Cor-02b","Cor-02b","up to 1","#e03a3a"
-"more-than-1_Cor-02b","Cor-02b","more than 1","#0d6fd1"
+"more-than-1_Cor-02b","Cor-02b","more than 1","#016acb"
 "?_Cor-02b","Cor-02b","?",
 "up-to-2_Cor-02c","Cor-02c","up to 2","#e03a3a"
-"more-than-2_Cor-02c","Cor-02c","more than 2","#0d6fd1"
+"more-than-2_Cor-02c","Cor-02c","more than 2","#016acb"
 "?_Cor-02c","Cor-02c","?",
 "up-to-3_Cor-02d","Cor-02d","up to 3","#e03a3a"
-"more-than-3_Cor-02d","Cor-02d","more than 3","#0d6fd1"
+"more-than-3_Cor-02d","Cor-02d","more than 3","#016acb"
 "?_Cor-02d","Cor-02d","?",
 "0_Cor-03","Cor-03","0","#2817a6"
 "1_Cor-03","Cor-03","1","#254ca5"
 "2_Cor-03","Cor-03","2","#2382a4"
 "3_Cor-03","Cor-03","3","#21b8a4"
 "?_Cor-03","Cor-03","?",
+"yes_Cor-03a","Cor-03a","yes","#016acb"
 "no_Cor-03a","Cor-03a","no","#a1a1a1"
-"yes_Cor-03a","Cor-03a","yes","#e03a3a"
 "?_Cor-03a","Cor-03a","?",
 "up-to-1_Cor-03b","Cor-03b","up to 1","#e03a3a"
-"more-than-1_Cor-03b","Cor-03b","more than 1","#0d6fd1"
+"more-than-1_Cor-03b","Cor-03b","more than 1","#016acb"
 "?_Cor-03b","Cor-03b","?",
 "up-to-2_Cor-03c","Cor-03c","up to 2","#e03a3a"
-"more-than-2_Cor-03c","Cor-03c","more than 2","#0d6fd1"
+"more-than-2_Cor-03c","Cor-03c","more than 2","#016acb"
 "?_Cor-03c","Cor-03c","?",
-"yes_Cor-04","Cor-04","yes","#2246c9"
+"yes_Cor-04","Cor-04","yes","#016acb"
 "no_Cor-04","Cor-04","no","#a1a1a1"
 "?_Cor-04","Cor-04","?",
 "NA_Cor-04a","Cor-04a","NA",
-"yes_Cor-04a","Cor-04a","yes","#2246c9"
+"yes_Cor-04a","Cor-04a","yes","#016acb"
 "no_Cor-04a","Cor-04a","no","#a1a1a1"
 "?_Cor-04a","Cor-04a","?",
-"yes_Cor-05","Cor-05","yes","#2246c9"
+"yes_Cor-05","Cor-05","yes","#016acb"
 "no_Cor-05","Cor-05","no","#a1a1a1"
 "?_Cor-05","Cor-05","?",
-"yes_Cor-06","Cor-06","yes","#2246c9"
+"yes_Cor-06","Cor-06","yes","#016acb"
 "no_Cor-06","Cor-06","no","#a1a1a1"
 "?_Cor-06","Cor-06","?",
-"yes_Cor-07","Cor-07","yes","#2246c9"
+"yes_Cor-07","Cor-07","yes","#016acb"
 "no_Cor-07","Cor-07","no","#a1a1a1"
 "?_Cor-07","Cor-07","?",
 "NA_Cor-07a","Cor-07a","NA",
-"yes_Cor-07a","Cor-07a","yes","#2246c9"
+"yes_Cor-07a","Cor-07a","yes","#016acb"
 "no_Cor-07a","Cor-07a","no","#a1a1a1"
 "?_Cor-07a","Cor-07a","?",
-"yes_Cor-08","Cor-08","yes","#2246c9"
+"yes_Cor-08","Cor-08","yes","#016acb"
 "no_Cor-08","Cor-08","no","#a1a1a1"
 "NA_Cor-08","Cor-08","NA",
 "?_Cor-08","Cor-08","?",
-"yes_Cor-09","Cor-09","yes","#2246c9"
+"yes_Cor-09","Cor-09","yes","#016acb"
 "no_Cor-09","Cor-09","no","#a1a1a1"
 "NA_Cor-09","Cor-09","NA",
 "?_Cor-09","Cor-09","?",
-"adnominal_Dem-001","Dem-001","adnominal","#0d6fd1"
-"pronominal_Dem-001","Dem-001","pronominal","#462255"
-"adverbial_Dem-001","Dem-001","adverbial","#e03a3a"
+"adnominal_Dem-001","Dem-001","adnominal","#016acb"
+"pronominal_Dem-001","Dem-001","pronominal","#f4cd16"
+"adverbial_Dem-001","Dem-001","adverbial","#f74f74"
 "?_Dem-001","Dem-001","?",
 "NA_Dem-002","Dem-002","NA",
-"yes_Dem-002","Dem-002","yes","#2246c9"
+"yes_Dem-002","Dem-002","yes","#016acb"
 "no_Dem-002","Dem-002","no","#a1a1a1"
 "?_Dem-002","Dem-002","?",
 "NA_Dem-003","Dem-003","NA",
-"yes_Dem-003","Dem-003","yes","#2246c9"
+"yes_Dem-003","Dem-003","yes","#016acb"
 "no_Dem-003","Dem-003","no","#a1a1a1"
 "?_Dem-003","Dem-003","?",
 "0_Dem-01","Dem-01","0","#000080"
@@ -336,241 +336,241 @@
 "6_Dem-01","Dem-01","6","#009fe9"
 "9_Dem-01","Dem-01","9","#00bfff"
 "?_Dem-01","Dem-01","?",
-"yes_Dem-01a","Dem-01a","yes","#e03a3a"
+"yes_Dem-01a","Dem-01a","yes","#016acb"
 "no_Dem-01a","Dem-01a","no","#a1a1a1"
 "?_Dem-01a","Dem-01a","?",
-"2_Dem-01b","Dem-01b","2","#0d6fd1"
+"2_Dem-01b","Dem-01b","2","#016acb"
 "more-than-2_Dem-01b","Dem-01b","more than 2","#e03a3a"
 "NA_Dem-01b","Dem-01b","NA",
 "?_Dem-01b","Dem-01b","?",
 "up-to-3_Dem-01c","Dem-01c","up to 3","#e03a3a"
-"more-than-3_Dem-01c","Dem-01c","more than 3","#0d6fd1"
+"more-than-3_Dem-01c","Dem-01c","more than 3","#016acb"
 "NA_Dem-01c","Dem-01c","NA",
 "?_Dem-01c","Dem-01c","?",
 "up-to-4_Dem-01d","Dem-01d","up to 4","#e03a3a"
-"more-than-4_Dem-01d","Dem-01d","more than 4","#0d6fd1"
+"more-than-4_Dem-01d","Dem-01d","more than 4","#016acb"
 "NA_Dem-01d","Dem-01d","NA",
 "?_Dem-01d","Dem-01d","?",
-"yes_Dem-02","Dem-02","yes","#2246c9"
+"yes_Dem-02","Dem-02","yes","#016acb"
 "no_Dem-02","Dem-02","no","#a1a1a1"
 "?_Dem-02","Dem-02","?",
-"yes_Dem-03","Dem-03","yes","#2246c9"
+"yes_Dem-03","Dem-03","yes","#016acb"
 "no_Dem-03","Dem-03","no","#a1a1a1"
 "?_Dem-03","Dem-03","?",
-"yes_Dem-04","Dem-04","yes","#2246c9"
+"yes_Dem-04","Dem-04","yes","#016acb"
 "no_Dem-04","Dem-04","no","#a1a1a1"
 "?_Dem-04","Dem-04","?",
-"yes_Dem-05","Dem-05","yes","#2246c9"
+"yes_Dem-05","Dem-05","yes","#016acb"
 "no_Dem-05","Dem-05","no","#a1a1a1"
 "?_Dem-05","Dem-05","?",
-"yes_Gend-01","Gend-01","yes","#2246c9"
+"yes_Gend-01","Gend-01","yes","#016acb"
 "no_Gend-01","Gend-01","no","#a1a1a1"
 "?_Gend-01","Gend-01","?",
 "NA_Gend-02","Gend-02","NA",
-"yes_Gend-02","Gend-02","yes","#2246c9"
+"yes_Gend-02","Gend-02","yes","#016acb"
 "no_Gend-02","Gend-02","no","#a1a1a1"
 "?_Gend-02","Gend-02","?",
 "NA_Gend-03","Gend-03","NA",
 "speaker_Gend-03","Gend-03","speaker","#f0c808"
-"addressee_Gend-03","Gend-03","addressee","#0d6fd1"
+"addressee_Gend-03","Gend-03","addressee","#016acb"
 "both_Gend-03","Gend-03","both","#e03a3a"
 "mixed_Gend-03","Gend-03","mixed","#462255"
 "?_Gend-03","Gend-03","?",
 "NA_Gend-03a","Gend-03a","NA",
 "speaker_Gend-03a","Gend-03a","speaker","#f0c808"
-"addressee_Gend-03a","Gend-03a","addressee","#0d6fd1"
+"addressee_Gend-03a","Gend-03a","addressee","#016acb"
 "both_Gend-03a","Gend-03a","both","#e03a3a"
 "mixed_Gend-03a","Gend-03a","mixed","#462255"
 "?_Gend-03a","Gend-03a","?",
 "NA_Gend-04","Gend-04","NA",
-"yes_Gend-04","Gend-04","yes","#2246c9"
+"yes_Gend-04","Gend-04","yes","#016acb"
 "no_Gend-04","Gend-04","no","#a1a1a1"
 "?_Gend-04","Gend-04","?",
 "NA_Gend-05","Gend-05","NA",
 "speaker_Gend-05","Gend-05","speaker","#f0c808"
-"addressee_Gend-05","Gend-05","addressee","#0d6fd1"
+"addressee_Gend-05","Gend-05","addressee","#016acb"
 "both_Gend-05","Gend-05","both","#e03a3a"
 "mixed_Gend-05","Gend-05","mixed","#462255"
 "?_Gend-05","Gend-05","?",
 "NA_Gend-06","Gend-06","NA",
-"exclusively_Gend-06","Gend-06","exclusively","#0d6fd1"
+"exclusively_Gend-06","Gend-06","exclusively","#016acb"
 "non-exclusively_Gend-06","Gend-06","non exclusively","#462255"
 "no_Gend-06","Gend-06","no","#e03a3a"
 "?_Gend-06","Gend-06","?",
 "NA_Gend-07","Gend-07","NA",
-"yes_Gend-07","Gend-07","yes","#2246c9"
+"yes_Gend-07","Gend-07","yes","#016acb"
 "no_Gend-07","Gend-07","no","#a1a1a1"
 "?_Gend-07","Gend-07","?",
 "NA_Gend-08","Gend-08","NA",
-"1-5_Gend-08","Gend-08","1-5","#0d6fd1"
+"1-5_Gend-08","Gend-08","1-5","#016acb"
 "6-20_Gend-08","Gend-08","6-20","#462255"
 "21-and-more_Gend-08","Gend-08","21 and more","#e03a3a"
 "?_Gend-08","Gend-08","?",
 "NA_Gend-09","Gend-09","NA",
 "speaker_Gend-09","Gend-09","speaker","#f0c808"
-"addressee_Gend-09","Gend-09","addressee","#0d6fd1"
+"addressee_Gend-09","Gend-09","addressee","#016acb"
 "both_Gend-09","Gend-09","both","#e03a3a"
 "mixed_Gend-09","Gend-09","mixed","#462255"
 "?_Gend-09","Gend-09","?",
 "NA_Gend-10","Gend-10","NA",
-"exclusively_Gend-10","Gend-10","exclusively","#0d6fd1"
+"exclusively_Gend-10","Gend-10","exclusively","#016acb"
 "non-exclusively_Gend-10","Gend-10","non exclusively","#462255"
 "no_Gend-10","Gend-10","no","#e03a3a"
 "?_Gend-10","Gend-10","?",
 "NA_Gend-11","Gend-11","NA",
-"exclusively_Gend-11","Gend-11","exclusively","#0d6fd1"
+"exclusively_Gend-11","Gend-11","exclusively","#016acb"
 "non-exclusively_Gend-11","Gend-11","non exclusively","#462255"
 "no_Gend-11","Gend-11","no","#e03a3a"
 "?_Gend-11","Gend-11","?",
-"yes_Glot-01","Glot-01","yes","#2246c9"
+"yes_Glot-01","Glot-01","yes","#016acb"
 "no_Glot-01","Glot-01","no","#a1a1a1"
 "?_Glot-01","Glot-01","?",
-"yes_Glot-01a","Glot-01a","yes","#2246c9"
+"yes_Glot-01a","Glot-01a","yes","#016acb"
 "no_Glot-01a","Glot-01a","no","#a1a1a1"
 "?_Glot-01a","Glot-01a","?",
-"yes_Glot-02","Glot-02","yes","#2246c9"
+"yes_Glot-02","Glot-02","yes","#016acb"
 "no_Glot-02","Glot-02","no","#a1a1a1"
 "?_Glot-02","Glot-02","?",
-"yes_Glot-03","Glot-03","yes","#2246c9"
+"yes_Glot-03","Glot-03","yes","#016acb"
 "no_Glot-03","Glot-03","no","#a1a1a1"
 "?_Glot-03","Glot-03","?",
-"yes_Glot-03a","Glot-03a","yes","#2246c9"
+"yes_Glot-03a","Glot-03a","yes","#016acb"
 "no_Glot-03a","Glot-03a","no","#a1a1a1"
 "NA_Glot-03a","Glot-03a","NA",
 "?_Glot-03a","Glot-03a","?",
-"yes_Glot-04","Glot-04","yes","#2246c9"
+"yes_Glot-04","Glot-04","yes","#016acb"
 "no_Glot-04","Glot-04","no","#a1a1a1"
 "?_Glot-04","Glot-04","?",
-"yes_Glot-04a","Glot-04a","yes","#2246c9"
+"yes_Glot-04a","Glot-04a","yes","#016acb"
 "no_Glot-04a","Glot-04a","no","#a1a1a1"
 "?_Glot-04a","Glot-04a","?",
-"yes_Glot-04b","Glot-04b","yes","#2246c9"
+"yes_Glot-04b","Glot-04b","yes","#016acb"
 "no_Glot-04b","Glot-04b","no","#a1a1a1"
 "NA_Glot-04b","Glot-04b","NA",
 "?_Glot-04b","Glot-04b","?",
-"yes_Glot-04c","Glot-04c","yes","#2246c9"
+"yes_Glot-04c","Glot-04c","yes","#016acb"
 "no_Glot-04c","Glot-04c","no","#a1a1a1"
 "NA_Glot-04c","Glot-04c","NA",
 "?_Glot-04c","Glot-04c","?",
-"yes_Glot-05","Glot-05","yes","#2246c9"
+"yes_Glot-05","Glot-05","yes","#016acb"
 "no_Glot-05","Glot-05","no","#a1a1a1"
 "?_Glot-05","Glot-05","?",
-"yes_Glot-05a","Glot-05a","yes","#2246c9"
+"yes_Glot-05a","Glot-05a","yes","#016acb"
 "no_Glot-05a","Glot-05a","no","#a1a1a1"
 "NA_Glot-05a","Glot-05a","NA",
 "?_Glot-05a","Glot-05a","?",
-"yes_Glot-06","Glot-06","yes","#2246c9"
+"yes_Glot-06","Glot-06","yes","#016acb"
 "no_Glot-06","Glot-06","no","#a1a1a1"
 "?_Glot-06","Glot-06","?",
-"yes_Glot-06a","Glot-06a","yes","#2246c9"
+"yes_Glot-06a","Glot-06a","yes","#016acb"
 "no_Glot-06a","Glot-06a","no","#a1a1a1"
 "NA_Glot-06a","Glot-06a","NA",
 "?_Glot-06a","Glot-06a","?",
-"laterals-or-glides_Lat-01","Lat-01","laterals or glides","#0d6fd1"
+"laterals-or-glides_Lat-01","Lat-01","laterals or glides","#016acb"
 "rhotic_Lat-01","Lat-01","rhotic","#1fa380"
 "n-or-d_Lat-01","Lat-01","n or d","#e03a3a"
 "n-or-d-and-rhotic_Lat-01","Lat-01","n or d and rhotic","#462255"
 "no_Lat-01","Lat-01","no","#f0c808"
 "?_Lat-01","Lat-01","?",
-"yes_Lat-01a","Lat-01a","yes","#2246c9"
+"yes_Lat-01a","Lat-01a","yes","#016acb"
 "no_Lat-01a","Lat-01a","no","#a1a1a1"
 "?_Lat-01a","Lat-01a","?",
-"yes_Lat-01b","Lat-01b","yes","#2246c9"
+"yes_Lat-01b","Lat-01b","yes","#016acb"
 "no_Lat-01b","Lat-01b","no","#a1a1a1"
 "?_Lat-01b","Lat-01b","?",
-"laterals-or-glides_Lat-01c","Lat-01c","laterals or glides","#0d6fd1"
-"rhotic_Lat-01c","Lat-01c","rhotic","#462255"
-"n-or-d_Lat-01c","Lat-01c","n or d","#e03a3a"
+"laterals-or-glides_Lat-01c","Lat-01c","laterals or glides","#016acb"
+"rhotic_Lat-01c","Lat-01c","rhotic","#f4cd16"
+"n-or-d_Lat-01c","Lat-01c","n or d","#f74f74"
 "NA_Lat-01c","Lat-01c","NA",
 "?_Lat-01c","Lat-01c","?",
-"yes_Lat-02","Lat-02","yes","#2246c9"
+"yes_Lat-02","Lat-02","yes","#016acb"
 "no_Lat-02","Lat-02","no","#a1a1a1"
 "?_Lat-02","Lat-02","?",
-"yes_Lat-02a","Lat-02a","yes","#2246c9"
+"yes_Lat-02a","Lat-02a","yes","#016acb"
 "no_Lat-02a","Lat-02a","no","#a1a1a1"
 "?_Lat-02a","Lat-02a","?",
-"fricative_Lat-02b","Lat-02b","fricative","#0d6fd1"
-"voiceless-approximant_Lat-02b","Lat-02b","voiceless-approximant","#e03a3a"
+"fricative_Lat-02b","Lat-02b","fricative","#016acb"
+"voiceless-approximant_Lat-02b","Lat-02b","voiceless-approximant","#e63636"
 "NA_Lat-02b","Lat-02b","NA",
 "?_Lat-02b","Lat-02b","?",
-"yes_Lat-03","Lat-03","yes","#2246c9"
+"yes_Lat-03","Lat-03","yes","#016acb"
 "no_Lat-03","Lat-03","no","#a1a1a1"
 "?_Lat-03","Lat-03","?",
-"yes_Lat-04","Lat-04","yes","#2246c9"
+"yes_Lat-04","Lat-04","yes","#016acb"
 "no_Lat-04","Lat-04","no","#a1a1a1"
 "?_Lat-04","Lat-04","?",
 "NA_Lat-04a","Lat-04a","NA",
-"yes_Lat-04a","Lat-04a","yes","#2246c9"
+"yes_Lat-04a","Lat-04a","yes","#016acb"
 "no_Lat-04a","Lat-04a","no","#a1a1a1"
 "?_Lat-04a","Lat-04a","?",
-"yes_Lat-04b","Lat-04b","yes","#2246c9"
+"yes_Lat-04b","Lat-04b","yes","#016acb"
 "no_Lat-04b","Lat-04b","no","#a1a1a1"
 "NA_Lat-04b","Lat-04b","NA",
 "?_Lat-04b","Lat-04b","?",
-"yes_Lat-05","Lat-05","yes","#2246c9"
+"yes_Lat-05","Lat-05","yes","#016acb"
 "no_Lat-05","Lat-05","no","#a1a1a1"
 "?_Lat-05","Lat-05","?",
-"yes_Lat-05a","Lat-05a","yes","#2246c9"
+"yes_Lat-05a","Lat-05a","yes","#016acb"
 "no_Lat-05a","Lat-05a","no","#a1a1a1"
 "NA_Lat-05a","Lat-05a","NA",
 "?_Lat-05a","Lat-05a","?",
-"yes_Lat-06","Lat-06","yes","#2246c9"
+"yes_Lat-06","Lat-06","yes","#016acb"
 "no_Lat-06","Lat-06","no","#a1a1a1"
 "?_Lat-06","Lat-06","?",
-"yes_MonPl-01","MonPl-01","yes","#2246c9"
+"yes_MonPl-01","MonPl-01","yes","#016acb"
 "no_MonPl-01","MonPl-01","no","#a1a1a1"
 "?_MonPl-01","MonPl-01","?",
-"yes_MonPl-02","MonPl-02","yes","#2246c9"
+"yes_MonPl-02","MonPl-02","yes","#016acb"
 "no_MonPl-02","MonPl-02","no","#a1a1a1"
 "NA_MonPl-02","MonPl-02","NA",
 "?_MonPl-02","MonPl-02","?",
 "NA_MonPl-03","MonPl-03","NA",
-"no_MonPl-03","MonPl-03","no","#e03a3a"
-"s_MonPl-03","MonPl-03","s","#f0c808"
-"a_MonPl-03","MonPl-03","a","#0d6fd1"
-"p_MonPl-03","MonPl-03","p","#462255"
+"s_MonPl-03","MonPl-03","s","#016acb"
+"a_MonPl-03","MonPl-03","a","#f4cd16"
+"p_MonPl-03","MonPl-03","p","#f74f74"
+"no_MonPl-03","MonPl-03","no","#a1a1a1"
 "?_MonPl-03","MonPl-03","?",
-"yes_MonPl-03a","MonPl-03a","yes","#2246c9"
+"yes_MonPl-03a","MonPl-03a","yes","#016acb"
 "no_MonPl-03a","MonPl-03a","no","#a1a1a1"
 "NA_MonPl-03a","MonPl-03a","NA",
 "?_MonPl-03a","MonPl-03a","?",
-"yes_MonPl-03b","MonPl-03b","yes","#2246c9"
+"yes_MonPl-03b","MonPl-03b","yes","#016acb"
 "no_MonPl-03b","MonPl-03b","no","#a1a1a1"
 "NA_MonPl-03b","MonPl-03b","NA",
 "?_MonPl-03b","MonPl-03b","?",
-"yes_MonPl-03c","MonPl-03c","yes","#2246c9"
+"yes_MonPl-03c","MonPl-03c","yes","#016acb"
 "no_MonPl-03c","MonPl-03c","no","#a1a1a1"
 "NA_MonPl-03c","MonPl-03c","NA",
 "?_MonPl-03c","MonPl-03c","?",
-"yes_MonPl-04","MonPl-04","yes","#2246c9"
+"yes_MonPl-04","MonPl-04","yes","#016acb"
 "no_MonPl-04","MonPl-04","no","#a1a1a1"
 "NA_MonPl-04","MonPl-04","NA",
 "?_MonPl-04","MonPl-04","?",
 "NA_MonPl-05","MonPl-05","NA",
-"no_MonPl-05","MonPl-05","no","#0d6fd1"
-"sa_MonPl-05","MonPl-05","sa","#e03a3a"
-"sp_MonPl-05","MonPl-05","sp","#f0c808"
-"sap_MonPl-05","MonPl-05","sap","#462255"
+"sa_MonPl-05","MonPl-05","sa","#016acb"
+"sp_MonPl-05","MonPl-05","sp","#f4cd16"
+"sap_MonPl-05","MonPl-05","sap","#f74f74"
+"no_MonPl-05","MonPl-05","no","#a1a1a1"
 "?_MonPl-05","MonPl-05","?",
-"yes_MonPl-05a","MonPl-05a","yes","#2246c9"
+"yes_MonPl-05a","MonPl-05a","yes","#016acb"
 "no_MonPl-05a","MonPl-05a","no","#a1a1a1"
 "NA_MonPl-05a","MonPl-05a","NA",
 "?_MonPl-05a","MonPl-05a","?",
-"yes_MonPl-05b","MonPl-05b","yes","#2246c9"
+"yes_MonPl-05b","MonPl-05b","yes","#016acb"
 "no_MonPl-05b","MonPl-05b","no","#a1a1a1"
 "NA_MonPl-05b","MonPl-05b","NA",
 "?_MonPl-05b","MonPl-05b","?",
-"yes_MonPl-05c","MonPl-05c","yes","#2246c9"
+"yes_MonPl-05c","MonPl-05c","yes","#016acb"
 "no_MonPl-05c","MonPl-05c","no","#a1a1a1"
 "NA_MonPl-05c","MonPl-05c","NA",
 "?_MonPl-05c","MonPl-05c","?",
-"yes_MonPl-05d","MonPl-05d","yes","#2246c9"
+"yes_MonPl-05d","MonPl-05d","yes","#016acb"
 "no_MonPl-05d","MonPl-05d","no","#a1a1a1"
 "?_MonPl-05d","MonPl-05d","?",
 "NA_MonPl-05e","MonPl-05e","NA",
-"A-and-P_MonPl-05e","MonPl-05e","A and P","#e03a3a"
-"A_MonPl-05e","MonPl-05e","A","#0d6fd1"
-"P_MonPl-05e","MonPl-05e","P","#462255"
+"A_MonPl-05e","MonPl-05e","A","#016acb"
+"P_MonPl-05e","MonPl-05e","P","#e63636"
+"A-and-P_MonPl-05e","MonPl-05e","A and P","#9a4667"
 "?_MonPl-05e","MonPl-05e","?",
 "NA_MonPl-06","MonPl-06","NA",
 "s-a-p-noun_MonPl-06","MonPl-06","sap & noun","#f76993"
@@ -620,11 +620,11 @@
 "None_MonPl-06a","MonPl-06a","None","#462255"
 "noun_MonPl-06a","MonPl-06a","noun","#f0c808"
 "pronoun_MonPl-06a","MonPl-06a","pronoun","#e33bae"
-"adjective_MonPl-06a","MonPl-06a","adjective","#0d6fd1"
+"adjective_MonPl-06a","MonPl-06a","adjective","#016acb"
 "demonstrative_MonPl-06a","MonPl-06a","demonstrative","#e03a3a"
 "other_MonPl-06a","MonPl-06a","other","#1fa380"
 "?_MonPl-06a","MonPl-06a","?",
-"yes_MonPl-06b","MonPl-06b","yes","#2246c9"
+"yes_MonPl-06b","MonPl-06b","yes","#016acb"
 "no_MonPl-06b","MonPl-06b","no","#a1a1a1"
 "NA_MonPl-06b","MonPl-06b","NA",
 "?_MonPl-06b","MonPl-06b","?",
@@ -639,12 +639,12 @@
 "9_NounPoss-01","NounPoss-01","9","#00bfff"
 "10_NounPoss-01","NounPoss-01","10","#00158e"
 "?_NounPoss-01","NounPoss-01","?",
-"1_NounPoss-01a","NounPoss-01a","1","#0d6fd1"
+"1_NounPoss-01a","NounPoss-01a","1","#016acb"
 "2_NounPoss-01a","NounPoss-01a","2","#e03a3a"
 "3-or-more_NounPoss-01a","NounPoss-01a","3-or-more","#462255"
 "?_NounPoss-01a","NounPoss-01a","?",
 "default_NounPoss-02","NounPoss-02","default","#462255"
-"conceptually-inalienable_NounPoss-02","NounPoss-02","conceptually inalienable","#0d6fd1"
+"conceptually-inalienable_NounPoss-02","NounPoss-02","conceptually inalienable","#016acb"
 "conceptually-non-possessible_NounPoss-02","NounPoss-02","conceptually non-possessible","#e03a3a"
 "mixed_NounPoss-02","NounPoss-02","mixed","#f0c808"
 "?_NounPoss-02","NounPoss-02","?",
@@ -657,19 +657,19 @@
 "6_NounPoss-03","NounPoss-03","6","#00a3ec"
 "7_NounPoss-03","NounPoss-03","7","#00bfff"
 "?_NounPoss-03","NounPoss-03","?",
-"yes_NounPoss-03a","NounPoss-03a","yes","#2246c9"
+"yes_NounPoss-03a","NounPoss-03a","yes","#016acb"
 "no_NounPoss-03a","NounPoss-03a","no","#a1a1a1"
 "?_NounPoss-03a","NounPoss-03a","?",
 "NA_NounPoss-03b","NounPoss-03b","NA",
-"yes_NounPoss-03b","NounPoss-03b","yes","#2246c9"
+"yes_NounPoss-03b","NounPoss-03b","yes","#016acb"
 "no_NounPoss-03b","NounPoss-03b","no","#a1a1a1"
 "?_NounPoss-03b","NounPoss-03b","?",
 "NA_NounPoss-03c","NounPoss-03c","NA",
-"yes_NounPoss-03c","NounPoss-03c","yes","#2246c9"
+"yes_NounPoss-03c","NounPoss-03c","yes","#016acb"
 "no_NounPoss-03c","NounPoss-03c","no","#a1a1a1"
 "?_NounPoss-03c","NounPoss-03c","?",
 "NA_NounPoss-03d","NounPoss-03d","NA",
-"yes_NounPoss-03d","NounPoss-03d","yes","#2246c9"
+"yes_NounPoss-03d","NounPoss-03d","yes","#016acb"
 "no_NounPoss-03d","NounPoss-03d","no","#a1a1a1"
 "?_NounPoss-03d","NounPoss-03d","?",
 "0_NounPoss-04","NounPoss-04","0","#2817a6"
@@ -677,11 +677,11 @@
 "2_NounPoss-04","NounPoss-04","2","#21b8a4"
 "?_NounPoss-04","NounPoss-04","?",
 "NA_NounPoss-04a","NounPoss-04a","NA",
-"yes_NounPoss-04a","NounPoss-04a","yes","#2246c9"
+"yes_NounPoss-04a","NounPoss-04a","yes","#016acb"
 "no_NounPoss-04a","NounPoss-04a","no","#a1a1a1"
 "?_NounPoss-04a","NounPoss-04a","?",
 "NA_NounPoss-04b","NounPoss-04b","NA",
-"yes_NounPoss-04b","NounPoss-04b","yes","#2246c9"
+"yes_NounPoss-04b","NounPoss-04b","yes","#016acb"
 "no_NounPoss-04b","NounPoss-04b","no","#a1a1a1"
 "?_NounPoss-04b","NounPoss-04b","?",
 "0_NounPoss-05","NounPoss-05","0","#000080"
@@ -692,7 +692,7 @@
 "6_NounPoss-05","NounPoss-05","6","#00bfff"
 "?_NounPoss-05","NounPoss-05","?",
 "NA_NounPoss-06","NounPoss-06","NA",
-"body_NounPoss-06","NounPoss-06","body","#0d6fd1"
+"body_NounPoss-06","NounPoss-06","body","#016acb"
 "kin_NounPoss-06","NounPoss-06","kin","#462255"
 "part_NounPoss-06","NounPoss-06","part","#f0c808"
 "relation_NounPoss-06","NounPoss-06","relation","#1fa380"
@@ -702,7 +702,7 @@
 "plants_NounPoss-07","NounPoss-07","plants","#1fa380"
 "nature_inanimate_NounPoss-07","NounPoss-07","nature_inanimate","#f0c808"
 "humans_NounPoss-07","NounPoss-07","humans","#e03a3a"
-"animals_NounPoss-07","NounPoss-07","animals","#0d6fd1"
+"animals_NounPoss-07","NounPoss-07","animals","#016acb"
 "names_NounPoss-07","NounPoss-07","names","#462255"
 "?_NounPoss-07","NounPoss-07","?",
 "PSSR_NounPoss-08","NounPoss-08","PSSR","#2efd16"
@@ -716,17 +716,17 @@
 "UNKNOWN_NounPoss-08","NounPoss-08","UNKNOWN","#fdaca9"
 "?_NounPoss-08","NounPoss-08","?",
 "NA_NounPoss-08a","NounPoss-08a","NA",
-"yes_NounPoss-08a","NounPoss-08a","yes","#2246c9"
+"yes_NounPoss-08a","NounPoss-08a","yes","#016acb"
 "no_NounPoss-08a","NounPoss-08a","no","#a1a1a1"
 "?_NounPoss-08a","NounPoss-08a","?",
 "NA_NounPoss-08b","NounPoss-08b","NA",
-"yes_NounPoss-08b","NounPoss-08b","yes","#2246c9"
+"yes_NounPoss-08b","NounPoss-08b","yes","#016acb"
 "no_NounPoss-08b","NounPoss-08b","no","#a1a1a1"
 "?_NounPoss-08b","NounPoss-08b","?",
 "NA_NounPoss-08c","NounPoss-08c","NA",
-"PSSR_NounPoss-08c","NounPoss-08c","PSSR","#e03a3a"
-"PSSD_NounPoss-08c","NounPoss-08c","PSSD","#0d6fd1"
-"PSSR-and-PSSD_NounPoss-08c","NounPoss-08c","PSSR and PSSD","#462255"
+"PSSR_NounPoss-08c","NounPoss-08c","PSSR","#016acb"
+"PSSD_NounPoss-08c","NounPoss-08c","PSSD","#e63636"
+"PSSR-and-PSSD_NounPoss-08c","NounPoss-08c","PSSR and PSSD","#9a4667"
 "?_NounPoss-08c","NounPoss-08c","?",
 "NA_NounPoss-09","NounPoss-09","NA",
 "PSSR_NounPoss-09","NounPoss-09","PSSR","#2afe00"
@@ -767,65 +767,65 @@
 "3-INDEF_NounPoss-11","NounPoss-11","3.INDEF","#26a580"
 "?_NounPoss-11","NounPoss-11","?",
 "no_NounPoss-12","NounPoss-12","no","#f0c808"
-"default_NounPoss-12","NounPoss-12","default","#0d6fd1"
+"default_NounPoss-12","NounPoss-12","default","#016acb"
 "inalienable_NounPoss-12","NounPoss-12","inalienable","#e03a3a"
 "non-possessible_NounPoss-12","NounPoss-12","non-possessible","#1fa380"
 "mixed_NounPoss-12","NounPoss-12","mixed","#462255"
 "?_NounPoss-12","NounPoss-12","?",
-"no-JUXT_NounPoss-12a","NounPoss-12a","no JUXT","#e03a3a"
-"default-plus_NounPoss-12a","NounPoss-12a","default plus","#0d6fd1"
+"no-JUXT_NounPoss-12a","NounPoss-12a","no JUXT","#a1a1a1"
+"default-plus_NounPoss-12a","NounPoss-12a","default plus","#016acb"
 "only-inalienables_NounPoss-12a","NounPoss-12a","only inalienables","#462255"
 "?_NounPoss-12a","NounPoss-12a","?",
 "no_NounPoss-13","NounPoss-13","no","#f0c808"
-"default_NounPoss-13","NounPoss-13","default","#0d6fd1"
+"default_NounPoss-13","NounPoss-13","default","#016acb"
 "inalienable_NounPoss-13","NounPoss-13","inalienable","#e03a3a"
 "non-possessible_NounPoss-13","NounPoss-13","non-possessible","#1fa380"
 "mixed_NounPoss-13","NounPoss-13","mixed","#462255"
 "?_NounPoss-13","NounPoss-13","?",
 "no_NounPoss-14","NounPoss-14","no","#f0c808"
-"default_NounPoss-14","NounPoss-14","default","#0d6fd1"
+"default_NounPoss-14","NounPoss-14","default","#016acb"
 "inalienable_NounPoss-14","NounPoss-14","inalienable","#e03a3a"
 "non-possessible_NounPoss-14","NounPoss-14","non-possessible","#1fa380"
 "mixed_NounPoss-14","NounPoss-14","mixed","#462255"
 "?_NounPoss-14","NounPoss-14","?",
 "no_NounPoss-15","NounPoss-15","no","#f0c808"
-"default_NounPoss-15","NounPoss-15","default","#0d6fd1"
+"default_NounPoss-15","NounPoss-15","default","#016acb"
 "inalienable_NounPoss-15","NounPoss-15","inalienable","#e03a3a"
 "non-possessible_NounPoss-15","NounPoss-15","non-possessible","#1fa380"
 "mixed_NounPoss-15","NounPoss-15","mixed","#462255"
 "?_NounPoss-15","NounPoss-15","?",
 "no_NounPoss-16","NounPoss-16","no","#f0c808"
-"default_NounPoss-16","NounPoss-16","default","#0d6fd1"
+"default_NounPoss-16","NounPoss-16","default","#016acb"
 "inalienable_NounPoss-16","NounPoss-16","inalienable","#e03a3a"
 "non-possessible_NounPoss-16","NounPoss-16","non-possessible","#1fa380"
 "mixed_NounPoss-16","NounPoss-16","mixed","#462255"
 "?_NounPoss-16","NounPoss-16","?",
-"yes_NounPoss-16a","NounPoss-16a","yes","#2246c9"
+"yes_NounPoss-16a","NounPoss-16a","yes","#016acb"
 "no_NounPoss-16a","NounPoss-16a","no","#a1a1a1"
 "?_NounPoss-16a","NounPoss-16a","?",
 "no_NounPoss-17","NounPoss-17","no","#f0c808"
-"default_NounPoss-17","NounPoss-17","default","#0d6fd1"
+"default_NounPoss-17","NounPoss-17","default","#016acb"
 "inalienable_NounPoss-17","NounPoss-17","inalienable","#e03a3a"
 "non-possessible_NounPoss-17","NounPoss-17","non-possessible","#1fa380"
 "mixed_NounPoss-17","NounPoss-17","mixed","#462255"
 "?_NounPoss-17","NounPoss-17","?",
-"none_NounPoss-17a","NounPoss-17a","none","#e03a3a"
-"default-plus_NounPoss-17a","NounPoss-17a","default plus","#0d6fd1"
+"none_NounPoss-17a","NounPoss-17a","none","#a1a1a1"
+"default-plus_NounPoss-17a","NounPoss-17a","default plus","#016acb"
 "only-non-possessibles_NounPoss-17a","NounPoss-17a","only non-possessibles","#462255"
 "?_NounPoss-17a","NounPoss-17a","?",
 "NA_NounPoss-18","NounPoss-18","NA",
-"yes_NounPoss-18","NounPoss-18","yes","#2246c9"
+"yes_NounPoss-18","NounPoss-18","yes","#016acb"
 "no_NounPoss-18","NounPoss-18","no","#a1a1a1"
 "?_NounPoss-18","NounPoss-18","?",
 "NA_NounPoss-19","NounPoss-19","NA",
-"yes_NounPoss-19","NounPoss-19","yes","#2246c9"
+"yes_NounPoss-19","NounPoss-19","yes","#016acb"
 "no_NounPoss-19","NounPoss-19","no","#a1a1a1"
 "?_NounPoss-19","NounPoss-19","?",
-"yes_NounPoss-20","NounPoss-20","yes","#2246c9"
+"yes_NounPoss-20","NounPoss-20","yes","#016acb"
 "no_NounPoss-20","NounPoss-20","no","#a1a1a1"
 "?_NounPoss-20","NounPoss-20","?",
 "NA_NounPoss-20a","NounPoss-20a","NA",
-"yes_NounPoss-20a","NounPoss-20a","yes","#2246c9"
+"yes_NounPoss-20a","NounPoss-20a","yes","#016acb"
 "no_NounPoss-20a","NounPoss-20a","no","#a1a1a1"
 "?_NounPoss-20a","NounPoss-20a","?",
 "0_NounPoss-21","NounPoss-21","0","#000080"
@@ -845,7 +845,7 @@
 "7_NounPoss-22","NounPoss-22","7","#00bfff"
 "?_NounPoss-22","NounPoss-22","?",
 "NA_NounPoss-23","NounPoss-23","NA",
-"yes_NounPoss-23","NounPoss-23","yes","#2246c9"
+"yes_NounPoss-23","NounPoss-23","yes","#016acb"
 "no_NounPoss-23","NounPoss-23","no","#a1a1a1"
 "?_NounPoss-23","NounPoss-23","?",
 "0_NounPoss-24","NounPoss-24","0","#2817a6"
@@ -853,121 +853,121 @@
 "2_NounPoss-24","NounPoss-24","2","#2382a4"
 "4_NounPoss-24","NounPoss-24","4","#21b8a4"
 "?_NounPoss-24","NounPoss-24","?",
-"non-possessible_NounPoss-25","NounPoss-25","non-possessible","#0d6fd1"
-"obligatorily-possessed_NounPoss-25","NounPoss-25","obligatorily possessed","#e03a3a"
-"optionally-possessed_NounPoss-25","NounPoss-25","optionally possessed","#462255"
+"non-possessible_NounPoss-25","NounPoss-25","non-possessible","#016acb"
+"obligatorily-possessed_NounPoss-25","NounPoss-25","obligatorily possessed","#f4cd16"
+"optionally-possessed_NounPoss-25","NounPoss-25","optionally possessed","#f74f74"
 "?_NounPoss-25","NounPoss-25","?",
 "NA_NounPoss-26","NounPoss-26","NA",
-"non-possessible_NounPoss-26","NounPoss-26","non-possessible","#0d6fd1"
-"obligatorily-possessed_NounPoss-26","NounPoss-26","obligatorily possessed","#e03a3a"
-"optionally-possessed_NounPoss-26","NounPoss-26","optionally possessed","#462255"
+"non-possessible_NounPoss-26","NounPoss-26","non-possessible","#016acb"
+"obligatorily-possessed_NounPoss-26","NounPoss-26","obligatorily possessed","#f4cd16"
+"optionally-possessed_NounPoss-26","NounPoss-26","optionally possessed","#f74f74"
 "?_NounPoss-26","NounPoss-26","?",
 "NA_NounPoss-27","NounPoss-27","NA",
-"non-possessible_NounPoss-27","NounPoss-27","non-possessible","#0d6fd1"
-"obligatorily-possessed_NounPoss-27","NounPoss-27","obligatorily possessed","#e03a3a"
-"optionally-possessed_NounPoss-27","NounPoss-27","optionally possessed","#462255"
+"non-possessible_NounPoss-27","NounPoss-27","non-possessible","#016acb"
+"obligatorily-possessed_NounPoss-27","NounPoss-27","obligatorily possessed","#f4cd16"
+"optionally-possessed_NounPoss-27","NounPoss-27","optionally possessed","#f74f74"
 "?_NounPoss-27","NounPoss-27","?",
 "NA_NounPoss-28","NounPoss-28","NA",
-"non-possessible_NounPoss-28","NounPoss-28","non-possessible","#0d6fd1"
-"obligatorily-possessed_NounPoss-28","NounPoss-28","obligatorily possessed","#e03a3a"
-"optionally-possessed_NounPoss-28","NounPoss-28","optionally possessed","#462255"
+"non-possessible_NounPoss-28","NounPoss-28","non-possessible","#016acb"
+"obligatorily-possessed_NounPoss-28","NounPoss-28","obligatorily possessed","#f4cd16"
+"optionally-possessed_NounPoss-28","NounPoss-28","optionally possessed","#f74f74"
 "?_NounPoss-28","NounPoss-28","?",
-"yes_Ppron-001","Ppron-001","yes","#2246c9"
+"yes_Ppron-001","Ppron-001","yes","#016acb"
 "no_Ppron-001","Ppron-001","no","#a1a1a1"
 "?_Ppron-001","Ppron-001","?",
 "yes-auto_Ppron-002","Ppron-002","yes-auto",
-"yes_Ppron-002","Ppron-002","yes","#2246c9"
+"yes_Ppron-002","Ppron-002","yes","#016acb"
 "no_Ppron-002","Ppron-002","no","#a1a1a1"
 "?_Ppron-002","Ppron-002","?",
 "NA_Ppron-003","Ppron-003","NA",
-"yes_Ppron-003","Ppron-003","yes","#2246c9"
+"yes_Ppron-003","Ppron-003","yes","#016acb"
 "no_Ppron-003","Ppron-003","no","#a1a1a1"
 "?_Ppron-003","Ppron-003","?",
 "NA_Ppron-01","Ppron-01","NA",
-"yes_Ppron-01","Ppron-01","yes","#2246c9"
+"yes_Ppron-01","Ppron-01","yes","#016acb"
 "no_Ppron-01","Ppron-01","no","#a1a1a1"
 "?_Ppron-01","Ppron-01","?",
 "NA_Ppron-01a","Ppron-01a","NA",
-"yes_Ppron-01a","Ppron-01a","yes","#2246c9"
+"yes_Ppron-01a","Ppron-01a","yes","#016acb"
 "no_Ppron-01a","Ppron-01a","no","#a1a1a1"
 "?_Ppron-01a","Ppron-01a","?",
 "NA_Ppron-02","Ppron-02","NA",
-"yes_Ppron-02","Ppron-02","yes","#2246c9"
+"yes_Ppron-02","Ppron-02","yes","#016acb"
 "no_Ppron-02","Ppron-02","no","#a1a1a1"
 "?_Ppron-02","Ppron-02","?",
 "NA_Ppron-03","Ppron-03","NA",
-"yes_Ppron-03","Ppron-03","yes","#2246c9"
+"yes_Ppron-03","Ppron-03","yes","#016acb"
 "no_Ppron-03","Ppron-03","no","#a1a1a1"
 "?_Ppron-03","Ppron-03","?",
 "NA_Ppron-04","Ppron-04","NA",
-"inclusive_Ppron-04","Ppron-04","inclusive","#e03a3a"
-"exclusive_Ppron-04","Ppron-04","exclusive","#0d6fd1"
-"unified-we_Ppron-04","Ppron-04","unified we","#f0c808"
-"no_Ppron-04","Ppron-04","no","#462255"
+"inclusive_Ppron-04","Ppron-04","inclusive","#016acb"
+"exclusive_Ppron-04","Ppron-04","exclusive","#f4cd16"
+"unified-we_Ppron-04","Ppron-04","unified we","#f74f74"
+"no_Ppron-04","Ppron-04","no","#a1a1a1"
 "?_Ppron-04","Ppron-04","?",
 "NA_Ppron-04a","Ppron-04a","NA",
-"yes_Ppron-04a","Ppron-04a","yes","#2246c9"
+"yes_Ppron-04a","Ppron-04a","yes","#016acb"
 "no_Ppron-04a","Ppron-04a","no","#a1a1a1"
 "?_Ppron-04a","Ppron-04a","?",
 "NA_Ppron-05","Ppron-05","NA",
-"yes_Ppron-05","Ppron-05","yes","#2246c9"
+"yes_Ppron-05","Ppron-05","yes","#016acb"
 "no_Ppron-05","Ppron-05","no","#a1a1a1"
 "?_Ppron-05","Ppron-05","?",
 "NA_Ppron-06","Ppron-06","NA",
-"1excl-or-pl-is-1sg-plus-pl_Ppron-06","Ppron-06","1excl or pl is 1sg plus pl","#e03a3a"
-"1excl-or-pl-includes-1sg_Ppron-06","Ppron-06","1excl or pl includes 1sg","#0d6fd1"
-"no-relation_Ppron-06","Ppron-06","no relation","#462255"
+"1excl-or-pl-is-1sg-plus-pl_Ppron-06","Ppron-06","1excl or pl is 1sg plus pl","#016acb"
+"1excl-or-pl-includes-1sg_Ppron-06","Ppron-06","1excl or pl includes 1sg","#e63636"
+"no-relation_Ppron-06","Ppron-06","no relation","#a1a1a1"
 "?_Ppron-06","Ppron-06","?",
 "NA_Ppron-06a","Ppron-06a","NA",
-"yes_Ppron-06a","Ppron-06a","yes","#2246c9"
+"yes_Ppron-06a","Ppron-06a","yes","#016acb"
 "no_Ppron-06a","Ppron-06a","no","#a1a1a1"
 "?_Ppron-06a","Ppron-06a","?",
 "NA_Ppron-06b","Ppron-06b","NA",
-"yes_Ppron-06b","Ppron-06b","yes","#2246c9"
+"yes_Ppron-06b","Ppron-06b","yes","#016acb"
 "no_Ppron-06b","Ppron-06b","no","#a1a1a1"
 "?_Ppron-06b","Ppron-06b","?",
 "NA_Ppron-07","Ppron-07","NA",
-"1incl-is-1sg-plus-pl_Ppron-07","Ppron-07","1incl is 1sg plus pl","#e03a3a"
-"1incl-includes-1sg_Ppron-07","Ppron-07","1incl includes 1sg","#0d6fd1"
-"no-relation_Ppron-07","Ppron-07","no relation","#462255"
+"1incl-is-1sg-plus-pl_Ppron-07","Ppron-07","1incl is 1sg plus pl","#016acb"
+"1incl-includes-1sg_Ppron-07","Ppron-07","1incl includes 1sg","#e63636"
+"no-relation_Ppron-07","Ppron-07","no relation","#a1a1a1"
 "?_Ppron-07","Ppron-07","?",
 "NA_Ppron-07a","Ppron-07a","NA",
-"yes_Ppron-07a","Ppron-07a","yes","#2246c9"
+"yes_Ppron-07a","Ppron-07a","yes","#016acb"
 "no_Ppron-07a","Ppron-07a","no","#a1a1a1"
 "?_Ppron-07a","Ppron-07a","?",
 "NA_Ppron-07b","Ppron-07b","NA",
-"yes_Ppron-07b","Ppron-07b","yes","#2246c9"
+"yes_Ppron-07b","Ppron-07b","yes","#016acb"
 "no_Ppron-07b","Ppron-07b","no","#a1a1a1"
 "?_Ppron-07b","Ppron-07b","?",
 "NA_Ppron-08","Ppron-08","NA",
-"yes_Ppron-08","Ppron-08","yes","#2246c9"
+"yes_Ppron-08","Ppron-08","yes","#016acb"
 "no_Ppron-08","Ppron-08","no","#a1a1a1"
 "?_Ppron-08","Ppron-08","?",
 "NA_Ppron-08a","Ppron-08a","NA",
-"yes_Ppron-08a","Ppron-08a","yes","#2246c9"
+"yes_Ppron-08a","Ppron-08a","yes","#016acb"
 "no_Ppron-08a","Ppron-08a","no","#a1a1a1"
 "?_Ppron-08a","Ppron-08a","?",
 "NA_Ppron-09","Ppron-09","NA",
-"yes_Ppron-09","Ppron-09","yes","#2246c9"
+"yes_Ppron-09","Ppron-09","yes","#016acb"
 "no_Ppron-09","Ppron-09","no","#a1a1a1"
 "?_Ppron-09","Ppron-09","?",
 "NA_Ppron-09a","Ppron-09a","NA",
-"yes_Ppron-09a","Ppron-09a","yes","#e03a3a"
+"yes_Ppron-09a","Ppron-09a","yes","#016acb"
 "no_Ppron-09a","Ppron-09a","no","#a1a1a1"
 "?_Ppron-09a","Ppron-09a","?",
-"yes_SgPl-01","SgPl-01","yes","#2246c9"
+"yes_SgPl-01","SgPl-01","yes","#016acb"
 "no_SgPl-01","SgPl-01","no","#a1a1a1"
 "?_SgPl-01","SgPl-01","?",
-"Sg-Pl_SgPl-01a","SgPl-01a","Sg-Pl","#462255"
-"irregular-MonoPl_SgPl-01a","SgPl-01a","irregular MonoPl","#0d6fd1"
-"Sg-Pl-and-irregular-MonoPl_SgPl-01a","SgPl-01a","Sg-Pl and irregular MonoPl","#f0c808"
-"none_SgPl-01a","SgPl-01a","none","#e03a3a"
+"Sg-Pl_SgPl-01a","SgPl-01a","Sg-Pl","#016acb"
+"irregular-MonoPl_SgPl-01a","SgPl-01a","irregular MonoPl","#e63636"
+"Sg-Pl-and-irregular-MonoPl_SgPl-01a","SgPl-01a","Sg-Pl and irregular MonoPl","#9a4667"
+"none_SgPl-01a","SgPl-01a","none","#a1a1a1"
 "?_SgPl-01a","SgPl-01a","?",
-"yes_SgPl-01b","SgPl-01b","yes","#2246c9"
+"yes_SgPl-01b","SgPl-01b","yes","#016acb"
 "no_SgPl-01b","SgPl-01b","no","#a1a1a1"
 "?_SgPl-01b","SgPl-01b","?",
 "NA_SgPl-02","SgPl-02","NA",
-"yes_SgPl-02","SgPl-02","yes","#2246c9"
+"yes_SgPl-02","SgPl-02","yes","#016acb"
 "no-common-pattern_SgPl-02","SgPl-02","no common pattern","#a1a1a1"
 "?_SgPl-02","SgPl-02","?",
 "NA_SgPl-03","SgPl-03","NA",
@@ -990,7 +990,7 @@
 "118_SgPl-03","SgPl-03","118","#000b87"
 "?_SgPl-03","SgPl-03","?",
 "NA_SgPl-04","SgPl-04","NA",
-"yes_SgPl-04","SgPl-04","yes","#2246c9"
+"yes_SgPl-04","SgPl-04","yes","#016acb"
 "no_SgPl-04","SgPl-04","no","#a1a1a1"
 "?_SgPl-04","SgPl-04","?",
 "NA_SgPl-05","SgPl-05","NA",
@@ -1021,24 +1021,24 @@
 "61_SgPl-05","SgPl-05","61","#00a7ef"
 "?_SgPl-05","SgPl-05","?",
 "NA_SgPl-06","SgPl-06","NA",
-"yes_SgPl-06","SgPl-06","yes","#2246c9"
+"yes_SgPl-06","SgPl-06","yes","#016acb"
 "no_SgPl-06","SgPl-06","no","#a1a1a1"
 "?_SgPl-06","SgPl-06","?",
 "NA_SgPl-07","SgPl-07","NA",
-"intransitive_SgPl-07","SgPl-07","intransitive","#e03a3a"
-"transitive_SgPl-07","SgPl-07","transitive","#462255"
-"both_SgPl-07","SgPl-07","both","#0d6fd1"
+"intransitive_SgPl-07","SgPl-07","intransitive","#016acb"
+"transitive_SgPl-07","SgPl-07","transitive","#e63636"
+"both_SgPl-07","SgPl-07","both","#9a4667"
 "?_SgPl-07","SgPl-07","?",
 "NA_SgPl-07a","SgPl-07a","NA",
-"yes_SgPl-07a","SgPl-07a","yes","#2246c9"
+"yes_SgPl-07a","SgPl-07a","yes","#016acb"
 "no_SgPl-07a","SgPl-07a","no","#a1a1a1"
 "?_SgPl-07a","SgPl-07a","?",
 "NA_SgPl-07b","SgPl-07b","NA",
-"yes_SgPl-07b","SgPl-07b","yes","#2246c9"
+"yes_SgPl-07b","SgPl-07b","yes","#016acb"
 "no_SgPl-07b","SgPl-07b","no","#a1a1a1"
 "?_SgPl-07b","SgPl-07b","?",
 "NA_SgPl-08","SgPl-08","NA",
-"yes_SgPl-08","SgPl-08","yes","#2246c9"
+"yes_SgPl-08","SgPl-08","yes","#016acb"
 "no_SgPl-08","SgPl-08","no","#a1a1a1"
 "?_SgPl-08","SgPl-08","?",
 "NA_SgPl-09","SgPl-09","NA",
@@ -1052,7 +1052,7 @@
 "7_SgPl-09","SgPl-09","7","#00bfff"
 "?_SgPl-09","SgPl-09","?",
 "NA_SgPl-10","SgPl-10","NA",
-"yes_SgPl-10","SgPl-10","yes","#2246c9"
+"yes_SgPl-10","SgPl-10","yes","#016acb"
 "no_SgPl-10","SgPl-10","no","#a1a1a1"
 "?_SgPl-10","SgPl-10","?",
 "NA_SgPl-11","SgPl-11","NA",
@@ -1075,7 +1075,7 @@
 "none_SgPl-12","SgPl-12","none","#462255"
 "NA_SgPl-12","SgPl-12","NA",
 "location_SgPl-12","SgPl-12","location","#e03a3a"
-"expected_SgPl-12","SgPl-12","expected","#0d6fd1"
+"expected_SgPl-12","SgPl-12","expected","#016acb"
 "property_SgPl-12","SgPl-12","property","#1fa380"
 "other_SgPl-12","SgPl-12","other","#f0c808"
 "?_SgPl-12","SgPl-12","?",
@@ -1102,24 +1102,24 @@
 "37_SgPl-14","SgPl-14","37","#0068c5"
 "?_SgPl-14","SgPl-14","?",
 "NA_SgPl-15","SgPl-15","NA",
-"yes_SgPl-15","SgPl-15","yes","#2246c9"
+"yes_SgPl-15","SgPl-15","yes","#016acb"
 "no_SgPl-15","SgPl-15","no","#a1a1a1"
 "?_SgPl-15","SgPl-15","?",
 "NA_SgPl-16","SgPl-16","NA",
-"unaccusative_SgPl-16","SgPl-16","unaccusative","#e03a3a"
-"unergative_SgPl-16","SgPl-16","unergative","#462255"
-"both_SgPl-16","SgPl-16","both","#0d6fd1"
+"unaccusative_SgPl-16","SgPl-16","unaccusative","#016acb"
+"unergative_SgPl-16","SgPl-16","unergative","#e63636"
+"both_SgPl-16","SgPl-16","both","#9a4667"
 "?_SgPl-16","SgPl-16","?",
 "NA_SgPl-16a","SgPl-16a","NA",
-"yes_SgPl-16a","SgPl-16a","yes","#2246c9"
+"yes_SgPl-16a","SgPl-16a","yes","#016acb"
 "no_SgPl-16a","SgPl-16a","no","#a1a1a1"
 "?_SgPl-16a","SgPl-16a","?",
 "NA_SgPl-16b","SgPl-16b","NA",
-"yes_SgPl-16b","SgPl-16b","yes","#2246c9"
+"yes_SgPl-16b","SgPl-16b","yes","#016acb"
 "no_SgPl-16b","SgPl-16b","no","#a1a1a1"
 "?_SgPl-16b","SgPl-16b","?",
 "NA_SgPl-17","SgPl-17","NA",
-"a_SgPl-17","SgPl-17","a","#0d6fd1"
+"a_SgPl-17","SgPl-17","a","#016acb"
 "p_SgPl-17","SgPl-17","p","#f0c808"
 "either_SgPl-17","SgPl-17","either","#462255"
 "both_SgPl-17","SgPl-17","both","#e03a3a"
@@ -1127,55 +1127,55 @@
 "NA_SgPl-18","SgPl-18","NA",
 "sg-pl_SgPl-18","SgPl-18","sg-pl","#1fa380"
 "paucal-many_SgPl-18","SgPl-18","paucal-many","#e03a3a"
-"individual-collective_SgPl-18","SgPl-18","individual-collective","#0d6fd1"
+"individual-collective_SgPl-18","SgPl-18","individual-collective","#016acb"
 "sg-du-pl_SgPl-18","SgPl-18","sg-du-pl","#462255"
 "sg-paucal-pl_SgPl-18","SgPl-18","sg-paucal-pl","#f0c808"
 "?_SgPl-18","SgPl-18","?",
 "NA_SgPl-18a","SgPl-18a","NA",
-"yes_SgPl-18a","SgPl-18a","yes","#2246c9"
+"yes_SgPl-18a","SgPl-18a","yes","#016acb"
 "no_SgPl-18a","SgPl-18a","no","#a1a1a1"
 "?_SgPl-18a","SgPl-18a","?",
-"yes_SgPl-19","SgPl-19","yes","#2246c9"
+"yes_SgPl-19","SgPl-19","yes","#016acb"
 "no_SgPl-19","SgPl-19","no","#a1a1a1"
 "?_SgPl-19","SgPl-19","?",
 "NA_SgPl-20","SgPl-20","NA",
-"yes_SgPl-20","SgPl-20","yes","#2246c9"
+"yes_SgPl-20","SgPl-20","yes","#016acb"
 "no_SgPl-20","SgPl-20","no","#a1a1a1"
 "?_SgPl-20","SgPl-20","?",
 "NA_SgPl-21","SgPl-21","NA",
-"yes_SgPl-21","SgPl-21","yes","#2246c9"
-"property-concept-verbs_SgPl-21","SgPl-21","property concept verbs","#e03a3a"
+"yes_SgPl-21","SgPl-21","yes","#016acb"
+"property-concept-verbs_SgPl-21","SgPl-21","property concept verbs","#7cb2e6"
 "no_SgPl-21","SgPl-21","no","#a1a1a1"
 "?_SgPl-21","SgPl-21","?",
-"yes_SocCaus-01","SocCaus-01","yes","#2246c9"
+"yes_SocCaus-01","SocCaus-01","yes","#016acb"
 "no_SocCaus-01","SocCaus-01","no","#a1a1a1"
 "?_SocCaus-01","SocCaus-01","?",
 "NA_SocCaus-02","SocCaus-02","NA",
 "morpheme_SocCaus-02","SocCaus-02","morpheme","#f0c808"
 "special-causee_SocCaus-02","SocCaus-02","special causee","#1fa380"
 "dir-and-indir-caus_SocCaus-02","SocCaus-02","dir-and-indir-caus","#462255"
-"caus-and-appl_SocCaus-02","SocCaus-02","caus-and-appl","#0d6fd1"
+"caus-and-appl_SocCaus-02","SocCaus-02","caus-and-appl","#016acb"
 "caus-and-other_SocCaus-02","SocCaus-02","caus-and-other","#e03a3a"
 "?_SocCaus-02","SocCaus-02","?",
 "NA_SocCaus-03","SocCaus-03","NA",
-"joint-action_SocCaus-03","SocCaus-03","joint action","#e03a3a"
-"assistive_SocCaus-03","SocCaus-03","assistive","#0d6fd1"
-"supervision_SocCaus-03","SocCaus-03","supervision","#462255"
+"joint-action_SocCaus-03","SocCaus-03","joint action","#016acb"
+"assistive_SocCaus-03","SocCaus-03","assistive","#f4cd16"
+"supervision_SocCaus-03","SocCaus-03","supervision","#f74f74"
 "?_SocCaus-03","SocCaus-03","?",
 "NA_SocCaus-04","SocCaus-04","NA",
-"motion_SocCaus-04","SocCaus-04","motion","#e03a3a"
-"non-motion_SocCaus-04","SocCaus-04","non-motion","#462255"
-"both_SocCaus-04","SocCaus-04","both","#0d6fd1"
+"motion_SocCaus-04","SocCaus-04","motion","#016acb"
+"non-motion_SocCaus-04","SocCaus-04","non-motion","#e63636"
+"both_SocCaus-04","SocCaus-04","both","#9a4667"
 "?_SocCaus-04","SocCaus-04","?",
 "NA_SocCaus-05","SocCaus-05","NA",
-"intransitive_SocCaus-05","SocCaus-05","intransitive","#e03a3a"
-"transitive_SocCaus-05","SocCaus-05","transitive","#462255"
-"both_SocCaus-05","SocCaus-05","both","#0d6fd1"
+"intransitive_SocCaus-05","SocCaus-05","intransitive","#016acb"
+"transitive_SocCaus-05","SocCaus-05","transitive","#e63636"
+"both_SocCaus-05","SocCaus-05","both","#9a4667"
 "?_SocCaus-05","SocCaus-05","?",
 "NA_SocCaus-06","SocCaus-06","NA",
-"animate_SocCaus-06","SocCaus-06","animate","#0d6fd1"
-"inanimate_SocCaus-06","SocCaus-06","inanimate","#462255"
-"both_SocCaus-06","SocCaus-06","both","#e03a3a"
+"animate_SocCaus-06","SocCaus-06","animate","#016acb"
+"inanimate_SocCaus-06","SocCaus-06","inanimate","#e63636"
+"both_SocCaus-06","SocCaus-06","both","#9a4667"
 "?_SocCaus-06","SocCaus-06","?",
 "_SocCaus-07","SocCaus-07","","#226ed3"
 "dir-caus_SocCaus-07","SocCaus-07","dir-caus","#f6ce0d"
@@ -1215,23 +1215,23 @@
 "?_Syll-03","Syll-03","?",
 "s_Syll-04","Syll-04","s","#f0c808"
 "mc_Syll-04","Syll-04","mc","#462255"
-"c_Syll-04","Syll-04","c","#0d6fd1"
+"c_Syll-04","Syll-04","c","#016acb"
 "hc_Syll-04","Syll-04","hc","#e03a3a"
 "?_Syll-04","Syll-04","?",
-"c_Syll-05","Syll-05","c","#0d6fd1"
+"c_Syll-05","Syll-05","c","#016acb"
 "cg_Syll-05","Syll-05","cg","#462255"
 "ccplus_Syll-05","Syll-05","ccplus","#e03a3a"
 "?_Syll-05","Syll-05","?",
 "nocoda_Syll-06","Syll-06","nocoda","#e03a3a"
 "sonorant_Syll-06","Syll-06","sonorant","#f0c808"
 "simple_Syll-06","Syll-06","simple","#462255"
-"complex_Syll-06","Syll-06","complex","#0d6fd1"
+"complex_Syll-06","Syll-06","complex","#016acb"
 "?_Syll-06","Syll-06","?",
-"yes_ToneProm-01","ToneProm-01","yes","#2246c9"
+"yes_ToneProm-01","ToneProm-01","yes","#016acb"
 "no_ToneProm-01","ToneProm-01","no","#a1a1a1"
 "?_ToneProm-01","ToneProm-01","?",
-"contrastive_ToneProm-01a","ToneProm-01a","contrastive","#0d6fd1"
-"non-contrastive_ToneProm-01a","ToneProm-01a","non-contrastive","#e03a3a"
+"contrastive_ToneProm-01a","ToneProm-01a","contrastive","#016acb"
+"non-contrastive_ToneProm-01a","ToneProm-01a","non-contrastive","#e63636"
 "NA_ToneProm-01a","ToneProm-01a","NA",
 "?_ToneProm-01a","ToneProm-01a","?",
 "NA_ToneProm-02","ToneProm-02","NA",
@@ -1243,47 +1243,47 @@
 "duration-pitch_ToneProm-02","ToneProm-02","duration & pitch","#de35a9"
 "amplitude-duration-pitch_ToneProm-02","ToneProm-02","amplitude & duration & pitch","#5a406c"
 "?_ToneProm-02","ToneProm-02","?",
-"amplitude_ToneProm-02a","ToneProm-02a","amplitude","#0d6fd1"
-"pitch_ToneProm-02a","ToneProm-02a","pitch","#462255"
-"duration_ToneProm-02a","ToneProm-02a","duration","#e03a3a"
+"amplitude_ToneProm-02a","ToneProm-02a","amplitude","#016acb"
+"pitch_ToneProm-02a","ToneProm-02a","pitch","#f4cd16"
+"duration_ToneProm-02a","ToneProm-02a","duration","#f74f74"
 "NA_ToneProm-02a","ToneProm-02a","NA",
 "?_ToneProm-02a","ToneProm-02a","?",
-"yes_ToneProm-03","ToneProm-03","yes","#2246c9"
+"yes_ToneProm-03","ToneProm-03","yes","#016acb"
 "no_ToneProm-03","ToneProm-03","no","#a1a1a1"
 "NA_ToneProm-03","ToneProm-03","NA",
 "?_ToneProm-03","ToneProm-03","?",
-"contrastive_ToneProm-04","ToneProm-04","contrastive","#0d6fd1"
-"non-contrastive_ToneProm-04","ToneProm-04","non-contrastive","#e03a3a"
+"contrastive_ToneProm-04","ToneProm-04","contrastive","#016acb"
+"non-contrastive_ToneProm-04","ToneProm-04","non-contrastive","#e63636"
 "NA_ToneProm-04","ToneProm-04","NA",
 "?_ToneProm-04","ToneProm-04","?",
-"yes_ToneProm-05","ToneProm-05","yes","#2246c9"
+"yes_ToneProm-05","ToneProm-05","yes","#016acb"
 "no_ToneProm-05","ToneProm-05","no","#a1a1a1"
 "NA_ToneProm-05","ToneProm-05","NA",
 "?_ToneProm-05","ToneProm-05","?",
-"contrastive_ToneProm-06","ToneProm-06","contrastive","#0d6fd1"
-"non-contrastive_ToneProm-06","ToneProm-06","non-contrastive","#e03a3a"
+"contrastive_ToneProm-06","ToneProm-06","contrastive","#016acb"
+"non-contrastive_ToneProm-06","ToneProm-06","non-contrastive","#e63636"
 "NA_ToneProm-06","ToneProm-06","NA",
 "?_ToneProm-06","ToneProm-06","?",
-"yes_ToneProm-07","ToneProm-07","yes","#2246c9"
+"yes_ToneProm-07","ToneProm-07","yes","#016acb"
 "no_ToneProm-07","ToneProm-07","no","#a1a1a1"
 "NA_ToneProm-07","ToneProm-07","NA",
 "?_ToneProm-07","ToneProm-07","?",
-"contrastive_ToneProm-08","ToneProm-08","contrastive","#0d6fd1"
-"non-contrastive_ToneProm-08","ToneProm-08","non-contrastive","#e03a3a"
+"contrastive_ToneProm-08","ToneProm-08","contrastive","#016acb"
+"non-contrastive_ToneProm-08","ToneProm-08","non-contrastive","#e63636"
 "NA_ToneProm-08","ToneProm-08","NA",
 "?_ToneProm-08","ToneProm-08","?",
-"yes_ToneProm-09","ToneProm-09","yes","#2246c9"
+"yes_ToneProm-09","ToneProm-09","yes","#016acb"
 "no_ToneProm-09","ToneProm-09","no","#a1a1a1"
 "?_ToneProm-09","ToneProm-09","?",
-"yes_ToneProm-09a","ToneProm-09a","yes","#2246c9"
+"yes_ToneProm-09a","ToneProm-09a","yes","#016acb"
 "no_ToneProm-09a","ToneProm-09a","no","#a1a1a1"
 "?_ToneProm-09a","ToneProm-09a","?",
-"yes_ToneProm-09b","ToneProm-09b","yes","#2246c9"
+"yes_ToneProm-09b","ToneProm-09b","yes","#016acb"
 "no_ToneProm-09b","ToneProm-09b","no","#a1a1a1"
 "?_ToneProm-09b","ToneProm-09b","?",
-"lexical_ToneProm-10","ToneProm-10","lexical","#462255"
-"grammatical_ToneProm-10","ToneProm-10","grammatical","#e03a3a"
-"both_ToneProm-10","ToneProm-10","both","#0d6fd1"
+"lexical_ToneProm-10","ToneProm-10","lexical","#016acb"
+"grammatical_ToneProm-10","ToneProm-10","grammatical","#e63636"
+"both_ToneProm-10","ToneProm-10","both","#9a4667"
 "NA_ToneProm-10","ToneProm-10","NA",
 "?_ToneProm-10","ToneProm-10","?",
 "2_ToneProm-11","ToneProm-11","2","#000080"
@@ -1293,32 +1293,32 @@
 "8_ToneProm-11","ToneProm-11","8","#00bfff"
 "NA_ToneProm-11","ToneProm-11","NA",
 "?_ToneProm-11","ToneProm-11","?",
-"2_ToneProm-11a","ToneProm-11a","2","#0d6fd1"
+"2_ToneProm-11a","ToneProm-11a","2","#016acb"
 "more-than-2_ToneProm-11a","ToneProm-11a","more than 2","#e03a3a"
 "NA_ToneProm-11a","ToneProm-11a","NA",
 "?_ToneProm-11a","ToneProm-11a","?",
 "up-to-3_ToneProm-11b","ToneProm-11b","up to 3","#e03a3a"
-"more-than-3_ToneProm-11b","ToneProm-11b","more than 3","#0d6fd1"
+"more-than-3_ToneProm-11b","ToneProm-11b","more than 3","#016acb"
 "NA_ToneProm-11b","ToneProm-11b","NA",
 "?_ToneProm-11b","ToneProm-11b","?",
 "up-to-4_ToneProm-11c","ToneProm-11c","up to 4","#e03a3a"
-"more-than-4_ToneProm-11c","ToneProm-11c","more than 4","#0d6fd1"
+"more-than-4_ToneProm-11c","ToneProm-11c","more than 4","#016acb"
 "NA_ToneProm-11c","ToneProm-11c","NA",
 "?_ToneProm-11c","ToneProm-11c","?",
-"yes_ToneProm-12","ToneProm-12","yes","#2246c9"
+"yes_ToneProm-12","ToneProm-12","yes","#016acb"
 "no_ToneProm-12","ToneProm-12","no","#a1a1a1"
 "NA_ToneProm-12","ToneProm-12","NA",
 "?_ToneProm-12","ToneProm-12","?",
-"yes_VelUv-01","VelUv-01","yes","#2246c9"
+"yes_VelUv-01","VelUv-01","yes","#016acb"
 "no_VelUv-01","VelUv-01","no","#a1a1a1"
 "?_VelUv-01","VelUv-01","?",
-"yes_VelUv-01a","VelUv-01a","yes","#2246c9"
+"yes_VelUv-01a","VelUv-01a","yes","#016acb"
 "no_VelUv-01a","VelUv-01a","no","#a1a1a1"
 "?_VelUv-01a","VelUv-01a","?",
-"yes_VelUv-02","VelUv-02","yes","#2246c9"
+"yes_VelUv-02","VelUv-02","yes","#016acb"
 "no_VelUv-02","VelUv-02","no","#a1a1a1"
 "?_VelUv-02","VelUv-02","?",
-"yes_VelUv-02a","VelUv-02a","yes","#2246c9"
+"yes_VelUv-02a","VelUv-02a","yes","#016acb"
 "no_VelUv-02a","VelUv-02a","no","#a1a1a1"
 "NA_VelUv-02a","VelUv-02a","NA",
 "?_VelUv-02a","VelUv-02a","?",
@@ -1334,45 +1334,45 @@
 "s-last_WO-01","WO-01","s-last","#2a9f7d"
 "other_WO-01","WO-01","other","#5a3b6c"
 "?_WO-01","WO-01","?",
-"yes_WO-01a","WO-01a","yes","#2246c9"
-"no_WO-01a","WO-01a","no","#e03a3a"
+"yes_WO-01a","WO-01a","yes","#016acb"
+"no_WO-01a","WO-01a","no","#e63636"
 "?_WO-01a","WO-01a","?",
 "NA_WO-01b","WO-01b","NA",
-"S>V_WO-01b","WO-01b","S>V","#0d6fd1"
-"V>S_WO-01b","WO-01b","V>S","#e03a3a"
+"S>V_WO-01b","WO-01b","S>V","#016acb"
+"V>S_WO-01b","WO-01b","V>S","#e63636"
 "?_WO-01b","WO-01b","?",
 "NA_WO-01c","WO-01c","NA",
-"S>O_WO-01c","WO-01c","S>O","#e03a3a"
-"O>S_WO-01c","WO-01c","O>S","#0d6fd1"
+"S>O_WO-01c","WO-01c","S>O","#016acb"
+"O>S_WO-01c","WO-01c","O>S","#e63636"
 "?_WO-01c","WO-01c","?",
 "NA_WO-01d","WO-01d","NA",
-"V>O_WO-01d","WO-01d","V>O","#e03a3a"
-"O>V_WO-01d","WO-01d","O>V","#0d6fd1"
+"V>O_WO-01d","WO-01d","V>O","#016acb"
+"O>V_WO-01d","WO-01d","O>V","#e63636"
 "?_WO-01d","WO-01d","?",
-"no-dominant-order_WO-01e","WO-01e","no dominant order","#0d6fd1"
-"s-first_WO-01e","WO-01e","s-first","#462255"
-"v-first_WO-01e","WO-01e","v-first","#f0c808"
-"o-first_WO-01e","WO-01e","o-first","#e03a3a"
+"no-dominant-order_WO-01e","WO-01e","no dominant order","#a1a1a1"
+"s-first_WO-01e","WO-01e","s-first","#016acb"
+"v-first_WO-01e","WO-01e","v-first","#f4cd16"
+"o-first_WO-01e","WO-01e","o-first","#f74f74"
 "?_WO-01e","WO-01e","?",
 "NA_WO-01f","WO-01f","NA",
-"svo_WO-01f","WO-01f","svo","#e03a3a"
-"sov_WO-01f","WO-01f","sov","#0d6fd1"
+"svo_WO-01f","WO-01f","svo","#016acb"
+"sov_WO-01f","WO-01f","sov","#e63636"
 "?_WO-01f","WO-01f","?",
 "NA_WO-01g","WO-01g","NA",
-"vso_WO-01g","WO-01g","vso","#e03a3a"
-"vos_WO-01g","WO-01g","vos","#0d6fd1"
+"vso_WO-01g","WO-01g","vso","#016acb"
+"vos_WO-01g","WO-01g","vos","#e63636"
 "?_WO-01g","WO-01g","?",
 "NA_WO-01h","WO-01h","NA",
-"ovs_WO-01h","WO-01h","ovs","#e03a3a"
-"osv_WO-01h","WO-01h","osv","#0d6fd1"
+"ovs_WO-01h","WO-01h","ovs","#016acb"
+"osv_WO-01h","WO-01h","osv","#e63636"
 "?_WO-01h","WO-01h","?",
-"attr-n_WO-02","WO-02","attr-n","#0d6fd1"
-"n-attr_WO-02","WO-02","n-attr","#e03a3a"
-"no-dominant-order_WO-02","WO-02","no dominant order","#462255"
+"attr-n_WO-02","WO-02","attr-n","#016acb"
+"n-attr_WO-02","WO-02","n-attr","#e63636"
+"no-dominant-order_WO-02","WO-02","no dominant order","#9a4667"
 "NA_WO-02","WO-02","NA",
 "?_WO-02","WO-02","?",
-"pssr-pssd_WO-03","WO-03","pssr-pssd","#462255"
-"pssd-pssr_WO-03","WO-03","pssd-pssr","#e03a3a"
-"no-dominant-order_WO-03","WO-03","no dominant order","#0d6fd1"
+"pssr-pssd_WO-03","WO-03","pssr-pssd","#016acb"
+"pssd-pssr_WO-03","WO-03","pssd-pssr","#e63636"
+"no-dominant-order_WO-03","WO-03","no dominant order","#9a4667"
 "NA_WO-03","WO-03","NA",
 "?_WO-03","WO-03","?",
