@@ -51,17 +51,17 @@ processApprehensional <- function(featurestable, lgnames, warnings, errors) {
   errorsList <- dplyr::filter(featurestable, `Appr-10` == 'yes' & `Appr-11` == 'NA')
   addErrorsOrWarnings('Error', errorsList, errorsInt, 'Appr', 'Appr-10 == yes => Appr-11 != NA', lgnames)
   
-  errorsList <- dplyr::filter(featurestable, `Appr-02` == 'yes' & !grepl('a', `Appr-12`))
-  addErrorsOrWarnings('Error', errorsList, errorsInt, 'Appr', 'Appr-02 == yes => Appr-12 includes <a>', lgnames)
+  errorsList <- dplyr::filter(featurestable, `Appr-02` == 'yes' & !grepl('A', `Appr-12`))
+  addErrorsOrWarnings('Error', errorsList, errorsInt, 'Appr', 'Appr-02 == yes => Appr-12 includes <A>', lgnames)
   
-  errorsList <- dplyr::filter(featurestable, `Appr-06` == 'yes' & !grepl('p', `Appr-12`))
-  addErrorsOrWarnings('Error', errorsList, errorsInt, 'Appr', 'Appr-06 == yes => Appr-12 includes <p>', lgnames)
+  errorsList <- dplyr::filter(featurestable, `Appr-06` == 'yes' & !grepl('P', `Appr-12`))
+  addErrorsOrWarnings('Error', errorsList, errorsInt, 'Appr', 'Appr-06 == yes => Appr-12 includes <P>', lgnames)
   
-  errorsList <- dplyr::filter(featurestable, `Appr-09` == 'yes' & !grepl('f', `Appr-12`))
-  addErrorsOrWarnings('Error', errorsList, errorsInt, 'Appr', 'Appr-09 == yes => Appr-12 includes <f>', lgnames)
+  errorsList <- dplyr::filter(featurestable, `Appr-09` == 'yes' & !grepl('F', `Appr-12`))
+  addErrorsOrWarnings('Error', errorsList, errorsInt, 'Appr', 'Appr-09 == yes => Appr-12 includes <F>', lgnames)
   
-  errorsList <- dplyr::filter(featurestable, `Appr-10` == 'yes' & !grepl('t', `Appr-12`))
-  addErrorsOrWarnings('Error', errorsList, errorsInt, 'Appr', 'Appr-10 == yes => Appr-12 includes <t>', lgnames)
+  errorsList <- dplyr::filter(featurestable, `Appr-10` == 'yes' & !grepl('T', `Appr-12`))
+  addErrorsOrWarnings('Error', errorsList, errorsInt, 'Appr', 'Appr-10 == yes => Appr-12 includes <T>', lgnames)
   
 
   #write warnings, errors, to global variable

@@ -125,42 +125,37 @@ Onset (1) + Coda (4) = 5
 Onset (3) + Coda (4) = 7
 
 ### [](ParameterTable#cldf:Syll-04)
-&emsp;**{ S | MC | C | HC }**
+&emsp;**{ simple | moderately complex | complex | highly complex }**
 
-**S** = Simple
-**MC** = Moderately Complex
-**C** = Complex
-**HC** = Highly Complex
-
-- **Simple**: maximal structure has simple onsets and no codas 
-- **Moderately Complex**: maximal structure has at most biconsonantal onsets of C+liquid or glide, and at most simple codas.
-- **Complex**: maximal structure has patterns larger than the Moderately Complex category and smaller than the Highly Complex category
-- **Highly Complex**: language has maximal onset (or word-initial) or maximal coda (or word-final) patterns of three or more obstruents, or of four or more consonants of any kind.
+- **simple**: maximal structure has simple onsets and no codas 
+- **moderately complex**: maximal structure has at most biconsonantal onsets of C+liquid or glide, and at most simple codas.
+- **complex**: maximal structure has patterns larger than the Moderately Complex category and smaller than the Highly Complex category
+- **highly complex**: language has maximal onset (or word-initial) or maximal coda (or word-final) patterns of three or more obstruents, or of four or more consonants of any kind.
 
 This categorization is a holistic measure which considers the sizes and shapes of maximal onsets and maximal codas. Here I illustrate with the same eight languages from above.
 
-#### S: Urarina (isolate; Peru)
+#### simple: Urarina (isolate; Peru)
 This language has onsets of only one consonant, and no codas. Its canonical (C)V patterns put it in the Simple category.
 
-#### MC: Karok \[karo1304\] (isolate; United States)
+#### moderately complex: Karok \[karo1304\] (isolate; United States)
 Karok has onsets of only one consonant and codas of only one consonant, putting it in the Moderately Complex category.
 
-#### MC: Cocama-Cocamilla \[coca1259\] (Tupian; Peru, Colombia, Brazil)
+#### moderately complex: Cocama-Cocamilla \[coca1259\] (Tupian; Peru, Colombia, Brazil)
 Cocama has biconsonantal onsets, but they are of the shape C+glide. Together with its coda patterns, which allow only a single consonant, this puts the language in the Moderately Complex category.
 
-#### C: Pech \[pech1241\] (Chibchan; Honduras)
+#### complex: Pech \[pech1241\] (Chibchan; Honduras)
 Like Cocama (Tupian), Pech has biconsonantal onsets which would normally be characterized as Moderately Complex. However, the language also has biconsonantal codas, which puts it in the Complex category.
 
-#### C: Lakota \[lako1247\] (Siouan; United States)
+#### complex: Lakota \[lako1247\] (Siouan; United States)
 Like Pech and Cocama, Lakota has biconsonantal onsets; however, these include shapes such as stop+stop, fricative+stop, and so on. Coda patterns are simple and consist of one consonant. The onset patterns of this language put it in the Complex category.
 
-#### HC: Malecite-Passamaquoddy \[male1292\] (Algic; United States, Canada)
+#### highly complex: Malecite-Passamaquoddy \[male1292\] (Algic; United States, Canada)
 This language has maximal onsets and codas of three consonants. However, these clusters include sequences of three obstruents, which put this language into the Highly Complex category.
 
-#### HC: Nuu-chah-nulth \[nuuc1236\] (Wakashan; Canada)
+#### highly complex: Nuu-chah-nulth \[nuuc1236\] (Wakashan; Canada)
 This language has only simple onsets, but codas of up to four consonants in length. Clusters of four consonants of any kind puts a language into the Highly Complex category.
 
-#### HC: Tehuelche \[tehu1242\] (Chonan; Argentina)
+#### highly complex: Tehuelche \[tehu1242\] (Chonan; Argentina)
 This language has syllabic obstruents which participate in the largest word-marginal sequences of consonants observed in the language. The maximal word-marginal obstruent cluster in this language is three for word-initial patterns and four for word-final patterns. This puts the language into the Highly Complex category.
 
 ### [](ParameterTable#cldf:Syll-05)
