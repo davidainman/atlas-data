@@ -152,9 +152,9 @@ processSgPl <- function(featurestable, verblist, lgnames, warnings, errors) {
         }
       }
     }
-    if (featurestable$`SgPl-21`[featurestable$LanguageID == glot] == 'property concept verbs') { #there must be property in sg-pl verb list
+    if (featurestable$`SgPl-21`[featurestable$LanguageID == glot] == 'in property concept verbs only') { #there must be property in sg-pl verb list
       if (length(verblist$Meaning[verblist$Glottocode == glot & verblist$Semantic_Category == 'property']) == 0) {
-        addErrorsOrWarnings('Error', dplyr::filter(featurestable, LanguageID == glot), errorsInt, 'SgPl', paste(glot, ': SgPl-21 says <property concept verbs>, but no property concepts found in verb list'), lgnames)
+        addErrorsOrWarnings('Error', dplyr::filter(featurestable, LanguageID == glot), errorsInt, 'SgPl', paste(glot, ': SgPl-21 says <in property concept verbs only>, but no property concepts found in verb list'), lgnames)
       }
     }
     if (featurestable$`SgPl-21`[featurestable$LanguageID == glot] == 'no') { #there must be no property in sg-pl verb list

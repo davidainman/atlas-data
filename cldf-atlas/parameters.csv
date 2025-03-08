@@ -216,7 +216,7 @@ SgPl-18,SgPl,Sg-Pl number,"If <yes> to SgPl-01, what are the number semantics of
 SgPl-18a,SgPl,Sg-Pl tripartite,"If singular-plural alternation is attested in the language, do at least some verbs have a tripartite distinction?",NA | yes | no,"""single-valued""",TRUE
 SgPl-19,SgPl,Sg-Pl morphology,"Does the language have inflectional or derivational verbal morphology (affixes, clitics, or auxiliaries) with a distinct plural form? (Elements only encoding number are excluded.)",yes | no,"""single-valued""",FALSE
 SgPl-20,SgPl,Sg-Pl pluractional,"If <yes> to SgPl-01, can the pairs also mark aspectual meanings like pluractionality / aspect / iterativity?",NA | yes | no,"""single-valued""",FALSE
-SgPl-21,SgPl,Sg-Pl adj,"If <yes> to SgPl-01, does the language have a lexically limited Sg-Pl stem alternation in adjectives?",NA | yes | property concept verbs | no,"""single-valued""",FALSE
+SgPl-21,SgPl,Sg-Pl adj,"If <yes> to SgPl-01, does the language have a lexically limited Sg-Pl stem alternation in adjectives?",NA | yes | in property concept verbs only | no,"""single-valued""",FALSE
 SocCaus-01,SocCaus,Sociative causation,Does the language have a dedicated construction to express sociative causation?,yes | no,"""single-valued""",FALSE
 SocCaus-02,SocCaus,Sociative causation dedicated construction,"If <yes> to SocCaus-01, what type of construction is sociative causation expressed with?",NA | morpheme | special causee | dir-and-indir-caus | caus-and-appl | caus-and-other,"""single-valued""",FALSE
 SocCaus-03,SocCaus,Sociative causation semantics,"If <yes> to SocCaus-01, what sociative causation semantic subtypes are attested?","NA | [ joint action , assistive , supervision ]","""multi-valued""",FALSE

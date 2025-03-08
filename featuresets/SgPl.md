@@ -1353,20 +1353,17 @@ The verbal pairs that alternate via regular pattern sometimes can indicate event
 The verbal pairs in Shipibo-Conibo only signify the number of participants involved and transitivity ([Valenzuela 2003](Source#cldf:valenzuela2003shipibokonibo): 150).
 
 ### [](ParameterTable#cldf:SgPl-21)
-&emsp;**{ NA | yes | property concept verbs | no }**
+&emsp;**{ NA | yes | in property concept verbs only | no }**
 
 Frequent suppletive adjectives are ‘small’, ‘long’, ‘short’, ‘tall’, ‘extreme’, ‘ugly’, ‘sick’, ‘dead’ ([Booker 1982](Source#cldf:booker1982karok)). In cases where no suppletive adjectives were mentioned in the grammar and a dictionary was available, we checked in the dictionary for these adjectives, to confirm that there was no suppletion. As with verbs, we considered a limited set of adjectives with an irregular Sg-Pl morphology as long as the set was not semantically limited.
 
-If a language uses verbs to express such concepts and those verbs alternate according to number, then we coded &lt;property concept verbs&gt;, a special case which allowed us to separately track Sg-Pl alternation in a distinct adjective class (&lt;yes&gt;), as well as its presence in property words, regardless of their part-of-speech (&lt;yes&gt; and &lt;property concept verbs&gt;).
+If a language uses verbs to express such concepts and those verbs alternate according to number, then we coded &lt;in property concept verbs only&gt;, a special case which allowed us to separately track Sg-Pl alternation in a distinct adjective class (&lt;yes&gt;), as well as its presence in property words, regardless of their part-of-speech (&lt;yes&gt; and &lt;in property concept verbs only&gt;).
 
 #### no: Grass Koiari \[gras1249\] (Koiaran, Papua New Guinea)
 In Grass Koiari, some adjectives have a specific plural form achieved by reduplication. However, all DIMENSION, AGE and VALUE adjectives are targets of this reduplication phenomenon, which is semantically (not lexically) limited and thus is excluded from our definition of Sg-Pl alternation ([Dutton 2003](Source#cldf:dutton2003dictionary): 339; [Dutton 1996](Source#cldf:dutton1996grammar): 43).
 
-#### property concept verbs: Krongo \[kron1241\] (Kadugli-Krongo, Sudan)
+#### in property concept verbs only: Krongo \[kron1241\] (Kadugli-Krongo, Sudan)
 In Krongo, several property verbs are sensitive to number: ‘be short’, ‘be pointy’, ‘be short’, ‘be pointy’, ‘be dull’, ‘be big/tall’, ‘be big/fat’, ‘be large’, ‘be narrow’, ‘be half full’, ‘be empty.’
-
-#### yes: Wari' (Chapacuran)
-Wari’ is an edge case, as it has many verbs that display Sg-Pl alternation, including verbs with property semantics, e.g. ‘be stuck’, ‘be afraid’, ‘be far away’, ‘be alone’, etc. However, it also has one adjective that displays suppletion, which means ‘big/tall’ when used predicatively, and ‘old’ when used attributively. Logically both &lt;yes&gt; and &lt;property concept verbs&gt; are correct but mutually exclusive states. We coded Wari’ as a &lt;yes&gt;, and noted in the remarks that several stative verbs display Property semantics.
 
 #### yes: Nuu-chah-nulth \[nuuc1236\] (Wakashan; Canada)
 Nuu-chah-nulth has a limited set of adjectives that have singular and plural forms, drawn from a large inventory of irregular plural marking for nouns. These are *ʔiiḥ ~ ʔaʔiiḥ* ‘big’, *ƛaʔuu ~ ƛaƛuu* ‘other’, *ƛuł ~ ƛutƛuuł* ‘good’, *maquuł ~ maatquuḥ* ‘blind’, *kʷisḥii ~ kʷiy̓aasḥi* ‘different’, *kʷatyiik ~ kʷay̓aatyik* ‘heavy’, *cumaa ~ cucum* ‘full’, and perhaps a few others ([Inman 2021](Source#cldf:inman2021nuuchahnulth)). Most adjectives however do not have plural forms.[^4]
