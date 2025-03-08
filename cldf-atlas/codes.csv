@@ -1210,14 +1210,14 @@ other_SocCaus-07,SocCaus-07,other,#dd35aa
 12_Syll-03,Syll-03,12,#002297
 13_Syll-03,Syll-03,13,#0034a2
 ?_Syll-03,Syll-03,?,
-s_Syll-04,Syll-04,s,#f0c808
-mc_Syll-04,Syll-04,mc,#462255
-c_Syll-04,Syll-04,c,#016acb
-hc_Syll-04,Syll-04,hc,#e03a3a
+s_Syll-04,Syll-04,simple,#f0c808
+mc_Syll-04,Syll-04,moderately complex,#462255
+c_Syll-04,Syll-04,complex,#016acb
+hc_Syll-04,Syll-04,highly complex,#e03a3a
 ?_Syll-04,Syll-04,?,
-c_Syll-05,Syll-05,c,#016acb
-cg_Syll-05,Syll-05,cg,#462255
-ccplus_Syll-05,Syll-05,ccplus,#e03a3a
+c_Syll-05,Syll-05,C,#016acb
+cg_Syll-05,Syll-05,CG,#462255
+ccplus_Syll-05,Syll-05,CCplus,#e03a3a
 ?_Syll-05,Syll-05,?,
 nocoda_Syll-06,Syll-06,nocoda,#e03a3a
 sonorant_Syll-06,Syll-06,sonorant,#f0c808

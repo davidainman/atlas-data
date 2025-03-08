@@ -227,8 +227,8 @@ SocCaus-07,SocCaus,Sociative causation non-dedicated construction,What verbal gr
 Syll-01,Syll,Onset number,"What is the maximal onset/word-initial pattern, in number of consonants?",_number_,"""integer""",FALSE
 Syll-02,Syll,Coda number,"What is the maximal coda/word-final pattern, in number of consonants?",_number_,"""integer""",FALSE
 Syll-03,Syll,Syllable consonant number,What is the sum of the maximal onset/word-initial and coda/word-final patterns?,_number_,"""integer""",FALSE
-Syll-04,Syll,Syllable complexity,What syllable structure complexity category describes the language?,s | mc | c | hc,"""single-valued""",FALSE
-Syll-05,Syll,Onset structure,What is the maximal onset structure?,c | cg | ccplus,"""single-valued""",FALSE
+Syll-04,Syll,Syllable complexity,What syllable structure complexity category describes the language?,simple | moderately complex | complex | highly complex,"""single-valued""",FALSE
+Syll-05,Syll,Onset structure,What is the maximal onset structure?,C | CG | CCplus,"""single-valued""",FALSE
 Syll-06,Syll,Coda structure,What is the maximal coda pattern of the language?,nocoda | sonorant | simple | complex,"""single-valued""",FALSE
 ToneProm-01,ToneProm,Accent,Does the language have at least one system of syllable/mora prominence constrained to the prosodic word? (i.e. an accent system),yes | no,"""single-valued""",FALSE
 ToneProm-01a,ToneProm,Contrastive accent,"If you have one or more accentual systems, is at least one of them contrastive?",contrastive | non-contrastive | NA,"""single-valued""",TRUE

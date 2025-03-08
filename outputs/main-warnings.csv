@@ -13,6 +13,7 @@
 "MonPl","Natchez","natc1249","MonPl-03 == S | A | P & MonPl-05 != no","DI checked","SH"
 "MonPl","Tonkawa","tonk1249","MonPl-03 == S | A | P & MonPl-05 != no","DI checked","SH"
 "MonPl","Washo","wash1253","MonPl-03 == S | A | P & MonPl-05 != no","DI checked","DI;SH"
+"MonPl","Weenhayek","wich1262","MonPl-03 == S | A | P & MonPl-05 != no","DI checked","AG;SH"
 "NounPoss","Abun","abun1252","WO-03 claims no information for possession order, but NounPoss contains the orders pssr-pssd","DI has checked: We understand the default construction as clausal, and so do not give an order of (nominal) possession.","TH"
 "NounPoss","Hokkaido Ainu","ainu1240","WO-03 claims no information for possession order, but NounPoss contains the orders pssr-pssd","DI has checked: We understand the default construction as clausal, and so do not give an order of (nominal) possession.","TH"
 "NounPoss","Ayoreo","ayor1240","Unique construction for ayor1240_prefixal-dVk not found in constructions.","checked","TH;NCP"
@@ -128,4 +129,3 @@
 "ToneProm","Teribe","teri1250","Both tone and accent present: ToneProm-01 == yes & ToneProm-09 == yes","checked","KPVD"
 "ToneProm","Tlingit","tlin1245","Both tone and accent present: ToneProm-01 == yes & ToneProm-09 == yes","checked","KPVD"
 "ToneProm","Wichita","wich1260","Both tone and accent present: ToneProm-01 == yes & ToneProm-09 == yes","checked","KPVD"
-"MonPl","Weenhayek","wich1262","MonPl-03 == S | A | P & MonPl-05 != no",,"AG;SH"
