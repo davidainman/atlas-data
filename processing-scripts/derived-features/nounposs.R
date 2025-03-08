@@ -88,15 +88,15 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
           PSSR_loc <- unlist(gregexpr("PSSR", shape))[1]
           PSSD_loc <- unlist(gregexpr("PSSD", shape))[1]
           if (PSSR_loc < PSSD_loc) {
-            np_orders <- c(np_orders, "pssr-pssd")
+            np_orders <- c(np_orders, "PSSR-PSSD")
           } else {
-            np_orders <- c(np_orders, "pssd-pssr")
+            np_orders <- c(np_orders, "PSSD-PSSR")
           }
         }
       }
       np_orders <- unique(np_orders)
-      if (wo_order == "pssr-pssd") {
-        if (!("pssr-pssd" %in% np_orders)) {
+      if (wo_order == "PSSR-PSSD") {
+        if (!("PSSR-PSSD" %in% np_orders)) {
           if (length(np_orders) == 0) {
             warningRows[nrow(warningRows)+1,] = c('NounPoss', name, glotto, coder, "WO-03 claims the order is PSSR-PSSD, but no order found for default class in NounPoss.")
           } else {
@@ -104,8 +104,8 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
           }
         }
       }
-      if (wo_order == "pssd-pssr") {
-        if (!("pssd-pssr" %in% np_orders)) {
+      if (wo_order == "PSSD-PSSR") {
+        if (!("PSSD-PSSR" %in% np_orders)) {
           if (length(np_orders) == 0) {
             warningRows[nrow(warningRows)+1,] = c('NounPoss', name, glotto, coder, "WO-03 claims the order is PSSD-PSSR, but no order found for default class in NounPoss.")
           } else {
@@ -114,7 +114,7 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
         }
       }
       if (wo_order == "no dominant order") {
-        if (!("pssd-pssr" %in% np_orders) & !("pssr-pssd" %in% np_orders)) {
+        if (!("PSSD-PSSR" %in% np_orders) & !("PSSR-PSSD" %in% np_orders)) {
           if (length(np_orders) == 0) {
             warningRows[nrow(warningRows)+1,] = c('NounPoss', name, glotto, coder, "WO-03 claims no dominant order for possession, but no order found for default class in NounPoss.")
           } else {

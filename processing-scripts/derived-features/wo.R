@@ -12,63 +12,63 @@ processWordOrder <- function(featurestable, lgnames, warnings, errors) {
   #WO-01b
   stateCol <- ifelse(featurestable$`WO-01` == '?', '?', 
               ifelse(featurestable$`WO-01` == 'no dominant order', 'NA',
-              ifelse(featurestable$`WO-01` == 'svo' | featurestable$`WO-01` == 'sov' | featurestable$`WO-01` == 'osv' | featurestable$`WO-01` == 'v-last', 'S>V',
-              ifelse(featurestable$`WO-01` == 'vso' | featurestable$`WO-01` == 'vos' | featurestable$`WO-01` == 'ovs' | featurestable$`WO-01` == 'v-first' | featurestable$`WO-01` == 's-last', 'V>S', 'ERROR: IMPOSSIBLE STATE'))))
+              ifelse(featurestable$`WO-01` == 'SVO' | featurestable$`WO-01` == 'SOV' | featurestable$`WO-01` == 'OSV' | featurestable$`WO-01` == 'V-last', 'S>V',
+              ifelse(featurestable$`WO-01` == 'VSO' | featurestable$`WO-01` == 'VOS' | featurestable$`WO-01` == 'OVS' | featurestable$`WO-01` == 'V-first' | featurestable$`WO-01` == 'S-last', 'V>S', 'ERROR: IMPOSSIBLE STATE'))))
   sourceCol <- featurestable$`WO-01.Source`
   coderCol <- featurestable$`WO-01.Coder`
   featurestable <- addDerivedState(featurestable, 'WO-01b', stateCol, sourceCol, coderCol)
   
   #WO-01c
-  stateCol <- ifelse(featurestable$`WO-01` == '?' | featurestable$`WO-01` == 'v-first' | featurestable$`WO-01` == 'v-last', '?', 
+  stateCol <- ifelse(featurestable$`WO-01` == '?' | featurestable$`WO-01` == 'V-first' | featurestable$`WO-01` == 'V-last', '?', 
               ifelse(featurestable$`WO-01` == 'no dominant order', 'NA',
-              ifelse(featurestable$`WO-01` == 'svo' | featurestable$`WO-01` == 'sov' | featurestable$`WO-01` == 'vso', 'S>O', 
-              ifelse(featurestable$`WO-01` == 'osv' | featurestable$`WO-01` == 'ovs' | featurestable$`WO-01` == 'vos'  | featurestable$`WO-01` == 's-last', 'O>S', 'ERROR: IMPOSSIBLE STATE'))))
+              ifelse(featurestable$`WO-01` == 'SVO' | featurestable$`WO-01` == 'SOV' | featurestable$`WO-01` == 'VSO', 'S>O', 
+              ifelse(featurestable$`WO-01` == 'OSV' | featurestable$`WO-01` == 'OVS' | featurestable$`WO-01` == 'VOS'  | featurestable$`WO-01` == 'S-last', 'O>S', 'ERROR: IMPOSSIBLE STATE'))))
   sourceCol <- featurestable$`WO-01.Source`
   coderCol <- featurestable$`WO-01.Coder`
   featurestable <- addDerivedState(featurestable, 'WO-01c', stateCol, sourceCol, coderCol)
   
   #WO-01d
-  stateCol <- ifelse(featurestable$`WO-01` == '?' | featurestable$`WO-01` == 's-last', '?', 
+  stateCol <- ifelse(featurestable$`WO-01` == '?' | featurestable$`WO-01` == 'S-last', '?', 
               ifelse(featurestable$`WO-01` == 'no dominant order', 'NA',
-              ifelse(featurestable$`WO-01` == 'svo' | featurestable$`WO-01` == 'vso' | featurestable$`WO-01` == 'vos' | featurestable$`WO-01` == 'v-first', 'V>O', 
-              ifelse(featurestable$`WO-01` == 'sov' | featurestable$`WO-01` == 'ovs' | featurestable$`WO-01` == 'osv' | featurestable$`WO-01` == 'v-last', 'O>V', 'ERROR: IMPOSSIBLE STATE'))))
+              ifelse(featurestable$`WO-01` == 'SVO' | featurestable$`WO-01` == 'VSO' | featurestable$`WO-01` == 'VOS' | featurestable$`WO-01` == 'V-first', 'V>O', 
+              ifelse(featurestable$`WO-01` == 'SOV' | featurestable$`WO-01` == 'OVS' | featurestable$`WO-01` == 'OSV' | featurestable$`WO-01` == 'V-last', 'O>V', 'ERROR: IMPOSSIBLE STATE'))))
   sourceCol <- featurestable$`WO-01.Source`
   coderCol <- featurestable$`WO-01.Coder`
   featurestable <- addDerivedState(featurestable, 'WO-01d', stateCol, sourceCol, coderCol)
   
   #WO-01e
-  stateCol <- ifelse(featurestable$`WO-01` == '?' | featurestable$`WO-01` == 's-last' | featurestable$`WO-01` == 'v-last', '?', 
+  stateCol <- ifelse(featurestable$`WO-01` == '?' | featurestable$`WO-01` == 'S-last' | featurestable$`WO-01` == 'V-last', '?', 
               ifelse(featurestable$`WO-01` == 'no dominant order', 'no dominant order', 
-              ifelse(featurestable$`WO-01` == 'svo' | featurestable$`WO-01` == 'sov', 's-first',
-              ifelse(featurestable$`WO-01` == 'vso' | featurestable$`WO-01` == 'vos' | featurestable$`WO-01` == 'v-first', 'v-first',
-              ifelse(featurestable$`WO-01` == 'osv' | featurestable$`WO-01` == 'ovs', 'o-first', 'ERROR: INVALID STATE')))))
+              ifelse(featurestable$`WO-01` == 'SVO' | featurestable$`WO-01` == 'SOV', 'S-first',
+              ifelse(featurestable$`WO-01` == 'VSO' | featurestable$`WO-01` == 'VOS' | featurestable$`WO-01` == 'V-first', 'V-first',
+              ifelse(featurestable$`WO-01` == 'OSV' | featurestable$`WO-01` == 'OVS', 'O-first', 'ERROR: INVALID STATE')))))
   sourceCol <- featurestable$`WO-01.Source`
   coderCol <- featurestable$`WO-01.Coder`
   featurestable <- addDerivedState(featurestable, 'WO-01e', stateCol, sourceCol, coderCol)
   
   #WO-01f
   stateCol <- ifelse(featurestable$`WO-01e` == '?', '?', 
-              ifelse(featurestable$`WO-01e` != 's-first', 'NA', 
-              ifelse(featurestable$`WO-01` == 'svo', 'svo',
-              ifelse(featurestable$`WO-01` == 'sov' | featurestable$`WO-01` == 'v-last', 'sov', 'ERROR: INVALID STATE'))))
+              ifelse(featurestable$`WO-01e` != 'S-first', 'NA', 
+              ifelse(featurestable$`WO-01` == 'SVO', 'SVO',
+              ifelse(featurestable$`WO-01` == 'SOV' | featurestable$`WO-01` == 'V-last', 'SOV', 'ERROR: INVALID STATE'))))
   sourceCol <- featurestable$`WO-01.Source`
   coderCol <- featurestable$`WO-01.Coder`
   featurestable <- addDerivedState(featurestable, 'WO-01f', stateCol, sourceCol, coderCol)
   
   #WO-01g
-  stateCol <- ifelse(featurestable$`WO-01e` == '?' | featurestable$`WO-01` == 'v-first', '?', 
-              ifelse(featurestable$`WO-01e` != 'v-first', 'NA', 
-              ifelse(featurestable$`WO-01` == 'vso', 'vso',
-              ifelse(featurestable$`WO-01` == 'vos', 'vos', 'ERROR: INVALID STATE'))))
+  stateCol <- ifelse(featurestable$`WO-01e` == '?' | featurestable$`WO-01` == 'V-first', '?', 
+              ifelse(featurestable$`WO-01e` != 'V-first', 'NA', 
+              ifelse(featurestable$`WO-01` == 'VSO', 'VSO',
+              ifelse(featurestable$`WO-01` == 'VOS', 'VOS', 'ERROR: INVALID STATE'))))
   sourceCol <- featurestable$`WO-01.Source`
   coderCol <- featurestable$`WO-01.Coder`
   featurestable <- addDerivedState(featurestable, 'WO-01g', stateCol, sourceCol, coderCol)
   
   #WO-01h
   stateCol <- ifelse(featurestable$`WO-01e` == '?', '?', 
-              ifelse(featurestable$`WO-01e` != 'o-first', 'NA', 
-              ifelse(featurestable$`WO-01` == 'ovs', 'ovs',
-              ifelse(featurestable$`WO-01` == 'osv', 'osv', 'ERROR: INVALID STATE'))))
+              ifelse(featurestable$`WO-01e` != 'O-first', 'NA', 
+              ifelse(featurestable$`WO-01` == 'OVS', 'OVS',
+              ifelse(featurestable$`WO-01` == 'OSV', 'OSV', 'ERROR: INVALID STATE'))))
   sourceCol <- featurestable$`WO-01.Source`
   coderCol <- featurestable$`WO-01.Coder`
   featurestable <- addDerivedState(featurestable, 'WO-01h', stateCol, sourceCol, coderCol)

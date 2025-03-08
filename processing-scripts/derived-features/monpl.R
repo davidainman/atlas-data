@@ -15,7 +15,7 @@ processMonPl <- function(featurestable, lgnames, warnings, errors) {
   #MonPl-03a
   stateCol <- ifelse(featurestable$`MonPl-03` == 'NA', 'NA',
               ifelse(featurestable$`MonPl-03` == '?', '?',
-              ifelse(str_detect(trimws(strsplit(featurestable$`MonPl-03`, ';')), '\\bs\\b'), 'yes', 'no')))
+              ifelse(str_detect(trimws(strsplit(featurestable$`MonPl-03`, ';')), '\\bS\\b'), 'yes', 'no')))
   sourceCol <- featurestable$`MonPl-03.Source`
   coderCol <- featurestable$`MonPl-03.Coder`
   featurestable <- addDerivedState(featurestable, 'MonPl-03a', stateCol, sourceCol, coderCol)
@@ -23,7 +23,7 @@ processMonPl <- function(featurestable, lgnames, warnings, errors) {
   #MonPl-03b
   stateCol <- ifelse(featurestable$`MonPl-03` == 'NA', 'NA',
               ifelse(featurestable$`MonPl-03` == '?', '?',
-              ifelse(str_detect(trimws(strsplit(featurestable$`MonPl-03`, ';')), '\\ba\\b'), 'yes', 'no')))
+              ifelse(str_detect(trimws(strsplit(featurestable$`MonPl-03`, ';')), '\\bA\\b'), 'yes', 'no')))
   sourceCol <- featurestable$`MonPl-03.Source`
   coderCol <- featurestable$`MonPl-03.Coder`
   featurestable <- addDerivedState(featurestable, 'MonPl-03b', stateCol, sourceCol, coderCol)
@@ -31,7 +31,7 @@ processMonPl <- function(featurestable, lgnames, warnings, errors) {
   #MonPl-03c
   stateCol <- ifelse(featurestable$`MonPl-03` == 'NA', 'NA',
               ifelse(featurestable$`MonPl-03` == '?', '?',
-              ifelse(str_detect(trimws(strsplit(featurestable$`MonPl-03`, ';')), '\\bp\\b'), 'yes', 'no')))
+              ifelse(str_detect(trimws(strsplit(featurestable$`MonPl-03`, ';')), '\\bP\\b'), 'yes', 'no')))
   sourceCol <- featurestable$`MonPl-03.Source`
   coderCol <- featurestable$`MonPl-03.Coder`
   featurestable <- addDerivedState(featurestable, 'MonPl-03c', stateCol, sourceCol, coderCol)
@@ -39,7 +39,7 @@ processMonPl <- function(featurestable, lgnames, warnings, errors) {
   #MonPl-05a
   stateCol <- ifelse(featurestable$`MonPl-05` == 'NA', 'NA',
               ifelse(featurestable$`MonPl-05` == '?', '?',
-              ifelse(str_detect(trimws(strsplit(featurestable$`MonPl-05`, ';')), '\\bsa\\b'), 'yes', 'no')))
+              ifelse(str_detect(trimws(strsplit(featurestable$`MonPl-05`, ';')), '\\bSA\\b'), 'yes', 'no')))
   sourceCol <- featurestable$`MonPl-05.Source`
   coderCol <- featurestable$`MonPl-05.Coder`
   featurestable <- addDerivedState(featurestable, 'MonPl-05a', stateCol, sourceCol, coderCol)
@@ -47,7 +47,7 @@ processMonPl <- function(featurestable, lgnames, warnings, errors) {
   #MonPl-05b
   stateCol <- ifelse(featurestable$`MonPl-05` == 'NA', 'NA',
               ifelse(featurestable$`MonPl-05` == '?', '?',
-              ifelse(str_detect(trimws(strsplit(featurestable$`MonPl-05`, ';')), '\\bsp\\b'), 'yes', 'no')))
+              ifelse(str_detect(trimws(strsplit(featurestable$`MonPl-05`, ';')), '\\bSP\\b'), 'yes', 'no')))
   sourceCol <- featurestable$`MonPl-05.Source`
   coderCol <- featurestable$`MonPl-05.Coder`
   featurestable <- addDerivedState(featurestable, 'MonPl-05b', stateCol, sourceCol, coderCol)
@@ -55,7 +55,7 @@ processMonPl <- function(featurestable, lgnames, warnings, errors) {
   #MonPl-05c
   stateCol <- ifelse(featurestable$`MonPl-05` == 'NA', 'NA',
               ifelse(featurestable$`MonPl-05` == '?', '?',
-              ifelse(str_detect(trimws(strsplit(featurestable$`MonPl-05`, ';')), '\\bsap\\b'), 'yes', 'no')))
+              ifelse(str_detect(trimws(strsplit(featurestable$`MonPl-05`, ';')), '\\bSAP\\b'), 'yes', 'no')))
   sourceCol <- featurestable$`MonPl-05.Source`
   coderCol <- featurestable$`MonPl-05.Coder`
   featurestable <- addDerivedState(featurestable, 'MonPl-05c', stateCol, sourceCol, coderCol)
@@ -125,8 +125,8 @@ processMonPl <- function(featurestable, lgnames, warnings, errors) {
   #warnings
   warningsInt <- warnings
   
-  warningsList <- dplyr::filter(featurestable, (`MonPl-03` == 's' | `MonPl-03` == 'a' | `MonPl-03` == 'p')  & `MonPl-05` != 'no')
-  addErrorsOrWarnings('Warning', warningsList, warningsInt, 'MonPl', 'MonPl-03 == s | a | p & MonPl-05 != no', lgnames)
+  warningsList <- dplyr::filter(featurestable, (`MonPl-03` == 'S' | `MonPl-03` == 'A' | `MonPl-03` == 'P')  & `MonPl-05` != 'no')
+  addErrorsOrWarnings('Warning', warningsList, warningsInt, 'MonPl', 'MonPl-03 == S | A | P & MonPl-05 != no', lgnames)
   
   #write warnings, errors, to global variable
   warningobj <- deparse(substitute(warnings))
