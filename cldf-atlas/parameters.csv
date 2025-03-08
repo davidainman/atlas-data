@@ -253,14 +253,14 @@ VelUv-01,VelUv,Velar and uvular plosives,Does the language have a phonemic disti
 VelUv-01a,VelUv,Velar/uvular distinction,Does the language have a velar-uvular distinction in either plosives or fricatives?,yes | no,"""single-valued""",TRUE
 VelUv-02,VelUv,Velar and uvular continuants,Does the language have a phonemic distinction between velar and uvular continuants?,yes | no,"""single-valued""",FALSE
 VelUv-02a,VelUv,Velar and uvular continuants if plosives,"If yes to VelUv-01, is there a velar-uvular distinction in the continuants as well?",yes | no | NA,"""single-valued""",TRUE
-WO-01,WO,Clause order,What is the word order for non-marked transitive clauses?,no dominant order | svo | sov | vso | ovs | osv | vos | v-first | v-last | s-last | other,"""single-valued""",FALSE
+WO-01,WO,Clause order,What is the word order for non-marked transitive clauses?,no dominant order | SVO | SOV | VSO | OVS | OSV | VOS | V-first | V-last | S-last | other,"""single-valued""",FALSE
 WO-01a,WO,Fixed word order,Is there a dominant or fixed standard word order in main declarative transitive clauses?,yes | no,"""single-valued""",TRUE
 WO-01b,WO,Order of S and V,"What is the order of S and V, if there is a dominant order?",NA | S>V | V>S,"""single-valued""",TRUE
 WO-01c,WO,Order of S and O,"What is the order of S and O, if there is a dominant order?",NA | S>O | O>S,"""single-valued""",TRUE
 WO-01d,WO,Order of V and O,"What is the order of V and O, if there is a dominant order?",NA | V>O | O>V,"""single-valued""",TRUE
-WO-01e,WO,First clausal element,What is the first element in a transitive clause?,no dominant order | s-first | v-first | o-first,"""single-valued""",TRUE
-WO-01f,WO,S-first order,"If the first element is S, what is the full word order?",NA | svo | sov,"""single-valued""",TRUE
-WO-01g,WO,V-first order,"If the first element is V, what is the full word order?",NA | vso | vos,"""single-valued""",TRUE
-WO-01h,WO,O-first order,"If the first element is O, what is the full word order?",NA | ovs | osv,"""single-valued""",TRUE
-WO-02,WO,Attr order,What is the common and basic word order for Attributive and Noun?,attr-n | n-attr | no dominant order | NA,"""single-valued""",FALSE
-WO-03,WO,Possession order,"What is the common and basic word order for Possessor (sometimes, ""genitive"") and Possessed (noun) for the open class of nouns?",pssr-pssd | pssd-pssr | no dominant order | NA,"""single-valued""",FALSE
+WO-01e,WO,First clausal element,What is the first element in a transitive clause?,no dominant order | S-first | V-first | O-first,"""single-valued""",TRUE
+WO-01f,WO,S-first order,"If the first element is S, what is the full word order?",NA | SVO | SOV,"""single-valued""",TRUE
+WO-01g,WO,V-first order,"If the first element is V, what is the full word order?",NA | VSO | VOS,"""single-valued""",TRUE
+WO-01h,WO,O-first order,"If the first element is O, what is the full word order?",NA | OVS | OSV,"""single-valued""",TRUE
+WO-02,WO,Attr order,What is the common and basic word order for Attributive and Noun?,Attr-N | N-Attr | no dominant order | NA,"""single-valued""",FALSE
+WO-03,WO,Possession order,"What is the common and basic word order for Possessor (sometimes, ""genitive"") and Possessed (noun) for the open class of nouns?",PSSR-PSSD | PSSD-PSSR | no dominant order | NA,"""single-valued""",FALSE

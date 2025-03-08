@@ -1320,15 +1320,15 @@ no_VelUv-02a,VelUv-02a,no,#a1a1a1
 NA_VelUv-02a,VelUv-02a,NA,
 ?_VelUv-02a,VelUv-02a,?,
 no-dominant-order_WO-01,WO-01,no dominant order,#166dce
-svo_WO-01,WO-01,svo,#3dfb00
-sov_WO-01,WO-01,sov,#e23daf
-vso_WO-01,WO-01,vso,#bbee80
-ovs_WO-01,WO-01,ovs,#f3cb1c
-osv_WO-01,WO-01,osv,#e94542
-vos_WO-01,WO-01,vos,#16dafb
-v-first_WO-01,WO-01,v-first,#c70dfa
-v-last_WO-01,WO-01,v-last,#ffb6b6
-s-last_WO-01,WO-01,s-last,#2a9f7d
+svo_WO-01,WO-01,SVO,#3dfb00
+sov_WO-01,WO-01,SOV,#e23daf
+vso_WO-01,WO-01,VSO,#bbee80
+ovs_WO-01,WO-01,OVS,#f3cb1c
+osv_WO-01,WO-01,OSV,#e94542
+vos_WO-01,WO-01,VOS,#16dafb
+v-first_WO-01,WO-01,V-first,#c70dfa
+v-last_WO-01,WO-01,V-last,#ffb6b6
+s-last_WO-01,WO-01,S-last,#2a9f7d
 other_WO-01,WO-01,other,#5a3b6c
 ?_WO-01,WO-01,?,
 yes_WO-01a,WO-01a,yes,#016acb
@@ -1347,29 +1347,29 @@ O>V_WO-01d,WO-01d,O>V,#e63636
 NA_WO-01d,WO-01d,NA,
 ?_WO-01d,WO-01d,?,
 no-dominant-order_WO-01e,WO-01e,no dominant order,#a1a1a1
-s-first_WO-01e,WO-01e,s-first,#016acb
-v-first_WO-01e,WO-01e,v-first,#f4cd16
-o-first_WO-01e,WO-01e,o-first,#f74f74
+s-first_WO-01e,WO-01e,S-first,#016acb
+v-first_WO-01e,WO-01e,V-first,#f4cd16
+o-first_WO-01e,WO-01e,O-first,#f74f74
 ?_WO-01e,WO-01e,?,
-svo_WO-01f,WO-01f,svo,#016acb
-sov_WO-01f,WO-01f,sov,#e63636
+svo_WO-01f,WO-01f,SVO,#016acb
+sov_WO-01f,WO-01f,SOV,#e63636
 NA_WO-01f,WO-01f,NA,
 ?_WO-01f,WO-01f,?,
-vso_WO-01g,WO-01g,vso,#016acb
-vos_WO-01g,WO-01g,vos,#e63636
+vso_WO-01g,WO-01g,VSO,#016acb
+vos_WO-01g,WO-01g,VOS,#e63636
 NA_WO-01g,WO-01g,NA,
 ?_WO-01g,WO-01g,?,
-ovs_WO-01h,WO-01h,ovs,#016acb
-osv_WO-01h,WO-01h,osv,#e63636
+ovs_WO-01h,WO-01h,OVS,#016acb
+osv_WO-01h,WO-01h,OSV,#e63636
 NA_WO-01h,WO-01h,NA,
 ?_WO-01h,WO-01h,?,
-attr-n_WO-02,WO-02,attr-n,#016acb
-n-attr_WO-02,WO-02,n-attr,#e63636
+attr-n_WO-02,WO-02,Attr-N,#016acb
+n-attr_WO-02,WO-02,N-Attr,#e63636
 no-dominant-order_WO-02,WO-02,no dominant order,#9a4667
 NA_WO-02,WO-02,NA,
 ?_WO-02,WO-02,?,
-pssr-pssd_WO-03,WO-03,pssr-pssd,#016acb
-pssd-pssr_WO-03,WO-03,pssd-pssr,#e63636
+pssr-pssd_WO-03,WO-03,PSSR-PSSD,#016acb
+pssd-pssr_WO-03,WO-03,PSSD-PSSR,#e63636
 no-dominant-order_WO-03,WO-03,no dominant order,#9a4667
 NA_WO-03,WO-03,NA,
 ?_WO-03,WO-03,?,
