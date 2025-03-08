@@ -524,9 +524,9 @@ yes_MonPl-02,MonPl-02,yes,#016acb
 no_MonPl-02,MonPl-02,no,#a1a1a1
 NA_MonPl-02,MonPl-02,NA,
 ?_MonPl-02,MonPl-02,?,
-s_MonPl-03,MonPl-03,s,#016acb
-a_MonPl-03,MonPl-03,a,#f4cd16
-p_MonPl-03,MonPl-03,p,#f74f74
+s_MonPl-03,MonPl-03,S,#016acb
+a_MonPl-03,MonPl-03,A,#f4cd16
+p_MonPl-03,MonPl-03,P,#f74f74
 no_MonPl-03,MonPl-03,no,#a1a1a1
 NA_MonPl-03,MonPl-03,NA,
 ?_MonPl-03,MonPl-03,?,
@@ -546,9 +546,9 @@ yes_MonPl-04,MonPl-04,yes,#016acb
 no_MonPl-04,MonPl-04,no,#a1a1a1
 NA_MonPl-04,MonPl-04,NA,
 ?_MonPl-04,MonPl-04,?,
-sa_MonPl-05,MonPl-05,sa,#016acb
-sp_MonPl-05,MonPl-05,sp,#f4cd16
-sap_MonPl-05,MonPl-05,sap,#f74f74
+sa_MonPl-05,MonPl-05,SA,#016acb
+sp_MonPl-05,MonPl-05,SP,#f4cd16
+sap_MonPl-05,MonPl-05,SAP,#f74f74
 no_MonPl-05,MonPl-05,no,#a1a1a1
 NA_MonPl-05,MonPl-05,NA,
 ?_MonPl-05,MonPl-05,?,
@@ -572,48 +572,48 @@ P_MonPl-05e,MonPl-05e,P,#e63636
 A-and-P_MonPl-05e,MonPl-05e,A and P,#9a4667
 NA_MonPl-05e,MonPl-05e,NA,
 ?_MonPl-05e,MonPl-05e,?,
-s-a-p-noun_MonPl-06,MonPl-06,sap & noun,#f76993
-s-a-p_MonPl-06,MonPl-06,sap,#afbcff
-s-a-p-e-adjective-noun_MonPl-06,MonPl-06,sape & adjective & noun,#0dfce9
-s_MonPl-06,MonPl-06,s,#d00dfe
-a_MonPl-06,MonPl-06,a,#2671d4
-p_MonPl-06,MonPl-06,p,#633869
-s-p_MonPl-06,MonPl-06,sp,#82ced2
-s-a_MonPl-06,MonPl-06,sa,#baf079
-s-p-noun_MonPl-06,MonPl-06,sp & noun,#ad8cfe
-s-a-pronoun-subordinate-clause_MonPl-06,MonPl-06,sa & pronoun & subordinate clause,#8a164b
-s-a-p-e_MonPl-06,MonPl-06,sape,#960d8d
-s-a-p-e-noun_MonPl-06,MonPl-06,sape & noun,#b9eeb9
-s-a-adjective-noun_MonPl-06,MonPl-06,sa & adjective & noun,#ff930d
-s-p-e-adjective-noun_MonPl-06,MonPl-06,spe & adjective & noun,#b593c4
-s-a-noun_MonPl-06,MonPl-06,sa & noun,#f0e0ad
-s-a-demonstrative-noun-pronoun_MonPl-06,MonPl-06,sa & demonstrative & noun & pronoun,#0dfea3
-s-a-p-noun-pronoun_MonPl-06,MonPl-06,sap & noun & pronoun,#0d9916
-p-adposition-demonstrative-noun-pronoun_MonPl-06,MonPl-06,p & adposition & demonstrative & noun & pronoun,#f3cc1c
-s-a-p-demonstrative-noun-pronoun_MonPl-06,MonPl-06,sap & demonstrative & noun & pronoun,#e387bf
-s-p-e_MonPl-06,MonPl-06,spe,#4f4d9b
-s-a-p-pronoun_MonPl-06,MonPl-06,sap & pronoun,#6c817a
-s-noun_MonPl-06,MonPl-06,s & noun,#e3e0f3
-s-a-e-adverb-noun-pronoun_MonPl-06,MonPl-06,sae & adverb & noun & pronoun,#0d698b
-s-e-noun_MonPl-06,MonPl-06,se & noun,#a1a126
-p-oblique_MonPl-06,MonPl-06,p & oblique,#e63baf
-s-a-e_MonPl-06,MonPl-06,sae,#fc008d
-p-e_MonPl-06,MonPl-06,pe,#32fe00
-s-a-e-noun_MonPl-06,MonPl-06,sae & noun,#780dae
-s-p-noun-pronoun_MonPl-06,MonPl-06,sp & noun & pronoun,#dae400
-s-adjective_MonPl-06,MonPl-06,s & adjective,#fca7a4
-s-a-demonstrative-noun_MonPl-06,MonPl-06,sa & demonstrative & noun,#5f0dfe
-s-a-adjective_MonPl-06,MonPl-06,sa & adjective,#e89afd
-s-a-p-adposition-noun-numeral-particle-pronoun_MonPl-06,MonPl-06,sap & adposition & noun & numeral & particle & pronoun,#b0770d
-s-p-adjective-noun_MonPl-06,MonPl-06,sp & adjective & noun,#fd2e16
-s-a-p-adjective-noun_MonPl-06,MonPl-06,sap & adjective & noun,#fd2aed
-s-adjective-noun_MonPl-06,MonPl-06,s & adjective & noun,#26dbfd
-s-a-p-e-adjective-adposition-adverb-demonstrative-noun-numeral-oblique-particle-pronoun-subordinate-clause_MonPl-06,MonPl-06,sape & adjective & adposition & adverb & demonstrative & noun & numeral & oblique & particle & pronoun & subordinate clause,#ad4716
-s-demonstrative-noun-pronoun_MonPl-06,MonPl-06,s & demonstrative & noun & pronoun,#655a16
-a-demonstrative-noun-pronoun_MonPl-06,MonPl-06,a & demonstrative & noun & pronoun,#e33d42
-p-demonstrative-noun-pronoun_MonPl-06,MonPl-06,p & demonstrative & noun & pronoun,#1ca580
-s-e_MonPl-06,MonPl-06,se,#976668
-s-p-e-noun_MonPl-06,MonPl-06,spe & noun,#5d873d
+s-a-p-noun_MonPl-06,MonPl-06,SAP & noun,#f76993
+s-a-p_MonPl-06,MonPl-06,SAP,#afbcff
+s-a-p-e-adjective-noun_MonPl-06,MonPl-06,SAPE & adjective & noun,#0dfce9
+s_MonPl-06,MonPl-06,S,#d00dfe
+a_MonPl-06,MonPl-06,A,#2671d4
+p_MonPl-06,MonPl-06,P,#633869
+s-p_MonPl-06,MonPl-06,SP,#82ced2
+s-a_MonPl-06,MonPl-06,SA,#baf079
+s-p-noun_MonPl-06,MonPl-06,SP & noun,#ad8cfe
+s-a-pronoun-subordinate-clause_MonPl-06,MonPl-06,SA & pronoun & subordinate clause,#8a164b
+s-a-p-e_MonPl-06,MonPl-06,SAPE,#960d8d
+s-a-p-e-noun_MonPl-06,MonPl-06,SAPE & noun,#b9eeb9
+s-a-adjective-noun_MonPl-06,MonPl-06,SA & adjective & noun,#ff930d
+s-p-e-adjective-noun_MonPl-06,MonPl-06,SPE & adjective & noun,#b593c4
+s-a-noun_MonPl-06,MonPl-06,SA & noun,#f0e0ad
+s-a-demonstrative-noun-pronoun_MonPl-06,MonPl-06,SA & demonstrative & noun & pronoun,#0dfea3
+s-a-p-noun-pronoun_MonPl-06,MonPl-06,SAP & noun & pronoun,#0d9916
+p-adposition-demonstrative-noun-pronoun_MonPl-06,MonPl-06,P & adposition & demonstrative & noun & pronoun,#f3cc1c
+s-a-p-demonstrative-noun-pronoun_MonPl-06,MonPl-06,SAP & demonstrative & noun & pronoun,#e387bf
+s-p-e_MonPl-06,MonPl-06,SPE,#4f4d9b
+s-a-p-pronoun_MonPl-06,MonPl-06,SAP & pronoun,#6c817a
+s-noun_MonPl-06,MonPl-06,S & noun,#e3e0f3
+s-a-e-adverb-noun-pronoun_MonPl-06,MonPl-06,SAE & adverb & noun & pronoun,#0d698b
+s-e-noun_MonPl-06,MonPl-06,SE & noun,#a1a126
+p-oblique_MonPl-06,MonPl-06,P & oblique,#e63baf
+s-a-e_MonPl-06,MonPl-06,SAE,#fc008d
+p-e_MonPl-06,MonPl-06,PE,#32fe00
+s-a-e-noun_MonPl-06,MonPl-06,SAE & noun,#780dae
+s-p-noun-pronoun_MonPl-06,MonPl-06,SP & noun & pronoun,#dae400
+s-adjective_MonPl-06,MonPl-06,S & adjective,#fca7a4
+s-a-demonstrative-noun_MonPl-06,MonPl-06,SA & demonstrative & noun,#5f0dfe
+s-a-adjective_MonPl-06,MonPl-06,SA & adjective,#e89afd
+s-a-p-adposition-noun-numeral-particle-pronoun_MonPl-06,MonPl-06,SAP & adposition & noun & numeral & particle & pronoun,#b0770d
+s-p-adjective-noun_MonPl-06,MonPl-06,SP & adjective & noun,#fd2e16
+s-a-p-adjective-noun_MonPl-06,MonPl-06,SAP & adjective & noun,#fd2aed
+s-adjective-noun_MonPl-06,MonPl-06,S & adjective & noun,#26dbfd
+s-a-p-e-adjective-adposition-adverb-demonstrative-noun-numeral-oblique-particle-pronoun-subordinate-clause_MonPl-06,MonPl-06,SAPE & adjective & adposition & adverb & demonstrative & noun & numeral & oblique & particle & pronoun & subordinate clause,#ad4716
+s-demonstrative-noun-pronoun_MonPl-06,MonPl-06,S & demonstrative & noun & pronoun,#655a16
+a-demonstrative-noun-pronoun_MonPl-06,MonPl-06,A & demonstrative & noun & pronoun,#e33d42
+p-demonstrative-noun-pronoun_MonPl-06,MonPl-06,P & demonstrative & noun & pronoun,#1ca580
+s-e_MonPl-06,MonPl-06,SE,#976668
+s-p-e-noun_MonPl-06,MonPl-06,SPE & noun,#5d873d
 NA_MonPl-06,MonPl-06,NA,
 ?_MonPl-06,MonPl-06,?,
 None_MonPl-06a,MonPl-06a,None,#462255

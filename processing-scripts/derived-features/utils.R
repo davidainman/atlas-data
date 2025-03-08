@@ -1,39 +1,39 @@
 explodeMonPl <- function(string) {
   set <- unlist(strsplit(sub('.*\\[( *)?', '', sub('( *)?\\].*', '', string)), '( )*&( )*'))
-  if ('sape' %in% set) {
-    set <- set[set != 'sape'] %>% append(c('s', 'a', 'p', 'e'))
+  if ('SAPE' %in% set) {
+    set <- set[set != 'SAPE'] %>% append(c('S', 'A', 'P', 'E'))
   } else if ('sap' %in% set) {
-    set <- set[set != 'sap'] %>% append(c('s', 'a', 'p'))
-  } else if ('spe' %in% set) {
-    set <- set[set != 'spe'] %>% append(c('s', 'p', 'e'))
+    set <- set[set != 'SAP'] %>% append(c('S', 'A', 'P'))
+  } else if ('SPE' %in% set) {
+    set <- set[set != 'SPE'] %>% append(c('S', 'P', 'E'))
   } else if ('sae' %in% set) {
-    set <- set[set != 'sae'] %>% append(c('s', 'a', 'e'))
+    set <- set[set != 'SAE'] %>% append(c('S', 'A', 'E'))
   } else if ('ape' %in% set) {
-    set <- set[set != 'ape'] %>% append(c('a', 'p', 'e'))
+    set <- set[set != 'APE'] %>% append(c('A', 'P', 'E'))
   } else if ('sa' %in% set) {
-    set <- set[set != 'sa'] %>% append(c('s', 'a'))
+    set <- set[set != 'SA'] %>% append(c('S', 'A'))
   } else if ('sp' %in% set) {
-    set <- set[set != 'sp'] %>% append(c('s', 'p'))
+    set <- set[set != 'SP'] %>% append(c('S', 'P'))
   } else if ('se' %in% set) {
-    set <- set[set != 'se'] %>% append(c('s', 'e'))
+    set <- set[set != 'SE'] %>% append(c('S', 'E'))
   } else if ('ap' %in% set) {
-    set <- set[set != 'ap'] %>% append(c('a', 'p'))
+    set <- set[set != 'AP'] %>% append(c('A', 'P'))
   } else if ('ae' %in% set) {
-    set <- set[set != 'ae'] %>% append(c('a', 'e'))
+    set <- set[set != 'AE'] %>% append(c('A', 'E'))
   } else if ('pe' %in% set) {
-    set <- set[set != 'pe'] %>% append(c('p', 'e'))
+    set <- set[set != 'PE'] %>% append(c('P', 'E'))
   }
-  #sort nicely: 's','a','p','e' always comes first
-  sape <- set[set == 's' | set == 'a' | set == 'p' | set == 'e']
-  nonsape <- set[set != 's' & set != 'a' & set != 'p' & set != 'e']
+  #sort nicely: 'S','A','P','E' always comes first
+  sape <- set[set == 'S' | set == 'A' | set == 'P' | set == 'E']
+  nonsape <- set[set != 'S' & set != 'A' & set != 'P' & set != 'E']
   regform <- paste(c(sape, sort(nonsape)), collapse=' & ')
   return(regform)
 }
 
 compactMonPl <- function(string) {
   #we have to do this twice, because 'sape' is potentially 4 characters long
-  regform <- gsub('(s|a|p) & (a|ap|ae|p|pe|e)(?![a-z])', '\\1\\2', string, perl = TRUE)
-  regform <- gsub('(s|a|p) & (a|ap|ae|p|pe|e)(?![a-z])', '\\1\\2', regform, perl = TRUE)
+  regform <- gsub('(S|A|P) & (A|AP|AE|P|PE|E)(?![a-z])', '\\1\\2', string, perl = TRUE)
+  regform <- gsub('(S|A|P) & (A|AP|AE|P|PE|E)(?![a-z])', '\\1\\2', regform, perl = TRUE)
   return(regform)
 }
 
