@@ -393,17 +393,17 @@ mixed_Gend-05,Gend-05,mixed,#b15091
 NA_Gend-05,Gend-05,NA,
 ?_Gend-05,Gend-05,?,
 exclusively_Gend-06,Gend-06,exclusively,#016acb
-non-exclusively_Gend-06,Gend-06,non exclusively,#462255
-no_Gend-06,Gend-06,no,#e03a3a
+non-exclusively_Gend-06,Gend-06,non exclusively,#69a4db
+no_Gend-06,Gend-06,no,#a1a1a1
 NA_Gend-06,Gend-06,NA,
 ?_Gend-06,Gend-06,?,
 yes_Gend-07,Gend-07,yes,#016acb
 no_Gend-07,Gend-07,no,#a1a1a1
 NA_Gend-07,Gend-07,NA,
 ?_Gend-07,Gend-07,?,
-1-5_Gend-08,Gend-08,1-5,#016acb
-6-20_Gend-08,Gend-08,6-20,#462255
-21-and-more_Gend-08,Gend-08,21 and more,#e03a3a
+1-5_Gend-08,Gend-08,1-5,#fcc7c7
+6-20_Gend-08,Gend-08,6-20,#e1646f
+21-and-more_Gend-08,Gend-08,21 and more,#c60017
 NA_Gend-08,Gend-08,NA,
 ?_Gend-08,Gend-08,?,
 speaker_Gend-09,Gend-09,speaker,#016acb
@@ -413,13 +413,13 @@ mixed_Gend-09,Gend-09,mixed,#b15091
 NA_Gend-09,Gend-09,NA,
 ?_Gend-09,Gend-09,?,
 exclusively_Gend-10,Gend-10,exclusively,#016acb
-non-exclusively_Gend-10,Gend-10,non exclusively,#462255
-no_Gend-10,Gend-10,no,#e03a3a
+non-exclusively_Gend-10,Gend-10,non exclusively,#69a4db
+no_Gend-10,Gend-10,no,#a1a1a1
 NA_Gend-10,Gend-10,NA,
 ?_Gend-10,Gend-10,?,
 exclusively_Gend-11,Gend-11,exclusively,#016acb
-non-exclusively_Gend-11,Gend-11,non exclusively,#462255
-no_Gend-11,Gend-11,no,#e03a3a
+non-exclusively_Gend-11,Gend-11,non exclusively,#69a4db
+no_Gend-11,Gend-11,no,#a1a1a1
 NA_Gend-11,Gend-11,NA,
 ?_Gend-11,Gend-11,?,
 yes_Glot-01,Glot-01,yes,#016acb
@@ -639,9 +639,9 @@ NA_MonPl-06b,MonPl-06b,NA,
 9_NounPoss-01,NounPoss-01,9,#00bfff
 10_NounPoss-01,NounPoss-01,10,#00158e
 ?_NounPoss-01,NounPoss-01,?,
-1_NounPoss-01a,NounPoss-01a,1,#016acb
-2_NounPoss-01a,NounPoss-01a,2,#e03a3a
-3-or-more_NounPoss-01a,NounPoss-01a,3-or-more,#462255
+1_NounPoss-01a,NounPoss-01a,1,#fcc7c7
+2_NounPoss-01a,NounPoss-01a,2,#e1646f
+3-or-more_NounPoss-01a,NounPoss-01a,3-or-more,#c60017
 ?_NounPoss-01a,NounPoss-01a,?,
 default_NounPoss-02,NounPoss-02,default,#fac92d
 conceptually-inalienable_NounPoss-02,NounPoss-02,conceptually inalienable,#e63636
@@ -770,7 +770,7 @@ mixed_NounPoss-12,NounPoss-12,mixed,#b15091
 no_NounPoss-12,NounPoss-12,no,#a1a1a1
 ?_NounPoss-12,NounPoss-12,?,
 default-plus_NounPoss-12a,NounPoss-12a,default plus,#016acb
-only-inalienables_NounPoss-12a,NounPoss-12a,only inalienables,#462255
+only-inalienables_NounPoss-12a,NounPoss-12a,only inalienables,#e63636
 no-JUXT_NounPoss-12a,NounPoss-12a,no JUXT,#a1a1a1
 ?_NounPoss-12a,NounPoss-12a,?,
 default_NounPoss-13,NounPoss-13,default,#fac92d
@@ -806,9 +806,9 @@ non-possessible_NounPoss-17,NounPoss-17,non-possessible,#016acb
 mixed_NounPoss-17,NounPoss-17,mixed,#b15091
 no_NounPoss-17,NounPoss-17,no,#a1a1a1
 ?_NounPoss-17,NounPoss-17,?,
-none_NounPoss-17a,NounPoss-17a,none,#a1a1a1
 default-plus_NounPoss-17a,NounPoss-17a,default plus,#016acb
-only-non-possessibles_NounPoss-17a,NounPoss-17a,only non-possessibles,#462255
+only-non-possessibles_NounPoss-17a,NounPoss-17a,only non-possessibles,#e63636
+none_NounPoss-17a,NounPoss-17a,none,#a1a1a1
 ?_NounPoss-17a,NounPoss-17a,?,
 yes_NounPoss-18,NounPoss-18,yes,#016acb
 no_NounPoss-18,NounPoss-18,no,#a1a1a1
@@ -850,18 +850,18 @@ NA_NounPoss-23,NounPoss-23,NA,
 2_NounPoss-24,NounPoss-24,2,#2382a4
 4_NounPoss-24,NounPoss-24,4,#21b8a4
 ?_NounPoss-24,NounPoss-24,?,
-non-possessible_NounPoss-25,NounPoss-25,non-possessible,#016acb
-obligatorily-possessed_NounPoss-25,NounPoss-25,obligatorily possessed,#f4cd16
-optionally-possessed_NounPoss-25,NounPoss-25,optionally possessed,#f74f74
+optionally-possessed_NounPoss-25,NounPoss-25,optionally possessed,#016acb
+obligatorily-possessed_NounPoss-25,NounPoss-25,obligatorily possessed,#f74f74
+non-possessible_NounPoss-25,NounPoss-25,non-possessible,#f4cd16
 ?_NounPoss-25,NounPoss-25,?,
-non-possessible_NounPoss-26,NounPoss-26,non-possessible,#016acb
-obligatorily-possessed_NounPoss-26,NounPoss-26,obligatorily possessed,#f4cd16
-optionally-possessed_NounPoss-26,NounPoss-26,optionally possessed,#f74f74
+optionally-possessed_NounPoss-26,NounPoss-26,optionally possessed,#016acb
+obligatorily-possessed_NounPoss-26,NounPoss-26,obligatorily possessed,#f74f74
+non-possessible_NounPoss-26,NounPoss-26,non-possessible,#f4cd16
 NA_NounPoss-26,NounPoss-26,NA,
 ?_NounPoss-26,NounPoss-26,?,
-non-possessible_NounPoss-27,NounPoss-27,non-possessible,#016acb
-obligatorily-possessed_NounPoss-27,NounPoss-27,obligatorily possessed,#f4cd16
-optionally-possessed_NounPoss-27,NounPoss-27,optionally possessed,#f74f74
+optionally-possessed_NounPoss-27,NounPoss-27,optionally possessed,#016acb
+obligatorily-possessed_NounPoss-27,NounPoss-27,obligatorily possessed,#f74f74
+non-possessible_NounPoss-27,NounPoss-27,non-possessible,#f4cd16
 NA_NounPoss-27,NounPoss-27,NA,
 ?_NounPoss-27,NounPoss-27,?,
 non-possessible_NounPoss-28,NounPoss-28,non-possessible,#016acb
@@ -1140,7 +1140,7 @@ no_SgPl-20,SgPl-20,no,#a1a1a1
 NA_SgPl-20,SgPl-20,NA,
 ?_SgPl-20,SgPl-20,?,
 yes_SgPl-21,SgPl-21,yes,#016acb
-property-concept-verbs_SgPl-21,SgPl-21,in property concept verbs only,#7cb2e6
+property-concept-verbs_SgPl-21,SgPl-21,in property concept verbs only,#69a4db
 no_SgPl-21,SgPl-21,no,#a1a1a1
 NA_SgPl-21,SgPl-21,NA,
 ?_SgPl-21,SgPl-21,?,
@@ -1210,19 +1210,19 @@ other_SocCaus-07,SocCaus-07,other,#dd35aa
 12_Syll-03,Syll-03,12,#002297
 13_Syll-03,Syll-03,13,#0034a2
 ?_Syll-03,Syll-03,?,
-s_Syll-04,Syll-04,simple,#f0c808
-mc_Syll-04,Syll-04,moderately complex,#462255
-c_Syll-04,Syll-04,complex,#016acb
-hc_Syll-04,Syll-04,highly complex,#e03a3a
+s_Syll-04,Syll-04,simple,#fcc7c7
+mc_Syll-04,Syll-04,moderately complex,#e4858c
+c_Syll-04,Syll-04,complex,#cb4351
+hc_Syll-04,Syll-04,highly complex,#b30116
 ?_Syll-04,Syll-04,?,
-c_Syll-05,Syll-05,C,#016acb
-cg_Syll-05,Syll-05,CG,#462255
-ccplus_Syll-05,Syll-05,CCplus,#e03a3a
+c_Syll-05,Syll-05,C,#fcc7c7
+cg_Syll-05,Syll-05,CG,#e1646f
+ccplus_Syll-05,Syll-05,CCplus,#c60017
 ?_Syll-05,Syll-05,?,
-nocoda_Syll-06,Syll-06,nocoda,#e03a3a
-sonorant_Syll-06,Syll-06,sonorant,#f0c808
-simple_Syll-06,Syll-06,simple,#462255
-complex_Syll-06,Syll-06,complex,#016acb
+nocoda_Syll-06,Syll-06,nocoda,#a1a1a1
+sonorant_Syll-06,Syll-06,sonorant,#fcc7c7
+simple_Syll-06,Syll-06,simple,#e1646f
+complex_Syll-06,Syll-06,complex,#c60017
 ?_Syll-06,Syll-06,?,
 yes_ToneProm-01,ToneProm-01,yes,#016acb
 no_ToneProm-01,ToneProm-01,no,#a1a1a1
