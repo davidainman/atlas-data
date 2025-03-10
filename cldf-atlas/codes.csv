@@ -250,10 +250,10 @@ no-dominant-order_Attr-03,Attr-03,no dominant order,#9a4667
 2_Cor-01,Cor-01,2,#2467a5
 3_Cor-01,Cor-01,3,#21b8a4
 ?_Cor-01,Cor-01,?,
-1_Cor-01a,Cor-01a,1,#016acb
-more-than-1_Cor-01a,Cor-01a,more than 1,#e03a3a
+1_Cor-01a,Cor-01a,1,#87b8e6
+more-than-1_Cor-01a,Cor-01a,more than 1,#016acb
 ?_Cor-01a,Cor-01a,?,
-up-to-2_Cor-01b,Cor-01b,up to 2,#e03a3a
+up-to-2_Cor-01b,Cor-01b,up to 2,#87b8e6
 more-than-2_Cor-01b,Cor-01b,more than 2,#016acb
 ?_Cor-01b,Cor-01b,?,
 0_Cor-02,Cor-02,0,#000080
@@ -265,13 +265,13 @@ more-than-2_Cor-01b,Cor-01b,more than 2,#016acb
 yes_Cor-02a,Cor-02a,yes,#016acb
 no_Cor-02a,Cor-02a,no,#a1a1a1
 ?_Cor-02a,Cor-02a,?,
-up-to-1_Cor-02b,Cor-02b,up to 1,#e03a3a
+up-to-1_Cor-02b,Cor-02b,up to 1,#87b8e6
 more-than-1_Cor-02b,Cor-02b,more than 1,#016acb
 ?_Cor-02b,Cor-02b,?,
-up-to-2_Cor-02c,Cor-02c,up to 2,#e03a3a
+up-to-2_Cor-02c,Cor-02c,up to 2,#87b8e6
 more-than-2_Cor-02c,Cor-02c,more than 2,#016acb
 ?_Cor-02c,Cor-02c,?,
-up-to-3_Cor-02d,Cor-02d,up to 3,#e03a3a
+up-to-3_Cor-02d,Cor-02d,up to 3,#87b8e6
 more-than-3_Cor-02d,Cor-02d,more than 3,#016acb
 ?_Cor-02d,Cor-02d,?,
 0_Cor-03,Cor-03,0,#2817a6
@@ -282,10 +282,10 @@ more-than-3_Cor-02d,Cor-02d,more than 3,#016acb
 yes_Cor-03a,Cor-03a,yes,#016acb
 no_Cor-03a,Cor-03a,no,#a1a1a1
 ?_Cor-03a,Cor-03a,?,
-up-to-1_Cor-03b,Cor-03b,up to 1,#e03a3a
+up-to-1_Cor-03b,Cor-03b,up to 1,#87b8e6
 more-than-1_Cor-03b,Cor-03b,more than 1,#016acb
 ?_Cor-03b,Cor-03b,?,
-up-to-2_Cor-03c,Cor-03c,up to 2,#e03a3a
+up-to-2_Cor-03c,Cor-03c,up to 2,#87b8e6
 more-than-2_Cor-03c,Cor-03c,more than 2,#016acb
 ?_Cor-03c,Cor-03c,?,
 yes_Cor-04,Cor-04,yes,#016acb
@@ -339,15 +339,15 @@ NA_Dem-003,Dem-003,NA,
 yes_Dem-01a,Dem-01a,yes,#016acb
 no_Dem-01a,Dem-01a,no,#a1a1a1
 ?_Dem-01a,Dem-01a,?,
-2_Dem-01b,Dem-01b,2,#016acb
-more-than-2_Dem-01b,Dem-01b,more than 2,#e03a3a
+2_Dem-01b,Dem-01b,2,#87b8e6
+more-than-2_Dem-01b,Dem-01b,more than 2,#016acb
 NA_Dem-01b,Dem-01b,NA,
 ?_Dem-01b,Dem-01b,?,
-up-to-3_Dem-01c,Dem-01c,up to 3,#e03a3a
+up-to-3_Dem-01c,Dem-01c,up to 3,#87b8e6
 more-than-3_Dem-01c,Dem-01c,more than 3,#016acb
 NA_Dem-01c,Dem-01c,NA,
 ?_Dem-01c,Dem-01c,?,
-up-to-4_Dem-01d,Dem-01d,up to 4,#e03a3a
+up-to-4_Dem-01d,Dem-01d,up to 4,#87b8e6
 more-than-4_Dem-01d,Dem-01d,more than 4,#016acb
 NA_Dem-01d,Dem-01d,NA,
 ?_Dem-01d,Dem-01d,?,
@@ -628,16 +628,16 @@ yes_MonPl-06b,MonPl-06b,yes,#016acb
 no_MonPl-06b,MonPl-06b,no,#a1a1a1
 NA_MonPl-06b,MonPl-06b,NA,
 ?_MonPl-06b,MonPl-06b,?,
-1_NounPoss-01,NounPoss-01,1,#000080
-2_NounPoss-01,NounPoss-01,2,#002a9c
-3_NounPoss-01,NounPoss-01,3,#003faa
-4_NounPoss-01,NounPoss-01,4,#0054b8
-5_NounPoss-01,NounPoss-01,5,#006ac6
-6_NounPoss-01,NounPoss-01,6,#007fd4
-7_NounPoss-01,NounPoss-01,7,#0094e2
-8_NounPoss-01,NounPoss-01,8,#00a9f0
-9_NounPoss-01,NounPoss-01,9,#00bfff
-10_NounPoss-01,NounPoss-01,10,#00158e
+1_NounPoss-01,NounPoss-01,1,#fcc7c7
+2_NounPoss-01,NounPoss-01,2,#f4b1b3
+3_NounPoss-01,NounPoss-01,3,#ec9ba0
+4_NounPoss-01,NounPoss-01,4,#e4858c
+5_NounPoss-01,NounPoss-01,5,#dc6f78
+6_NounPoss-01,NounPoss-01,6,#d35965
+7_NounPoss-01,NounPoss-01,7,#cb4351
+8_NounPoss-01,NounPoss-01,8,#c32d3d
+9_NounPoss-01,NounPoss-01,9,#bb172a
+10_NounPoss-01,NounPoss-01,10,#b30116
 ?_NounPoss-01,NounPoss-01,?,
 1_NounPoss-01a,NounPoss-01a,1,#fcc7c7
 2_NounPoss-01a,NounPoss-01a,2,#e1646f
@@ -1290,15 +1290,15 @@ NA_ToneProm-10,ToneProm-10,NA,
 8_ToneProm-11,ToneProm-11,8,#00bfff
 NA_ToneProm-11,ToneProm-11,NA,
 ?_ToneProm-11,ToneProm-11,?,
-2_ToneProm-11a,ToneProm-11a,2,#016acb
-more-than-2_ToneProm-11a,ToneProm-11a,more than 2,#e03a3a
+2_ToneProm-11a,ToneProm-11a,2,#87b8e6
+more-than-2_ToneProm-11a,ToneProm-11a,more than 2,#016acb
 NA_ToneProm-11a,ToneProm-11a,NA,
 ?_ToneProm-11a,ToneProm-11a,?,
-up-to-3_ToneProm-11b,ToneProm-11b,up to 3,#e03a3a
+up-to-3_ToneProm-11b,ToneProm-11b,up to 3,#87b8e6
 more-than-3_ToneProm-11b,ToneProm-11b,more than 3,#016acb
 NA_ToneProm-11b,ToneProm-11b,NA,
 ?_ToneProm-11b,ToneProm-11b,?,
-up-to-4_ToneProm-11c,ToneProm-11c,up to 4,#e03a3a
+up-to-4_ToneProm-11c,ToneProm-11c,up to 4,#87b8e6
 more-than-4_ToneProm-11c,ToneProm-11c,more than 4,#016acb
 NA_ToneProm-11c,ToneProm-11c,NA,
 ?_ToneProm-11c,ToneProm-11c,?,
