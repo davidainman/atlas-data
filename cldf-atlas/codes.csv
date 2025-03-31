@@ -197,21 +197,21 @@ no_Appr-11,Appr-11,no,#a1a1a1
 NA_Appr-11,Appr-11,NA,
 ?_Appr-11,Appr-11,?,
 NA_Appr-12,Appr-12,NA,
-a_Appr-12,Appr-12,A,#006cce
-f_Appr-12,Appr-12,F,#ffb4b3
-a-f_Appr-12,Appr-12,A & F,#e13d40
-p_Appr-12,Appr-12,P,#6d660d
-a-p_Appr-12,Appr-12,A & P,#e035ab
-f-p_Appr-12,Appr-12,F & P,#1cdcff
-a-f-p_Appr-12,Appr-12,A & F & P,#4f4065
-t_Appr-12,Appr-12,T,#fb921c
-a-t_Appr-12,Appr-12,A & T,#ca16fc
-f-t_Appr-12,Appr-12,F & T,#bdf27f
-a-f-t_Appr-12,Appr-12,A & F & T,#26a482
-p-t_Appr-12,Appr-12,P & T,#dce2f5
-a-p-t_Appr-12,Appr-12,A & P & T,#16fd00
-f-p-t_Appr-12,Appr-12,F & P & T,#e8a3ff
-a-f-p-t_Appr-12,Appr-12,A & F & P & T,#f3ca0d
+a_Appr-12,Appr-12,A,#016acb
+f_Appr-12,Appr-12,F,#f4cd16
+a-f_Appr-12,Appr-12,A & F,#7b9c71
+p_Appr-12,Appr-12,P,#f74f74
+a-p_Appr-12,Appr-12,A & P,#a6418b
+f-p_Appr-12,Appr-12,F & P,#f5802f
+a-f-p_Appr-12,Appr-12,A & F & P,#783308
+t_Appr-12,Appr-12,T,#59fcff
+a-t_Appr-12,Appr-12,A & T,#a1a1a1
+f-t_Appr-12,Appr-12,F & T,#a7e58b
+a-f-t_Appr-12,Appr-12,A & F & T,#a1a1a1
+p-t_Appr-12,Appr-12,P & T,#c6b0ff
+a-p-t_Appr-12,Appr-12,A & P & T,#a161c9
+f-p-t_Appr-12,Appr-12,F & P & T,#e3ae6d
+a-f-p-t_Appr-12,Appr-12,A & F & P & T,#a1a1a1
 ?_Appr-12,Appr-12,?,
 NA_Appr-12a,Appr-12a,NA,
 1_Appr-12a,Appr-12a,1,#fcc7c7
@@ -225,11 +225,11 @@ f_Appr-12b,Appr-12b,F,#b15091
 NA_Appr-12b,Appr-12b,NA,
 ?_Appr-12b,Appr-12b,?,
 adjective_Attr-01,Attr-01,adjective,#016acb
-modifier_Attr-01,Attr-01,modifier,#462255
-adverb_Attr-01,Attr-01,adverb,#e03a3a
-noun_Attr-01,Attr-01,noun,#f0c808
-verb_Attr-01,Attr-01,verb,#e33bae
-predicative-only_Attr-01,Attr-01,predicative only,#1fa380
+verb_Attr-01,Attr-01,verb,#f74f74
+noun_Attr-01,Attr-01,noun,#f4cd16
+modifier_Attr-01,Attr-01,modifier,#d38ee6
+adverb_Attr-01,Attr-01,adverb,#ff9eb3
+predicative-only_Attr-01,Attr-01,predicative only,#a1a1a1
 ?_Attr-01,Attr-01,?,
 noun_Attr-01a,Attr-01a,noun,#016acb
 verb_Attr-01a,Attr-01a,verb,#f4cd16
