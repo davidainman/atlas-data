@@ -197,21 +197,21 @@ no_Appr-11,Appr-11,no,#a1a1a1
 NA_Appr-11,Appr-11,NA,
 ?_Appr-11,Appr-11,?,
 NA_Appr-12,Appr-12,NA,
-a_Appr-12,Appr-12,A,#006cce
-f_Appr-12,Appr-12,F,#ffb4b3
-a-f_Appr-12,Appr-12,A & F,#e13d40
-p_Appr-12,Appr-12,P,#6d660d
-a-p_Appr-12,Appr-12,A & P,#e035ab
-f-p_Appr-12,Appr-12,F & P,#1cdcff
-a-f-p_Appr-12,Appr-12,A & F & P,#4f4065
-t_Appr-12,Appr-12,T,#fb921c
-a-t_Appr-12,Appr-12,A & T,#ca16fc
-f-t_Appr-12,Appr-12,F & T,#bdf27f
-a-f-t_Appr-12,Appr-12,A & F & T,#26a482
-p-t_Appr-12,Appr-12,P & T,#dce2f5
-a-p-t_Appr-12,Appr-12,A & P & T,#16fd00
-f-p-t_Appr-12,Appr-12,F & P & T,#e8a3ff
-a-f-p-t_Appr-12,Appr-12,A & F & P & T,#f3ca0d
+a_Appr-12,Appr-12,A,#016acb
+f_Appr-12,Appr-12,F,#f4cd16
+a-f_Appr-12,Appr-12,A & F,#7b9c71
+p_Appr-12,Appr-12,P,#f74f74
+a-p_Appr-12,Appr-12,A & P,#a6418b
+f-p_Appr-12,Appr-12,F & P,#f5802f
+a-f-p_Appr-12,Appr-12,A & F & P,#783308
+t_Appr-12,Appr-12,T,#59fcff
+a-t_Appr-12,Appr-12,A & T,#a1a1a1
+f-t_Appr-12,Appr-12,F & T,#a7e58b
+a-f-t_Appr-12,Appr-12,A & F & T,#a1a1a1
+p-t_Appr-12,Appr-12,P & T,#c6b0ff
+a-p-t_Appr-12,Appr-12,A & P & T,#a161c9
+f-p-t_Appr-12,Appr-12,F & P & T,#e3ae6d
+a-f-p-t_Appr-12,Appr-12,A & F & P & T,#a1a1a1
 ?_Appr-12,Appr-12,?,
 NA_Appr-12a,Appr-12a,NA,
 1_Appr-12a,Appr-12a,1,#fcc7c7
@@ -225,11 +225,11 @@ f_Appr-12b,Appr-12b,F,#b15091
 NA_Appr-12b,Appr-12b,NA,
 ?_Appr-12b,Appr-12b,?,
 adjective_Attr-01,Attr-01,adjective,#016acb
-modifier_Attr-01,Attr-01,modifier,#462255
-adverb_Attr-01,Attr-01,adverb,#e03a3a
-noun_Attr-01,Attr-01,noun,#f0c808
-verb_Attr-01,Attr-01,verb,#e33bae
-predicative-only_Attr-01,Attr-01,predicative only,#1fa380
+verb_Attr-01,Attr-01,verb,#f74f74
+noun_Attr-01,Attr-01,noun,#f4cd16
+modifier_Attr-01,Attr-01,modifier,#d38ee6
+adverb_Attr-01,Attr-01,adverb,#ff9eb3
+NA_Attr-01,Attr-01,NA,#a1a1a1
 ?_Attr-01,Attr-01,?,
 noun_Attr-01a,Attr-01a,noun,#016acb
 verb_Attr-01a,Attr-01a,verb,#f4cd16
@@ -572,56 +572,56 @@ P_MonPl-05e,MonPl-05e,P,#e63636
 A-and-P_MonPl-05e,MonPl-05e,A and P,#9a4667
 NA_MonPl-05e,MonPl-05e,NA,
 ?_MonPl-05e,MonPl-05e,?,
-s-a-p-noun_MonPl-06,MonPl-06,SAP & noun,#f76993
-s-a-p_MonPl-06,MonPl-06,SAP,#afbcff
-s-a-p-e-adjective-noun_MonPl-06,MonPl-06,SAPE & adjective & noun,#0dfce9
-s_MonPl-06,MonPl-06,S,#d00dfe
-a_MonPl-06,MonPl-06,A,#2671d4
-p_MonPl-06,MonPl-06,P,#633869
-s-p_MonPl-06,MonPl-06,SP,#82ced2
-s-a_MonPl-06,MonPl-06,SA,#baf079
-s-p-noun_MonPl-06,MonPl-06,SP & noun,#ad8cfe
-s-a-pronoun-subordinate-clause_MonPl-06,MonPl-06,SA & pronoun & subordinate clause,#8a164b
-s-a-p-e_MonPl-06,MonPl-06,SAPE,#960d8d
-s-a-p-e-noun_MonPl-06,MonPl-06,SAPE & noun,#b9eeb9
-s-a-adjective-noun_MonPl-06,MonPl-06,SA & adjective & noun,#ff930d
-s-p-e-adjective-noun_MonPl-06,MonPl-06,SPE & adjective & noun,#b593c4
-s-a-noun_MonPl-06,MonPl-06,SA & noun,#f0e0ad
-s-a-demonstrative-noun-pronoun_MonPl-06,MonPl-06,SA & demonstrative & noun & pronoun,#0dfea3
-s-a-p-noun-pronoun_MonPl-06,MonPl-06,SAP & noun & pronoun,#0d9916
-p-adposition-demonstrative-noun-pronoun_MonPl-06,MonPl-06,P & adposition & demonstrative & noun & pronoun,#f3cc1c
-s-a-p-demonstrative-noun-pronoun_MonPl-06,MonPl-06,SAP & demonstrative & noun & pronoun,#e387bf
-s-p-e_MonPl-06,MonPl-06,SPE,#4f4d9b
-s-a-p-pronoun_MonPl-06,MonPl-06,SAP & pronoun,#6c817a
-s-noun_MonPl-06,MonPl-06,S & noun,#e3e0f3
-s-a-e-adverb-noun-pronoun_MonPl-06,MonPl-06,SAE & adverb & noun & pronoun,#0d698b
-s-e-noun_MonPl-06,MonPl-06,SE & noun,#a1a126
-p-oblique_MonPl-06,MonPl-06,P & oblique,#e63baf
-s-a-e_MonPl-06,MonPl-06,SAE,#fc008d
-p-e_MonPl-06,MonPl-06,PE,#32fe00
-s-a-e-noun_MonPl-06,MonPl-06,SAE & noun,#780dae
-s-p-noun-pronoun_MonPl-06,MonPl-06,SP & noun & pronoun,#dae400
-s-adjective_MonPl-06,MonPl-06,S & adjective,#fca7a4
-s-a-demonstrative-noun_MonPl-06,MonPl-06,SA & demonstrative & noun,#5f0dfe
-s-a-adjective_MonPl-06,MonPl-06,SA & adjective,#e89afd
-s-a-p-adposition-noun-numeral-particle-pronoun_MonPl-06,MonPl-06,SAP & adposition & noun & numeral & particle & pronoun,#b0770d
-s-p-adjective-noun_MonPl-06,MonPl-06,SP & adjective & noun,#fd2e16
-s-a-p-adjective-noun_MonPl-06,MonPl-06,SAP & adjective & noun,#fd2aed
-s-adjective-noun_MonPl-06,MonPl-06,S & adjective & noun,#26dbfd
-s-a-p-e-adjective-adposition-adverb-demonstrative-noun-numeral-oblique-particle-pronoun-subordinate-clause_MonPl-06,MonPl-06,SAPE & adjective & adposition & adverb & demonstrative & noun & numeral & oblique & particle & pronoun & subordinate clause,#ad4716
-s-demonstrative-noun-pronoun_MonPl-06,MonPl-06,S & demonstrative & noun & pronoun,#655a16
-a-demonstrative-noun-pronoun_MonPl-06,MonPl-06,A & demonstrative & noun & pronoun,#e33d42
-p-demonstrative-noun-pronoun_MonPl-06,MonPl-06,P & demonstrative & noun & pronoun,#1ca580
-s-e_MonPl-06,MonPl-06,SE,#976668
-s-p-e-noun_MonPl-06,MonPl-06,SPE & noun,#5d873d
+s-a-p-noun_MonPl-06,MonPl-06,SAP & noun,
+s-a-p_MonPl-06,MonPl-06,SAP,
+s-a-p-e-adjective-noun_MonPl-06,MonPl-06,SAPE & adjective & noun,
+s_MonPl-06,MonPl-06,S,
+a_MonPl-06,MonPl-06,A,
+p_MonPl-06,MonPl-06,P,
+s-p_MonPl-06,MonPl-06,SP,
+s-a_MonPl-06,MonPl-06,SA,
+s-p-noun_MonPl-06,MonPl-06,SP & noun,
+s-a-pronoun-subordinate-clause_MonPl-06,MonPl-06,SA & pronoun & subordinate clause,
+s-a-p-e_MonPl-06,MonPl-06,SAPE,
+s-a-p-e-noun_MonPl-06,MonPl-06,SAPE & noun,
+s-a-adjective-noun_MonPl-06,MonPl-06,SA & adjective & noun,
+s-p-e-adjective-noun_MonPl-06,MonPl-06,SPE & adjective & noun,
+s-a-noun_MonPl-06,MonPl-06,SA & noun,
+s-a-demonstrative-noun-pronoun_MonPl-06,MonPl-06,SA & demonstrative & noun & pronoun,
+s-a-p-noun-pronoun_MonPl-06,MonPl-06,SAP & noun & pronoun,
+p-adposition-demonstrative-noun-pronoun_MonPl-06,MonPl-06,P & adposition & demonstrative & noun & pronoun,
+s-a-p-demonstrative-noun-pronoun_MonPl-06,MonPl-06,SAP & demonstrative & noun & pronoun,
+s-p-e_MonPl-06,MonPl-06,SPE,
+s-a-p-pronoun_MonPl-06,MonPl-06,SAP & pronoun,
+s-noun_MonPl-06,MonPl-06,S & noun,
+s-a-e-adverb-noun-pronoun_MonPl-06,MonPl-06,SAE & adverb & noun & pronoun,
+s-e-noun_MonPl-06,MonPl-06,SE & noun,
+p-oblique_MonPl-06,MonPl-06,P & oblique,
+s-a-e_MonPl-06,MonPl-06,SAE,
+p-e_MonPl-06,MonPl-06,PE,
+s-a-e-noun_MonPl-06,MonPl-06,SAE & noun,
+s-p-noun-pronoun_MonPl-06,MonPl-06,SP & noun & pronoun,
+s-adjective_MonPl-06,MonPl-06,S & adjective,
+s-a-demonstrative-noun_MonPl-06,MonPl-06,SA & demonstrative & noun,
+s-a-adjective_MonPl-06,MonPl-06,SA & adjective,
+s-a-p-adposition-noun-numeral-particle-pronoun_MonPl-06,MonPl-06,SAP & adposition & noun & numeral & particle & pronoun,
+s-p-adjective-noun_MonPl-06,MonPl-06,SP & adjective & noun,
+s-a-p-adjective-noun_MonPl-06,MonPl-06,SAP & adjective & noun,
+s-adjective-noun_MonPl-06,MonPl-06,S & adjective & noun,
+s-a-p-e-adjective-adposition-adverb-demonstrative-noun-numeral-oblique-particle-pronoun-subordinate-clause_MonPl-06,MonPl-06,SAPE & adjective & adposition & adverb & demonstrative & noun & numeral & oblique & particle & pronoun & subordinate clause,
+s-demonstrative-noun-pronoun_MonPl-06,MonPl-06,S & demonstrative & noun & pronoun,
+a-demonstrative-noun-pronoun_MonPl-06,MonPl-06,A & demonstrative & noun & pronoun,
+p-demonstrative-noun-pronoun_MonPl-06,MonPl-06,P & demonstrative & noun & pronoun,
+s-e_MonPl-06,MonPl-06,SE,
+s-p-e-noun_MonPl-06,MonPl-06,SPE & noun,
 NA_MonPl-06,MonPl-06,NA,
 ?_MonPl-06,MonPl-06,?,
-None_MonPl-06a,MonPl-06a,None,#462255
-noun_MonPl-06a,MonPl-06a,noun,#f0c808
-pronoun_MonPl-06a,MonPl-06a,pronoun,#e33bae
-adjective_MonPl-06a,MonPl-06a,adjective,#016acb
-demonstrative_MonPl-06a,MonPl-06a,demonstrative,#e03a3a
-other_MonPl-06a,MonPl-06a,other,#1fa380
+None_MonPl-06a,MonPl-06a,None,#a1a1a1
+noun_MonPl-06a,MonPl-06a,noun,#016acb
+pronoun_MonPl-06a,MonPl-06a,pronoun,#f4cd16
+adjective_MonPl-06a,MonPl-06a,adjective,#e63636
+demonstrative_MonPl-06a,MonPl-06a,demonstrative,#7ea455
+other_MonPl-06a,MonPl-06a,other,#b15091
 NA_MonPl-06a,MonPl-06a,NA,
 ?_MonPl-06a,MonPl-06a,?,
 yes_MonPl-06b,MonPl-06b,yes,#016acb
@@ -705,14 +705,14 @@ animals_NounPoss-07,NounPoss-07,animals,#f4cd16
 names_NounPoss-07,NounPoss-07,names,#b15091
 NA_NounPoss-07,NounPoss-07,NA,
 ?_NounPoss-07,NounPoss-07,?,
-PSSR_NounPoss-08,NounPoss-08,PSSR,#2efd16
-PSSD_NounPoss-08,NounPoss-08,PSSD,#e945b4
-PSSR-and-PSSD_NounPoss-08,NounPoss-08,PSSR and PSSD,#cd22fd
-LINKER_NounPoss-08,NounPoss-08,LINKER,#edc50d
-JUXT_NounPoss-08,NounPoss-08,JUXT,#5d3b65
-CLAUSE_NounPoss-08,NounPoss-08,CLAUSE,#e23b3b
-CLASS_NounPoss-08,NounPoss-08,CLASS,#3578d8
-NULL_NounPoss-08,NounPoss-08,NULL,#22a984
+PSSR_NounPoss-08,NounPoss-08,PSSR,#016acb
+PSSD_NounPoss-08,NounPoss-08,PSSD,#e63636
+PSSR-and-PSSD_NounPoss-08,NounPoss-08,PSSR and PSSD,#a55891
+LINKER_NounPoss-08,NounPoss-08,LINKER,#783308
+JUXT_NounPoss-08,NounPoss-08,JUXT,#f4cd16
+CLAUSE_NounPoss-08,NounPoss-08,CLAUSE,#f5802f
+CLASS_NounPoss-08,NounPoss-08,CLASS,#7ea455
+NULL_NounPoss-08,NounPoss-08,NULL,#6e6e6e
 ?_NounPoss-08,NounPoss-08,?,
 yes_NounPoss-08a,NounPoss-08a,yes,#016acb
 no_NounPoss-08a,NounPoss-08a,no,#a1a1a1
@@ -724,27 +724,27 @@ NA_NounPoss-08b,NounPoss-08b,NA,
 ?_NounPoss-08b,NounPoss-08b,?,
 PSSR_NounPoss-08c,NounPoss-08c,PSSR,#016acb
 PSSD_NounPoss-08c,NounPoss-08c,PSSD,#e63636
-PSSR-and-PSSD_NounPoss-08c,NounPoss-08c,PSSR and PSSD,#9a4667
+PSSR-and-PSSD_NounPoss-08c,NounPoss-08c,PSSR and PSSD,#a55891
 NA_NounPoss-08c,NounPoss-08c,NA,
 ?_NounPoss-08c,NounPoss-08c,?,
-PSSR_NounPoss-09,NounPoss-09,PSSR,#2afe00
-PSSD_NounPoss-09,NounPoss-09,PSSD,#e740b2
-PSSR-and-PSSD_NounPoss-09,NounPoss-09,PSSR and PSSD,#c700fa
-LINKER_NounPoss-09,NounPoss-09,LINKER,#f3c900
-JUXT_NounPoss-09,NounPoss-09,JUXT,#58406c
-CLAUSE_NounPoss-09,NounPoss-09,CLAUSE,#e33d3b
-CLASS_NounPoss-09,NounPoss-09,CLASS,#1677d7
-NULL_NounPoss-09,NounPoss-09,NULL,#22a07d
+PSSR_NounPoss-09,NounPoss-09,PSSR,#016acb
+PSSD_NounPoss-09,NounPoss-09,PSSD,#e63636
+PSSR-and-PSSD_NounPoss-09,NounPoss-09,PSSR and PSSD,#9a4667
+LINKER_NounPoss-09,NounPoss-09,LINKER,#783308
+JUXT_NounPoss-09,NounPoss-09,JUXT,#f4cd16
+CLAUSE_NounPoss-09,NounPoss-09,CLAUSE,#f5802f
+CLASS_NounPoss-09,NounPoss-09,CLASS,#7ea455
+NULL_NounPoss-09,NounPoss-09,NULL,#6e6e6e
 NA_NounPoss-09,NounPoss-09,NA,
 ?_NounPoss-09,NounPoss-09,?,
-PSSR_NounPoss-10,NounPoss-10,PSSR,#38fd00
-PSSD_NounPoss-10,NounPoss-10,PSSD,#e235ac
-PSSR-and-PSSD_NounPoss-10,NounPoss-10,PSSR and PSSD,#d20dff
-LINKER_NounPoss-10,NounPoss-10,LINKER,#f5cc0d
-JUXT_NounPoss-10,NounPoss-10,JUXT,#63386a
-CLAUSE_NounPoss-10,NounPoss-10,CLAUSE,#e73d3d
-CLASS_NounPoss-10,NounPoss-10,CLASS,#3272d6
-NULL_NounPoss-10,NounPoss-10,NULL,#0da383
+PSSR_NounPoss-10,NounPoss-10,PSSR,#016acb
+PSSD_NounPoss-10,NounPoss-10,PSSD,#e63636
+PSSR-and-PSSD_NounPoss-10,NounPoss-10,PSSR and PSSD,#a55891
+LINKER_NounPoss-10,NounPoss-10,LINKER,#783308
+JUXT_NounPoss-10,NounPoss-10,JUXT,#f4cd16
+CLAUSE_NounPoss-10,NounPoss-10,CLAUSE,#f5802f
+CLASS_NounPoss-10,NounPoss-10,CLASS,#7ea455
+NULL_NounPoss-10,NounPoss-10,NULL,#6e6e6e
 NA_NounPoss-10,NounPoss-10,NA,
 ?_NounPoss-10,NounPoss-10,?,
 Noun_NounPoss-11,NounPoss-11,Noun,#00deff

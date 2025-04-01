@@ -21,7 +21,7 @@ For instance, Seri \[seri1257\] (isolate; Mexico) could be argued to have a smal
 
 ## Features
 ### [](ParameterTable#cldf:Attr-01)
-&emsp;**{ adjective | modifier | adverb | noun | verb | predicative only }**
+&emsp;**{ adjective | modifier | adverb | noun | verb | NA }**
 
 As described in the [“What?” section](#what), the possible syntactic categories are determined by reference to the noun and verb categories, which we assume to be distinguishable for every language.
 
@@ -35,7 +35,7 @@ A &lt;noun&gt; category signifies that there is no syntactic differentiation bet
 
 A &lt;verb&gt; category signifies that there is no syntactic differentiation between attributive nominal modifiers and verbs as a lexical category. We do not distinguish among the syntactic requirements for the verb category to be used attributively. There are a variety of ways a language may mark verbs in their attributive use case: the use of an overt relative pronoun and a subordinate clause (e.g., *the dog **who** is-big*), some dedicated derivational or inflectional morphology marking the verb as attributive, or verbs may be used attributively with no marking whatsoever. This feature does not distinguish between these syntactic requirements, but only encodes the lexical category of the attributive modifiers. When sources described a subordinate clause, this was entered into the remarks.
 
-The &lt;predicative only&gt; category indicates that property concepts are only expressed predicatively, and cannot attributively modify a noun within a noun phrase. In such languages, it is not possible to create phrases such as *the red house*: the semantics of ‘red’ must always be expressed predicatively, either in a clause in which ‘red’ is the sole predicate (‘it is red’), or by adding the concept property to the main predicate, e.g. through affixation.
+The &lt;NA&gt; category indicates that property concepts are only expressed predicatively, and cannot attributively modify a noun within a noun phrase. In such languages, it is not possible to create phrases such as *the red house*: the semantics of ‘red’ must always be expressed predicatively, either in a clause in which ‘red’ is the sole predicate (‘it is red’), or by adding the concept property to the main predicate, e.g. through affixation.
 
 #### adjective: Nanti \[nant1250\] (Arawakan; Peru)
 

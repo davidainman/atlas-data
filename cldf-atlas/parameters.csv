@@ -33,10 +33,10 @@ Appr-08,Appr,Lest or negative purposive,"If <yes> to Appr-06, can the precaution
 Appr-09,Appr,Fear complementation,"If <yes> to Appr-01, can (at least one of) the apprehensional construction(s) express fear-complementation?",yes | no | NA,"""single-valued""",FALSE
 Appr-10,Appr,Timitive,"If <yes> to Appr-01, can (at least one of) the apprehensional construction(s) express the timitive function?",yes | no | NA,"""single-valued""",FALSE
 Appr-11,Appr,Timitive agent control,"If <yes> to Appr-10, can the main verb of a timitive construction be [-control]?",yes | no | NA,"""single-valued""",FALSE
-Appr-12,Appr,Apprehensional function list,How many apprehensional morphemes are there and how are they distributed over the four functions of the apprehensional domain?,NA | [ A & P & T & F ],"""single-valued""",FALSE
+Appr-12,Appr,Apprehensional function list,How many apprehensional morphemes are there and how are they distributed over the four functions of the apprehensional domain?,NA | [ A & P & T & F ],"""multi-valued""",FALSE
 Appr-12a,Appr,Apprehensional count,How many apprehensional morphemes are present?,NA | _number_,"""integer""",TRUE
 Appr-12b,Appr,Apprehensional functions,"Which functions are covered by the language’s apprehensional morphemes, regardless of whether they are split among multiple morphemes?","NA | ; separated list of [ A, P, T, F ]","""multi-valued""",TRUE
-Attr-01,Attr,Attributive part of speech,"To what lexical category do the stems of nominal attributive modifiers belong, if attributive modification is possible?",adjective | modifier | adverb | noun | verb | predicative only,"""single-valued""",FALSE
+Attr-01,Attr,Attributive part of speech,"To what lexical category do the stems of nominal attributive modifiers belong?",adjective | modifier | adverb | noun | verb | NA,"""single-valued""",FALSE
 Attr-01a,Attr,Attributive class type,"Is the lexical category of the stems of attributive modifiers equivalent to nouns, equivalent to verbs, or does it belong to a part of speech which is dedicated to modification?",noun | verb | modifier pos | NA,"""single-valued""",TRUE
 Attr-02,Attr,Adjective class open,"If the answer to Attr-01 is <adjective> or <modifier>, is the adjective/modifier category an open or a closed class?",NA | open | open but | closed,"""single-valued""",FALSE
 Attr-03,Attr,Closed adjective order,"If the answer to Attr-02 was <open but>, what is the basic word order for the second class of attributive Adjective and Noun?",NA | adj-n | n-adj | no dominant order,"""single-valued""",FALSE
