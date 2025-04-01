@@ -616,12 +616,12 @@ s-e_MonPl-06,MonPl-06,SE,
 s-p-e-noun_MonPl-06,MonPl-06,SPE & noun,
 NA_MonPl-06,MonPl-06,NA,
 ?_MonPl-06,MonPl-06,?,
-None_MonPl-06a,MonPl-06a,None,#462255
-noun_MonPl-06a,MonPl-06a,noun,#f0c808
-pronoun_MonPl-06a,MonPl-06a,pronoun,#e33bae
-adjective_MonPl-06a,MonPl-06a,adjective,#016acb
-demonstrative_MonPl-06a,MonPl-06a,demonstrative,#e03a3a
-other_MonPl-06a,MonPl-06a,other,#1fa380
+None_MonPl-06a,MonPl-06a,None,#a1a1a1
+noun_MonPl-06a,MonPl-06a,noun,#016acb
+pronoun_MonPl-06a,MonPl-06a,pronoun,#f4cd16
+adjective_MonPl-06a,MonPl-06a,adjective,#e63636
+demonstrative_MonPl-06a,MonPl-06a,demonstrative,#7ea455
+other_MonPl-06a,MonPl-06a,other,#b15091
 NA_MonPl-06a,MonPl-06a,NA,
 ?_MonPl-06a,MonPl-06a,?,
 yes_MonPl-06b,MonPl-06b,yes,#016acb
@@ -705,14 +705,14 @@ animals_NounPoss-07,NounPoss-07,animals,#f4cd16
 names_NounPoss-07,NounPoss-07,names,#b15091
 NA_NounPoss-07,NounPoss-07,NA,
 ?_NounPoss-07,NounPoss-07,?,
-PSSR_NounPoss-08,NounPoss-08,PSSR,#2efd16
-PSSD_NounPoss-08,NounPoss-08,PSSD,#e945b4
-PSSR-and-PSSD_NounPoss-08,NounPoss-08,PSSR and PSSD,#cd22fd
-LINKER_NounPoss-08,NounPoss-08,LINKER,#edc50d
-JUXT_NounPoss-08,NounPoss-08,JUXT,#5d3b65
-CLAUSE_NounPoss-08,NounPoss-08,CLAUSE,#e23b3b
-CLASS_NounPoss-08,NounPoss-08,CLASS,#3578d8
-NULL_NounPoss-08,NounPoss-08,NULL,#22a984
+PSSR_NounPoss-08,NounPoss-08,PSSR,#016acb
+PSSD_NounPoss-08,NounPoss-08,PSSD,#e63636
+PSSR-and-PSSD_NounPoss-08,NounPoss-08,PSSR and PSSD,#a55891
+LINKER_NounPoss-08,NounPoss-08,LINKER,#783308
+JUXT_NounPoss-08,NounPoss-08,JUXT,#f4cd16
+CLAUSE_NounPoss-08,NounPoss-08,CLAUSE,#f5802f
+CLASS_NounPoss-08,NounPoss-08,CLASS,#7ea455
+NULL_NounPoss-08,NounPoss-08,NULL,#6e6e6e
 ?_NounPoss-08,NounPoss-08,?,
 yes_NounPoss-08a,NounPoss-08a,yes,#016acb
 no_NounPoss-08a,NounPoss-08a,no,#a1a1a1
@@ -724,27 +724,27 @@ NA_NounPoss-08b,NounPoss-08b,NA,
 ?_NounPoss-08b,NounPoss-08b,?,
 PSSR_NounPoss-08c,NounPoss-08c,PSSR,#016acb
 PSSD_NounPoss-08c,NounPoss-08c,PSSD,#e63636
-PSSR-and-PSSD_NounPoss-08c,NounPoss-08c,PSSR and PSSD,#9a4667
+PSSR-and-PSSD_NounPoss-08c,NounPoss-08c,PSSR and PSSD,#a55891
 NA_NounPoss-08c,NounPoss-08c,NA,
 ?_NounPoss-08c,NounPoss-08c,?,
-PSSR_NounPoss-09,NounPoss-09,PSSR,#2afe00
-PSSD_NounPoss-09,NounPoss-09,PSSD,#e740b2
-PSSR-and-PSSD_NounPoss-09,NounPoss-09,PSSR and PSSD,#c700fa
-LINKER_NounPoss-09,NounPoss-09,LINKER,#f3c900
-JUXT_NounPoss-09,NounPoss-09,JUXT,#58406c
-CLAUSE_NounPoss-09,NounPoss-09,CLAUSE,#e33d3b
-CLASS_NounPoss-09,NounPoss-09,CLASS,#1677d7
-NULL_NounPoss-09,NounPoss-09,NULL,#22a07d
+PSSR_NounPoss-09,NounPoss-09,PSSR,#016acb
+PSSD_NounPoss-09,NounPoss-09,PSSD,#e63636
+PSSR-and-PSSD_NounPoss-09,NounPoss-09,PSSR and PSSD,#9a4667
+LINKER_NounPoss-09,NounPoss-09,LINKER,#783308
+JUXT_NounPoss-09,NounPoss-09,JUXT,#f4cd16
+CLAUSE_NounPoss-09,NounPoss-09,CLAUSE,#f5802f
+CLASS_NounPoss-09,NounPoss-09,CLASS,#7ea455
+NULL_NounPoss-09,NounPoss-09,NULL,#6e6e6e
 NA_NounPoss-09,NounPoss-09,NA,
 ?_NounPoss-09,NounPoss-09,?,
-PSSR_NounPoss-10,NounPoss-10,PSSR,#38fd00
-PSSD_NounPoss-10,NounPoss-10,PSSD,#e235ac
-PSSR-and-PSSD_NounPoss-10,NounPoss-10,PSSR and PSSD,#d20dff
-LINKER_NounPoss-10,NounPoss-10,LINKER,#f5cc0d
-JUXT_NounPoss-10,NounPoss-10,JUXT,#63386a
-CLAUSE_NounPoss-10,NounPoss-10,CLAUSE,#e73d3d
-CLASS_NounPoss-10,NounPoss-10,CLASS,#3272d6
-NULL_NounPoss-10,NounPoss-10,NULL,#0da383
+PSSR_NounPoss-10,NounPoss-10,PSSR,#016acb
+PSSD_NounPoss-10,NounPoss-10,PSSD,#e63636
+PSSR-and-PSSD_NounPoss-10,NounPoss-10,PSSR and PSSD,#a55891
+LINKER_NounPoss-10,NounPoss-10,LINKER,#783308
+JUXT_NounPoss-10,NounPoss-10,JUXT,#f4cd16
+CLAUSE_NounPoss-10,NounPoss-10,CLAUSE,#f5802f
+CLASS_NounPoss-10,NounPoss-10,CLASS,#7ea455
+NULL_NounPoss-10,NounPoss-10,NULL,#6e6e6e
 NA_NounPoss-10,NounPoss-10,NA,
 ?_NounPoss-10,NounPoss-10,?,
 Noun_NounPoss-11,NounPoss-11,Noun,#00deff
