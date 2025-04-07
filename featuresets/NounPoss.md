@@ -633,7 +633,7 @@ In Palikúr, inalienable nouns are possessed with the addition of a (mostly) pr
 In Palikúr, there are two conceptually non-possessible classes, as explained [above](#nounposs-04-how-many-conceptually-non-possessible-possession-classes-are-there). For the class of plants and animals, the possession construction makes use of a classifier which enters the standard possession construction instead of the possessed noun. For the class of inanimate natural elements, the possession construction is NULL, since they cannot be possessed at all ([Launey 2003](Source#cldf:launey2003palikur)).
 
 ### [](ParameterTable#cldf:NounPoss-11)
-&emsp;**{ NA | ; separated list of \[ Noun, NULL, SPECIAL\_MARKER, ARTICLE, 1SG, 1PL, 1INCL, 3, 3SG, 3SG.N, 3SG.M, 3.INAN, 3.INDEF \] }**
+&emsp;**{ NA | ; separated list of \[ Noun, NULL, SPECIAL\_MARKER, ARTICLE, 1PL, 1INCL, 3, 3SG, 3SG.F, 3.INAN, 3.INDEF \] }**
 
 #### SPECIAL\_MARKER: Palikúr \[pali1279\] (Arawakan; Brazil, French Guiana)
 
