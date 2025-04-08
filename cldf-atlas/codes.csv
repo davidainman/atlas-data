@@ -952,9 +952,9 @@ NA_Ppron-09a,Ppron-09a,NA,
 yes_SgPl-01,SgPl-01,yes,#016acb
 no_SgPl-01,SgPl-01,no,#a1a1a1
 ?_SgPl-01,SgPl-01,?,
-Sg-Pl_SgPl-01a,SgPl-01a,Sg-Pl,#016acb
-irregular-MonoPl_SgPl-01a,SgPl-01a,irregular MonoPl,#e63636
-Sg-Pl-and-irregular-MonoPl_SgPl-01a,SgPl-01a,Sg-Pl and irregular MonoPl,#9a4667
+singular-plural-alternation_SgPl-01a,SgPl-01a,singular-plural alternation,#016acb
+irregular-monoexponential-plural_SgPl-01a,SgPl-01a,irregular monoexponential plural,#e63636
+both_SgPl-01a,SgPl-01a,both,#9a4667
 none_SgPl-01a,SgPl-01a,none,#a1a1a1
 ?_SgPl-01a,SgPl-01a,?,
 yes_SgPl-01b,SgPl-01b,yes,#016acb
@@ -1146,9 +1146,9 @@ no_SocCaus-01,SocCaus-01,no,#a1a1a1
 ?_SocCaus-01,SocCaus-01,?,
 morpheme_SocCaus-02,SocCaus-02,morpheme,#016acb
 special-causee_SocCaus-02,SocCaus-02,special causee,#e63636
-caus-and-appl_SocCaus-02,SocCaus-02,caus-and-appl,#f4cd16
-dir-and-indir-caus_SocCaus-02,SocCaus-02,dir-and-indir-caus,#7ea455
-caus-and-other_SocCaus-02,SocCaus-02,caus-and-other,#b15091
+causative-and-applicative_SocCaus-02,SocCaus-02,causative-and-applicative,#f4cd16
+direct-and-indirect-causative_SocCaus-02,SocCaus-02,direct-and-indirect-caus,#7ea455
+causative-and-other_SocCaus-02,SocCaus-02,causative-and-other,#b15091
 NA_SocCaus-02,SocCaus-02,NA,
 ?_SocCaus-02,SocCaus-02,?,
 joint-action_SocCaus-03,SocCaus-03,joint action,#016acb

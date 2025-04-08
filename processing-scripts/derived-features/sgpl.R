@@ -4,9 +4,9 @@ processSgPl <- function(featurestable, verblist, lgnames, warnings, errors) {
   
   #SgPl-01a
   stateCol <- ifelse(featurestable$`SgPl-01` == '?' | featurestable$`MonPl-02` == '?', '?',
-              ifelse(featurestable$`SgPl-01` == 'yes' & featurestable$`MonPl-02` == 'yes', 'Sg-Pl and irregular MonoPl',
-              ifelse(featurestable$`SgPl-01` == 'no' & featurestable$`MonPl-02` == 'yes', 'irregular MonoPl',
-              ifelse((featurestable$`SgPl-01` == 'yes' & featurestable$`MonPl-02` == 'no') | (featurestable$`SgPl-01` == 'yes' & featurestable$`MonPl-02` == 'NA'), 'Sg-Pl',
+              ifelse(featurestable$`SgPl-01` == 'yes' & featurestable$`MonPl-02` == 'yes', 'both',
+              ifelse(featurestable$`SgPl-01` == 'no' & featurestable$`MonPl-02` == 'yes', 'irregular monoexponential plural',
+              ifelse((featurestable$`SgPl-01` == 'yes' & featurestable$`MonPl-02` == 'no') | (featurestable$`SgPl-01` == 'yes' & featurestable$`MonPl-02` == 'NA'), 'singular-plural alternation',
               ifelse((featurestable$`SgPl-01` == 'no' & featurestable$`MonPl-02` == 'no') | (featurestable$`SgPl-01` == 'no' & featurestable$`MonPl-02` == 'NA'), 'none', 'ERROR: Impossible state!')))))
   sourceCol <- collapseSourceColumns(list(featurestable$`SgPl-01.Source`, featurestable$`MonPl-02.Source`))
   coderCol <- lapply(paste0(featurestable$`SgPl-01.Coder`, ';', featurestable$`MonPl-02.Coder`), collapseCoders)
