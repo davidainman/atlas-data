@@ -197,19 +197,19 @@ no_Appr-11,Appr-11,no,#a1a1a1
 NA_Appr-11,Appr-11,NA,
 ?_Appr-11,Appr-11,?,
 NA_Appr-12,Appr-12,NA,
-a_Appr-12,Appr-12,A,#016acb
-f_Appr-12,Appr-12,F,#f4cd16
-a-f_Appr-12,Appr-12,A & F,#7b9c71
-p_Appr-12,Appr-12,P,#f74f74
+a_Appr-12,Appr-12,A (apprehensive),#016acb
+p_Appr-12,Appr-12,P (precautioning),#f74f74
+t_Appr-12,Appr-12,T (timitive),#59fcff
+f_Appr-12,Appr-12,F (fear-complementation),#f4cd16
 a-p_Appr-12,Appr-12,A & P,#a6418b
-f-p_Appr-12,Appr-12,F & P,#f5802f
-a-f-p_Appr-12,Appr-12,A & F & P,#783308
-t_Appr-12,Appr-12,T,#59fcff
 a-t_Appr-12,Appr-12,A & T,#a1a1a1
-f-t_Appr-12,Appr-12,F & T,#a7e58b
-a-f-t_Appr-12,Appr-12,A & F & T,#a1a1a1
+a-f_Appr-12,Appr-12,A & F,#7b9c71
 p-t_Appr-12,Appr-12,P & T,#c6b0ff
+f-p_Appr-12,Appr-12,F & P,#f5802f
+f-t_Appr-12,Appr-12,F & T,#a7e58b
 a-p-t_Appr-12,Appr-12,A & P & T,#a161c9
+a-f-p_Appr-12,Appr-12,A & F & P,#783308
+a-f-t_Appr-12,Appr-12,A & F & T,#a1a1a1
 f-p-t_Appr-12,Appr-12,F & P & T,#e3ae6d
 a-f-p-t_Appr-12,Appr-12,A & F & P & T,#a1a1a1
 ?_Appr-12,Appr-12,?,
@@ -373,7 +373,7 @@ NA_Gend-02,Gend-02,NA,
 speaker_Gend-03,Gend-03,speaker,#f0c808
 addressee_Gend-03,Gend-03,addressee,#016acb
 both_Gend-03,Gend-03,both,#e03a3a
-mixed_Gend-03,Gend-03,mixed,#462255
+mixed_Gend-03,Gend-03,mixed,#b15091
 NA_Gend-03,Gend-03,NA,
 ?_Gend-03,Gend-03,?,
 speaker_Gend-03a,Gend-03a,speaker,#016acb
@@ -1178,33 +1178,33 @@ appl_SocCaus-07,SocCaus-07,appl,#016acb
 copart_SocCaus-07,SocCaus-07,copart,#fac92d
 other_SocCaus-07,SocCaus-07,other,#a1a1a1
 ?_SocCaus-07,SocCaus-07,?,
-1_Syll-01,Syll-01,1,#000080
-2_Syll-01,Syll-01,2,#001f95
-3_Syll-01,Syll-01,3,#003faa
-4_Syll-01,Syll-01,4,#005fbf
-5_Syll-01,Syll-01,5,#007fd4
-7_Syll-01,Syll-01,7,#009fe9
-8_Syll-01,Syll-01,8,#00bfff
+1_Syll-01,Syll-01,1,#fcc7c7
+2_Syll-01,Syll-01,2,#ed9fa4
+3_Syll-01,Syll-01,3,#df7880
+4_Syll-01,Syll-01,4,#d0505d
+5_Syll-01,Syll-01,5,#c22939
+7_Syll-01,Syll-01,7,#b30116
+8_Syll-01,Syll-01,8,#b30116
 ?_Syll-01,Syll-01,?,
-0_Syll-02,Syll-02,0,#000080
-1_Syll-02,Syll-02,1,#002699
-2_Syll-02,Syll-02,2,#004cb2
-3_Syll-02,Syll-02,3,#0072cc
-4_Syll-02,Syll-02,4,#0098e5
-5_Syll-02,Syll-02,5,#00bfff
+0_Syll-02,Syll-02,0,#fcc7c7
+1_Syll-02,Syll-02,1,#ed9fa4
+2_Syll-02,Syll-02,2,#df7880
+3_Syll-02,Syll-02,3,#d0505d
+4_Syll-02,Syll-02,4,#c22939
+5_Syll-02,Syll-02,5,#b30116
 ?_Syll-02,Syll-02,?,
-1_Syll-03,Syll-03,1,#000080
-2_Syll-03,Syll-03,2,#0045ae
-3_Syll-03,Syll-03,3,#0056b9
-4_Syll-03,Syll-03,4,#0068c5
-5_Syll-03,Syll-03,5,#0079d0
-6_Syll-03,Syll-03,6,#008adc
-7_Syll-03,Syll-03,7,#009ce7
-8_Syll-03,Syll-03,8,#00adf3
-9_Syll-03,Syll-03,9,#00bfff
-10_Syll-03,Syll-03,10,#00118b
-12_Syll-03,Syll-03,12,#002297
-13_Syll-03,Syll-03,13,#0034a2
+1_Syll-03,Syll-03,1,#fcc7c7
+2_Syll-03,Syll-03,2,#f2abae
+3_Syll-03,Syll-03,3,#e78e94
+4_Syll-03,Syll-03,4,#dd727b
+5_Syll-03,Syll-03,5,#d25662
+6_Syll-03,Syll-03,6,#c83a49
+7_Syll-03,Syll-03,7,#bd1d2f
+8_Syll-03,Syll-03,8,#bd1d2f
+9_Syll-03,Syll-03,9,#b30116
+10_Syll-03,Syll-03,10,#b30116
+12_Syll-03,Syll-03,12,#b30116
+13_Syll-03,Syll-03,13,#b30116
 ?_Syll-03,Syll-03,?,
 s_Syll-04,Syll-04,simple,#fcc7c7
 mc_Syll-04,Syll-04,moderately complex,#e4858c
@@ -1227,13 +1227,13 @@ contrastive_ToneProm-01a,ToneProm-01a,contrastive,#016acb
 non-contrastive_ToneProm-01a,ToneProm-01a,non-contrastive,#e63636
 NA_ToneProm-01a,ToneProm-01a,NA,
 ?_ToneProm-01a,ToneProm-01a,?,
-amplitude_ToneProm-02,ToneProm-02,amplitude,#0070d2
-duration_ToneProm-02,ToneProm-02,duration,#16a383
-amplitude-duration_ToneProm-02,ToneProm-02,amplitude & duration,#df3b35
-pitch_ToneProm-02,ToneProm-02,pitch,#0dfe0d
-amplitude-pitch_ToneProm-02,ToneProm-02,amplitude & pitch,#ecc500
-duration-pitch_ToneProm-02,ToneProm-02,duration & pitch,#de35a9
-amplitude-duration-pitch_ToneProm-02,ToneProm-02,amplitude & duration & pitch,#5a406c
+amplitude_ToneProm-02,ToneProm-02,amplitude,#016acb
+pitch_ToneProm-02,ToneProm-02,pitch,#f74f74
+duration_ToneProm-02,ToneProm-02,duration,#f4cd16
+amplitude-pitch_ToneProm-02,ToneProm-02,amplitude & pitch,#a6418b
+amplitude-duration_ToneProm-02,ToneProm-02,amplitude & duration,#5fa84a
+duration-pitch_ToneProm-02,ToneProm-02,duration & pitch,#f5802f
+amplitude-duration-pitch_ToneProm-02,ToneProm-02,amplitude & duration & pitch,#783308
 NA_ToneProm-02,ToneProm-02,NA,
 ?_ToneProm-02,ToneProm-02,?,
 amplitude_ToneProm-02a,ToneProm-02a,amplitude,#016acb
@@ -1279,11 +1279,11 @@ grammatical_ToneProm-10,ToneProm-10,grammatical,#e63636
 both_ToneProm-10,ToneProm-10,both,#9a4667
 NA_ToneProm-10,ToneProm-10,NA,
 ?_ToneProm-10,ToneProm-10,?,
-2_ToneProm-11,ToneProm-11,2,#000080
-3_ToneProm-11,ToneProm-11,3,#002f9f
-4_ToneProm-11,ToneProm-11,4,#005fbf
-6_ToneProm-11,ToneProm-11,6,#008fdf
-8_ToneProm-11,ToneProm-11,8,#00bfff
+2_ToneProm-11,ToneProm-11,2,#fcc7c7
+3_ToneProm-11,ToneProm-11,3,#ea969b
+4_ToneProm-11,ToneProm-11,4,#d8646f
+6_ToneProm-11,ToneProm-11,6,#c53342
+8_ToneProm-11,ToneProm-11,8,#b30116
 NA_ToneProm-11,ToneProm-11,NA,
 ?_ToneProm-11,ToneProm-11,?,
 2_ToneProm-11a,ToneProm-11a,2,#87b8e6
@@ -1315,17 +1315,16 @@ yes_VelUv-02a,VelUv-02a,yes,#016acb
 no_VelUv-02a,VelUv-02a,no,#a1a1a1
 NA_VelUv-02a,VelUv-02a,NA,
 ?_VelUv-02a,VelUv-02a,?,
-no-dominant-order_WO-01,WO-01,no dominant order,#166dce
-svo_WO-01,WO-01,SVO,#3dfb00
-sov_WO-01,WO-01,SOV,#e23daf
-vso_WO-01,WO-01,VSO,#bbee80
-ovs_WO-01,WO-01,OVS,#f3cb1c
-osv_WO-01,WO-01,OSV,#e94542
-vos_WO-01,WO-01,VOS,#16dafb
-v-first_WO-01,WO-01,V-first,#c70dfa
-v-last_WO-01,WO-01,V-last,#ffb6b6
-s-last_WO-01,WO-01,S-last,#2a9f7d
-other_WO-01,WO-01,other,#5a3b6c
+no-dominant-order_WO-01,WO-01,no dominant order,#a1a1a1
+sov_WO-01,WO-01,SOV,#016acb
+svo_WO-01,WO-01,SVO,#f4cd16
+vso_WO-01,WO-01,VSO,#f74f74
+ovs_WO-01,WO-01,OVS,#bb6d38
+osv_WO-01,WO-01,OSV,#71aa5b
+vos_WO-01,WO-01,VOS,#a4509b
+v-first_WO-01,WO-01,V-first,#ce5088
+v-last_WO-01,WO-01,V-last,#2da7b5
+s-last_WO-01,WO-01,S-last,#85464f
 ?_WO-01,WO-01,?,
 yes_WO-01a,WO-01a,yes,#016acb
 no_WO-01a,WO-01a,no,#e63636
