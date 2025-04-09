@@ -5,7 +5,7 @@ processApprehensional <- function(featurestable, lgnames, warnings, errors) {
   #Appr-12a
   stateCol <- ifelse(featurestable$`Appr-12` == 'NA', 'NA',
               ifelse(featurestable$`Appr-12` == '?', '?',
-              str_count(featurestable$`Appr-12`, ';;') + 1))
+              str_count(gsub(" \\(apprehensive\\)| \\(precautioning\\)| \\(timitive\\)| \\(fear-complementation\\)","", featurestable$`Appr-12`), ';;') + 1))
   sourceCol <- featurestable$`Appr-12.Source`
   coderCol <- featurestable$`Appr-12.Coder`
   featurestable <- addDerivedState(featurestable, 'Appr-12a', stateCol, sourceCol, coderCol)
@@ -13,7 +13,7 @@ processApprehensional <- function(featurestable, lgnames, warnings, errors) {
   #Appr-12b
   stateCol <- ifelse(featurestable$`Appr-01` == 'no', 'NA',
               ifelse(featurestable$`Appr-12` == '?', '?',
-              sapply(featurestable$`Appr-12`, function(x) paste0(unique(trimws(unlist(strsplit(x, ';;|&')))), collapse=';;'))))
+              sapply(gsub(" \\(apprehensive\\)| \\(precautioning\\)| \\(timitive\\)| \\(fear-complementation\\)","", featurestable$`Appr-12`), function(x) paste0(unique(trimws(unlist(strsplit(x, ';;|&')))), collapse=';;'))))
   sourceCol <- featurestable$`Appr-12.Source`
   coderCol <- featurestable$`Appr-12.Coder`
   featurestable <- addDerivedState(featurestable, 'Appr-12b', stateCol, sourceCol, coderCol)

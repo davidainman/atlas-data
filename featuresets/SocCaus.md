@@ -307,7 +307,7 @@ Example (1) above shows that the marker *se-* can express the three semantic sub
 </table>
 
 ### [](ParameterTable#cldf:SocCaus-02)
-&emsp;**{ NA | morpheme | special CAUSEE | DIR-and-INDIR-CAUS | CAUS-and-APPL | CAUS-and-other }**
+&emsp;**{ NA | morpheme | special causee | direct-and-indirect-causative | causative-and-applicative | causative-and-other }**
 
 SocCaus-02 explores the five formal categories we have distinguished, listed below. The number which follows each type indicates the number of the example the category is illustrated in.
 
@@ -323,7 +323,7 @@ SocCaus-02 explores the five formal categories we have distinguished, listed bel
 #### morpheme: Alamblak \[alam1246\] (Sepik; Papua New Guinea)
 The sociative causative marker *-ha* only encodes sociative causation, as illustrated in (2a) above.
 
-#### special CAUSEE: Eastern Panjabic \[east2727\] (Indo-European; Bangladesh, India, Pakistan)
+#### special causee: Eastern Panjabic \[east2727\] (Indo-European; Bangladesh, India, Pakistan)
 The sociative causative is conveyed by the regular causative marker, but the causee is encoded in a special way. As can be seen in (4b), there is an extra accusative/dative marker on the causee, which is absent in the regular causative meaning illustrated in (4a) ([Khokhlova 2003](Source#cldf:khokhlova2003secondcausative), cited in [Guillaume and Rose 2007](Source#cldf:guillaume2007sociativecausative)).
 
 <table class="tg">
@@ -399,7 +399,7 @@ The sociative causative is conveyed by the regular causative marker, but the cau
 </tbody>
 </table>
 
-#### DIR-and-INDIR-CAUS: Apalai \[apal1257\] (Cariban; Brazil)
+#### direct-and-indirect-causative: Apalai \[apal1257\] (Cariban; Brazil)
 Sociative causation is conveyed by a combination of the direct causative marker with the indirect causative marker in Apalai ([Koehn and Koehn 1986: 49-51](Source#cldf:koehn1986apalai), cited in [Guillaume and Rose 2007](Source#cldf:guillaume2007sociativecausative)).
 
 <table class="tg">
@@ -493,7 +493,7 @@ Sociative causation is conveyed by a combination of the direct causative marker 
 </tbody>
 </table>
 
-#### CAUS-and-APPL: Ese Ejja \[esee1248\] (Pano-Tacanan; Bolivia, Peru)
+#### causative-and-applicative: Ese Ejja \[esee1248\] (Pano-Tacanan; Bolivia, Peru)
 Ese Ejja expresses sociative causation with the transparent combination of the causative marker *-mee* ([Vuillermet 2012: 509](Source#cldf:vuillermet2012eseejja)), illustrated in (6a), and the comitative applicative *-sawa*, illustrated in (6b). 
 
 <table class="tg">
@@ -604,7 +604,7 @@ Note that in other languages, a similar combination might not necessarily encode
 </tbody>
 </table>
 
-#### CAUS-and-other: Nande \[nand1264\] (Bantu; Democratic Republic of the Congo, Uganda)
+#### causative-and-other: Nande \[nand1264\] (Bantu; Democratic Republic of the Congo, Uganda)
 Sociative causation is conveyed by the combination of a causative marker plus another marker that is not another causative or applicative marker. This state is heterogeneous in comparison to the previous ones, since the second morpheme can have different functions across languages. For instance, [Schneider-Zioga and Mutaka (2019: 281)](Source#cldf:schneiderzioga2019helping) describe a sociative causative construction in Nande (aka Kinande) that combines a (direct) causative marker and a middle marker[^4] that synchronically conveys a sociative causative meaning exclusively.
 
 <table class="tg">
@@ -659,7 +659,7 @@ This question checks whether the construction is attested
 
 
 ### [](ParameterTable#cldf:SocCaus-07)
-&emsp;**{ ; separated list of \[ DIR.CAUS, INDIR.CAUS, REC, APPL, COPART, other \] }**
+&emsp;**{ ; separated list of \[ direct-causative, indirect-causative, reciprocal, applicative, co-participative, other \] }**
 
 SocCaus-07 distinguishes 6 formal categories listed below. The number following each category corresponds to the example number illustrating each type. 
 
@@ -674,7 +674,7 @@ SocCaus-07 distinguishes 6 formal categories listed below. The number following 
 
 Note that it is possible for a language (e.g. Yanomami, as discussed in [Perri Ferreira 2017](Source#cldf:ferreira2017yanomama): 488-493) to have more than one non-dedicated construction.
 
-#### DIR.CAUS: Nanti \[nant1250\] (Arawakan; Peru)
+#### direct-causative: Nanti \[nant1250\] (Arawakan; Peru)
 The &lt;DIR.CAUS&gt; state indicates that indicates that sociative causation can be conveyed by a **general causative** marker or by a marker of **direct causation** (if the language shows a formal distinction between direct and indirect causation). In Nanti ([Michael 2008](Source#cldf:michael2008nanti): 280), the "agent causation" morpheme *ogi* mostly expresses direct causation (9a), but can also express sociative causation (9b).
 
 <table class="tg">
@@ -734,7 +734,7 @@ The &lt;DIR.CAUS&gt; state indicates that indicates that sociative causation can
 </tbody>
 </table>
 
-#### INDIR.CAUS: Nanti \[nant1250\] (Arawakan; Peru)
+#### indirect-causative: Nanti \[nant1250\] (Arawakan; Peru)
 Sociative causation can be conveyed by an indirect causative marker (if the language shows a formal distinction between direct and indirect causation), with no specific marking of the causee.
 
 Nanti (Arawakan) also has an indirect causative marker called “influential causation” ([Michael 2008](Source#cldf:michael2008nanti): 284), illustrated in (10). When discussing its semantics, Michael mentions a situation where a causer "bring\[s\] about \[a causee\]'s departure by accompanying them", i.e. a typical sociative causative meaning. (No glossed example illustrates the sociative causative semantics.)
@@ -772,7 +772,7 @@ Nanti (Arawakan) also has an indirect causative marker called “influential cau
 </tbody>
 </table>
 
-#### REC: Bedja \[beja1238\] (Afro-Asiatic; Egypt, Eritrea and Sudan)
+#### reciprocal: Bedja \[beja1238\] (Afro-Asiatic; Egypt, Eritrea and Sudan)
 Sociative causation can be conveyed by a reciprocal marker, as in Bedja ([Roper 1928](Source#cldf:roper1928handbook): 73, cited in [Guillaume and Rose 2007](Source#cldf:guillaume2007sociativecausative)).
 
 <table class="tg">
@@ -832,7 +832,7 @@ Sociative causation can be conveyed by a reciprocal marker, as in Bedja ([Roper 
 </tbody>
 </table>
 
-#### APPL: Sikuani \[guah1255\] (Guahiboan; Colombia and Venezuela)
+#### applicative: Sikuani \[guah1255\] (Guahiboan; Colombia and Venezuela)
 Sociative causation can be conveyed by an applicative marker. In (12a), the Sikuani applicative marker has an instrumental meaning, while in (12b) the same marker expresses sociative causation ([Queixalós 2002](Source#cldf:queixalos2002causative): 320-321).
 
 <table class="tg">
@@ -898,7 +898,7 @@ Sociative causation can be conveyed by an applicative marker. In (12a), the Siku
 </tbody>
 </table>
 
-#### COPART: Yurakaré \[yura1255\] (isolate; Bolivia)
+#### co-participative: Yurakaré \[yura1255\] (isolate; Bolivia)
 Sociative causation can be conveyed by a co-participative marker. [Creissels and Nouguier-Voisin](Source#cldf:creissels2008valencychanging) define co-participation "as applying to constructions that imply a plurality of participants in the event they refer to without assigning them distinct roles." The cooperative marker in Yurakaré ([van Gijn 2006](Source#cldf:vangijn2006yurakare): 150) may express co-participation only (13a) or sociative causation (13b). This morpheme contrasts with the (dedicated) sociative causative construction (called "comitative object" by [van Gijn (2006: 149-150)](Source#cldf:vangijn2006yurakare)), which systematically expresses sociative causation (13c).
 
 <table class="tg">
@@ -971,7 +971,7 @@ Sociative causation can be conveyed by a co-participative marker. [Creissels and
 </tbody>
 </table>
 
-#### Other: Garrwa \[gara1269\] (Garrwan; Australia)
+#### other: Garrwa \[gara1269\] (Garrwan; Australia)
 This state applies if none of the above states is appropriate. The morpheme(s) used to express sociative causation are described in detail in the 'remark' column.
 
 In Garrwa, the suffix *-kunu* associated with the causative -mba creates caused motion verbs from verbs of motions or other verbs, often but not always with a sociative causative interpretation (14a vs. 14b; [Mushin 2012](Source#cldf:mushin2012garrwa): 178-179).
