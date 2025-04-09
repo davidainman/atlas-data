@@ -190,7 +190,7 @@ Ppron-08a,Ppron,"If 1sg ≠ 1pl, 2sg = 2pl","If 1sg is distinct from 1pl (i.e. i
 Ppron-09,Ppron,3sg = 3pl,Can the same form be used for 3rd person singular (or minimal) and 3rd person plural (or augmented) contexts?,NA | no | yes,"""single-valued""",FALSE
 Ppron-09a,Ppron,"If 2sg ≠ 2pl, 3sg = 3pl","If 2sg is distinct from 2pl (i.e. if <no> to Ppron-08a), can the same form be used for 3sg (or minimal) and 3pl (or augmented) contexts?",NA | yes | no,"""single-valued""",TRUE
 SgPl-01,SgPl,Sg-Pl alternation,Does the language have lexically limited Sg-Pl stem alternation in verbs?,yes | no,"""single-valued""",FALSE
-SgPl-01a,SgPl,Sg-Pl alternation or irregular monoexponential plural,Does the language have one or both of Sg-Pl alternation and irregular monoexponential plurals?,Sg-Pl | irregular MonoPl | Sg-Pl and irregular MonoPl | none,"""single-valued""",TRUE
+SgPl-01a,SgPl,Sg-Pl alternation or irregular monoexponential plural,Does the language have one or both of Sg-Pl alternation and irregular monoexponential plurals?,singular-plural alternation | irregular monoexponential plural | both | none,"""single-valued""",TRUE
 SgPl-01b,SgPl,Sg-Pl verb or morphology alternation,Does the language have Sg-Pl alternation in either lexical verbs or verbal morphology?,yes | no,"""single-valued""",TRUE
 SgPl-02,SgPl,Sg-Pl pattern,"If <yes> to SgPl-01, is there a regular pattern among at least some of these verbs to derive the plural meaning?",NA | yes | no common pattern,"""single-valued""",FALSE
 SgPl-03,SgPl,Sg-Pl pattern number,"If <yes> to SgPl-02, how many verb pairs have a regular pattern?",NA | _number_,"""integer""",FALSE
@@ -218,7 +218,7 @@ SgPl-19,SgPl,Sg-Pl morphology,"Does the language have inflectional or derivation
 SgPl-20,SgPl,Sg-Pl pluractional,"If <yes> to SgPl-01, can the pairs also mark aspectual meanings like pluractionality / aspect / iterativity?",NA | yes | no,"""single-valued""",FALSE
 SgPl-21,SgPl,Sg-Pl adj,"If <yes> to SgPl-01, does the language have a lexically limited Sg-Pl stem alternation in adjectives?",NA | yes | in property concept verbs only | no,"""single-valued""",FALSE
 SocCaus-01,SocCaus,Sociative causation,Does the language have a dedicated construction to express sociative causation?,yes | no,"""single-valued""",FALSE
-SocCaus-02,SocCaus,Sociative causation dedicated construction,"If <yes> to SocCaus-01, what type of construction is sociative causation expressed with?",NA | morpheme | special causee | dir-and-indir-caus | caus-and-appl | caus-and-other,"""single-valued""",FALSE
+SocCaus-02,SocCaus,Sociative causation dedicated construction,"If <yes> to SocCaus-01, what type of construction is sociative causation expressed with?",NA | morpheme | special causee | direct-and-indirect-causative | causative-and-applicative | causative-and-other,"""single-valued""",FALSE
 SocCaus-03,SocCaus,Sociative causation semantics,"If <yes> to SocCaus-01, what sociative causation semantic subtypes are attested?","NA | [ joint action , assistive , supervision ]","""multi-valued""",FALSE
 SocCaus-04,SocCaus,Sociative causation motion,"If <yes> to SocCaus-01, what kind of verb semantics is the sociative causative construction attested with?",NA | motion | non-motion | both,"""single-valued""",FALSE
 SocCaus-05,SocCaus,Sociative causation transitivity,"If <yes> to SocCaus-01, what is the transitivity of the verb roots attested with the sociative causative construction?",NA | intransitive | transitive | both,"""single-valued""",FALSE
