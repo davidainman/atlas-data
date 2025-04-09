@@ -1171,11 +1171,11 @@ inanimate_SocCaus-06,SocCaus-06,inanimate,#e63636
 both_SocCaus-06,SocCaus-06,both,#9a4667
 NA_SocCaus-06,SocCaus-06,NA,
 ?_SocCaus-06,SocCaus-06,?,
-dir-caus_SocCaus-07,SocCaus-07,dir-caus,#e63636
-indir-caus_SocCaus-07,SocCaus-07,indir-caus,#ff6190
-rec_SocCaus-07,SocCaus-07,rec,#b15091
-appl_SocCaus-07,SocCaus-07,appl,#016acb
-copart_SocCaus-07,SocCaus-07,copart,#fac92d
+dir-caus_SocCaus-07,SocCaus-07,direct-causative,#e63636
+indir-caus_SocCaus-07,SocCaus-07,indirect-causative,#ff6190
+rec_SocCaus-07,SocCaus-07,reciprocal,#b15091
+appl_SocCaus-07,SocCaus-07,applicative,#016acb
+copart_SocCaus-07,SocCaus-07,co-participative,#fac92d
 other_SocCaus-07,SocCaus-07,other,#a1a1a1
 ?_SocCaus-07,SocCaus-07,?,
 1_Syll-01,Syll-01,1,#fcc7c7
