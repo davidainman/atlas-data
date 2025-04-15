@@ -224,6 +224,16 @@ Table 4: The verb ‘eat’ in Malinaltepec Me’phaa (Otomanguean)
 </table>
 </div>
 
+## Why?
+The phenomenon of singular-plural stem alternation was probably first mentioned by [Boas (1911: 381)](Source#cldf:boas1911tsimishian) in his Tsimshian sketch under the term “irregular plural”, but little attention was paid to the phenomenon until the 1980s. Several crosslinguistic works on verbal number have appeared since: 
+- [Mithun (2022)](Source#cldf:mithun2022together) on about 13 Californian languages;
+- [Booker (1982)](Source#cldf:booker1982karok) on about 32 North American languages;
+- [Krasnoukhova (2022)](Source#cldf:krasnoukhova2022number) on 70 South American languages;
+- [Durie (1986)](Source#cldf:durie1986number) on a worldwide sample of 40 languages;
+- [Veselinova (2013)](Source#cldf:veselinova2013wals) on a worldwide sample of 193 languages
+
+All studies including North American language data emphasize its overwhelming presence in North America, and [Mithun (2022)](Source#cldf:mithun2022together) demonstrates that it is an areal pattern across languages from different families in Northern California. Krasnoukhova's (2022) survey shows that verbal number is also very present in South America, but the phenomenon she surveyed is verbal number more generally: it includes both regular and irregular patterns, expressing event and/or participant number, and be they expressed by reduplication, morphological markers or stem alternation.
+
 ## How?
 Each language in the sample was coded for the 22 features detailed below, which target:
 
@@ -237,16 +247,6 @@ Each language in the sample was coded for the 22 features detailed below, which 
 - and the presence of Sg-Pl alternation in adjectives[^3] ([SgPl-21](#sgpl-21-if-yes-to-sgpl-01-does-the-language-have-a-lexically-limited-sg-pl-stem-alternation-in-adjectives)).
 
 Individual verb pairs were, in addition, entered into a separate [spreadsheet](https://github.com/davidainman/atlas-data/blob/main/cldf-sgpl-verbs/verbs.csv). Each entry in this database is a single verbal pair, and includes the meaning of the pair, the type of alternation (suppletion or regular pattern, and bi- or tripartite pattern, see features [SgPl-02](#sgpl-02-if-yes-to-sgpl-01-is-there-a-regular-pattern-among-at-least-some-of-these-verbs-to-derive-the-plural-meaning), [SgPl-04](#sgpl-04-if-yes-to-sgpl-01-is-there-root-suppletion-among-at-least-some-of-the-verbs-to-derive-the-plural-meaning), and [SgPl-18](#sgpl-18-if-yes-to-sgpl-01-what-are-the-number-semantics-of-the-sg-pl-contrast)), a field for comments, and the identification code of the language the pair occurs in. Additional columns for semantic categorization were added post-hoc, based on a semantic gestalt that arose from the table.
-
-## Why?
-The phenomenon of singular-plural stem alternation was probably first mentioned by [Boas (1911: 381)](Source#cldf:boas1911tsimishian) in his Tsimshian sketch under the term “irregular plural”, but little attention was paid to the phenomenon until the 1980s. Several crosslinguistic works on verbal number have appeared since: 
-- [Mithun (2022)](Source#cldf:mithun2022together) on about 13 Californian languages;
-- [Booker (1982)](Source#cldf:booker1982karok) on about 32 North American languages;
-- [Krasnoukhova (2022)](Source#cldf:krasnoukhova2022number) on 70 South American languages;
-- [Durie (1986)](Source#cldf:durie1986number) on a worldwide sample of 40 languages;
-- [Veselinova (2013)](Source#cldf:veselinova2013wals) on a worldwide sample of 193 languages
-
-All studies including North American language data emphasize its overwhelming presence in North America, and [Mithun (2022)](Source#cldf:mithun2022together) demonstrates that it is an areal pattern across languages from different families in Northern California. Krasnoukhova's (2022) survey shows that verbal number is also very present in South America, but the phenomenon she surveyed is verbal number more generally: it includes both regular and irregular patterns, expressing event and/or participant number, and be they expressed by reduplication, morphological markers or stem alternation.
 
 ## Features
 ### [](ParameterTable#cldf:SgPl-01)
