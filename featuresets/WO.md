@@ -96,7 +96,7 @@ Lushootseed does not allow two non-oblique overt third person NPs ([Beck 1996](S
 ### Problem 3: Determining if a language really has no basic word order
 It may be the case that a language truly has no basic word order. However, we attempt to separate languages with truly free word order (where order is flexible even without information structure constraints) and languages with flexible word order (with associated, distinct information structure) that nevertheless have a basic word order.
 
-#### VSO: Russian \[russ1263\] (Indo-European)
+#### SVO: Russian \[russ1263\] (Indo-European)
 Russian has quite free word order depending on the discourse context and information structure, but is typically characterized as having basic SVO word order. [Krupp (1983: 1-2)](Source#cldf:krupp1983russian) summarizes the reasoning for this in three points, which closely follow our assumptions about “basic” order:
 
 1. Approximately 80% of transitive sentences in Russian are SVO.
