@@ -51,7 +51,7 @@ This feature concerns the number of distinct sibilants in a language, all of whi
 Unlike Cor-01-Cor-03, this feature does not consider whether the retroflex is contrastive with another coronal (although we did not find a phonemic retroflex stop that did not contrast with a non-retroflex coronal). If *any* stop is described in the grammar as retroflex, the state was &lt;yes&gt;.
 
 ### [](ParameterTable#cldf:Cor-05)
-&emsp;**{ yes |no }**
+&emsp;**{ yes | no }**
 
 In the same way that retroflexion has been claimed to be an areal phenomenon, we believe it may be possible for the other extreme of coronal articulation (dentality) to be areal.
 
