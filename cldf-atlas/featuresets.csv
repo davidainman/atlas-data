@@ -5,7 +5,7 @@ Cor,Coronal consonants,Phonology,DI;KPVD,NCP;MV;SH;NJM;DK
 Dem,Demonstratives,Morphosyntax,DI;MV,DI;MV;NCP;AG;NJM;KPVD;DK
 Gend,Categorical genderlects,Morphosyntax,FR;MV,FR;MV;NCP;DI;OCD;DK
 Glot,Glottalized consonants,Phonology,DI;KPVD,DI;KPVD;NCP;MV;AG
-Lat,Lateral consonants,Phonology,KPVD;DI,KPVD;DI;NCP;MV;AG;SH
+Lat,Lateral consonants,Phonology,DI;KPVD,KPVD;DI;NCP;MV;AG;SH
 MonPl,Monoexponential verbal plurals,Morphosyntax,MV;DI;NCP;BB,MV;DI;NCP;SH;AG;BB
 NounPoss,Noun possession classes,Moprhosyntax,DI;NCP;BB,DI;NCP;BB;TH;AM
 Ppron,Personal pronouns,Moprhosyntax,NCP;DI;MV;BB,NCP;DI;MV;BB;AG;KPVD;NJM
