@@ -5,7 +5,7 @@
 [TOC]
 
 ## What?
-Sociative causation is a particular type of causation where the causer not only makes the causee do an action but also participates in it ([Shibatani and Pardeshi 2022](Source#cldf:shibatani2002causative); [Zúñiga and Kittilä](Source#cldf:zuniga2019voice)). [Shibatani and Pardeshi (2022)](Source#cldf:shibatani2002causative) distinguish three semantic subtypes of sociative causation, for which [Guillaume and Rose (2010)](Source#cldf:guillaume2010sociativecausative) provide the following paraphrases:
+Sociative causation is a particular type of causation where the causer not only makes the causee do an action but also participates in it ([Shibatani and Pardeshi 2022](Source#cldf:shibatani2002causative); [Zúñiga and Kittilä 2019](Source#cldf:zuniga2019voice)). [Shibatani and Pardeshi (2022)](Source#cldf:shibatani2002causative) distinguish three semantic subtypes of sociative causation, for which [Guillaume and Rose (2010)](Source#cldf:guillaume2010sociativecausative) provide the following paraphrases:
 
 - joint action	‘make someone do something by doing it with him/her’
 - assistive	‘help someone do something’
@@ -1024,7 +1024,7 @@ In Garrwa, the suffix *-kunu* associated with the causative -mba creates caused 
 </table>
 
 ## Results
-Our survey has confirmed that dedicated sociative causative constructions are rare outside South America, but not in South America, where they are mostly found in Greater Amazonia. Out of the 325 languages included in the ATLAs sample, 19 show a dedicated construction for sociative causation ([SocCaus-01](../parameters/SocCaus-01)), and 15 of these 19 languages are spoken in South America. The prevalence of dedicated constructions in this macroarea is striking: South America is the only macroarea where sociative causation is frequently grammaticalized (15/105). This is all the more telling, given that non-dedicated constructions ([SocCaus-07](../parameters/SocCaus-07)) are evenly distributed across macroareas, with an average attestation of one in four languages. 
+Our survey has confirmed that dedicated sociative causative constructions are rare outside South America, but not in South America, where they are mostly found in Greater Amazonia. Out of the 325 languages included in the ATLAs sample, 19 show a dedicated construction for sociative causation ([SocCaus-01](../parameters/SocCaus-01)), and 15 of these 19 languages are spoken in South America. The prevalence of dedicated constructions in this macroarea is striking: South America is the only macroarea where sociative causation is frequently grammaticalized (15/105). This is all the more telling, given that non-dedicated constructions ([SocCaus-07](../parameters/SocCaus-07)) are evenly distributed across macroareas, with an average attestation of one in four languages (see [Rose & Vuillermet 2025](Source#cldf:rosevuillermet2025sociativecausative) for a detailed account and discussion). 
 
 Dedicated constructions in South America are present across families, with a higher prevalence in the Tupian family, for which a Proto-Tupi “comitative causative” form has been reconstructed ([Rodrigues and Cabral 2012](Source#cldf:rodriguescabral2012tupian): 509, 531-533). Combined with other arguments, our data favors [Guillaume and Rose](Source#cldf:guillaume2010sociativecausative)'s ([2010](Source#cldf:guillaume2010sociativecausative)) hypothesis that the feature has diffused from Tupian languages through pattern borrowing (and not borrowing of a specific morphological form). 
 
