@@ -1,7 +1,8 @@
 source('utils.R')
 
-CONCEPTUALLY_INALIENABLE = c('tools', 'body', 'body_internal', 'owner', 'clothing', 'nuclear_kin', 'plant_part', 'blood_kin', 'kin', 'part', 'relation', 'place_relation', 'intimate_property', 'blood_kin_below_ego', 'blood_kin_above_ego', 'non_blood_kin', 'food')
+CONCEPTUALLY_INALIENABLE = c('tools', 'body', 'body_internal', 'owner', 'clothing', 'nuclear_kin', 'plant_part', 'blood_kin', 'kin', 'part', 'relation', 'place_relation', 'intimate_property', 'blood_kin_below_ego', 'blood_kin_above_ego', 'non_blood_kin')
 CONCEPTUALLY_NONPOSSESSIBLE = c('humans', 'plants', 'wild_animals', 'animals', 'nature_inanimate', 'mass_noun', 'celestial', 'names')
+CONCEPTUALLY_UNCATEGORIZABLE = c('food')
 
 processNounPoss <- function(featurestable, classes, constructions, possessioncldfloc, lgnames, warnings, errors) {
   errorRows = data.frame(matrix(ncol=5,nrow=0, dimnames=list(NULL, c('Feature', 'Language', 'Glottocode', 'Coder', 'ErrorText'))))
@@ -27,7 +28,7 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
       }
       semantics <- unlist(strsplit(classes$Semantic_Categories[classes$Glottocode == glotto & classes$ID == class], "( )*;( )*"))
       for (s in semantics) {
-        if (!s %in% CONCEPTUALLY_INALIENABLE && !s %in% CONCEPTUALLY_NONPOSSESSIBLE && s != "default" && s != "mixed") {
+        if (!s %in% CONCEPTUALLY_INALIENABLE && !s %in% CONCEPTUALLY_NONPOSSESSIBLE && !s %in% CONCEPTUALLY_UNCATEGORIZABLE && s != "default" && s != "mixed") {
           errorRows[nrow(errorRows)+1,] = c('NounPoss', name, glotto, coder, paste0("Unknown semantic type detected for class ", class, ": ", s, "."))
         }
       }
@@ -200,6 +201,9 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
         } else if ((semval %in% CONCEPTUALLY_INALIENABLE & semantictype == 'Non-possessible') | (semval %in% CONCEPTUALLY_NONPOSSESSIBLE & semantictype == 'Inalienable')) {
           semantictype <- 'Both'
         }
+      }
+      if (semantictype == 'UNKNOWN') {
+        semantictype <- 'Mixed' # If we can't categorize a type, it is definitionally mixed, e.g. Hidatsa food
       }
       
       classes$dd_Semantic_Type[classes$Glottocode == glotto & classes$ID == class] <- ifelse(class == defaultclass, 'Default', semantictype)
