@@ -190,20 +190,17 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
         ifelse(('DIRECT' %in% classConstructions$dd_Construction_Directness & bareNounPossible) | (!bareNounPossible & 'INDIRECT' %in% classConstructions$dd_Construction_Directness & 'DIRECT' %in% classConstructions$dd_Construction_Directness), 'Optionally possessed', 'FAULTY LOGIC'))))
       
       semantics <- trimws(unlist(strsplit(classes$Semantic_Categories[ which(classes$Glottocode == glotto & classes$ID == class)], ';')))
-      semantictype <- 'UNKNOWN'
+      semantictype <- 'Uncategorizable'
       for (semval in semantics) {
-        if (semval %in% CONCEPTUALLY_INALIENABLE & semantictype == 'UNKNOWN') {
+        if (semval %in% CONCEPTUALLY_INALIENABLE & semantictype == 'Uncategorizable') {
           semantictype <- 'Inalienable'
-        } else if (semval %in% CONCEPTUALLY_NONPOSSESSIBLE & semantictype == 'UNKNOWN') {
+        } else if (semval %in% CONCEPTUALLY_NONPOSSESSIBLE & semantictype == 'Uncategorizable') {
           semantictype <- 'Non-possessible'
         } else if(semval == 'mixed') {
           semantictype <- 'Mixed'
         } else if ((semval %in% CONCEPTUALLY_INALIENABLE & semantictype == 'Non-possessible') | (semval %in% CONCEPTUALLY_NONPOSSESSIBLE & semantictype == 'Inalienable')) {
           semantictype <- 'Both'
         }
-      }
-      if (semantictype == 'UNKNOWN') {
-        semantictype <- 'Mixed' # If we can't categorize a type, it is definitionally mixed, e.g. Hidatsa food
       }
       
       classes$dd_Semantic_Type[classes$Glottocode == glotto & classes$ID == class] <- ifelse(class == defaultclass, 'Default', semantictype)
