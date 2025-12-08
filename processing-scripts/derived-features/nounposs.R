@@ -199,7 +199,7 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
         } else if(semval == 'mixed') {
           semantictype <- 'Mixed'
         } else if ((semval %in% CONCEPTUALLY_INALIENABLE & semantictype == 'Non-possessible') | (semval %in% CONCEPTUALLY_NONPOSSESSIBLE & semantictype == 'Inalienable')) {
-          semantictype <- 'Both'
+          semantictype <- 'Uncategorizable'
         }
       }
       
@@ -613,12 +613,6 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
     if (length(juxtclasses) > 0) {
       juxtclassessources <- paste0(collapseSources(c(unique(glottoconstructions$Source[glottoconstructions$Construction_Type != 'POSSESSION' & glottoconstructions$Construction_Type != 'UNPOSSESSION' & grepl(paste0('(^|\\s|;)',paste0(juxtclasses,collapse='|'),'($|\\s|;)'), glottoconstructions$Class_ID)]))), collapse=';')
       juxtclassessemantics <- tolower(paste0(unique(classes$dd_Semantic_Type[classes$Glottocode == glotto & classes$ID %in% juxtclasses]), collapse=';;'))
-      if (juxtclassessemantics == 'both') {
-        juxtclassessemantics <- '?'
-      }
-      if (grepl('both',juxtclassessemantics)) {
-        juxtclassessemantics <- gsub('both','?',juxtclassessemantics)
-      }
     } else { 
       juxtclassessemantics <- 'no' 
       juxtclassessources <- allsources
@@ -628,12 +622,6 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
     if (length(pssrclasses) > 0) {
       pssrclassessources <- paste0(collapseSources(c(unique(glottoconstructions$Source[glottoconstructions$Construction_Type != 'POSSESSION' & glottoconstructions$Construction_Type != 'UNPOSSESSION' & grepl(paste0('(^|\\s|;)',paste0(pssrclasses,collapse='|'),'($|\\s|;)'), glottoconstructions$Class_ID)]))), collapse=';')
       pssrclassessemantics <- tolower(paste0(unique(classes$dd_Semantic_Type[classes$Glottocode == glotto & classes$ID %in% pssrclasses]), collapse=';;'))
-      if (pssrclassessemantics == 'both') {
-        pssrclassessemantics <- '?'
-      }
-      if (grepl('both',pssrclassessemantics)) {
-        pssrclassessemantics <- gsub('both','?',pssrclassessemantics)
-      }
     } else { 
       pssrclassessemantics <- 'no' 
       pssrclassessources <- allsources
@@ -643,12 +631,6 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
     if (length(pssdclasses) > 0) {
       pssdclassessources <- paste0(collapseSources(c(unique(glottoconstructions$Source[glottoconstructions$Construction_Type != 'POSSESSION' & glottoconstructions$Construction_Type != 'UNPOSSESSION' & grepl(paste0('(^|\\s|;)',paste0(pssdclasses,collapse='|'),'($|\\s|;)'), glottoconstructions$Class_ID)]))), collapse=';')
       pssdclassessemantics <- tolower(paste0(unique(classes$dd_Semantic_Type[classes$Glottocode == glotto & classes$ID %in% pssdclasses]), collapse=';;'))
-      if (pssdclassessemantics == 'both') {
-        pssdclassessemantics <- '?'
-      }
-      if (grepl('both',pssdclassessemantics)) {
-        pssdclassessemantics <- gsub('both','?',pssdclassessemantics)
-      }
     } else { 
       pssdclassessemantics <- 'no' 
       pssdclassessources <- allsources
@@ -658,12 +640,6 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
     if (length(pssrpssdclasses) > 0) {
       pssrpssdclassessources <- paste0(collapseSources(c(unique(glottoconstructions$Source[glottoconstructions$Construction_Type != 'POSSESSION' & glottoconstructions$Construction_Type != 'UNPOSSESSION' & grepl(paste0('(^|\\s|;)',paste0(pssrpssdclasses,collapse='|'),'($|\\s|;)'), glottoconstructions$Class_ID)]))), collapse=';')
       pssrpssdclassessemantics <- tolower(paste0(unique(classes$dd_Semantic_Type[classes$Glottocode == glotto & classes$ID %in% pssrpssdclasses]), collapse=';;'))
-      if (pssrpssdclassessemantics == 'both') {
-        pssrpssdclassessemantics <- '?'
-      }
-      if (grepl('both',pssrpssdclassessemantics)) {
-        pssrpssdclassessemantics <- gsub('both','?',pssrpssdclassessemantics)
-      }
     } else { 
       pssrpssdclassessemantics <- 'no' 
       pssrpssdclassessources <- allsources
@@ -673,12 +649,6 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
     if (length(clauseclasses) > 0) {
       clauseclassessources <- paste0(collapseSources(c(unique(glottoconstructions$Source[glottoconstructions$Construction_Type != 'POSSESSION' & glottoconstructions$Construction_Type != 'UNPOSSESSION' & grepl(paste0('(^|\\s|;)',paste0(clauseclasses,collapse='|'),'($|\\s|;)'), glottoconstructions$Class_ID)]))), collapse=';')
       clauseclassessemantics <- tolower(paste0(unique(classes$dd_Semantic_Type[classes$Glottocode == glotto & classes$ID %in% clauseclasses]), collapse=';;'))
-      if (clauseclassessemantics == 'both') {
-        clauseclassessemantics <- '?'
-      }
-      if (grepl('both',clauseclassessemantics)) {
-        clauseclassessemantics <- gsub('both','?',clauseclassessemantics)
-      }
     } else { 
       clauseclassessemantics <- 'no' 
       clauseclassessources <- allsources
@@ -688,12 +658,6 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
     if (length(classclasses) > 0) {
       classclassessources <- paste0(collapseSources(c(unique(glottoconstructions$Source[glottoconstructions$Construction_Type != 'POSSESSION' & glottoconstructions$Construction_Type != 'UNPOSSESSION' & grepl(paste0('(^|\\s|;)',paste0(classclasses,collapse='|'),'($|\\s|;)'), glottoconstructions$Class_ID)]))), collapse=';')
       classclassessemantics <- tolower(paste0(unique(classes$dd_Semantic_Type[classes$Glottocode == glotto & classes$ID %in% classclasses]), collapse=';;'))
-      if (classclassessemantics == 'both') {
-        classclassessemantics <- '?'
-      }
-      if (grepl('both',classclassessemantics)) {
-        classclassessemantics <- gsub('both','?',classclassessemantics)
-      }
     } else { 
       classclassessemantics <- 'no' 
       classclassessources <- allsources
