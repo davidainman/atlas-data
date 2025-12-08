@@ -1,7 +1,8 @@
 source('utils.R')
 
-CONCEPTUALLY_INALIENABLE = c('tools', 'body', 'body_internal', 'owner', 'clothing', 'nuclear_kin', 'plant_part', 'blood_kin', 'kin', 'part', 'relation', 'place_relation', 'intimate_property', 'blood_kin_below_ego', 'blood_kin_above_ego', 'non_blood_kin', 'food')
+CONCEPTUALLY_INALIENABLE = c('tools', 'body', 'body_internal', 'owner', 'clothing', 'nuclear_kin', 'plant_part', 'blood_kin', 'kin', 'part', 'relation', 'place_relation', 'intimate_property', 'blood_kin_below_ego', 'blood_kin_above_ego', 'non_blood_kin')
 CONCEPTUALLY_NONPOSSESSIBLE = c('humans', 'plants', 'wild_animals', 'animals', 'nature_inanimate', 'mass_noun', 'celestial', 'names')
+CONCEPTUALLY_UNCATEGORIZABLE = c('food')
 
 processNounPoss <- function(featurestable, classes, constructions, possessioncldfloc, lgnames, warnings, errors) {
   errorRows = data.frame(matrix(ncol=5,nrow=0, dimnames=list(NULL, c('Feature', 'Language', 'Glottocode', 'Coder', 'ErrorText'))))
@@ -27,7 +28,7 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
       }
       semantics <- unlist(strsplit(classes$Semantic_Categories[classes$Glottocode == glotto & classes$ID == class], "( )*;( )*"))
       for (s in semantics) {
-        if (!s %in% CONCEPTUALLY_INALIENABLE && !s %in% CONCEPTUALLY_NONPOSSESSIBLE && s != "default" && s != "mixed") {
+        if (!s %in% CONCEPTUALLY_INALIENABLE && !s %in% CONCEPTUALLY_NONPOSSESSIBLE && !s %in% CONCEPTUALLY_UNCATEGORIZABLE && s != "default" && s != "mixed") {
           errorRows[nrow(errorRows)+1,] = c('NounPoss', name, glotto, coder, paste0("Unknown semantic type detected for class ", class, ": ", s, "."))
         }
       }
@@ -189,16 +190,16 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
         ifelse(('DIRECT' %in% classConstructions$dd_Construction_Directness & bareNounPossible) | (!bareNounPossible & 'INDIRECT' %in% classConstructions$dd_Construction_Directness & 'DIRECT' %in% classConstructions$dd_Construction_Directness), 'Optionally possessed', 'FAULTY LOGIC'))))
       
       semantics <- trimws(unlist(strsplit(classes$Semantic_Categories[ which(classes$Glottocode == glotto & classes$ID == class)], ';')))
-      semantictype <- 'UNKNOWN'
+      semantictype <- 'Uncategorizable'
       for (semval in semantics) {
-        if (semval %in% CONCEPTUALLY_INALIENABLE & semantictype == 'UNKNOWN') {
+        if (semval %in% CONCEPTUALLY_INALIENABLE & semantictype == 'Uncategorizable') {
           semantictype <- 'Inalienable'
-        } else if (semval %in% CONCEPTUALLY_NONPOSSESSIBLE & semantictype == 'UNKNOWN') {
+        } else if (semval %in% CONCEPTUALLY_NONPOSSESSIBLE & semantictype == 'Uncategorizable') {
           semantictype <- 'Non-possessible'
         } else if(semval == 'mixed') {
           semantictype <- 'Mixed'
         } else if ((semval %in% CONCEPTUALLY_INALIENABLE & semantictype == 'Non-possessible') | (semval %in% CONCEPTUALLY_NONPOSSESSIBLE & semantictype == 'Inalienable')) {
-          semantictype <- 'Both'
+          semantictype <- 'Uncategorizable'
         }
       }
       
@@ -612,12 +613,6 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
     if (length(juxtclasses) > 0) {
       juxtclassessources <- paste0(collapseSources(c(unique(glottoconstructions$Source[glottoconstructions$Construction_Type != 'POSSESSION' & glottoconstructions$Construction_Type != 'UNPOSSESSION' & grepl(paste0('(^|\\s|;)',paste0(juxtclasses,collapse='|'),'($|\\s|;)'), glottoconstructions$Class_ID)]))), collapse=';')
       juxtclassessemantics <- tolower(paste0(unique(classes$dd_Semantic_Type[classes$Glottocode == glotto & classes$ID %in% juxtclasses]), collapse=';;'))
-      if (juxtclassessemantics == 'both') {
-        juxtclassessemantics <- '?'
-      }
-      if (grepl('both',juxtclassessemantics)) {
-        juxtclassessemantics <- gsub('both','?',juxtclassessemantics)
-      }
     } else { 
       juxtclassessemantics <- 'no' 
       juxtclassessources <- allsources
@@ -627,12 +622,6 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
     if (length(pssrclasses) > 0) {
       pssrclassessources <- paste0(collapseSources(c(unique(glottoconstructions$Source[glottoconstructions$Construction_Type != 'POSSESSION' & glottoconstructions$Construction_Type != 'UNPOSSESSION' & grepl(paste0('(^|\\s|;)',paste0(pssrclasses,collapse='|'),'($|\\s|;)'), glottoconstructions$Class_ID)]))), collapse=';')
       pssrclassessemantics <- tolower(paste0(unique(classes$dd_Semantic_Type[classes$Glottocode == glotto & classes$ID %in% pssrclasses]), collapse=';;'))
-      if (pssrclassessemantics == 'both') {
-        pssrclassessemantics <- '?'
-      }
-      if (grepl('both',pssrclassessemantics)) {
-        pssrclassessemantics <- gsub('both','?',pssrclassessemantics)
-      }
     } else { 
       pssrclassessemantics <- 'no' 
       pssrclassessources <- allsources
@@ -642,12 +631,6 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
     if (length(pssdclasses) > 0) {
       pssdclassessources <- paste0(collapseSources(c(unique(glottoconstructions$Source[glottoconstructions$Construction_Type != 'POSSESSION' & glottoconstructions$Construction_Type != 'UNPOSSESSION' & grepl(paste0('(^|\\s|;)',paste0(pssdclasses,collapse='|'),'($|\\s|;)'), glottoconstructions$Class_ID)]))), collapse=';')
       pssdclassessemantics <- tolower(paste0(unique(classes$dd_Semantic_Type[classes$Glottocode == glotto & classes$ID %in% pssdclasses]), collapse=';;'))
-      if (pssdclassessemantics == 'both') {
-        pssdclassessemantics <- '?'
-      }
-      if (grepl('both',pssdclassessemantics)) {
-        pssdclassessemantics <- gsub('both','?',pssdclassessemantics)
-      }
     } else { 
       pssdclassessemantics <- 'no' 
       pssdclassessources <- allsources
@@ -657,12 +640,6 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
     if (length(pssrpssdclasses) > 0) {
       pssrpssdclassessources <- paste0(collapseSources(c(unique(glottoconstructions$Source[glottoconstructions$Construction_Type != 'POSSESSION' & glottoconstructions$Construction_Type != 'UNPOSSESSION' & grepl(paste0('(^|\\s|;)',paste0(pssrpssdclasses,collapse='|'),'($|\\s|;)'), glottoconstructions$Class_ID)]))), collapse=';')
       pssrpssdclassessemantics <- tolower(paste0(unique(classes$dd_Semantic_Type[classes$Glottocode == glotto & classes$ID %in% pssrpssdclasses]), collapse=';;'))
-      if (pssrpssdclassessemantics == 'both') {
-        pssrpssdclassessemantics <- '?'
-      }
-      if (grepl('both',pssrpssdclassessemantics)) {
-        pssrpssdclassessemantics <- gsub('both','?',pssrpssdclassessemantics)
-      }
     } else { 
       pssrpssdclassessemantics <- 'no' 
       pssrpssdclassessources <- allsources
@@ -672,12 +649,6 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
     if (length(clauseclasses) > 0) {
       clauseclassessources <- paste0(collapseSources(c(unique(glottoconstructions$Source[glottoconstructions$Construction_Type != 'POSSESSION' & glottoconstructions$Construction_Type != 'UNPOSSESSION' & grepl(paste0('(^|\\s|;)',paste0(clauseclasses,collapse='|'),'($|\\s|;)'), glottoconstructions$Class_ID)]))), collapse=';')
       clauseclassessemantics <- tolower(paste0(unique(classes$dd_Semantic_Type[classes$Glottocode == glotto & classes$ID %in% clauseclasses]), collapse=';;'))
-      if (clauseclassessemantics == 'both') {
-        clauseclassessemantics <- '?'
-      }
-      if (grepl('both',clauseclassessemantics)) {
-        clauseclassessemantics <- gsub('both','?',clauseclassessemantics)
-      }
     } else { 
       clauseclassessemantics <- 'no' 
       clauseclassessources <- allsources
@@ -687,12 +658,6 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
     if (length(classclasses) > 0) {
       classclassessources <- paste0(collapseSources(c(unique(glottoconstructions$Source[glottoconstructions$Construction_Type != 'POSSESSION' & glottoconstructions$Construction_Type != 'UNPOSSESSION' & grepl(paste0('(^|\\s|;)',paste0(classclasses,collapse='|'),'($|\\s|;)'), glottoconstructions$Class_ID)]))), collapse=';')
       classclassessemantics <- tolower(paste0(unique(classes$dd_Semantic_Type[classes$Glottocode == glotto & classes$ID %in% classclasses]), collapse=';;'))
-      if (classclassessemantics == 'both') {
-        classclassessemantics <- '?'
-      }
-      if (grepl('both',classclassessemantics)) {
-        classclassessemantics <- gsub('both','?',classclassessemantics)
-      }
     } else { 
       classclassessemantics <- 'no' 
       classclassessources <- allsources
