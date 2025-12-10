@@ -163,7 +163,8 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
         ifelse(grepl('JUXT', constructions$Construction_Type), 'JUXT', 
         ifelse(grepl('CLASS', constructions$Construction_Type), 'CLASS', 
         ifelse(grepl('CLAUSE', constructions$Construction_Type), 'CLAUSE',
-        ifelse(grepl('^POSSESSION$', constructions$Construction_Type) & grepl('NULL', constructions$Construction_Form), 'NULL', NA)))))
+        ifelse(grepl('^POSSESSION$', constructions$Construction_Type) & grepl('NULL', constructions$Construction_Form), 'NULL', 
+        ifelse(grepl('SUPPLETION', constructions$Construction_Type), 'SUPPLETION', NA))))))
   
   constructions$dd_Construction_Directness <- ifelse(grepl('MARKER', constructions$dd_Construction_Type_Generic) | grepl('JUXT',   constructions$dd_Construction_Type_Generic), 'DIRECT', 
         ifelse(grepl('CLASS',  constructions$dd_Construction_Type_Generic) | grepl('CLAUSE', constructions$dd_Construction_Type_Generic), 'INDIRECT', 
@@ -181,7 +182,7 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
         bareNounPossible <- FALSE
       }
       classes$dd_Valency[classes$Glottocode == glotto & classes$ID == class] <-
-        ifelse(class == 'SUPPLETIVE', NA,
+        ifelse(class == 'SUPPLETIVE', 'NA',
         ifelse(!('DIRECT' %in% classConstructions$dd_Construction_Directness) & 
                  ('INDIRECT' %in% classConstructions$dd_Construction_Directness | 
                     nrow(dplyr::filter(classConstructions, Construction_Type == 'POSSESSION' & 
