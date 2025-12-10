@@ -154,10 +154,11 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
   constructions$dd_Construction_Type_Simplified <- ifelse(constructions$Construction_Type == 'POSSESSION' & constructions$Construction_Form == 'NULL', 'NULL',
                                   ifelse(constructions$Construction_Type == 'PRO_MARKER', 'MARKER',
                                   ifelse(constructions$Construction_Type == 'PRO_CLASS', 'CLASS',
+                                  ifelse(constructions$Construction_Type == 'PRO_CLAUSE', 'CLAUSE',
                                   ifelse(constructions$Construction_Type == 'UNPOSSESSION', NA,
                                   ifelse(grepl('(?<!:)PSSD', constructions$Construction_Type, perl=TRUE) & grepl('(?<!:)PSSR', constructions$Construction_Type, perl=TRUE), 'PSSR-PSSD',
                                   ifelse(grepl('(?<!:)PSSD', constructions$Construction_Type, perl=TRUE), 'PSSD',
-                                  ifelse(grepl('(?<!:)PSSR', constructions$Construction_Type, perl=TRUE), 'PSSR', constructions$Construction_Type)))))))
+                                  ifelse(grepl('(?<!:)PSSR', constructions$Construction_Type, perl=TRUE), 'PSSR', constructions$Construction_Type))))))))
   
   constructions$dd_Construction_Type_Generic <- ifelse(grepl('PSSD', constructions$Construction_Type) | grepl('PSSR', constructions$Construction_Type) | grepl('PRO_MARKER', constructions$Construction_Type) | grepl('LINKER', constructions$Construction_Type), 'MARKER', 
         ifelse(grepl('JUXT', constructions$Construction_Type), 'JUXT', 
