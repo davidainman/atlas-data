@@ -154,20 +154,23 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
   constructions$dd_Construction_Type_Simplified <- ifelse(constructions$Construction_Type == 'POSSESSION' & constructions$Construction_Form == 'NULL', 'NULL',
                                   ifelse(constructions$Construction_Type == 'PRO_MARKER', 'MARKER',
                                   ifelse(constructions$Construction_Type == 'PRO_CLASS', 'CLASS',
+                                  ifelse(constructions$Construction_Type == 'PRO_CLAUSE', 'CLAUSE',
                                   ifelse(constructions$Construction_Type == 'UNPOSSESSION', NA,
                                   ifelse(grepl('(?<!:)PSSD', constructions$Construction_Type, perl=TRUE) & grepl('(?<!:)PSSR', constructions$Construction_Type, perl=TRUE), 'PSSR-PSSD',
                                   ifelse(grepl('(?<!:)PSSD', constructions$Construction_Type, perl=TRUE), 'PSSD',
-                                  ifelse(grepl('(?<!:)PSSR', constructions$Construction_Type, perl=TRUE), 'PSSR', constructions$Construction_Type)))))))
+                                  ifelse(grepl('(?<!:)PSSR', constructions$Construction_Type, perl=TRUE), 'PSSR', constructions$Construction_Type))))))))
   
   constructions$dd_Construction_Type_Generic <- ifelse(grepl('PSSD', constructions$Construction_Type) | grepl('PSSR', constructions$Construction_Type) | grepl('PRO_MARKER', constructions$Construction_Type) | grepl('LINKER', constructions$Construction_Type), 'MARKER', 
         ifelse(grepl('JUXT', constructions$Construction_Type), 'JUXT', 
         ifelse(grepl('CLASS', constructions$Construction_Type), 'CLASS', 
         ifelse(grepl('CLAUSE', constructions$Construction_Type), 'CLAUSE',
-        ifelse(grepl('^POSSESSION$', constructions$Construction_Type) & grepl('NULL', constructions$Construction_Form), 'NULL', NA)))))
+        ifelse(grepl('^POSSESSION$', constructions$Construction_Type) & grepl('NULL', constructions$Construction_Form), 'NULL', 
+        ifelse(grepl('SUPPLETION', constructions$Construction_Type), 'SUPPLETION', NA))))))
   
   constructions$dd_Construction_Directness <- ifelse(grepl('MARKER', constructions$dd_Construction_Type_Generic) | grepl('JUXT',   constructions$dd_Construction_Type_Generic), 'DIRECT', 
         ifelse(grepl('CLASS',  constructions$dd_Construction_Type_Generic) | grepl('CLAUSE', constructions$dd_Construction_Type_Generic), 'INDIRECT', 
-        ifelse(grepl('NULL', constructions$dd_Construction_Type_Generic), 'NULL', NA)))
+        ifelse(grepl('NULL', constructions$dd_Construction_Type_Generic), 'NULL', 
+        ifelse(grepl('SUPPLETION', constructions$dd_Construction_Type_Generic), 'NA', NA))))
   
   #Fill in deduced columns
   for (glotto in glottocodes) {
@@ -181,7 +184,7 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
         bareNounPossible <- FALSE
       }
       classes$dd_Valency[classes$Glottocode == glotto & classes$ID == class] <-
-        ifelse(class == 'SUPPLETIVE', NA,
+        ifelse('SUPPLETION' == classConstructions$Construction_Type, 'NA',
         ifelse(!('DIRECT' %in% classConstructions$dd_Construction_Directness) & 
                  ('INDIRECT' %in% classConstructions$dd_Construction_Directness | 
                     nrow(dplyr::filter(classConstructions, Construction_Type == 'POSSESSION' & 
