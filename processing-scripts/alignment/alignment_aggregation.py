@@ -1153,22 +1153,31 @@ def other_alignments(ref_loc):
                 possible_coargs = [x for x in possible_coargs if "low" not in x]
         S_values = row.S.split(";")
         S_values = [x.strip() for x in S_values]
+        S_values = [re.sub("_slot:[0-9-/\&]+","",x) for x in S_values]
         S_values = [re.sub("_slot:[^_\&]+","",x) for x in S_values]
         if (any([":else" in x for x in S_values])):
             S_values = expand_else(S_values, possible_coargs)
         A_values = row.A.split(";")
         A_values = [x.strip() for x in A_values]
+        A_values = [re.sub("_slot:[0-9-/\&]+","",x) for x in A_values]
         A_values = [re.sub("_slot:[^_\&]+","",x) for x in A_values]
         if (any([":else" in x for x in A_values])):
             A_values = expand_else(A_values, possible_coargs)
         P_values = row.P.split(";")
         P_values = [x.strip() for x in P_values]
+        P_values = [re.sub("_slot:[0-9-/\&]+","",x) for x in P_values]
         P_values = [re.sub("_slot:[^_\&]+","",x) for x in P_values]
         if (any([":else" in x for x in P_values])):
             P_values = expand_else(P_values, possible_coargs)
         # get rid of zeros that are coordinate with something overt
         S_values = [re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",x) for x in S_values]
+        # remove meaningless && zeros
+        A_values = [re.sub("[^\&]*_zero(_coarg:[^&]+) \&\& (.*)","\\2:\\1",x) for x in A_values]
+        A_values = [re.sub("( )\&\&[^\&]*zero[^\&]*(_coarg:[^ ]*)","\\2",x) for x in A_values]
         A_values = [re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",x) for x in A_values]
+        # remove meaningless && zeros
+        P_values = [re.sub("[^\&]*_zero(_coarg:[^&]+) \&\& (.*)","\\2:\\1",x) for x in P_values]
+        P_values = [re.sub("( )\&\&[^\&]*zero[^\&]*(_coarg:[^ ]*)","\\2",x) for x in P_values]
         P_values = [re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",x) for x in P_values]
         # generate alignment with local scenarios removed
         A_values_not_local = fix_not_local(A_values, reftype)

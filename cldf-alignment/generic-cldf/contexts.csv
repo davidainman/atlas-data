@@ -500,11 +500,11 @@ emer1243-11,emer1243,emer1243-no-pronoun,,NA,P,1sgPro,A,2plPro,any,none,any,defa
 emer1243-12,emer1243,emer1243-no-flagging,,simple,P,1sgPro,A,Noun,any,none,any,default,any,rose2011emerillon[125-127],,NCP;DI
 emer1243-13,emer1243,emer1243-no-flagging,,simple,P,2sgPro,A,any,any,none,any,default,any,rose2011emerillon[125-127],,NCP;DI
 emer1243-14,emer1243,emer1243-no-flagging,,simple,P,1pl.inclPro,A,any,any,none,any,default,any,rose2011emerillon[125-127],,NCP;DI
-emer1243-15,emer1243,emer1243-no-flagging,,simple,P,1pl.exclPro,A,any,any,none,any,default,condition 1,rose2011emerillon[74-77],"When the A is 2sg orone-kom alternates (apparently in free variation) with oreɲ and orereɲ, and when the A is 2pl only with orereɲ. These forms are etymologically related to orone, but they are not used in any other context. ",NCP;DI
-emer1243-16,emer1243,emer1243-oren-flagging,,simple,P,1pl.exclPro,A,2sgPro,any,none,any,default,condition 2,rose2011emerillon[74-77],"When the A is 2sg orone-kom alternates (apparently in free variation) with oreɲ and orereɲ, and when the A is 2pl only with orereɲ. These forms are etymologically related to orone, but they are not used in any other context. ",NCP;DI
-emer1243-17,emer1243,emer1243-no-flagging,,simple,P,1pl.exclPro,A,Noun,any,none,any,default,condition 2,rose2011emerillon[74-77],"When the A is 2sg orone-kom alternates (apparently in free variation) with oreɲ and orereɲ, and when the A is 2pl only with orereɲ. These forms are etymologically related to orone, but they are not used in any other context. ",NCP;DI
+emer1243-15,emer1243,emer1243-no-flagging,,simple,P,1pl.exclPro,A,any,any,none,any,default,condition 1,rose2011emerillon[74-77],"When the A is 2sg orone-kom alternates (apparently in free variation) with oreɲ and orereɲ, and when the A is 2pl only with orereɲ. These forms are etymologically related to orone, but they are not used in any other context.",NCP;DI
+emer1243-16,emer1243,emer1243-oren-flagging,,simple,P,1pl.exclPro,A,2sgPro,any,none,any,default,condition 2,rose2011emerillon[74-77],"When the A is 2sg orone-kom alternates (apparently in free variation) with oreɲ and orereɲ, and when the A is 2pl only with orereɲ. These forms are etymologically related to orone, but they are not used in any other context.",NCP;DI
+emer1243-17,emer1243,emer1243-no-flagging,,simple,P,1pl.exclPro,A,Noun,any,none,any,default,condition 2,rose2011emerillon[74-77],"When the A is 2sg orone-kom alternates (apparently in free variation) with oreɲ and orereɲ, and when the A is 2pl only with orereɲ. These forms are etymologically related to orone, but they are not used in any other context.",NCP;DI
 emer1243-18,emer1243,emer1243-no-flagging,,simple,P,2plPro,A,Noun,any,none,any,default,any,rose2011emerillon[125-127],,NCP;DI
-emer1243-19,emer1243,emer1243-oreren-flagging,,simple,P,1pl.exclPro,A,2plPro,any,none,any,default,condition 2,rose2011emerillon[74-77],"When the A is 2sg orone-kom alternates (apparently in free variation) with oreɲ and orereɲ, and when the A is 2pl only with orereɲ. These forms are etymologically related to orone, but they are not used in any other context. ",NCP;DI
+emer1243-19,emer1243,emer1243-oreren-flagging,,simple,P,1pl.exclPro,A,2plPro,any,none,any,default,condition 2,rose2011emerillon[74-77],"When the A is 2sg orone-kom alternates (apparently in free variation) with oreɲ and orereɲ, and when the A is 2pl only with orereɲ. These forms are etymologically related to orone, but they are not used in any other context.",NCP;DI
 emer1243-20,emer1243,emer1243-no-flagging,,NA,S,Noun,NA,NA,any,NA,any,default,any,rose2011emerillon[122-125],,NCP;DI
 emer1243-21,emer1243,emer1243-no-flagging,,simple,S,1sgPro,NA,NA,any,NA,any,default,any,rose2011emerillon[125-127],,NCP;DI
 emer1243-22,emer1243,emer1243-no-flagging,,simple,S,2sgPro,NA,NA,any,NA,any,default,any,rose2011emerillon[125-127],,NCP;DI
@@ -7827,17 +7827,17 @@ mapu1245-249,mapu1245,mapu1245-null-marker,6,simple,A,3pl-low,P,3pl-high,any,non
 mapu1245-250,mapu1245,mapu1245-null-marker,NA,simple,P,3sg-low,A,any,any,none,any,default,,zuniga2000mapudungun[21-22];zuniga2019grammatical[45],,AN
 mapu1245-251,mapu1245,mapu1245-null-marker,NA,simple,P,3du-low,A,any,any,none,any,default,,zuniga2000mapudungun[21-22];zuniga2019grammatical[45],,AN
 mapu1245-252,mapu1245,mapu1245-null-marker,NA,simple,P,3pl-low,A,any,any,none,any,default,,zuniga2000mapudungun[21-22];zuniga2019grammatical[45],,AN
-mari1440-4,mari1440,mari1440-m-2s-a-p-indexing-marker,-1,NA,S,2,NA,NA,any,NA,any,default,any,gordon1986maricopa[21],,HT; AN
+mari1440-4,mari1440,mari1440-m-2s-a-p-indexing-marker,-1&-2&-3,NA,S,2,NA,NA,any,NA,any,default,any,gordon1986maricopa[21],,HT; AN
 mari1440-5,mari1440,mari1440-m-2s-a-p-indexing-marker,-1,simple,A,2,P,any,any,none,any,default,any,gordon1986maricopa[21],,HT; AN
-mari1440-6,mari1440,mari1440-m-2s-a-p-indexing-marker,-3,simple,P,2,A,3,any,none,any,default,any,gordon1986maricopa[21],,HT; AN
+mari1440-6,mari1440,mari1440-m-2s-a-p-indexing-marker,-2&-3,simple,P,2,A,3,any,none,any,default,any,gordon1986maricopa[21],,HT; AN
 mari1440-7,mari1440,mari1440-null-marker,NA,NA,S,3,NA,NA,any,NA,any,default,any,gordon1986maricopa[21],,HT; AN
 mari1440-8,mari1440,mari1440-null-marker,NA,simple,A,3,P,any,any,none,any,default,any,gordon1986maricopa[21],,HT; AN
 mari1440-9,mari1440,mari1440-null-marker,NA,simple,P,2,A,1,any,none,any,default,any,gordon1986maricopa[21],,HT; AN
 mari1440-10,mari1440,mari1440-null-marker,NA,simple,P,3,A,any,any,none,any,default,any,gordon1986maricopa[21],,HT; AN
-mari1440-11,mari1440,mari1440-ny-1a-p-indexing-marker,-2,simple,A,1,P,2,any,none,any,default,any,gordon1986maricopa[21],,HT; AN
+mari1440-11,mari1440,mari1440-ny-1a-p-indexing-marker,-1,simple,A,1,P,2,any,none,any,default,any,gordon1986maricopa[21],,HT; AN
 mari1440-12,mari1440,mari1440-ny-1a-p-indexing-marker,-2,simple,P,1,A,2,any,none,any,default,any,gordon1986maricopa[21],,HT; AN
-mari1440-13,mari1440,mari1440-ny-1a-p-indexing-marker,-2,simple,P,1,A,3,any,none,any,default,any,gordon1986maricopa[21],,HT; AN
-mari1440-14,mari1440,mari1440-1s-a-p-indexing-marker,-1,NA,S,1,NA,NA,any,NA,any,default,any,gordon1986maricopa[21],,HT; AN
+mari1440-13,mari1440,mari1440-ny-1a-p-indexing-marker,-2&-3,simple,P,1,A,3,any,none,any,default,any,gordon1986maricopa[21],,HT; AN
+mari1440-14,mari1440,mari1440-1s-a-p-indexing-marker,-1&-2&-3,NA,S,1,NA,NA,any,NA,any,default,any,gordon1986maricopa[21],,HT; AN
 mari1440-15,mari1440,mari1440-1s-a-p-indexing-marker,-1,simple,A,1,P,3,any,none,any,default,any,gordon1986maricopa[21],,HT; AN
 mari1440-16,mari1440,mari1440-1s-a-p-indexing-marker,-3,simple,P,1,A,2,any,none,any,default,any,gordon1986maricopa[21],,HT; AN
 nucl1622-4,nucl1622,nucl1622-p-affix-indexing-marker,-1/1,NA,S,any,NA,NA,any,NA,non-exemplar,Sp class,,"olsson2017coastal[213-228,259-272]",,HT;AWM
