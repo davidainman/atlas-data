@@ -34,7 +34,7 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
       }
     }
     Indirects <- dplyr::filter(constructions, as.character(Glottocode) == glotto, as.character(Coder) != '', as.character(Construction_Type) == 'CLASS' | as.character(Construction_Type) == 'CLAUSE' | as.character(Construction_Type) == 'PRO_CLASS' | as.character(Construction_Type) == 'PRO_CLAUSE')
-    NonNullNonPossessions <- dplyr::filter(constructions, as.character(Glottocode) == glotto, as.character(Coder) != '', as.character(Construction_Type) == 'UNPOSSESSION', as.character(Construction_Form) != 'NULL', as.character(Construction_Form) != 'N')
+    NonNullNonPossessions <- dplyr::filter(constructions, as.character(Glottocode) == glotto, as.character(Coder) != '', as.character(Construction_Type) == 'UNPOSSESSION', as.character(Construction_Form) != 'NULL', as.character(Construction_Form) != 'NA', as.character(Construction_Form) != 'N')
     for (class in cxnClasses) {
       hasIndirect <- FALSE
       hasNonNullNonPossession <- FALSE
@@ -152,25 +152,29 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
   
   #Generate different levels of construction generalizations
   constructions$dd_Construction_Type_Simplified <- ifelse(constructions$Construction_Type == 'POSSESSION' & constructions$Construction_Form == 'NULL', 'NULL',
+                                  ifelse(constructions$Construction_Type == 'POSSESSION' & constructions$Construction_Form == 'NULL', 'NULL',
+                                  ifelse(constructions$Construction_Type == 'POSSESSION' & constructions$Construction_Form == 'NA', 'NA',
                                   ifelse(constructions$Construction_Type == 'PRO_MARKER', 'MARKER',
                                   ifelse(constructions$Construction_Type == 'PRO_CLASS', 'CLASS',
                                   ifelse(constructions$Construction_Type == 'PRO_CLAUSE', 'CLAUSE',
                                   ifelse(constructions$Construction_Type == 'UNPOSSESSION', NA,
                                   ifelse(grepl('(?<!:)PSSD', constructions$Construction_Type, perl=TRUE) & grepl('(?<!:)PSSR', constructions$Construction_Type, perl=TRUE), 'PSSR-PSSD',
                                   ifelse(grepl('(?<!:)PSSD', constructions$Construction_Type, perl=TRUE), 'PSSD',
-                                  ifelse(grepl('(?<!:)PSSR', constructions$Construction_Type, perl=TRUE), 'PSSR', constructions$Construction_Type))))))))
+                                  ifelse(grepl('(?<!:)PSSR', constructions$Construction_Type, perl=TRUE), 'PSSR', constructions$Construction_Type))))))))))
   
   constructions$dd_Construction_Type_Generic <- ifelse(grepl('PSSD', constructions$Construction_Type) | grepl('PSSR', constructions$Construction_Type) | grepl('PRO_MARKER', constructions$Construction_Type) | grepl('LINKER', constructions$Construction_Type), 'MARKER', 
         ifelse(grepl('JUXT', constructions$Construction_Type), 'JUXT', 
         ifelse(grepl('CLASS', constructions$Construction_Type), 'CLASS', 
         ifelse(grepl('CLAUSE', constructions$Construction_Type), 'CLAUSE',
         ifelse(grepl('^POSSESSION$', constructions$Construction_Type) & grepl('NULL', constructions$Construction_Form), 'NULL', 
-        ifelse(grepl('SUPPLETION', constructions$Construction_Type), 'SUPPLETION', NA))))))
+        ifelse(grepl('^POSSESSION$', constructions$Construction_Type) & grepl('NA', constructions$Construction_Form), 'NA', 
+        ifelse(grepl('SUPPLETION', constructions$Construction_Type), 'SUPPLETION', NA)))))))
   
   constructions$dd_Construction_Directness <- ifelse(grepl('MARKER', constructions$dd_Construction_Type_Generic) | grepl('JUXT',   constructions$dd_Construction_Type_Generic), 'DIRECT', 
         ifelse(grepl('CLASS',  constructions$dd_Construction_Type_Generic) | grepl('CLAUSE', constructions$dd_Construction_Type_Generic), 'INDIRECT', 
         ifelse(grepl('NULL', constructions$dd_Construction_Type_Generic), 'NULL', 
-        ifelse(grepl('SUPPLETION', constructions$dd_Construction_Type_Generic), 'NA', NA))))
+        ifelse(grepl('NA', constructions$dd_Construction_Type_Generic), 'NA', 
+        ifelse(grepl('SUPPLETION', constructions$dd_Construction_Type_Generic), 'NA', NA)))))
   
   #Fill in deduced columns
   for (glotto in glottocodes) {
@@ -180,15 +184,16 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
       classConstructions <- dplyr::filter(constructions, as.character(Glottocode) == glotto, 
                                           grepl(gsub(" ", "", paste("(^|[[:space:]]|;)", paste(class,"([[:space:]]|;|$)"))), Class_ID))
       bareNounPossible <- TRUE
-      if (nrow(dplyr::filter(classConstructions, Construction_Type == 'UNPOSSESSION' & Construction_Form == 'N')) == 0 & nrow(dplyr::filter(classConstructions, Construction_Type == 'UNPOSSESSION' & Construction_Form != 'N')) > 0) {
+      if (nrow(dplyr::filter(classConstructions, Construction_Type == 'UNPOSSESSION' & Construction_Form == 'N')) == 0 & 
+          nrow(dplyr::filter(classConstructions, Construction_Type == 'UNPOSSESSION' & Construction_Form != 'N')) > 0) {
         bareNounPossible <- FALSE
       }
       classes$dd_Valency[classes$Glottocode == glotto & classes$ID == class] <-
         ifelse('SUPPLETION' == classConstructions$Construction_Type, 'NA',
         ifelse(!('DIRECT' %in% classConstructions$dd_Construction_Directness) & 
                  ('INDIRECT' %in% classConstructions$dd_Construction_Directness | 
-                    nrow(dplyr::filter(classConstructions, Construction_Type == 'POSSESSION' & 
-                                  Construction_Form == 'NULL')) > 0), 'Non-possessible',
+                    nrow(dplyr::filter(classConstructions, Construction_Type == 'POSSESSION' & Construction_Form == 'NULL')) > 0 | 
+                    nrow(dplyr::filter(classConstructions, Construction_Type == 'POSSESSION' & Construction_Form == 'NA')) > 0), 'Non-possessible',
         ifelse(!bareNounPossible & ('DIRECT' %in% classConstructions$dd_Construction_Directness), 'Obligatorily possessed', 
         ifelse(('DIRECT' %in% classConstructions$dd_Construction_Directness & bareNounPossible) | (!bareNounPossible & 'INDIRECT' %in% classConstructions$dd_Construction_Directness & 'DIRECT' %in% classConstructions$dd_Construction_Directness), 'Optionally possessed', 'FAULTY LOGIC'))))
       
@@ -232,8 +237,8 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
       
       classes$dd_Unpossession_Construction[classes$Glottocode == glotto & classes$ID == class] <- 
         ifelse(nrow(dplyr::filter(classConstructions, Construction_Type == 'UNPOSSESSION', Construction_Form == 'NULL')) > 0, 'NULL',
-        ifelse(nrow(dplyr::filter(classConstructions, Construction_Type == 'UNPOSSESSION', Construction_Form == 'N')), 'Noun',
-        ifelse(nrow(dplyr::filter(classConstructions, Construction_Type == 'UNPOSSESSION', Construction_Form == '?')), '?',
+        ifelse(nrow(dplyr::filter(classConstructions, Construction_Type == 'UNPOSSESSION', Construction_Form == 'N')) > 0, 'Noun',
+        ifelse(nrow(dplyr::filter(classConstructions, Construction_Type == 'UNPOSSESSION', Construction_Form == '?')) > 0, '?',
         ifelse(nrow(dplyr::filter(classConstructions, Construction_Type == 'UNPOSSESSION', Construction_Form != 'NULL')) > 0, 'MARKER', 'Noun'))))
     }
   }
@@ -535,6 +540,7 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
     defaultcxs <- unique(replace(defaultcxs, defaultcxs == 'PRO_CLAUSE', 'CLAUSE'))
     defaultcxs <- unique(replace(defaultcxs, defaultcxs == 'PRO_JUXT', 'JUXT'))
     defaultcxs <- unique(replace(defaultcxs, defaultcxs == 'PSSR-PSSD', 'PSSR and PSSD'))
+    defaultcxs <- unique(replace(defaultcxs, defaultcxs == 'NA', 'None'))
     if (length(defaultcxs) == 0) {
       defaultcxs <- '?'
     } else if (length(defaultcxs) == 1 && defaultcxs == 'MARKER') {
@@ -550,6 +556,7 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
       inalienablecxs <- unique(replace(inalienablecxs, inalienablecxs == 'PRO_CLAUSE', 'CLAUSE'))
       inalienablecxs <- unique(replace(inalienablecxs, inalienablecxs == 'PRO_JUXT', 'JUXT'))
       inalienablecxs <- unique(replace(inalienablecxs, inalienablecxs == 'PSSR-PSSD', 'PSSR and PSSD'))
+      inalienablecxs <- unique(replace(inalienablecxs, inalienablecxs == 'NA', 'None'))
       if (length(inalienablecxs) == 0) { 
         inalienablecxs <- '?' 
       } else if (length(inalienablecxs) == 1 && inalienablecxs == 'MARKER') {
@@ -566,6 +573,7 @@ processNounPoss <- function(featurestable, classes, constructions, possessioncld
       nonpossessiblecxs <- unique(replace(nonpossessiblecxs, nonpossessiblecxs == 'PRO_CLAUSE', 'CLAUSE'))
       nonpossessiblecxs <- unique(replace(nonpossessiblecxs, nonpossessiblecxs == 'PRO_JUXT', 'JUXT'))
       nonpossessiblecxs <- unique(replace(nonpossessiblecxs, nonpossessiblecxs == 'PSSR-PSSD', 'PSSR and PSSD'))
+      nonpossessiblecxs <- unique(replace(nonpossessiblecxs, nonpossessiblecxs == 'NA', 'None'))
       if (length(nonpossessiblecxs) == 0) { 
         nonpossessiblecxs <- '?' 
       } else if (length(nonpossessiblecxs) == 1 && nonpossessiblecxs == 'MARKER') {

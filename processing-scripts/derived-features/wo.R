@@ -76,11 +76,11 @@ processWordOrder <- function(featurestable, lgnames, warnings, errors) {
   #errors
   errorsInt <- errors
   
-  errorsList <- dplyr::filter(featurestable, ((`NounPoss-08` == 'CLAUSE' | `NounPoss-08` == 'NULL') & `WO-03` != 'NA'))
-  addErrorsOrWarnings('Error', errorsList, errorsInt, 'WO', 'NounPoss-08 == CLAUSE | NounPoss-08 == NULL => WO-03 == NA', lgnames)
+  errorsList <- dplyr::filter(featurestable, ((`NounPoss-08` == 'CLAUSE' | `NounPoss-08` == 'NULL' & `NounPoss-08` != 'None') & `WO-03` != 'NA'))
+  addErrorsOrWarnings('Error', errorsList, errorsInt, 'WO', 'NounPoss-08 == CLAUSE | NounPoss-08 == NULL | NounPoss-08 == None => WO-03 == NA', lgnames)
   
-  errorsList <- dplyr::filter(featurestable, ((`NounPoss-08` != 'CLAUSE' & `NounPoss-08` != 'NULL') & `WO-03` == 'NA'))
-  addErrorsOrWarnings('Error', errorsList, errorsInt, 'WO', 'WO-03 == NA => NounPoss-08 == CLAUSE | NounPoss-08 == NULL', lgnames)
+  errorsList <- dplyr::filter(featurestable, ((`NounPoss-08` != 'CLAUSE' & `NounPoss-08` != 'NULL' & `NounPoss-08` != 'None') & `WO-03` == 'NA'))
+  addErrorsOrWarnings('Error', errorsList, errorsInt, 'WO', 'WO-03 == NA => NounPoss-08 == CLAUSE | NounPoss-08 == NULL | NounPoss-08 == None', lgnames)
   
   #write warnings, errors, to global variable
   errorobj <- deparse(substitute(errors))

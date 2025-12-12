@@ -712,7 +712,7 @@ LINKER_NounPoss-08,NounPoss-08,LINKER,#783308
 JUXT_NounPoss-08,NounPoss-08,JUXT,#f4cd16
 CLAUSE_NounPoss-08,NounPoss-08,CLAUSE,#f5802f
 CLASS_NounPoss-08,NounPoss-08,CLASS,#7ea455
-NULL_NounPoss-08,NounPoss-08,NULL,#6e6e6e
+None_NounPoss-08,NounPoss-08,None,#6e6e6e
 ?_NounPoss-08,NounPoss-08,?,
 yes_NounPoss-08a,NounPoss-08a,yes,#016acb
 no_NounPoss-08a,NounPoss-08a,no,#a1a1a1
@@ -734,7 +734,7 @@ LINKER_NounPoss-09,NounPoss-09,LINKER,#783308
 JUXT_NounPoss-09,NounPoss-09,JUXT,#f4cd16
 CLAUSE_NounPoss-09,NounPoss-09,CLAUSE,#f5802f
 CLASS_NounPoss-09,NounPoss-09,CLASS,#7ea455
-NULL_NounPoss-09,NounPoss-09,NULL,#6e6e6e
+None_NounPoss-09,NounPoss-09,None,#6e6e6e
 NA_NounPoss-09,NounPoss-09,NA,
 ?_NounPoss-09,NounPoss-09,?,
 PSSR_NounPoss-10,NounPoss-10,PSSR,#016acb
