@@ -224,6 +224,8 @@ All possession constructions in the language are entered into the Constructions 
 
 Possession constructions are given a Construction Type, which is a schematic representation that combines locus/type of marking and agreement properties. Locus/type can be PSSR (marking on the possessor noun), PSSD (marking on the possessed noun), JUXT (no marking on either noun), CLASS (the possessed noun is not syntactically possessed at all, but a classifier is possessed in its stead), and CLAUSE (the possessed noun is always the syntactic argument of a verb expressing possession: direct nominal possession is impossible). Agreement is schematized with brackets, follows the locus on which agreement occurs (PSSR or PSSD), and gives the element that the morphology agrees with (e.g., PSSR\[AGR:PSSD\] indicates a locus of marking on the possessor noun which morphologically agrees with the possessed noun). In the case of complex constructions with multiple morphemes, these elements can be combined with “+”. For example, PSSD + PSSD\[AGR:PSSR\] indicates two morphemes, both on the possessed noun, one of which only marks possession, and another which agrees with the possessor. PSSR + PSSD\[AGR:PSSR\] indicates a construction with one morpheme on the possessor noun (which does not express agreement) and one morpheme on the possessed noun (which agrees with the possessor).
 
+There are two special Construction Types which indicate the absence of a construction. The first is the type NULL, which indicates that there is no grammaticalized possession construction for the given possession class at all. The second is the type NA, which indicates that possession is grammatically expressible but not within the noun phrase. This only occurs in our database in two languages: Kiowa \[kiow1266\] and Tuscarora \[tusc1257\], and in each case possession is expressed obligatorily through a possessor raising construction.
+
 Unpossession constructions are all given the Construction Type UNPOSSESSION, with a free-form shape explaining what the unpossession construction is. If no unpossession constructions are present for a given class, it is assumed that member nouns can appear unpossessed without any special morphology.
 
 The Possession Class Table and Construction Table are analyzed jointly using R scripts to generate intermediate levels of structure, classify possession classes semantically, and finally to the language-wide features presented below. All R code is available in the [ATLAs Github repository](https://github.com/davidainman/atlas-data/cldf-possession/).
@@ -568,7 +570,7 @@ North Junín Quechua has no non-possessible classes.
 Palikur’s two non-possessible classes encompass plants, animals, and inanimate nature terms (such as ‘thunder’).
 
 ### [](ParameterTable#cldf:NounPoss-08)
-&emsp;**{ ; list of \[ PSSR, PSSD, PSSR and PSSD, LINKER, JUXT, CLAUSE, CLASS, NULL \] }**
+&emsp;**{ ; list of \[ PSSR, PSSD, PSSR and PSSD, LINKER, JUXT, CLAUSE, CLASS, None \] }**
 
 #### PSSR and PSSD: North Junín Quechua \[nort2980\] (Quechuan; Peru)
 
@@ -596,9 +598,12 @@ Palikúr’s default possession strategy includes two markers on the possessed n
   </tr>
 </tbody></table>
 
+#### None: Tuscarora \[tusc1257\] (Iroquoian; United States)
+
+Tuscarora’s default possession class does not appear to have any recourse for expressing possession as an NP, and instead requires that the possessor be expressed as an argument to a verbal predicate. Even the most minimal examples presented in the grammar show alienable nouns incorporated minimally into the verb *-a* ‘belong to’ ([Williams 1974](Source#cldf:williams1974tuscarora): 214-217).
 
 ### [](ParameterTable#cldf:NounPoss-09)
-&emsp;**{ NA | ; list of \[ PSSR, PSSD, PSSR and PSSD, LINKER, JUXT, CLAUSE, CLASS, NULL \] }**
+&emsp;**{ NA | ; list of \[ PSSR, PSSD, PSSR and PSSD, LINKER, JUXT, CLAUSE, CLASS, None \] }**
 
 #### PSSD: Palikúr \[pali1279\] (Arawakan; Brazil, French Guiana)
 
