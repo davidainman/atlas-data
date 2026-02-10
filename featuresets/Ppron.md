@@ -106,7 +106,9 @@ There are two pronouns mentioned in [Garrett et al (2020: 13-15)](Source#cldf:ga
 **Note**: This feature was added after most data had been collected and was partially filled without going back to the original sources.
 
 **yes-auto**: If no explicit remarks existed (in the remarks field for other features) about an additional distinction present in a person paradigm of the language, then we assumed that the chosen paradigm encodes all distinctions.
+
 **yes**: The assumption above has been checked with the original sources.
+
 **no**: The additional distinction and when/where it appears is indicated in the remarks.
 
 #### no: Seri \[seri1257\] (isolate; Mexico)

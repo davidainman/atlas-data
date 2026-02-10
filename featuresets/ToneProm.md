@@ -249,6 +249,26 @@ In Southeast Asia, many tone systems have developed from earlier phonation disti
 In Krongo, as in many other African languages, there is no difference in phonation or duration between the different tone categories, which are based only on pitch ([Reh 1985](Source#cldf:reh1985krongo): 75).
 
 ## Derived features
+### [](ParameterTable#cldf:ToneProm-01a)
+&emsp;**{ NA | contrastive | non-contrastive }**
+
+<table class="dconversion">
+<tbody>
+  <tr>
+    <td class="tg-1wig">contrastive</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">if ToneProm-04 is &lt;contrastive&gt; OR ToneProm-06 is &lt;contrastive&gt; OR ToneProm-08 is &lt;contrastive&gt;</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">non-contrastive</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">if ToneProm-04 is &lt;non-contrastive&gt; OR ToneProm-06 is &lt;non-contrastive&gt; OR ToneProm-08 is &lt;non-contrastive&gt; AND ToneProm-04 is not &lt;contrastive&gt; AND ToneProm-06 is not &lt;contrastive&gt; AND ToneProm-08 is not &lt;contrastive&gt;</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">NA</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">if ToneProm-01 is &lt;no&gt;</span></td>
+  </tr>
+</tbody>
+</table>
+
 ### [](ParameterTable#cldf:ToneProm-09a)
 &emsp;**{ yes | no }**
 
@@ -277,26 +297,6 @@ In Krongo, as in many other African languages, there is no difference in phonati
   <tr>
     <td class="tg-1wig">no</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">if (ToneProm-03 is &lt;no&gt; OR ToneProm-03 is &lt;NA&gt; OR (ToneProm-03 is &lt;yes&gt; AND ToneProm-04 is &lt;non-contrastive&gt;)) </span>AND ToneProm-09 is &lt;no&gt;</td>
-  </tr>
-</tbody>
-</table>
-
-### [](ParameterTable#cldf:ToneProm-01a)
-&emsp;**{ NA | contrastive | non-contrastive }**
-
-<table class="dconversion">
-<tbody>
-  <tr>
-    <td class="tg-1wig">contrastive</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">if ToneProm-04 is &lt;contrastive&gt; OR ToneProm-06 is &lt;contrastive&gt; OR ToneProm-08 is &lt;contrastive&gt;</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">non-contrastive</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">if ToneProm-04 is &lt;non-contrastive&gt; OR ToneProm-06 is &lt;non-contrastive&gt; OR ToneProm-08 is &lt;non-contrastive&gt; AND ToneProm-04 is not &lt;contrastive&gt; AND ToneProm-06 is not &lt;contrastive&gt; AND ToneProm-08 is not &lt;contrastive&gt;</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">NA</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">if ToneProm-01 is &lt;no&gt;</span></td>
   </tr>
 </tbody>
 </table>
