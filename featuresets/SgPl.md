@@ -1472,7 +1472,7 @@ This feature unites languages with Sg-Pl alternation in lexical verbs and langua
 </table>
 
 ## Results
-This section is a summary of our findings for the survey on the ATLAs sample, (for more detailed information, see Inman & Vuillermet, submitted). 
+This section is a summary of our findings for the survey on the ATLAs sample, (for more detailed information, see [Inman & Vuillermet (2025)](Source#cldf:inman2025sgpl)). 
 
 **Distribution**: Our data show that the phenomenon is fairly frequent around the world, in about a third of the languages. Confirming previous studies, SgPl stem alternation ([SgPl-01](../parameters/SgPl-01)) is overwhelmingly present in North America, in over half (52%) of the 115 North American languages in our sample. Less expectedly, South America is the macroregion with the lowest percentage of cases (17%), but a cluster of languages around the Brazilian state of Rondônia (part of the proposed Guaporé-Mamoré linguistic area ([Crevels and van der Voort (2008)](Source#cldf:crevels2008guaporemamore)) stands out as a hotspot of Sg-Pl alternation. Coastal eastern Papunesia is another strong language cluster displaying the phenomenon.
 
