@@ -66,7 +66,7 @@
 </table>
 
 ### Form: (root) suppletion & (limited) regular pattern
-We chose the term **singular-plural verbal *stem* alternation** because formally our definition encompasses two types of *lexically limited* alternation: **root suppletion**, and **limited regular patterns**. Both patterns are exemplified in Wari’ \[wari1268\] (Chapacuran; Brazil; [Birchall et al in review](Source#cldf:birchalletal2024wari)), where some verbal alternations are **suppletive** (14 pairs) and some use a **(lexically) limited morpheme** (27 pairs), as illustrated in Table 1.
+We chose the term **singular-plural verbal *stem* alternation** because formally our definition encompasses two types of *lexically limited* alternation: **root suppletion**, and **limited regular patterns**. Both patterns are exemplified in Wari’ \[wari1268\] (Chapacuran; Brazil; [Birchall et al (2024)](Source#cldf:birchalletal2024wari)), where some verbal alternations are **suppletive** (14 pairs) and some use a **(lexically) limited morpheme** (27 pairs), as illustrated in Table 1.
 
 <div class="datainset">
 Table 1: Some verbal pairs formed by suppletion and by limited regular pattern in Wari’ (Chapacuran)
@@ -1347,7 +1347,7 @@ The imperfective narrative has a Sg and a Pl form, *nĩgnĩ ~ nỹgnĩ* ([Gonça
 For [Mithun (1988: 214)](Source#cldf:mithun1988karok), “the primary function of stem alternation is not to enumerate entities, but to quantify the effect of actions, states, and events” (see also [Durie 1986](Source#cldf:durie1986number) and [Veselinova 2013](Source#cldf:veselinova2013wals)). Consequently, we expected the marking of Sg-Pl alternation to sometimes also mark iterativity and event repetition.
 
 #### yes: Wari’ \[wari1268\] (Chapacuran)
-The verbal pairs that alternate via regular pattern sometimes can indicate event repetition, although proper suppletion only signifies participant number ([Birchall et al in review](Source#cldf:birchalletal2024wari)).
+The verbal pairs that alternate via regular pattern sometimes can indicate event repetition, although proper suppletion only signifies participant number ([Birchall et al (2024)](Source#cldf:birchalletal2024wari)).
 
 #### no: Shipibo-Conibo \[ship1254\] (Pano-Tacanan; Peru)
 The verbal pairs in Shipibo-Conibo only signify the number of participants involved and transitivity ([Valenzuela 2003](Source#cldf:valenzuela2003shipibokonibo): 150).
