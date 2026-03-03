@@ -118,15 +118,15 @@ Language,indexing-features,person,33,0.125
 Language,indexing-features,person+number,134,0.5075757575757576
 Language,indexing-features,person+number;person+other,1,0.003787878787878788
 Language,indexing-features,person;person+number,47,0.17803030303030304
-Language,ref-ergative,False,222,0.683076923076923
-Language,ref-ergative,True,103,0.3169230769230769
-Language,ref-ergative-domain,Noun,7,0.06796116504854369
-Language,ref-ergative-domain,Noun;Pro,37,0.3592233009708738
-Language,ref-ergative-domain,Noun;Pro;Verb,7,0.06796116504854369
-Language,ref-ergative-domain,Noun;Verb,1,0.009708737864077669
-Language,ref-ergative-domain,Pro,5,0.04854368932038835
-Language,ref-ergative-domain,Pro;Verb,2,0.019417475728155338
-Language,ref-ergative-domain,Verb,44,0.42718446601941745
+Language,ref-ergative,False,221,0.68
+Language,ref-ergative,True,104,0.32
+Language,ref-ergative-domain,Noun,7,0.0673076923076923
+Language,ref-ergative-domain,Noun;Pro,37,0.3557692307692308
+Language,ref-ergative-domain,Noun;Pro;Verb,7,0.0673076923076923
+Language,ref-ergative-domain,Noun;Verb,1,0.009615384615384616
+Language,ref-ergative-domain,Pro,5,0.04807692307692308
+Language,ref-ergative-domain,Pro;Verb,2,0.019230769230769232
+Language,ref-ergative-domain,Verb,45,0.4326923076923077
 Language,ref-horizontal,False,298,0.916923076923077
 Language,ref-horizontal,True,27,0.08307692307692308
 Language,ref-horizontal-domain,Noun,3,0.1111111111111111
@@ -150,8 +150,8 @@ Language,ref-tripartite-domain,Noun;Pro;Verb,1,0.023809523809523808
 Language,ref-tripartite-domain,Pro,4,0.09523809523809523
 Language,ref-tripartite-domain,Verb,35,0.8333333333333334
 Language,split-s,?,9,0.027692307692307693
-Language,split-s,False,261,0.803076923076923
-Language,split-s,True,55,0.16923076923076924
+Language,split-s,False,260,0.8
+Language,split-s,True,56,0.1723076923076923
 Language,tam-split,?,9,0.027692307692307693
 Language,tam-split,False,290,0.8923076923076924
 Language,tam-split,True,26,0.08
@@ -165,22 +165,22 @@ Selector (flagging),Alignment,accusative,197,0.6723549488054608
 Selector (flagging),Alignment,ergative,70,0.23890784982935154
 Selector (flagging),Alignment,horizontal,6,0.020477815699658702
 Selector (flagging),Alignment,neutral,20,0.06825938566552901
-Selector (indexing marker),S,False,798,0.403030303030303
-Selector (indexing marker),S,True,1182,0.5969696969696969
+Selector (indexing marker),S,False,797,0.4025252525252525
+Selector (indexing marker),S,True,1183,0.5974747474747475
 Selector (indexing marker),A,False,663,0.33484848484848484
 Selector (indexing marker),A,True,1317,0.6651515151515152
 Selector (indexing marker),P,False,917,0.4631313131313131
 Selector (indexing marker),P,True,1063,0.5368686868686868
-Selector (indexing marker),Alignment,accusative,1021,0.5156565656565657
-Selector (indexing marker),Alignment,ergative,349,0.17626262626262626
+Selector (indexing marker),Alignment,accusative,1020,0.5151515151515151
+Selector (indexing marker),Alignment,ergative,350,0.17676767676767677
 Selector (indexing marker),Alignment,horizontal,314,0.15858585858585858
 Selector (indexing marker),Alignment,neutral,296,0.1494949494949495
-Reference,Zero indexing of 1,Role A,119,0.14512195121951219
-Reference,Zero indexing of 1,Role P,78,0.1087866108786611
-Reference,Zero indexing of 1,Role S,29,0.03527980535279805
-Reference,Zero indexing of 2,Role A,119,0.1676056338028169
-Reference,Zero indexing of 2,Role P,102,0.16776315789473684
-Reference,Zero indexing of 2,Role S,24,0.03389830508474576
-Reference,Zero indexing of 3,Role A,281,0.32712456344586727
-Reference,Zero indexing of 3,Role P,335,0.4413702239789196
-Reference,Zero indexing of 3,Role S,149,0.17325581395348838
+Reference,Zero indexing of 1,Role A,119,0.14476885644768855
+Reference,Zero indexing of 1,Role P,78,0.10848400556328233
+Reference,Zero indexing of 1,Role S,29,0.03519417475728155
+Reference,Zero indexing of 2,Role A,119,0.16713483146067415
+Reference,Zero indexing of 2,Role P,102,0.16721311475409836
+Reference,Zero indexing of 2,Role S,24,0.03380281690140845
+Reference,Zero indexing of 3,Role A,281,0.32636469221835074
+Reference,Zero indexing of 3,Role P,335,0.44021024967148487
+Reference,Zero indexing of 3,Role S,149,0.1728538283062645

@@ -70,7 +70,7 @@ enap1235,False,True,False,False,person;person+number,False,NA,no marking,no mark
 esee1248,True,True,True,False,person;person+number,False,NA,ergative,ergative,no marking,ergative,ergative,no marking,True,Noun;Pro;Verb,True,Verb,True,Verb,False,NA,no,no
 esse1238,True,False,False,False,NA,False,NA,no marking,accusative,no marking,no marking,accusative,no marking,False,NA,False,NA,False,NA,False,NA,no,no
 eyak1241,False,True,True,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no
-fuln1247,False,True,False,False,person+number,False,NA,no marking,no marking,no marking,no marking,no marking,no marking,False,NA,False,NA,False,NA,False,NA,no,no
+fuln1247,False,True,False,True,person+number,False,NA,no marking,no marking,no marking,no marking,no marking,no marking,True,Verb,False,NA,False,NA,False,NA,no,no
 gaga1251,False,True,False,False,person,False,NA,no marking,no marking,sensitive,no marking,no marking,sensitive,False,NA,False,NA,False,NA,True,Verb,no,yes
 galo1242,True,False,False,False,NA,True,Reference,accusative,accusative,no marking,accusative,accusative,no marking,False,NA,False,NA,False,NA,False,NA,no,no
 gara1269,True,False,False,False,NA,False,NA,ergative,accusative,no marking,ergative,accusative,no marking,True,Noun,False,NA,False,NA,False,NA,no,no

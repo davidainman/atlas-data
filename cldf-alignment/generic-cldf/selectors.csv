@@ -590,12 +590,12 @@ eyak1241-s-a-marking-lax-indexing-marker,eyak1241,indexing marker,S/A marking lA
 eyak1241-s-a-marking-x-indexing-marker,eyak1241,indexing marker,S/A marking x-,overt,person+number,"krauss2015eyak[103-104,176-177]",HT,1sg,1sg,NONE,accusative
 eyak1241-s-a-marking-yi-indexing-marker,eyak1241,indexing marker,S/A marking yi-,overt,person+number,"krauss2015eyak[103-104,176-177]",HT,2sg,2sg,NONE,accusative
 fuln1247-a-2sg-indexing-marker,fuln1247,indexing marker,a 2sg,overt,person+number,"dasilva2016yaathe[78-81,84,95,97]",DI,2sg,2sg,2sg,neutral
-fuln1247-e-3sg-indexing-marker,fuln1247,indexing marker,e 3sg,overt,person+number,"dasilva2016yaathe[78-81,84,95]",DI,NONE,NONE,3sg,accusative
+fuln1247-e-3sg-indexing-marker,fuln1247,indexing marker,e 3sg,overt,person+number,"dasilva2016yaathe[78-81,84,95]",DI,3sg,NONE,3sg,ergative
 fuln1247-i-1sg-indexing-marker,fuln1247,indexing marker,i 1sg,overt,person+number,"dasilva2016yaathe[78-81,84,95]",DI,1sg,1sg,1sg,neutral
 fuln1247-ja-1pl-indexing-marker,fuln1247,indexing marker,ja 1pl,overt,person+number,"dasilva2016yaathe[78-81,84,95,97]",DI,1pl,1pl,1pl,neutral
 fuln1247-no-flagging,fuln1247,flagging,NO_FLAGGING,zero,,"dasilva2016yaathe[142-145,21,64-78]",DI,any,any,any,neutral
 fuln1247-role-not-marked,fuln1247,indexing trigger,ROLE_NOT_MARKED,zero,NA,"dasilva2016yaathe[78-81,84,95,97]",DI,any,any,any,NA
-fuln1247-ta-e-3sg-indexing-marker,fuln1247,indexing marker,ta/e 3sg,overt,person+number,"dasilva2016yaathe[78-81,84,95,97]",DI,3sg,3sg,NONE,accusative
+fuln1247-ta-3sg-indexing-marker,fuln1247,indexing marker,ta 3sg,overt,person+number,"dasilva2016yaathe[78-81,84,95,97]",DI,3sg,3sg,NONE,accusative
 fuln1247-tha-3pl-indexing-marker,fuln1247,indexing marker,tʰa 3pl,overt,person+number,"dasilva2016yaathe[78-81,84,95,97]",DI,3pl,3pl,3pl,neutral
 fuln1247-wa-2pl-indexing-marker,fuln1247,indexing marker,wa 2pl,overt,person+number,"dasilva2016yaathe[78-81,84,95]",DI,2pl,2pl,2pl,neutral
 gaga1251-a-n-3ia-indexing-marker,gaga1251,indexing marker,(a)n- 3iA,overt,person,harvey2002gaagudju[224-225],AN,NONE,3-i_2;3-i_3-i;3-i_3-ii;3-i_3-iii;3-i_3-iv,NONE,ergative
