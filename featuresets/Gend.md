@@ -136,7 +136,7 @@ In Basque \[basq1248\] (isolate; Spain, France), speakers use the first form in 
 </table>
 
 #### *Type III. Both speaker & addressee*
-This last case is much rarer. In Yana \[yana1271\] (isolate; United States; [Sapir 1922](Source#cldf:sapir1922yana)), the lexemes used for ‘quail’ and ‘acorn’ depend on the gender of both the speaker and the addressee: *sika·ka* and *yuna* in (7a) are only used by men speakers to men addressees, and in all other cases (i.e. men to women, women to men, women to women), including mixed audience, *sika·khA* and *yuh* in (7b) are used.
+This last case is much rarer. In Yana \[yana1271\] (isolate; United States; [Sapir 1922 \[1963\]](Source#cldf:sapir1922yana)), the lexemes used for ‘quail’ and ‘acorn’ depend on the gender of both the speaker and the addressee: *sika·ka* and *yuna* in (7a) are only used by men speakers to men addressees, and in all other cases (i.e. men to women, women to men, women to women), including mixed audience, *sika·khA* and *yuh* in (7b) are used.
 
 <table class="tg">
 <thead>

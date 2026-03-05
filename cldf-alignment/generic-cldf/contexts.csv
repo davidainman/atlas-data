@@ -1192,9 +1192,9 @@ moch1259-6,moch1259,moch1259-erg-pronominal-forms-flagging,,simple,A,3sgPro,P,an
 moch1259-7,moch1259,moch1259-no-flagging,,simple,A,1plPro,P,any,any,none,any,default,,"eloranta2020mochica[146,157,180,228-229]",,AWM
 moch1259-8,moch1259,moch1259-no-flagging,,simple,A,2plPro,P,any,any,none,any,default,,"eloranta2020mochica[146,157,180,228-229]",,AWM
 moch1259-9,moch1259,moch1259-no-flagging,,simple,A,3plPro,P,any,any,none,any,default,,"eloranta2020mochica[146,157,180,228-229]",,AWM
-moha1258-1,moha1258,moha1258-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"deering1976mohawk[56];hopkins1988mohawk[151,265]",Free pronouns are extremely rare and only used as emphatic. ,AN
-moha1258-2,moha1258,moha1258-no-flagging,,simple,A,any,P,any,any,none,any,default,,"deering1976mohawk[56];hopkins1988mohawk[151,265]",Free pronouns are extremely rare and only used as emphatic. ,AN
-moha1258-3,moha1258,moha1258-no-flagging,,simple,P,any,A,any,any,none,any,default,,"deering1976mohawk[56];hopkins1988mohawk[151,265]",Free pronouns are extremely rare and only used as emphatic. ,AN
+moha1258-1,moha1258,moha1258-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"deering1976mohawk[56];hopkins1988mohawk[151,265]",Free pronouns are extremely rare and only used as emphatic.,AN
+moha1258-2,moha1258,moha1258-no-flagging,,simple,A,any,P,any,any,none,any,default,,"deering1976mohawk[56];hopkins1988mohawk[151,265]",Free pronouns are extremely rare and only used as emphatic.,AN
+moha1258-3,moha1258,moha1258-no-flagging,,simple,P,any,A,any,any,none,any,default,,"deering1976mohawk[56];hopkins1988mohawk[151,265]",Free pronouns are extremely rare and only used as emphatic.,AN
 mola1238-1,mola1238,mola1238-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,pharris2006molalla[197-200],,AN;AWM
 mola1238-2,mola1238,mola1238-no-flagging,,simple,A,any,P,any,any,none,any,default,,pharris2006molalla[197-200],,AN;AWM
 mola1238-3,mola1238,mola1238-acc-marking-flagging,,simple,P,Noun-animate,A,any,any,none,any,default,,pharris2006molalla[197-200],,AN;AWM
@@ -4997,25 +4997,26 @@ eyak1241-23,eyak1241,eyak1241-s-a-marking-x-indexing-marker,-1,simple,A,1sg,P,an
 eyak1241-24,eyak1241,eyak1241-s-a-marking-yi-indexing-marker,-1,NA,S,2sg,NA,NA,imperfective,NA,non-exemplar,default,,"krauss2015eyak[103-104,176-177]",,HT
 eyak1241-25,eyak1241,eyak1241-s-a-marking-yi-indexing-marker,-1,simple,A,2sg,P,any,imperfective,none,non-exemplar,default,,"krauss2015eyak[103-104,176-177]",,HT
 fuln1247-4,fuln1247,fuln1247-a-2sg-indexing-marker,-1,simple,P,2sg,A,any,any,none,any,default,default,"dasilva2016yaathe[78-81,84,95]",,DI
-fuln1247-5,fuln1247,fuln1247-a-2sg-indexing-marker,-2,NA,S,2sg,NA,NA,any,NA,any,default,default,"dasilva2016yaathe[78-81,84,97]",,DI
+fuln1247-5,fuln1247,fuln1247-a-2sg-indexing-marker,-1&-2,NA,S,2sg,NA,NA,any,NA,any,any,default,"dasilva2016yaathe[37-38,78-81,84,97]",,DI
 fuln1247-6,fuln1247,fuln1247-a-2sg-indexing-marker,-2,simple,A,2sg,P,any,any,none,any,default,default,"dasilva2016yaathe[78-81,84,95]",,DI
-fuln1247-7,fuln1247,fuln1247-e-3sg-indexing-marker,-1,simple,P,3sg,A,any,any,none,any,default,default,"dasilva2016yaathe[78-81,84,95]",,DI
+fuln1247-7,fuln1247,fuln1247-e-3sg-indexing-marker,-1,simple,P,3sg,A,any,any,none,any,default,default,"dasilva2016yaathe[78-81,84,95]","There are a few examples in the grammar where a ta= marker is apparently used for an object. However, this is nowhere described in the grammars.",DI
 fuln1247-8,fuln1247,fuln1247-i-1sg-indexing-marker,-1,simple,P,1sg,A,any,any,none,any,default,default,"dasilva2016yaathe[78-81,84,95]",,DI
-fuln1247-9,fuln1247,fuln1247-i-1sg-indexing-marker,-2,NA,S,1sg,NA,NA,any,NA,any,default,default,"dasilva2016yaathe[78-81,84,95]",,DI
+fuln1247-9,fuln1247,fuln1247-i-1sg-indexing-marker,-1&-2,NA,S,1sg,NA,NA,any,NA,any,any,default,"dasilva2016yaathe[37-38,78-81,84,97]",,DI
 fuln1247-10,fuln1247,fuln1247-i-1sg-indexing-marker,-2,simple,A,1sg,P,any,any,none,any,default,default,"dasilva2016yaathe[78-81,84,95]",,DI
 fuln1247-11,fuln1247,fuln1247-ja-1pl-indexing-marker,-1,simple,P,1pl,A,any,any,none,any,default,default,"dasilva2016yaathe[78-81,84,97]",,DI
-fuln1247-12,fuln1247,fuln1247-ja-1pl-indexing-marker,-2,NA,S,1pl,NA,NA,any,NA,any,default,default,"dasilva2016yaathe[78-81,84,95]",,DI
+fuln1247-12,fuln1247,fuln1247-ja-1pl-indexing-marker,-1&-2,NA,S,1pl,NA,NA,any,NA,any,any,default,"dasilva2016yaathe[37-38,78-81,84,97]",,DI
 fuln1247-13,fuln1247,fuln1247-ja-1pl-indexing-marker,-2,simple,A,1pl,P,any,any,none,any,default,default,"dasilva2016yaathe[78-81,84,95]",,DI
-fuln1247-14,fuln1247,fuln1247-role-not-marked,NA,NA,S,any,NA,NA,any,NA,any,default,unclear,"dasilva2016yaathe[78-81,84,95]",The conditions under which there is no marking are unclear.,DI
+fuln1247-14,fuln1247,fuln1247-role-not-marked,NA,NA,S,any,NA,NA,any,NA,any,any,unclear,"dasilva2016yaathe[37-38,78-81,84,97]",The conditions under which there is no marking are unclear.,DI
 fuln1247-15,fuln1247,fuln1247-role-not-marked,NA,NA,A,any,P,any,any,none,any,default,unclear,"dasilva2016yaathe[78-81,84,95]",The conditions under which there is no marking are unclear.,DI
 fuln1247-16,fuln1247,fuln1247-role-not-marked,NA,NA,P,any,A,any,any,none,any,default,unclear,"dasilva2016yaathe[78-81,84,97]",The conditions under which there is no marking are unclear.,DI
-fuln1247-17,fuln1247,fuln1247-ta-e-3sg-indexing-marker,-2,NA,S,3sg,NA,NA,any,NA,any,default,default,"dasilva2016yaathe[78-81,84,95]",,DI
-fuln1247-18,fuln1247,fuln1247-ta-e-3sg-indexing-marker,-2,simple,A,3sg,P,any,any,none,any,default,default,"dasilva2016yaathe[78-81,84,97]",,DI
+fuln1247-17,fuln1247,fuln1247-ta-3sg-indexing-marker,-1&-2,NA,S,3sg,NA,NA,any,NA,any,active,default,"dasilva2016yaathe[37-38,78-81,84,97]","There are a few examples in the grammar where a ta= marker is apparently used for an object. However, this is nowhere described in the grammars.",DI
+fuln1247-17-1,fuln1247,fuln1247-e-3sg-indexing-marker,-1&-2,NA,S,3sg,NA,NA,any,NA,non-exemplar,stative,default,"dasilva2016yaathe[37-38,78-81,84,97]",,DI
+fuln1247-18,fuln1247,fuln1247-ta-3sg-indexing-marker,-2,simple,A,3sg,P,any,any,none,any,default,default,"dasilva2016yaathe[78-81,84,97]",,DI
 fuln1247-19,fuln1247,fuln1247-tha-3pl-indexing-marker,-1,simple,P,3pl,A,any,any,none,any,default,default,"dasilva2016yaathe[78-81,84,95]",,DI
-fuln1247-20,fuln1247,fuln1247-tha-3pl-indexing-marker,-2,NA,S,3pl,NA,NA,any,NA,any,default,default,"dasilva2016yaathe[78-81,84,97]",,DI
+fuln1247-20,fuln1247,fuln1247-tha-3pl-indexing-marker,-1&-2,NA,S,3pl,NA,NA,any,NA,any,any,default,"dasilva2016yaathe[37-38,78-81,84,97]",,DI
 fuln1247-21,fuln1247,fuln1247-tha-3pl-indexing-marker,-2,simple,A,3pl,P,any,any,none,any,default,default,"dasilva2016yaathe[78-81,84,95]",,DI
 fuln1247-22,fuln1247,fuln1247-wa-2pl-indexing-marker,-1,simple,P,2pl,A,any,any,none,any,default,default,"dasilva2016yaathe[78-81,84,95]",,DI
-fuln1247-23,fuln1247,fuln1247-wa-2pl-indexing-marker,-2,NA,S,2pl,NA,NA,any,NA,any,default,default,"dasilva2016yaathe[78-81,84,95]",,DI
+fuln1247-23,fuln1247,fuln1247-wa-2pl-indexing-marker,-1&-2,NA,S,2pl,NA,NA,any,NA,any,any,default,"dasilva2016yaathe[37-38,78-81,84,97]",,DI
 fuln1247-24,fuln1247,fuln1247-wa-2pl-indexing-marker,-2,simple,A,2pl,P,any,any,none,any,default,default,"dasilva2016yaathe[78-81,84,95]",,DI
 gaga1251-4,gaga1251,gaga1251-a-n-3ia-indexing-marker,-1,simple,A,3-i,P,2,any,none,any,default,,harvey2002gaagudju[224-225],"There are four gender classes; all masculine nouns belong to class 3-i, but class 3-i nouns are not exclusively masculine, so all classes are coded according to their relative number.",AN
 gaga1251-5,gaga1251,gaga1251-a-n-3ia-indexing-marker,-1,simple,A,3-i,P,3-i,any,none,any,default,,harvey2002gaagudju[224-225],"There are four gender classes; all masculine nouns belong to class 3-i, but class 3-i nouns are not exclusively masculine, so all classes are coded according to their relative number.",AN
@@ -13341,16 +13342,16 @@ xava1240-23,xava1240,xava1240-ni-pls-a-hon-s-a-generic-s-a-indexing-marker,cliti
 xava1240-24,xava1240,xava1240-ni-pls-a-hon-s-a-generic-s-a-indexing-marker,clitic 1,NA,S,3.HON,NA,NA,any,NA,any,default,any,"estevam2011xavante[170-174,210-211]",,AN
 xava1240-25,xava1240,xava1240-null-marker,-2,simple,A,2,P,1sg,any,none,any,default,any,"estevam2011xavante[170-174,210-211]",,AN
 xava1240-26,xava1240,xava1240-null-marker,-1,simple,P,3,A,2,any,none,any,default,any,"estevam2011xavante[170-174,210-211]",,AN
-xava1240-27,xava1240,xava1240-null-marker,-1,simple,P,3,A,3,non-aorist,none,any,default,unknown conditions,"estevam2011xavante[170-174,210-211]",this non-aorist category includes the non-marked aspect but potentially other aspects too. ,AN
+xava1240-27,xava1240,xava1240-null-marker,-1,simple,P,3,A,3,non-aorist,none,any,default,unknown conditions,"estevam2011xavante[170-174,210-211]",this non-aorist category includes the non-marked aspect but potentially other aspects too.,AN
 xava1240-28,xava1240,xava1240-null-marker,-1,simple,P,3,A,3,aorist,none,any,default,any,"estevam2011xavante[170-174,210-211]","Aorist as a tense is increasingly used without reltion to the utterance time, but it can refer to completed, real actions, so we count it as belonging to ""any"" rather than ""non-exemplar"" contexts.",AN
 xava1240-29,xava1240,xava1240-null-marker,-1,simple,P,3,A,1pl,any,none,any,default,any,"estevam2011xavante[170-174,210-211]",,AN
-xava1240-30,xava1240,xava1240-null-marker,-1,simple,P,3,A,1sg,non-aorist,none,any,default,unknown conditions,"estevam2011xavante[170-174,210-211]",this non-aorist category includes the non-marked aspect but potentially other aspects too. ,AN
+xava1240-30,xava1240,xava1240-null-marker,-1,simple,P,3,A,1sg,non-aorist,none,any,default,unknown conditions,"estevam2011xavante[170-174,210-211]",this non-aorist category includes the non-marked aspect but potentially other aspects too.,AN
 xava1240-31,xava1240,xava1240-null-marker,-1,simple,P,3,A,1sg,aorist,none,any,default,any,"estevam2011xavante[170-174,210-211]","Aorist as a tense is increasingly used without reltion to the utterance time, but it can refer to completed, real actions, so we count it as belonging to ""any"" rather than ""non-exemplar"" contexts.",AN
 xava1240-32,xava1240,xava1240-null-marker,-1,simple,P,3,A,2.HON,any,none,any,default,any,"estevam2011xavante[170-174,210-211]",,AN
 xava1240-33,xava1240,xava1240-null-marker,-1,simple,P,3,A,3.generic,any,none,non-exemplar,default,any,"estevam2011xavante[170-174,210-211]",,AN
 xava1240-34,xava1240,xava1240-null-marker,-1,simple,P,3,A,3.HON,any,none,any,default,any,"estevam2011xavante[170-174,210-211]",,AN
 xava1240-35,xava1240,xava1240-null-marker,-2,simple,A,3,P,any,any,none,any,default,any,"estevam2011xavante[170-174,210-211]",,AN
-xava1240-36,xava1240,xava1240-null-marker,-1,NA,S,3,NA,NA,non-aorist,NA,any,default,unknown conditions,"estevam2011xavante[170-174,210-211]",this non-aorist category includes the non-marked aspect but potentially other aspects too. ,AN
+xava1240-36,xava1240,xava1240-null-marker,-1,NA,S,3,NA,NA,non-aorist,NA,any,default,unknown conditions,"estevam2011xavante[170-174,210-211]",this non-aorist category includes the non-marked aspect but potentially other aspects too.,AN
 xava1240-37,xava1240,xava1240-null-marker,-1,NA,S,3,NA,NA,aorist,NA,any,default,any,"estevam2011xavante[170-174,210-211]","Aorist as a tense is increasingly used without reltion to the utterance time, but it can refer to completed, real actions, so we count it as belonging to ""any"" rather than ""non-exemplar"" contexts.",AN
 xava1240-38,xava1240,xava1240-null-marker,-2,simple,A,1pl,P,any,any,none,any,default,any,"estevam2011xavante[170-174,210-211]",,AN
 xava1240-39,xava1240,xava1240-null-marker,-2,simple,A,1sg,P,any,any,none,any,default,any,"estevam2011xavante[170-174,210-211]",,AN
@@ -13359,9 +13360,9 @@ xava1240-41,xava1240,xava1240-null-marker,-2,simple,A,2.HON,P,any,any,none,any,d
 xava1240-42,xava1240,xava1240-null-marker,-2,simple,A,3.generic,P,any,any,none,non-exemplar,default,any,"estevam2011xavante[170-174,210-211]",,AN
 xava1240-43,xava1240,xava1240-null-marker,-2,simple,A,3.HON,P,any,any,none,any,default,any,"estevam2011xavante[170-174,210-211]",,AN
 xava1240-44,xava1240,xava1240-ta-da-3-hon-s-indexing-marker,-1,NA,S,3.HON,NA,NA,any,NA,any,default,any,"estevam2011xavante[170-174,210-211]",,AN
-xava1240-45,xava1240,xava1240-ti-3s-p-indexing-marker,-1,simple,P,3,A,3,non-aorist,none,any,default,default,"estevam2011xavante[170-174,210-211]",this non-aorist category includes the non-marked aspect but potentially other aspects too. ,AN
-xava1240-46,xava1240,xava1240-ti-3s-p-indexing-marker,-1,simple,P,3,A,1sg,non-aorist,none,any,default,default,"estevam2011xavante[170-174,210-211]",this non-aorist category includes the non-marked aspect but potentially other aspects too. ,AN
-xava1240-47,xava1240,xava1240-ti-3s-p-indexing-marker,-1,NA,S,3,NA,NA,non-aorist,NA,any,default,default,"estevam2011xavante[170-174,210-211]",this non-aorist category includes the non-marked aspect but potentially other aspects too. ,AN
+xava1240-45,xava1240,xava1240-ti-3s-p-indexing-marker,-1,simple,P,3,A,3,non-aorist,none,any,default,default,"estevam2011xavante[170-174,210-211]",this non-aorist category includes the non-marked aspect but potentially other aspects too.,AN
+xava1240-46,xava1240,xava1240-ti-3s-p-indexing-marker,-1,simple,P,3,A,1sg,non-aorist,none,any,default,default,"estevam2011xavante[170-174,210-211]",this non-aorist category includes the non-marked aspect but potentially other aspects too.,AN
+xava1240-47,xava1240,xava1240-ti-3s-p-indexing-marker,-1,NA,S,3,NA,NA,non-aorist,NA,any,default,default,"estevam2011xavante[170-174,210-211]",this non-aorist category includes the non-marked aspect but potentially other aspects too.,AN
 xava1240-48,xava1240,xava1240-wa-1pls-p-indexing-marker,-1,simple,P,1pl,A,any,any,none,any,default,any,"estevam2011xavante[170-174,210-211]",,AN
 xava1240-49,xava1240,xava1240-wa-1pls-p-indexing-marker,-1,NA,S,1pl,NA,NA,any,NA,any,default,any,"estevam2011xavante[170-174,210-211]",,AN
 xinc1242-4,xinc1242,xinc1242-kan-2sg-hon-a-indexing-marker,1,simple,A,2sgHON,P,any,perfective,none,any,default,,rogers2010xinkan[223-226],,AN
@@ -13402,7 +13403,7 @@ xinc1242-38,xinc1242,xinc1242-un-1sgs-a-indexing-marker,-1,NA,S,1sg,NA,NA,imperf
 xinc1242-39,xinc1242,xinc1242-un-1sgs-a-indexing-marker,-1,simple,A,1sg,P,any,imperfective,none,non-exemplar,default,,rogers2010xinkan[223-226],,AN
 xinc1242-40,xinc1242,xinc1242-un-1sgs-a-indexing-marker,-1,NA,S,1sg,NA,NA,perfective,NA,any,default,,rogers2010xinkan[223-226],,AN
 yagu1244-4,yagu1244,yagu1244-role-not-marked,NA,NA,P,any,A,any,any,none,any,default,P possessed,"payne1990yagua[253-257,361-366]","When S, A or P NPs are in preverbal positions, there is no verbal indexing. We believe this is a focus construction, which we are not coding for.",AN
-yagu1244-5,yagu1244,yagu1244-role-not-marked,NA,NA,P,any,A,any,any,none,any,default,unknown (may be related to definiteness) ,"payne1990yagua[253-257,361-366]","When S, A or P NPs are in preverbal positions, there is no verbal indexing. We believe this is a focus construction, which we are not coding for.",AN;NCP;DI
+yagu1244-5,yagu1244,yagu1244-role-not-marked,NA,NA,P,any,A,any,any,none,any,default,unknown (may be related to definiteness),"payne1990yagua[253-257,361-366]","When S, A or P NPs are in preverbal positions, there is no verbal indexing. We believe this is a focus construction, which we are not coding for.",AN;NCP;DI
 yagu1244-6,yagu1244,yagu1244-s-a-marking-indexing-marker,clitic -1,simple,A,any,P,any,any,none,any,default,any,"payne1990yagua[253-257,361-366]","When S, A or P NPs are in preverbal positions, there is no verbal indexing. We believe this is a focus construction, which we are not coding for.",AN
 yagu1244-7,yagu1244,yagu1244-s-a-marking-indexing-marker,clitic -1,NA,S,any,NA,NA,any,NA,any,default,any,"payne1990yagua[253-257,361-366]","When S, A or P NPs are in preverbal positions, there is no verbal indexing. We believe this is a focus construction, which we are not coding for. There is another class of monovalent verbs which are all active movement verbs and which receive P marking. We have not encoded them because it is not an active/stative split",AN
 yagu1244-8,yagu1244,yagu1244-s-p-marking-indexing-marker,clitic 1,simple,P,any,A,any,any,none,any,default,default,"payne1990yagua[253-257,361-366]","When S, A or P NPs are in preverbal positions, there is no verbal indexing. We believe this is a focus construction, which we are not coding for.",AN

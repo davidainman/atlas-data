@@ -492,10 +492,10 @@ eyak1241-coargument-sensitivity indexing,eyak1241,coargument-sensitivity indexin
 fuln1247-flagging,fuln1247,flagging,False,DI,"dasilva2016yaathe[142-145,21,64-78]"
 fuln1247-indexing,fuln1247,indexing,True,DI,"dasilva2016yaathe[142-145,21,64-78]"
 fuln1247-indexing-features,fuln1247,indexing-features,person+number,DI,"dasilva2016yaathe[142-145,21,64-78]"
-fuln1247-tam-split,fuln1247,tam-split,False,DI,"dasilva2016yaathe[142-145,21,64-81,84,95,97]"
-fuln1247-split-s,fuln1247,split-s,False,DI,"dasilva2016yaathe[142-145,21,64-81,84,95,97]"
-fuln1247-coargument-sensitivity flagging,fuln1247,coargument-sensitivity flagging,no,DI,"dasilva2016yaathe[142-145,21,64-81,84,95,97]"
-fuln1247-coargument-sensitivity indexing,fuln1247,coargument-sensitivity indexing,no,DI,"dasilva2016yaathe[142-145,21,64-81,84,95,97]"
+fuln1247-tam-split,fuln1247,tam-split,False,DI,"dasilva2016yaathe[142-145,21,37-38,64-81,84,95,97]"
+fuln1247-split-s,fuln1247,split-s,True,DI,"dasilva2016yaathe[142-145,21,37-38,64-81,84,95,97]"
+fuln1247-coargument-sensitivity flagging,fuln1247,coargument-sensitivity flagging,no,DI,"dasilva2016yaathe[142-145,21,37-38,64-81,84,95,97]"
+fuln1247-coargument-sensitivity indexing,fuln1247,coargument-sensitivity indexing,no,DI,"dasilva2016yaathe[142-145,21,37-38,64-81,84,95,97]"
 gaga1251-flagging,gaga1251,flagging,False,AN,harvey2002gaagudju[260]
 gaga1251-indexing,gaga1251,indexing,True,AN,harvey2002gaagudju[260]
 gaga1251-indexing-features,gaga1251,indexing-features,person,AN,harvey2002gaagudju[260]
@@ -3910,8 +3910,8 @@ fuln1247-align-index,fuln1247,align-index,no marking,DI,"dasilva2016yaathe[142-1
 fuln1247-align-noun-nl,fuln1247,align-noun-nl,no marking,DI,"dasilva2016yaathe[142-145,21,64-78]"
 fuln1247-align-pro-nl,fuln1247,align-pro-nl,no marking,DI,"dasilva2016yaathe[142-145,21,64-78]"
 fuln1247-align-index-nl,fuln1247,align-index-nl,no marking,DI,"dasilva2016yaathe[142-145,21,64-78]"
-fuln1247-ref-ergative,fuln1247,ref-ergative,False,DI,"dasilva2016yaathe[142-145,21,64-78]"
-fuln1247-ref-ergative-domain,fuln1247,ref-ergative-domain,NA,DI,"dasilva2016yaathe[142-145,21,64-78]"
+fuln1247-ref-ergative,fuln1247,ref-ergative,True,DI,"dasilva2016yaathe[142-145,21,64-78]"
+fuln1247-ref-ergative-domain,fuln1247,ref-ergative-domain,Verb,DI,"dasilva2016yaathe[142-145,21,64-78]"
 fuln1247-ref-tripartite,fuln1247,ref-tripartite,False,DI,"dasilva2016yaathe[142-145,21,64-78]"
 fuln1247-ref-tripartite-domain,fuln1247,ref-tripartite-domain,NA,DI,"dasilva2016yaathe[142-145,21,64-78]"
 fuln1247-ref-horizontal,fuln1247,ref-horizontal,False,DI,"dasilva2016yaathe[142-145,21,64-78]"
