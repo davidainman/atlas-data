@@ -1,5 +1,5 @@
 Level,Variable,Value,Count,Percentage
-Language,align-index,accusative,110,0.3514376996805112
+Language,align-index,accusative,111,0.3546325878594249
 Language,align-index,accusative;no marking,6,0.019169329073482427
 Language,align-index,accusative;overt neutral,1,0.003194888178913738
 Language,align-index,accusative;sensitive,6,0.019169329073482427
@@ -10,14 +10,14 @@ Language,align-index,horizontal,3,0.009584664536741214
 Language,align-index,no marking,69,0.22044728434504793
 Language,align-index,no marking;overt neutral,2,0.006389776357827476
 Language,align-index,overt neutral,5,0.01597444089456869
-Language,align-index,sensitive,86,0.2747603833865815
+Language,align-index,sensitive,85,0.2715654952076677
 Language,align-index,sensitive;tripartite,1,0.003194888178913738
 Language,align-index,tripartite,11,0.03514376996805112
 Language,align-index-nl,accusative,143,0.45686900958466453
 Language,align-index-nl,accusative;ergative;sensitive,1,0.003194888178913738
 Language,align-index-nl,accusative;no marking,6,0.019169329073482427
 Language,align-index-nl,accusative;no marking;overt neutral,1,0.003194888178913738
-Language,align-index-nl,accusative;overt neutral,1,0.003194888178913738
+Language,align-index-nl,accusative;overt neutral,2,0.006389776357827476
 Language,align-index-nl,accusative;overt neutral;sensitive,1,0.003194888178913738
 Language,align-index-nl,accusative;sensitive,8,0.025559105431309903
 Language,align-index-nl,accusative;tripartite,1,0.003194888178913738
@@ -26,7 +26,7 @@ Language,align-index-nl,ergative;sensitive,1,0.003194888178913738
 Language,align-index-nl,horizontal,4,0.012779552715654952
 Language,align-index-nl,no marking,70,0.22364217252396165
 Language,align-index-nl,no marking;overt neutral,2,0.006389776357827476
-Language,align-index-nl,overt neutral,12,0.038338658146964855
+Language,align-index-nl,overt neutral,11,0.03514376996805112
 Language,align-index-nl,overt neutral;sensitive,3,0.009584664536741214
 Language,align-index-nl,sensitive,25,0.07987220447284345
 Language,align-index-nl,sensitive;tripartite,2,0.006389776357827476
@@ -146,7 +146,7 @@ Language,ref-sensitive-domain,Verb,105,0.8898305084745762
 Language,ref-tripartite,False,283,0.8707692307692307
 Language,ref-tripartite,True,42,0.12923076923076923
 Language,ref-tripartite-domain,Noun,2,0.047619047619047616
-Language,ref-tripartite-domain,Noun;Pro;Verb,1,0.023809523809523808
+Language,ref-tripartite-domain,Noun;Pro,1,0.023809523809523808
 Language,ref-tripartite-domain,Pro,4,0.09523809523809523
 Language,ref-tripartite-domain,Verb,35,0.8333333333333334
 Language,split-s,?,9,0.027692307692307693
@@ -175,12 +175,12 @@ Selector (indexing marker),Alignment,accusative,1020,0.5151515151515151
 Selector (indexing marker),Alignment,ergative,350,0.17676767676767677
 Selector (indexing marker),Alignment,horizontal,314,0.15858585858585858
 Selector (indexing marker),Alignment,neutral,296,0.1494949494949495
-Reference,Zero indexing of 1,Role A,119,0.14476885644768855
-Reference,Zero indexing of 1,Role P,78,0.10848400556328233
-Reference,Zero indexing of 1,Role S,29,0.03519417475728155
-Reference,Zero indexing of 2,Role A,119,0.16713483146067415
-Reference,Zero indexing of 2,Role P,102,0.16721311475409836
-Reference,Zero indexing of 2,Role S,24,0.03380281690140845
-Reference,Zero indexing of 3,Role A,281,0.32636469221835074
-Reference,Zero indexing of 3,Role P,335,0.44021024967148487
-Reference,Zero indexing of 3,Role S,149,0.1728538283062645
+Reference,Zero indexing of 1,Role A,119,0.1440677966101695
+Reference,Zero indexing of 1,Role P,78,0.1078838174273859
+Reference,Zero indexing of 1,Role S,29,0.03485576923076923
+Reference,Zero indexing of 2,Role A,119,0.16527777777777777
+Reference,Zero indexing of 2,Role P,102,0.1650485436893204
+Reference,Zero indexing of 2,Role S,24,0.03305785123966942
+Reference,Zero indexing of 3,Role A,284,0.3283236994219653
+Reference,Zero indexing of 3,Role P,338,0.4418300653594771
+Reference,Zero indexing of 3,Role S,155,0.17857142857142858

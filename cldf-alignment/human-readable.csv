@@ -19,7 +19,7 @@ ayor1240,False,True,True,False,person+number,False,NA,no marking,no marking,accu
 bamb1269,False,False,False,False,NA,False,NA,no marking,no marking,no marking,no marking,no marking,no marking,False,NA,False,NA,False,NA,False,NA,no,no
 bang1363,False,True,False,False,person,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no
 bard1255,True,True,False,False,person+number,False,NA,ergative,ergative,accusative,ergative,ergative,accusative,True,Noun;Pro,False,NA,False,NA,False,NA,no,no
-basq1248,True,True,True,True,person;person+number,True,Predicate_class,accusative,accusative,sensitive,accusative,accusative,overt neutral,True,Noun;Pro;Verb,True,Noun;Pro;Verb,True,Verb,True,Verb,no,yes
+basq1248,True,True,True,True,person;person+number,True,Predicate_class,accusative,accusative,accusative,accusative,accusative,accusative;overt neutral,True,Noun;Pro;Verb,True,Noun;Pro,True,Verb,True,Verb,no,yes
 bell1243,False,True,False,False,person+number,False,NA,no marking,no marking,sensitive,no marking,no marking,sensitive,False,NA,False,NA,False,NA,True,Verb,no,yes
 benc1235,True,True,False,False,person+number,False,NA,accusative,accusative,accusative,accusative,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no
 bert1248,True,False,False,False,NA,False,NA,accusative,accusative,no marking,accusative,accusative,no marking,False,NA,False,NA,False,NA,False,NA,no,no
