@@ -1937,7 +1937,7 @@ pila1245-no-flagging,pila1245,flagging,NO_FLAGGING,zero,,"vidal2001pilaga[122,12
 pila1245-prefix-on-verb-flagging,pila1245,flagging,prefix on verb,overt,,"vidal2001pilaga[122,127,135,163-165]",HT;DI;NCP,NONE,NONE,1sgPro;2sgPro,accusative
 pila1245-role-not-marked,pila1245,indexing trigger,ROLE_NOT_MARKED,zero,NA,"vidal2001pilaga[133-138,141-146,177-189,193]",HT;DI;NCP,NONE,NONE,any,NA
 pila1245-set-a-prefixes-indexing-marker,pila1245,indexing marker,Set A prefixes,overt,person+number,"vidal2001pilaga[133-138,141-146,177-189,193]",HT;DI;NCP,any,any,NONE,accusative
-pila1245-set-b-prefixes-indexing-marker,pila1245,indexing marker,Set B prefixes,overt,person+number,"vidal2001pilaga[133-138,141-146,177-189,193]",HT;DI;NCP,any,NONE,NONE,horizontal
+pila1245-set-b-prefixes-indexing-marker,pila1245,indexing marker,Set B prefixes,overt,person+number,"vidal2001pilaga[133-138,141-146,177-189,193]",HT;DI;NCP,any,any,NONE,accusative
 pipi1250-an-2pls-a-indexing-marker,pipi1250,indexing marker,an- 2plS/A,overt,person+number,"campbell1985pipil[102-103,53-55]",AWM,2pl,2pl,NONE,accusative
 pipi1250-ni-1sgs-a-indexing-marker,pipi1250,indexing marker,ni- 1sgS/A,overt,person+number,"campbell1985pipil[102-103,53-55]",AWM,1sg,1sg,NONE,accusative
 pipi1250-no-flagging,pipi1250,flagging,NO_FLAGGING,zero,,"campbell1985pipil[102-103,53-55]",AWM,any,any,any,neutral
@@ -2543,16 +2543,18 @@ wari1268-p-enclitic-on-m-in-indexing-marker,wari1268,indexing marker,P enclitic 
 wari1268-p-enclitic-pa-indexing-marker,wari1268,indexing marker,P enclitic -pa',overt,person+number,"everett1997wari[115-119,293,324-325]",AWM,NONE,NONE,1sg,accusative
 wari1268-p-enclitic-uhu-indexing-marker,wari1268,indexing marker,P enclitic -uhu',overt,person+number,"everett1997wari[115-119,293,324-325]",AWM,NONE,NONE,2pl,accusative
 wari1268-s-a-clitics-vic-indexing-marker,wari1268,indexing marker,S/A clitics (VIC),overt,person+number,"everett1997wari[115-119,293,324-325]",AWM,any,any,NONE,accusative
-wash1253-a-marker-le-i-indexing-marker,wash1253,indexing marker,A marker lͤ-/i-,overt,person,jacobsen1964washo[449-462],HT;AWM,NONE,1_2,NONE,ergative
+wash1253-mile-mi-indexing-marker,wash1253,indexing marker,mile-/mi indexing marker,overt,person,jacobsen1964washo[449-462],HT;AWM,NONE,1_2,2_1,horizontal
 wash1253-no-flagging,wash1253,flagging,NO_FLAGGING,zero,,jacobsen1964washo[445],HT,1Pro;2Pro;Noun,1Pro;2Pro;Noun,1Pro;2Pro;Noun,neutral
-wash1253-null-marker,wash1253,indexing marker,NULL_MARKER,zero,person,jacobsen1964washo[449-462],HT;AWM,NONE,NONE,1_2;3,accusative
+wash1253-null-marker,wash1253,indexing marker,NULL_MARKER,zero,person,jacobsen1964washo[449-462],HT;AWM,NONE,NONE,3_1;3_2;3_3,accusative
 wash1253-p-form-flagging,wash1253,flagging,P form,overt,,jacobsen1964washo[445],HT,NONE,NONE,3Pro,accusative
-wash1253-p-marker-l-le-indexing-marker,wash1253,indexing marker,P marker ʔl-/lͤ-,overt,person,jacobsen1964washo[449-462],HT;AWM,NONE,NONE,1_3,accusative
-wash1253-p-marker-m-me-indexing-marker,wash1253,indexing marker,P marker ʔm-/mͤ-,overt,person,jacobsen1964washo[449-462],HT;AWM,NONE,NONE,2_3,accusative
+wash1253-l-le-3-1-indexing-marker,wash1253,indexing marker,ʔl-/lͤ- 3>1,overt,person,jacobsen1964washo[449-462],HT;AWM,NONE,3_1,1_3,horizontal
+wash1253-m-me-3-2-indexing-marker,wash1253,indexing marker,ʔm-/mͤ- 3>2,overt,person,jacobsen1964washo[449-462],HT;AWM,NONE,3_2,2_3,horizontal
 wash1253-s-a-form-flagging,wash1253,flagging,S/A form,overt,,jacobsen1964washo[445],HT,3Pro,3Pro,NONE,accusative
 wash1253-s-a-marker-indexing-marker,wash1253,indexing marker,S/A marker ʔ-/∅-,overt,person,jacobsen1964washo[449-462],HT;AWM,3,3_3,NONE,accusative
 wash1253-s-a-marker-le-di-indexing-marker,wash1253,indexing marker,S/A marker lͤ-/di-,overt,person,jacobsen1964washo[449-462],HT;AWM,1,1_3,NONE,accusative
-wash1253-s-a-p-marker-m-mi-um-indexing-marker,wash1253,indexing marker,S/A/P marker m-/mi-/ʔum-,overt,person,jacobsen1964washo[449-462],HT;AWM,2,2,2_1,neutral
+wash1253-s-a-marker-m-mi-um-indexing-marker,wash1253,indexing marker,S/A marker m-/mi-/ʔum-,overt,person,jacobsen1964washo[449-462],HT;AWM,2,2_3,NONE,accusative
+wash1253-lem-2-1-indexing-marker,wash1253,indexing marker,lem- 2>1,overt,person,jacobsen1996washo[33],NCP; DI,NONE,2_1,1_2,horizontal
+wash1253-k-ga-ge-3-3-indexing-marker,wash1253,indexing marker,k'-/ga-/ge- 3>3,overt,person,jacobsen1996washo[16],NCP; DI,NONE,3_3,3_3,horizontal
 wayu1243-no-flagging,wayu1243,flagging,NO_FLAGGING,zero,,"ehrman1972wayuunaiki[152-153,160,163,26,67-68]",HT,any,any,any,neutral
 wayu1243-null-marker,wayu1243,indexing marker,NULL_MARKER,zero,person+number,"ehrman1972wayuunaiki[102,111,69,84,86]",HT; DI,any,any,any,neutral
 wayu1243-role-not-marked,wayu1243,indexing trigger,ROLE_NOT_MARKED,zero,NA,"ehrman1972wayuunaiki[102,111,69,84,86]",HT; DI,NONE,any,NONE,NA
