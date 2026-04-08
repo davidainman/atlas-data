@@ -2065,12 +2065,12 @@ wari1268-split-s,wari1268,split-s,False,AWM,"everett1997wari[115-119,293,324-325
 wari1268-coargument-sensitivity flagging,wari1268,coargument-sensitivity flagging,no,AWM,"everett1997wari[115-119,293,324-325]"
 wari1268-coargument-sensitivity indexing,wari1268,coargument-sensitivity indexing,no,AWM,"everett1997wari[115-119,293,324-325]"
 wash1253-flagging,wash1253,flagging,True,HT,jacobsen1964washo[445]
-wash1253-indexing,wash1253,indexing,True,AWM;HT,jacobsen1964washo[445]
-wash1253-indexing-features,wash1253,indexing-features,person,AWM;HT,jacobsen1964washo[445]
+wash1253-indexing,wash1253,indexing,True,AWM;DI;HT;NCP,jacobsen1964washo[445]
+wash1253-indexing-features,wash1253,indexing-features,person,AWM;DI;HT;NCP,jacobsen1964washo[445]
 wash1253-tam-split,wash1253,tam-split,False,AWM;HT,"jacobsen1964washo[445,449-462]"
 wash1253-split-s,wash1253,split-s,False,AWM;HT,"jacobsen1964washo[445,449-462]"
 wash1253-coargument-sensitivity flagging,wash1253,coargument-sensitivity flagging,no,AWM;HT,"jacobsen1964washo[445,449-462]"
-wash1253-coargument-sensitivity indexing,wash1253,coargument-sensitivity indexing,yes,AWM;HT,"jacobsen1964washo[445,449-462]"
+wash1253-coargument-sensitivity indexing,wash1253,coargument-sensitivity indexing,no,AWM;HT,"jacobsen1964washo[445,449-462]"
 wayu1243-flagging,wayu1243,flagging,False,HT,"ehrman1972wayuunaiki[152-153,160,163,26,67-68]"
 wayu1243-indexing,wayu1243,indexing,True,DI;HT,"ehrman1972wayuunaiki[152-153,160,163,26,67-68]"
 wayu1243-indexing-features,wayu1243,indexing-features,person+number,DI;HT,"ehrman1972wayuunaiki[152-153,160,163,26,67-68]"
@@ -7056,18 +7056,18 @@ wari1268-ref-sensitive,wari1268,ref-sensitive,False,AWM,"everett1997wari[115-119
 wari1268-ref-sensitive-domain,wari1268,ref-sensitive-domain,NA,AWM,"everett1997wari[115-119,324-325]"
 wash1253-align-noun,wash1253,align-noun,no marking,HT,jacobsen1964washo[445]
 wash1253-align-pro,wash1253,align-pro,no marking,HT,jacobsen1964washo[445]
-wash1253-align-index,wash1253,align-index,sensitive,AWM;HT,jacobsen1964washo[445]
+wash1253-align-index,wash1253,align-index,sensitive,AWM;DI;HT;NCP,jacobsen1964washo[445]
 wash1253-align-noun-nl,wash1253,align-noun-nl,no marking,HT,jacobsen1964washo[445]
 wash1253-align-pro-nl,wash1253,align-pro-nl,no marking,HT,jacobsen1964washo[445]
-wash1253-align-index-nl,wash1253,align-index-nl,accusative,AWM;HT,jacobsen1964washo[445]
-wash1253-ref-ergative,wash1253,ref-ergative,False,AWM;HT,jacobsen1964washo[445]
-wash1253-ref-ergative-domain,wash1253,ref-ergative-domain,NA,AWM;HT,jacobsen1964washo[445]
-wash1253-ref-tripartite,wash1253,ref-tripartite,False,AWM;HT,jacobsen1964washo[445]
-wash1253-ref-tripartite-domain,wash1253,ref-tripartite-domain,NA,AWM;HT,jacobsen1964washo[445]
-wash1253-ref-horizontal,wash1253,ref-horizontal,False,AWM;HT,jacobsen1964washo[445]
-wash1253-ref-horizontal-domain,wash1253,ref-horizontal-domain,NA,AWM;HT,jacobsen1964washo[445]
-wash1253-ref-sensitive,wash1253,ref-sensitive,True,AWM;HT,jacobsen1964washo[445]
-wash1253-ref-sensitive-domain,wash1253,ref-sensitive-domain,Verb,AWM;HT,jacobsen1964washo[445]
+wash1253-align-index-nl,wash1253,align-index-nl,accusative,AWM;DI;HT;NCP,jacobsen1964washo[445]
+wash1253-ref-ergative,wash1253,ref-ergative,False,AWM;DI;HT;NCP,jacobsen1964washo[445]
+wash1253-ref-ergative-domain,wash1253,ref-ergative-domain,NA,AWM;DI;HT;NCP,jacobsen1964washo[445]
+wash1253-ref-tripartite,wash1253,ref-tripartite,False,AWM;DI;HT;NCP,jacobsen1964washo[445]
+wash1253-ref-tripartite-domain,wash1253,ref-tripartite-domain,NA,AWM;DI;HT;NCP,jacobsen1964washo[445]
+wash1253-ref-horizontal,wash1253,ref-horizontal,False,AWM;DI;HT;NCP,jacobsen1964washo[445]
+wash1253-ref-horizontal-domain,wash1253,ref-horizontal-domain,NA,AWM;DI;HT;NCP,jacobsen1964washo[445]
+wash1253-ref-sensitive,wash1253,ref-sensitive,True,AWM;DI;HT;NCP,jacobsen1964washo[445]
+wash1253-ref-sensitive-domain,wash1253,ref-sensitive-domain,Verb,AWM;DI;HT;NCP,jacobsen1964washo[445]
 wayu1243-align-noun,wayu1243,align-noun,no marking,HT,"ehrman1972wayuunaiki[152-153,160,163,26,67-68]"
 wayu1243-align-pro,wayu1243,align-pro,no marking,HT,"ehrman1972wayuunaiki[152-153,160,163,26,67-68]"
 wayu1243-align-index,wayu1243,align-index,no marking,DI;HT,"ehrman1972wayuunaiki[152-153,160,163,26,67-68]"
