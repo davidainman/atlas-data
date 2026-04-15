@@ -518,12 +518,12 @@ gara1269-split-s,gara1269,split-s,False,AWM;DI;MV,"mushin2012garrwa[34,58,85]"
 gara1269-coargument-sensitivity flagging,gara1269,coargument-sensitivity flagging,no,AWM;DI;MV,"mushin2012garrwa[34,58,85]"
 gara1269-coargument-sensitivity indexing,gara1269,coargument-sensitivity indexing,no,AWM;DI;MV,"mushin2012garrwa[34,58,85]"
 gari1256-flagging,gari1256,flagging,False,AWM;HT,haurholm2016garifuna[68-102]
-gari1256-indexing,gari1256,indexing,True,AWM;DI;MV,haurholm2016garifuna[68-102]
-gari1256-indexing-features,gari1256,indexing-features,person+number,AWM;DI;MV,haurholm2016garifuna[68-102]
-gari1256-tam-split,gari1256,tam-split,False,AWM;DI;HT;MV,haurholm2016garifuna[68-102]
-gari1256-split-s,gari1256,split-s,True,AWM;DI;HT;MV,haurholm2016garifuna[68-102]
-gari1256-coargument-sensitivity flagging,gari1256,coargument-sensitivity flagging,no,AWM;DI;HT;MV,haurholm2016garifuna[68-102]
-gari1256-coargument-sensitivity indexing,gari1256,coargument-sensitivity indexing,no,AWM;DI;HT;MV,haurholm2016garifuna[68-102]
+gari1256-indexing,gari1256,indexing,True,AWM;DI;MV;NCP,haurholm2016garifuna[68-102]
+gari1256-indexing-features,gari1256,indexing-features,person+number,AWM;DI;MV;NCP,haurholm2016garifuna[68-102]
+gari1256-tam-split,gari1256,tam-split,False,AWM;DI;HT;MV;NCP,"haurholm2016garifuna[107,68-102]"
+gari1256-split-s,gari1256,split-s,True,AWM;DI;HT;MV;NCP,"haurholm2016garifuna[107,68-102]"
+gari1256-coargument-sensitivity flagging,gari1256,coargument-sensitivity flagging,no,AWM;DI;HT;MV;NCP,"haurholm2016garifuna[107,68-102]"
+gari1256-coargument-sensitivity indexing,gari1256,coargument-sensitivity indexing,no,AWM;DI;HT;MV;NCP,"haurholm2016garifuna[107,68-102]"
 gavi1246-flagging,gavi1246,flagging,False,HT,"moore1984gaviaodojiparana[104,120,154,60,78,80]"
 gavi1246-indexing,gavi1246,indexing,True,NCP,"moore1984gaviaodojiparana[104,120,154,60,78,80]"
 gavi1246-indexing-features,gavi1246,indexing-features,person+number,NCP,"moore1984gaviaodojiparana[104,120,154,60,78,80]"
@@ -3962,18 +3962,18 @@ gara1269-ref-sensitive,gara1269,ref-sensitive,False,AWM;DI;MV,"mushin2012garrwa[
 gara1269-ref-sensitive-domain,gara1269,ref-sensitive-domain,NA,AWM;DI;MV,"mushin2012garrwa[58,85]"
 gari1256-align-noun,gari1256,align-noun,no marking,AWM;HT,haurholm2016garifuna[68-102]
 gari1256-align-pro,gari1256,align-pro,no marking,AWM;HT,haurholm2016garifuna[68-102]
-gari1256-align-index,gari1256,align-index,accusative,AWM;DI;MV,haurholm2016garifuna[68-102]
+gari1256-align-index,gari1256,align-index,accusative,AWM;DI;MV;NCP,haurholm2016garifuna[68-102]
 gari1256-align-noun-nl,gari1256,align-noun-nl,no marking,AWM;HT,haurholm2016garifuna[68-102]
 gari1256-align-pro-nl,gari1256,align-pro-nl,no marking,AWM;HT,haurholm2016garifuna[68-102]
-gari1256-align-index-nl,gari1256,align-index-nl,accusative,AWM;DI;MV,haurholm2016garifuna[68-102]
-gari1256-ref-ergative,gari1256,ref-ergative,True,AWM;DI;HT;MV,haurholm2016garifuna[68-102]
-gari1256-ref-ergative-domain,gari1256,ref-ergative-domain,Verb,AWM;DI;HT;MV,haurholm2016garifuna[68-102]
-gari1256-ref-tripartite,gari1256,ref-tripartite,False,AWM;DI;HT;MV,haurholm2016garifuna[68-102]
-gari1256-ref-tripartite-domain,gari1256,ref-tripartite-domain,NA,AWM;DI;HT;MV,haurholm2016garifuna[68-102]
-gari1256-ref-horizontal,gari1256,ref-horizontal,False,AWM;DI;HT;MV,haurholm2016garifuna[68-102]
-gari1256-ref-horizontal-domain,gari1256,ref-horizontal-domain,NA,AWM;DI;HT;MV,haurholm2016garifuna[68-102]
-gari1256-ref-sensitive,gari1256,ref-sensitive,False,AWM;DI;HT;MV,haurholm2016garifuna[68-102]
-gari1256-ref-sensitive-domain,gari1256,ref-sensitive-domain,NA,AWM;DI;HT;MV,haurholm2016garifuna[68-102]
+gari1256-align-index-nl,gari1256,align-index-nl,accusative,AWM;DI;MV;NCP,haurholm2016garifuna[68-102]
+gari1256-ref-ergative,gari1256,ref-ergative,True,AWM;DI;HT;MV;NCP,haurholm2016garifuna[68-102]
+gari1256-ref-ergative-domain,gari1256,ref-ergative-domain,Verb,AWM;DI;HT;MV;NCP,haurholm2016garifuna[68-102]
+gari1256-ref-tripartite,gari1256,ref-tripartite,True,AWM;DI;HT;MV;NCP,haurholm2016garifuna[68-102]
+gari1256-ref-tripartite-domain,gari1256,ref-tripartite-domain,Verb,AWM;DI;HT;MV;NCP,haurholm2016garifuna[68-102]
+gari1256-ref-horizontal,gari1256,ref-horizontal,False,AWM;DI;HT;MV;NCP,haurholm2016garifuna[68-102]
+gari1256-ref-horizontal-domain,gari1256,ref-horizontal-domain,NA,AWM;DI;HT;MV;NCP,haurholm2016garifuna[68-102]
+gari1256-ref-sensitive,gari1256,ref-sensitive,False,AWM;DI;HT;MV;NCP,haurholm2016garifuna[68-102]
+gari1256-ref-sensitive-domain,gari1256,ref-sensitive-domain,NA,AWM;DI;HT;MV;NCP,haurholm2016garifuna[68-102]
 gavi1246-align-noun,gavi1246,align-noun,no marking,HT,"moore1984gaviaodojiparana[104,120,154,60,78,80]"
 gavi1246-align-pro,gavi1246,align-pro,no marking,HT,"moore1984gaviaodojiparana[104,120,154,60,78,80]"
 gavi1246-align-index,gavi1246,align-index,horizontal,NCP,"moore1984gaviaodojiparana[104,120,154,60,78,80]"

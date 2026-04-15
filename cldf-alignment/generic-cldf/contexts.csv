@@ -3314,9 +3314,12 @@ gara1269-6,gara1269,gara1269-role-not-marked,NA,NA,any,any,any,any,any,NA,any,de
 gari1256-1,gari1256,gari1256-no-flagging,,simple,A,any,P,any,any,none,any,default,,haurholm2016garifuna[68-101],,HT;AWM
 gari1256-2,gari1256,gari1256-no-flagging,,simple,P,any,A,any,any,none,any,default,,haurholm2016garifuna[68-102],,HT;AWM
 gari1256-3,gari1256,gari1256-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,haurholm2016garifuna[68-100],,HT;AWM
-gari1256-4,gari1256,gari1256-p-suffix-indexing-marker,1,simple,P,any,A,any,any,none,any,default,,haurholm2016garifuna[86-100],"Note that the language has DOI based on definiteness, this is not coded here as in both cases (overt or zero P) the alignment is NOM/ACC.",MV; DI; AWM
+gari1256-4,gari1256,gari1256-p-suffix-indexing-marker,1,simple,P,1,A,any,any,none,any,default,,haurholm2016garifuna[86-100],,MV; DI; AWM; NCP
+gari1256-4a,gari1256,gari1256-p-suffix-indexing-marker,1,simple,P,2,A,any,any,none,any,default,,haurholm2016garifuna[86-100],,MV; DI; AWM; NCP
+gari1256-4b,gari1256,gari1256-p-suffix-indexing-marker,1,simple,P,3.def,A,any,any,none,any,default,,haurholm2016garifuna[86-100],,MV; DI; AWM; NCP
+gari1256-4c,gari1256,gari1256-role-not-marked,NA,simple,P,3.indef,A,any,any,none,any,default,,haurholm2016garifuna[86-100],Note that the noun must be present for agreement to be elided.,MV; DI; AWM; NCP
 gari1256-5,gari1256,gari1256-p-suffix-indexing-marker,1,NA,S,any,NA,NA,any,NA,non-exemplar,Sp class,,haurholm2016garifuna[86-100],"There is an additional -ti-/di suffix, but the indexes are the regular P indexes.",MV; DI; AWM
-gari1256-6,gari1256,gari1256-s-a-prefix-indexing-marker,-1,NA,S,any,NA,NA,any,NA,any,default,,haurholm2016garifuna[86-100],,MV; DI; AWM
+gari1256-6,gari1256,gari1256-s-a-prefix-indexing-marker,-1,NA,S,any,NA,NA,any,NA,any,default,,"haurholm2016garifuna[86-100,107]","There are some labile transitive verbs, such as ""bring"" and ""heat"", that can be intransitive with their S argument being their semantic patients. In this case the S is marked as the S of the default class (not as the S of the Sp class).",MV; DI; AWM
 gari1256-7,gari1256,gari1256-s-a-prefix-indexing-marker,-1,simple,A,any,P,any,any,none,any,default,,haurholm2016garifuna[86-100],,MV; DI; AWM
 gavi1246-1,gavi1246,gavi1246-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"moore1984gaviaodojiparana[104,120,154,60,78,80]",,HT
 gavi1246-2,gavi1246,gavi1246-no-flagging,,simple,A,any,P,any,any,none,any,default,,"moore1984gaviaodojiparana[104,120,154,60,78,80]",,HT

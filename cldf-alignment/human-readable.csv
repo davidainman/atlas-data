@@ -74,7 +74,7 @@ fuln1247,False,True,False,True,person+number,False,NA,no marking,no marking,no m
 gaga1251,False,True,False,False,person,False,NA,no marking,no marking,sensitive,no marking,no marking,sensitive,False,NA,False,NA,False,NA,True,Verb,no,yes
 galo1242,True,False,False,False,NA,True,Reference,accusative,accusative,no marking,accusative,accusative,no marking,False,NA,False,NA,False,NA,False,NA,no,no
 gara1269,True,False,False,False,NA,False,NA,ergative,accusative,no marking,ergative,accusative,no marking,True,Noun,False,NA,False,NA,False,NA,no,no
-gari1256,False,True,False,True,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,True,Verb,False,NA,False,NA,False,NA,no,no
+gari1256,False,True,False,True,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,True,Verb,True,Verb,False,NA,False,NA,no,no
 gavi1246,False,True,False,False,person+number,False,NA,no marking,no marking,horizontal,no marking,no marking,horizontal,False,NA,False,NA,True,Verb,False,NA,no,no
 gily1242,False,False,False,False,NA,False,NA,no marking,no marking,no marking,no marking,no marking,no marking,False,NA,False,NA,False,NA,False,NA,no,no
 goon1238,True,True,False,False,person;person+number,False,NA,ergative,ergative,sensitive,ergative,ergative,accusative;sensitive,True,Noun;Pro,False,NA,False,NA,True,Verb,no,yes
