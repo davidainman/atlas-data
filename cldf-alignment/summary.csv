@@ -143,12 +143,12 @@ Language,ref-sensitive-domain,Noun;Verb,1,0.00847457627118644
 Language,ref-sensitive-domain,Pro,4,0.03389830508474576
 Language,ref-sensitive-domain,Pro;Verb,2,0.01694915254237288
 Language,ref-sensitive-domain,Verb,105,0.8898305084745762
-Language,ref-tripartite,False,283,0.8707692307692307
-Language,ref-tripartite,True,42,0.12923076923076923
-Language,ref-tripartite-domain,Noun,2,0.047619047619047616
-Language,ref-tripartite-domain,Noun;Pro,1,0.023809523809523808
-Language,ref-tripartite-domain,Pro,4,0.09523809523809523
-Language,ref-tripartite-domain,Verb,35,0.8333333333333334
+Language,ref-tripartite,False,282,0.8676923076923077
+Language,ref-tripartite,True,43,0.13230769230769232
+Language,ref-tripartite-domain,Noun,2,0.046511627906976744
+Language,ref-tripartite-domain,Noun;Pro,1,0.023255813953488372
+Language,ref-tripartite-domain,Pro,4,0.09302325581395349
+Language,ref-tripartite-domain,Verb,36,0.8372093023255814
 Language,split-s,?,9,0.027692307692307693
 Language,split-s,False,260,0.8
 Language,split-s,True,56,0.1723076923076923
@@ -181,6 +181,6 @@ Reference,Zero indexing of 1,Role S,29,0.03473053892215569
 Reference,Zero indexing of 2,Role A,119,0.16459197786998617
 Reference,Zero indexing of 2,Role P,102,0.16478190630048464
 Reference,Zero indexing of 2,Role S,24,0.03292181069958848
-Reference,Zero indexing of 3,Role A,283,0.326036866359447
+Reference,Zero indexing of 3,Role A,283,0.3252873563218391
 Reference,Zero indexing of 3,Role P,339,0.4425587467362924
-Reference,Zero indexing of 3,Role S,155,0.17795637198622274
+Reference,Zero indexing of 3,Role S,155,0.1775486827033219

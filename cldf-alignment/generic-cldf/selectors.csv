@@ -621,8 +621,9 @@ gara1269-ergative-wanyi-nyi-i-flagging,gara1269,flagging,ergative -wanyi/-nyi/-i
 gara1269-no-flagging,gara1269,flagging,NO_FLAGGING,zero,,"mushin2012garrwa[58,85]",AWM,any,Pro,Noun,neutral
 gara1269-role-not-marked,gara1269,indexing trigger,ROLE_NOT_MARKED,zero,NA,mushin2012garrwa[34],MV; DI; AWM,NONE,NONE,NONE,NA
 gari1256-no-flagging,gari1256,flagging,NO_FLAGGING,zero,,haurholm2016garifuna[68-102],HT;AWM,any,any,any,neutral
-gari1256-p-suffix-indexing-marker,gari1256,indexing marker,P suffix,overt,person+number,haurholm2016garifuna[86-100],MV; DI; AWM,any,NONE,any,ergative
+gari1256-p-suffix-indexing-marker,gari1256,indexing marker,P suffix,overt,person+number,haurholm2016garifuna[86-100],MV; DI; AWM,any,NONE,1;2;3.def,ergative
 gari1256-s-a-prefix-indexing-marker,gari1256,indexing marker,S/A prefix,overt,person+number,haurholm2016garifuna[86-100],MV; DI; AWM,any,any,NONE,accusative
+gari1256-role-not-marked,gari1256,indexing trigger,ROLE_NOT_MARKED,zero,NA,haurholm2016garifuna[86-100],DI; NCP,NONE,NONE,3.indef,NA
 gavi1246-no-flagging,gavi1246,flagging,NO_FLAGGING,zero,,"moore1984gaviaodojiparana[104,120,154,60,78,80]",HT,any,any,any,neutral
 gavi1246-person-prefixes-indexing-marker,gavi1246,indexing marker,person prefixes,overt,person+number,"moore1984gaviaodojiparana[234,29-30,36];sona2019gaviao[134-135]",NCP,any,any,any,neutral
 gily1242-no-flagging,gily1242,flagging,NO_FLAGGING,zero,,"gruzdeva1998nivkh[17-19];nedjalkov2013nivkh[13-14,147-148,2,234,51]",HT;AWM,any,any,any,neutral
