@@ -80,22 +80,18 @@ def yield_from_cldf(
     type: str,
     errors: SimpleContainer,
 ):
-    current_language = ""
-    language_rows = []
     selector_for_this_type = TYPE_TO_SELECTOR_TYPE[type]
     # load languages
     glotto_code_to_language = {}
+    glottocode_to_context_rows = {}
     for language in dataset["languages.csv"]:
         glotto_code_to_language[language[E_GLOT]] = language["Name"]
+        glottocode_to_context_rows[language[E_GLOT]] = []
     # load selectors.csv; selector_id : row
     selector_id_to_selector_row = {}
     for selector_row in dataset["selectors.csv"]:
         selector_id_to_selector_row[selector_row["ID"]] = selector_row
-    # set first language glottocode
-    for row in dataset["contexts.csv"]:
-        current_language = row[E_GLOT]
-        break
-    # yielding data, adding fields from languages and selectors
+    # load contexts.csv; get rows
     for row in dataset["contexts.csv"]:
         try:
             row[E_LAN] = glotto_code_to_language[row[E_GLOT]]
@@ -115,33 +111,21 @@ def yield_from_cldf(
         # add data from selectors.csv
         selector_id = row[E_SEL_ID]
         # some selector ids are None, warn and skip
-        # try:
         selector_row = selector_id_to_selector_row[selector_id]
         # we are not calculating non-person based alignments: Ignore gender/other/number -- note there may be more combinations in the future
         if selector_row[E_FEAT] == "other" or selector_row[E_FEAT] == "gender" or selector_row[E_FEAT] == "number" or selector_row[E_FEAT] == "number" or selector_row[E_FEAT] == "number+gender":
             continue
         for header in [E_SEL, E_SEL_TYPE, E_OV, E_FEAT]:
             row[header] = selector_row[header]
-        if current_language != row[E_GLOT]:
-            # yield only rows belonging to that type
-            dummy = [
-                l
-                for l in language_rows
-                if l[E_SEL_TYPE] in selector_for_this_type  # or l[E_REF] == "any"
-            ]
-            yield dummy
-            language_rows = []
-            language_rows.append(row)
-            current_language = row[E_GLOT]
-        else:
-            language_rows.append(row)
-    # once we exit the for loop, we still need to return the last language
-    dummy = [
-        l
-        for l in language_rows
-        if l[E_SEL_TYPE] in selector_for_this_type  # or l[E_REF] == "any"
-    ]
-    yield dummy
+        glottocode_to_context_rows[row[E_GLOT]].append(row)
+    # yielding data, adding fields from languages and selectors
+    for glot in glotto_code_to_language.keys():
+        dummy = [
+            l
+            for l in glottocode_to_context_rows[glot]
+            if l[E_SEL_TYPE] in selector_for_this_type
+        ]
+        yield dummy
 
 
 def write_intermediate_csv(
