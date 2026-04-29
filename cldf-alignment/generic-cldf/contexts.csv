@@ -10555,7 +10555,7 @@ nucl1632-106,nucl1632,nucl1632-n-no-3sg-s-a-future-non-1sg-2sg-a-indexing-marker
 nucl1632-107,nucl1632,nucl1632-n-no-3sg-s-a-future-non-1sg-2sg-a-indexing-marker,2,simple,P,3sg,A,3du,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
 nucl1632-108,nucl1632,nucl1632-n-no-3sg-s-a-future-non-1sg-2sg-a-indexing-marker,2,simple,P,3sg,A,3pl,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
 nucl1632-109,nucl1632,nucl1632-p-2du-p-nonfuture-1sg-2sg-a-indexing-marker,1,simple,P,2du,A,1sg,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
-nucl1632-11,nucl1632,nucl1632-a-1sg-s-a-nonfuture-indexing-marker,2,simple,A,1sg,P,NA,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
+nucl1632-11,nucl1632,nucl1632-a-1sg-s-a-nonfuture-indexing-marker,2,simple,A,1sg,P,any,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
 nucl1632-110,nucl1632,nucl1632-te-1sg-s-a-future-indexing-marker,1&2,NA,S,1sg,NA,NA,future,NA,non-exemplar,default,,mayer2021sentani[60-61],,DI
 nucl1632-111,nucl1632,nucl1632-te-1sg-s-a-future-indexing-marker,1,simple,A,1sg,P,any,future,none,non-exemplar,default,,mayer2021sentani[60-61],,DI
 nucl1632-12,nucl1632,nucl1632-aj-3pl-s-a-nonfuture-indexing-marker,1&2,NA,S,3pl,NA,NA,nonfuture,NA,any,default,,mayer2021sentani[60-61],,DI
@@ -10590,12 +10590,12 @@ nucl1632-38,nucl1632,nucl1632-ew-2du-s-a-nonfuture-indexing-marker,1,simple,A,2d
 nucl1632-39,nucl1632,nucl1632-ew-2sg-s-a-future-indexing-marker,1&2,NA,S,2sg,NA,NA,future,NA,non-exemplar,default,,mayer2021sentani[60-61],,DI
 nucl1632-4,nucl1632,nucl1632-null-marker,1&2,NA,S,2du,NA,NA,future,NA,non-exemplar,default,,mayer2021sentani[60-61],,DI
 nucl1632-40,nucl1632,nucl1632-ew-2sg-s-a-future-indexing-marker,1,simple,A,2sg,P,any,future,none,non-exemplar,default,,mayer2021sentani[60-61],,DI
-nucl1632-41,nucl1632,nucl1632-null-marker,2,simple,P,2du,A,any,future,none,non-exemplar,default,,mayer2021sentani[60-61],,DI
-nucl1632-42,nucl1632,nucl1632-null-marker,2,simple,P,2du,A,1du,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
-nucl1632-43,nucl1632,nucl1632-null-marker,2,simple,P,2du,A,1pl,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
-nucl1632-44,nucl1632,nucl1632-null-marker,2,simple,P,2du,A,3sg,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
-nucl1632-45,nucl1632,nucl1632-null-marker,2,simple,P,2du,A,3du,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
-nucl1632-46,nucl1632,nucl1632-null-marker,2,simple,P,2du,A,3pl,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
+nucl1632-41,nucl1632,nucl1632-e-2du-p-future-p-indexing-marker,2,simple,P,2du,A,any,future,none,non-exemplar,default,,mayer2021sentani[60-61],,DI
+nucl1632-42,nucl1632,nucl1632-e-2du-p-future-p-indexing-marker,2,simple,P,2du,A,1du,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
+nucl1632-43,nucl1632,nucl1632-e-2du-p-future-p-indexing-marker,2,simple,P,2du,A,1pl,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
+nucl1632-44,nucl1632,nucl1632-e-2du-p-future-p-indexing-marker,2,simple,P,2du,A,3sg,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
+nucl1632-45,nucl1632,nucl1632-e-2du-p-future-p-indexing-marker,2,simple,P,2du,A,3du,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
+nucl1632-46,nucl1632,nucl1632-e-2du-p-future-p-indexing-marker,2,simple,P,2du,A,3pl,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
 nucl1632-47,nucl1632,nucl1632-m-2pl-s-a-p-future-indexing-marker,1&2,NA,S,2pl,NA,NA,future,NA,non-exemplar,default,,mayer2021sentani[60-61],,DI
 nucl1632-48,nucl1632,nucl1632-m-2pl-s-a-p-future-indexing-marker,1,simple,A,2pl,P,any,future,none,non-exemplar,default,,mayer2021sentani[60-61],,DI
 nucl1632-49,nucl1632,nucl1632-m-2pl-s-a-p-future-indexing-marker,2,simple,P,2pl,A,any,future,none,non-exemplar,default,,mayer2021sentani[60-61],,DI
@@ -10611,7 +10611,7 @@ nucl1632-57,nucl1632,nucl1632-n-3sg-s-a-future-indexing-marker,1&2,NA,S,3sg,NA,N
 nucl1632-58,nucl1632,nucl1632-n-3sg-s-a-future-indexing-marker,1,simple,A,3sg,P,any,future,none,non-exemplar,default,,mayer2021sentani[60-61],,DI
 nucl1632-59,nucl1632,nucl1632-j-2sg-s-a-nonfuture-indexing-marker,1&2,NA,S,2sg,NA,NA,nonfuture,NA,any,default,,mayer2021sentani[60-61],,DI
 nucl1632-6,nucl1632,nucl1632-null-marker,1&2,NA,S,3sg,NA,NA,nonfuture,NA,any,default,,mayer2021sentani[60-61],,DI
-nucl1632-60,nucl1632,nucl1632-j-2sg-s-a-nonfuture-indexing-marker,2,simple,A,2sg,P,NA,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
+nucl1632-60,nucl1632,nucl1632-j-2sg-s-a-nonfuture-indexing-marker,2,simple,A,2sg,P,any,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
 nucl1632-61,nucl1632,nucl1632-l-1sg-p-future-non-1sg-2sg-a-indexing-marker,2,simple,P,1sg,A,any,future,none,non-exemplar,default,,mayer2021sentani[60-61],,DI
 nucl1632-62,nucl1632,nucl1632-l-1sg-p-future-non-1sg-2sg-a-indexing-marker,2,simple,P,1sg,A,2du,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI
 nucl1632-63,nucl1632,nucl1632-l-1sg-p-future-non-1sg-2sg-a-indexing-marker,2,simple,P,1sg,A,2pl,nonfuture,none,any,default,,mayer2021sentani[60-61],,DI

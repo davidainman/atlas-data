@@ -449,7 +449,7 @@ Table 8: Daga pronouns
 Neither *yatse* '1du' nor *ekwana* '1pl' seem related to the endonym Cavineña, whose origin is unknown ([Guillaume 2008](Source#cldf:guillaume2008cavinena): 1). It might originate from “Caviña”, the name of one of the two moieties in the neighboring sister language Araona. 
 
 #### inclusive: Ese Ejja \[esee1248\] (Pano-Tacanan; Bolivia, Peru)
-Ese Ejja [eseʔeχa] is an endonym and it resembles the form *ese(a)* '1incl'. A possible etymology is from *ese(a)'dejja* \[eseɖeχa\] 'we people', where the dental implosive is realized as a glottal stop: ese'dejja &gt; Ese Ejja ([Vuillermet 2012](Source#cldf:vuillermet2012eseejja): 45-46).
+Ese Ejja \[eseʔeχa\] is an endonym and it resembles the form *ese(a)* '1incl'. A possible etymology is from *ese(a)'dejja* \[eseɖeχa\] 'we people', where the dental implosive is realized as a glottal stop: ese'dejja &gt; Ese Ejja ([Vuillermet 2012](Source#cldf:vuillermet2012eseejja): 45-46).
 
 ### [](ParameterTable#cldf:Ppron-05)
 &emsp;**{ NA | yes | no }**

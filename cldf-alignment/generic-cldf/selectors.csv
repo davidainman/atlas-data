@@ -1803,6 +1803,7 @@ nucl1632-ar-1sg-p-nonfuture-1sg-2sg-a-indexing-marker,nucl1632,indexing marker,-
 nucl1632-aw-2pl-s-a-nonfuture-indexing-marker,nucl1632,indexing marker,-aw 2pl S/A nonfuture,overt,person+number,mayer2021sentani[60-61],DI,2pl,2pl,NONE,accusative
 nucl1632-aw-2sg-p-nonfuture-1sg-2sg-a-indexing-marker,nucl1632,indexing marker,-aw 2sg P nonfuture 1sg/2sg A,overt,person+number,mayer2021sentani[60-61],DI,NONE,NONE,2sg_1sg,accusative
 nucl1632-ej-2sg-s-a-future-non-1sg-2sg-a-indexing-marker,nucl1632,indexing marker,-ej 2sg S/A future / non-1sg/2sg A,overt,person+number,mayer2021sentani[60-61],DI,NONE,NONE,2sg;2sg_1du;2sg_1pl;2sg_3du;2sg_3pl;2sg_3sg,accusative
+nucl1632-e-2du-p-future-p-indexing-marker,nucl1632,indexing marker,-ə 2du P future,overt,person+number,mayer2021sentani[60-61],DI,NONE,NONE,2du;2du_1du;2du_1pl;2du_3du;2du_3pl;2du_3sg,accusative
 nucl1632-ej-3du-s-a-nonfuture-indexing-marker,nucl1632,indexing marker,-ej 3du S/A nonfuture,overt,person+number,mayer2021sentani[60-61],DI,3du,3du,NONE,accusative
 nucl1632-ew-2du-s-a-nonfuture-indexing-marker,nucl1632,indexing marker,-ew 2du S/A nonfuture,overt,person+number,mayer2021sentani[60-61],DI,2du,2du,NONE,accusative
 nucl1632-ew-2sg-s-a-future-indexing-marker,nucl1632,indexing marker,-ew 2sg S/A future,overt,person+number,mayer2021sentani[60-61],DI,2sg,2sg,NONE,accusative
@@ -1818,7 +1819,7 @@ nucl1632-n-no-3sg-s-a-future-non-1sg-2sg-a-indexing-marker,nucl1632,indexing mar
 nucl1632-naj-3pl-s-a-future-indexing-marker,nucl1632,indexing marker,-naj 3pl S/A future,overt,person+number,mayer2021sentani[60-61],DI,3pl,3pl,NONE,accusative
 nucl1632-nej-3du-s-a-future-indexing-marker,nucl1632,indexing marker,-nej 3du S/A future,overt,person+number,mayer2021sentani[60-61],DI,3du,3du,NONE,accusative
 nucl1632-no-flagging,nucl1632,flagging,NO_FLAGGING,zero,,mayer2021sentani[31-42],DI,any,any,any,neutral
-nucl1632-null-marker,nucl1632,indexing marker,NULL_MARKER,zero,person+number,mayer2021sentani[60-61],DI,2du;3sg,2du;3sg,2du;2du_1du;2du_1pl;2du_3du;2du_3pl;2du_3sg;3sg_1sg;3sg_2sg,neutral
+nucl1632-null-marker,nucl1632,indexing marker,NULL_MARKER,zero,person+number,mayer2021sentani[60-61],DI,2du;3sg,2du;3sg,3sg_1sg;3sg_2sg,neutral
 nucl1632-p-2du-p-nonfuture-1sg-2sg-a-indexing-marker,nucl1632,indexing marker,-p 2du P nonfuture 1sg/2sg A,overt,person+number,mayer2021sentani[60-61],DI,NONE,NONE,2du_1sg,accusative
 nucl1632-te-1sg-s-a-future-indexing-marker,nucl1632,indexing marker,-te 1sg S/A future,overt,person+number,mayer2021sentani[60-61],DI,1sg,1sg,NONE,accusative
 nucl1633-agt-marking-ne-flagging,nucl1633,flagging,AGT marking -ne,overt,,"may1997study[122-123,133,167,79,98]",HT,NONE,any,NONE,ergative
