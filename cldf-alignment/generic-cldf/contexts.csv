@@ -6855,20 +6855,14 @@ male1292-189,male1292,male1292-k-2-indexing-marker,-1,simple,S,1pl.incl,NA,NA,an
 male1292-19,male1292,male1292-ak-prox-pl-indexing-marker,11,simple,A,3pl-low,P,2pl,any,INV,any,default,,sherwood1983maliseet,"These rows are slightly hallucinatory: Language-internally, there is no high/low when 3>SAP. But we calculate and assume this exists.",AWM; DI
 male1292-190,male1292,male1292-k-2-indexing-marker,-1,simple,S,2sg,NA,NA,any,NA,any,default,,sherwood1983maliseet,,AWM; DI
 male1292-191,male1292,male1292-k-2-indexing-marker,-1,simple,S,2pl,NA,NA,any,NA,any,default,,sherwood1983maliseet,,AWM; DI
-male1292-192,male1292,male1292-k-2-indexing-marker,-1,simple,A,2pl,P,3sg-high,any,none,any,default,,sherwood1983maliseet,,AWM; DI
-male1292-193,male1292,male1292-k-2-indexing-marker,-1,simple,A,2pl,P,3pl-high,any,none,any,default,,sherwood1983maliseet,,AWM; DI
-male1292-194,male1292,male1292-k-2-indexing-marker,-1,simple,A,2pl,P,3sg-low,any,none,any,default,,sherwood1983maliseet,,AWM; DI
-male1292-195,male1292,male1292-k-2-indexing-marker,-1,simple,A,2pl,P,3pl-low,any,none,any,default,,sherwood1983maliseet,,AWM; DI
-male1292-196,male1292,male1292-k-2-indexing-marker,-1,simple,A,2pl,P,3sg.inanim,any,none,any,default,,sherwood1983maliseet,,AWM; DI
-male1292-197,male1292,male1292-k-2-indexing-marker,-1,simple,A,2pl,P,3pl.inanim,any,none,any,default,,sherwood1983maliseet,,AWM; DI
-male1292-198,male1292,male1292-k-2-indexing-marker,-1,simple,P,2pl,A,3sg-high,any,none,any,default,,sherwood1983maliseet,,AWM; DI
-male1292-199,male1292,male1292-k-2-indexing-marker,-1,simple,P,2pl,A,3pl-high,any,none,any,default,,sherwood1983maliseet,,AWM; DI
+male1292-192,male1292,male1292-k-2-indexing-marker,-1,simple,A,1pl.incl,P,any,any,none,any,default,,sherwood1983maliseet,,AWM; DI
+male1292-193,male1292,male1292-k-2-indexing-marker,-1,simple,A,2sg,P,any,any,none,any,default,,sherwood1983maliseet,,AWM; DI
+male1292-194,male1292,male1292-k-2-indexing-marker,-1,simple,A,2pl,P,any,any,none,any,default,,sherwood1983maliseet,,AWM; DI
+male1292-198,male1292,male1292-k-2-indexing-marker,-1,simple,P,1pl.incl,A,any,any,none,any,default,,sherwood1983maliseet,,AWM; DI
+male1292-199,male1292,male1292-k-2-indexing-marker,-1,simple,P,2sg,A,any,any,none,any,default,,sherwood1983maliseet,,AWM; DI
 male1292-2,male1292,male1292-no-flagging,,simple,A,any,P,any,any,none,any,default,,"leavitt1996passamaquoddy[22-31,6]",,DI
 male1292-20,male1292,male1292-ak-prox-pl-indexing-marker,11,simple,P,3pl-high,A,1sg,any,INV,any,default,,sherwood1983maliseet,,AWM; DI
-male1292-200,male1292,male1292-k-2-indexing-marker,-1,simple,P,2pl,A,3sg-low,any,none,any,default,,sherwood1983maliseet,,AWM; DI
-male1292-201,male1292,male1292-k-2-indexing-marker,-1,simple,P,2pl,A,3pl-low,any,none,any,default,,sherwood1983maliseet,,AWM; DI
-male1292-202,male1292,male1292-k-2-indexing-marker,-1,simple,P,2pl,A,3sg.inanim,any,none,any,default,,sherwood1983maliseet,,AWM; DI
-male1292-203,male1292,male1292-k-2-indexing-marker,-1,simple,P,2pl,A,3pl.inanim,any,none,any,default,,sherwood1983maliseet,,AWM; DI
+male1292-200,male1292,male1292-k-2-indexing-marker,-1,simple,P,2pl,A,any,any,none,any,default,,sherwood1983maliseet,,AWM; DI
 male1292-204,male1292,male1292-n-1-indexing-marker,-1,simple,S,1sg,NA,NA,any,NA,any,default,,sherwood1983maliseet,,AWM; DI
 male1292-205,male1292,male1292-n-1-indexing-marker,-1,simple,S,1pl.excl,NA,NA,any,NA,any,default,,sherwood1983maliseet,,AWM; DI
 male1292-206,male1292,male1292-n-1-indexing-marker,-1,simple,A,1sg,P,3sg-high,any,DIR,any,default,,sherwood1983maliseet,,AWM; DI
