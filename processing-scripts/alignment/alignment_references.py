@@ -922,25 +922,26 @@ def add_alignment(
     out_row[I_P] = re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",out_row[I_P]);
 
     # replace complex strings with ZERO
-    if (all(["_zero" in coarg and "_overt" not in coarg and "NO_PRONOUN_zero" not in coarg for coarg in out_row[I_A].split(";")])) :
-        out_row[I_A] = "ZERO"
-
-    if (all(["_zero" in coarg and "_overt" not in coarg and "NO_PRONOUN_zero" not in coarg for coarg in out_row[I_S].split(";")])) :
-        out_row[I_S] = "ZERO"
-
-    if (all(["_zero" in coarg and "_overt" not in coarg and "NO_PRONOUN_zero" not in coarg for coarg in out_row[I_P].split(";")])) :
-        out_row[I_P] = "ZERO"
+    out_row[I_S] = "ZERO" if "_zero" in out_row[I_S] and "_overt" not in out_row[I_S] \
+                    and "NO_PRONOUN_zero" not in out_row[I_S] \
+                    else out_row[I_S]
+                    
+    out_row[I_A] = ["ZERO" if "_zero" in x and "_overt" not in x \
+                    and "NO_PRONOUN_zero" not in x \
+                    else x.strip() for x in out_row[I_A].split(";")]
+    
+    out_row[I_P] = ["ZERO" if "_zero" in x and "_overt" not in x \
+                    and "NO_PRONOUN_zero" not in x \
+                    else x.strip() for x in out_row[I_P].split(";")]
 
     # calculate the full set of all alignments
     all_alignments = set()
-    coarg_split_As = [x.strip() for x in out_row[I_A].split(';')]
-    coarg_split_Ps = [x.strip() for x in out_row[I_P].split(';')]
-    for a_coarg in coarg_split_As:
-        a_coarg = re.sub("_coarg:[^\& ]*","",a_coarg)
-        for p_coarg in coarg_split_Ps:
-            p_coarg = re.sub("_coarg:[^\& ]*","",p_coarg)
+    for a_coarg in out_row[I_A]:
+        a_coarg = re.sub(r"_coarg:[^& ]*","",a_coarg)
+        for p_coarg in out_row[I_P] :
+            p_coarg = re.sub(r"_coarg:[^& ]*","",p_coarg)
             if out_row[I_S] == a_coarg == p_coarg:
-                if "ZERO" in out_row[I_S] or "NO_PRONOUN_zero" in out_row[I_S]:
+                if "ZERO" in out_row[I_S] or "_zero" in out_row[I_S]:
                     all_alignments.add("no marking")
                 elif "overt" in out_row[I_S]:
                     all_alignments.add("overt neutral")
@@ -958,11 +959,10 @@ def add_alignment(
                 all_alignments.add("tripartite")
     
     # if there are multiple alignments, designate it "sensitive", otherwise report what was found
-    if not "ERROR" in all_alignments: # if an error occurred, leave the error in output
-        if len(all_alignments) > 1:
-            alignment = "sensitive"
-        else:
-            alignment = all_alignments.pop()
+    if len(all_alignments) > 1:
+        alignment = "sensitive"
+    else:
+        alignment = all_alignments.pop()
     
     out_row[I_ALIG] = alignment
     # restore original values

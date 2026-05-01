@@ -2966,7 +2966,7 @@ achu1247-ref-horizontal,achu1247,ref-horizontal,False,AN;AWM,deangulo1930achumaw
 achu1247-ref-horizontal-domain,achu1247,ref-horizontal-domain,NA,AN;AWM,deangulo1930achumawi[83-84]
 achu1247-ref-sensitive,achu1247,ref-sensitive,True,AN;AWM,deangulo1930achumawi[83-84]
 achu1247-ref-sensitive-domain,achu1247,ref-sensitive-domain,Verb,AN;AWM,deangulo1930achumawi[83-84]
-agua1253-align-noun,agua1253,align-noun,accusative,AWM;DI;NCP,overall2017aguaruna[233-282]
+agua1253-align-noun,agua1253,align-noun,sensitive,AWM;DI;NCP,overall2017aguaruna[233-282]
 agua1253-align-pro,agua1253,align-pro,accusative,AWM;DI;NCP,overall2017aguaruna[233-282]
 agua1253-align-index,agua1253,align-index,accusative,AWM;DI;MV,overall2017aguaruna[233-282]
 agua1253-align-noun-nl,agua1253,align-noun-nl,accusative,AWM;DI;NCP,overall2017aguaruna[233-282]
@@ -2979,7 +2979,7 @@ agua1253-ref-tripartite-domain,agua1253,ref-tripartite-domain,NA,AWM;DI;MV;NCP,o
 agua1253-ref-horizontal,agua1253,ref-horizontal,False,AWM;DI;MV;NCP,overall2017aguaruna[233-282]
 agua1253-ref-horizontal-domain,agua1253,ref-horizontal-domain,NA,AWM;DI;MV;NCP,overall2017aguaruna[233-282]
 agua1253-ref-sensitive,agua1253,ref-sensitive,True,AWM;DI;MV;NCP,overall2017aguaruna[233-282]
-agua1253-ref-sensitive-domain,agua1253,ref-sensitive-domain,Verb,AWM;DI;MV;NCP,overall2017aguaruna[233-282]
+agua1253-ref-sensitive-domain,agua1253,ref-sensitive-domain,Noun;Pro;Verb,AWM;DI;MV;NCP,overall2017aguaruna[233-282]
 ainu1240-align-noun,ainu1240,align-noun,no marking,AWM,tamura2000ainu[25-92]
 ainu1240-align-pro,ainu1240,align-pro,no marking,AWM,tamura2000ainu[25-92]
 ainu1240-align-index,ainu1240,align-index,sensitive,AN;AWM,tamura2000ainu[25-92]
@@ -3092,9 +3092,9 @@ apur1254-ref-horizontal,apur1254,ref-horizontal,False,AWM;DI;MV,"facundes2000apu
 apur1254-ref-horizontal-domain,apur1254,ref-horizontal-domain,NA,AWM;DI;MV,"facundes2000apurina[149f,345-346]"
 apur1254-ref-sensitive,apur1254,ref-sensitive,False,AWM;DI;MV,"facundes2000apurina[149f,345-346]"
 apur1254-ref-sensitive-domain,apur1254,ref-sensitive-domain,NA,AWM;DI;MV,"facundes2000apurina[149f,345-346]"
-ariz1237-align-noun,ariz1237,align-noun,ergative,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
-ariz1237-align-pro,ariz1237,align-pro,ergative,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
-ariz1237-align-index,ariz1237,align-index,tripartite,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
+ariz1237-align-noun,ariz1237,align-noun,ergative;sensitive,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
+ariz1237-align-pro,ariz1237,align-pro,sensitive,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
+ariz1237-align-index,ariz1237,align-index,sensitive;tripartite,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
 ariz1237-align-noun-nl,ariz1237,align-noun-nl,ergative;no marking,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
 ariz1237-align-pro-nl,ariz1237,align-pro-nl,no marking,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
 ariz1237-align-index-nl,ariz1237,align-index-nl,sensitive;tripartite,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
@@ -3104,8 +3104,8 @@ ariz1237-ref-tripartite,ariz1237,ref-tripartite,True,DI,"kroskrity1977arizonatew
 ariz1237-ref-tripartite-domain,ariz1237,ref-tripartite-domain,Verb,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
 ariz1237-ref-horizontal,ariz1237,ref-horizontal,False,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
 ariz1237-ref-horizontal-domain,ariz1237,ref-horizontal-domain,NA,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
-ariz1237-ref-sensitive,ariz1237,ref-sensitive,False,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
-ariz1237-ref-sensitive-domain,ariz1237,ref-sensitive-domain,NA,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
+ariz1237-ref-sensitive,ariz1237,ref-sensitive,True,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
+ariz1237-ref-sensitive-domain,ariz1237,ref-sensitive-domain,Noun;Pro;Verb,DI,"kroskrity1977arizonatewa[107,117,170,179,86]"
 awac1239-align-noun,awac1239,align-noun,accusative;no marking,AWM;HT,"curnow1997awacuaiquer[64-65,85-86]"
 awac1239-align-pro,awac1239,align-pro,accusative,AWM;HT,"curnow1997awacuaiquer[64-65,85-86]"
 awac1239-align-index,awac1239,align-index,sensitive,AWM;DI;MV,"curnow1997awacuaiquer[64-65,85-86]"
@@ -3122,7 +3122,7 @@ awac1239-ref-sensitive,awac1239,ref-sensitive,True,AWM;DI;HT;MV,"curnow1997awacu
 awac1239-ref-sensitive-domain,awac1239,ref-sensitive-domain,Verb,AWM;DI;HT;MV,"curnow1997awacuaiquer[64-65,85-86]"
 awet1244-align-noun,awet1244,align-noun,no marking,NCP,"reiter2011aweti[107-109,99]"
 awet1244-align-pro,awet1244,align-pro,no marking,NCP,"reiter2011aweti[107-109,99]"
-awet1244-align-index,awet1244,align-index,ergative,AWM;NCP,"reiter2011aweti[107-109,99]"
+awet1244-align-index,awet1244,align-index,sensitive,AWM;NCP,"reiter2011aweti[107-109,99]"
 awet1244-align-noun-nl,awet1244,align-noun-nl,no marking,NCP,"reiter2011aweti[107-109,99]"
 awet1244-align-pro-nl,awet1244,align-pro-nl,no marking,NCP,"reiter2011aweti[107-109,99]"
 awet1244-align-index-nl,awet1244,align-index-nl,ergative,AWM;NCP,"reiter2011aweti[107-109,99]"
@@ -3394,8 +3394,8 @@ cams1241-align-pro-nl,cams1241,align-pro-nl,no marking,DI,"obrien2018kamsa[139,7
 cams1241-align-index-nl,cams1241,align-index-nl,accusative,DI,"obrien2018kamsa[139,72]"
 cams1241-ref-ergative,cams1241,ref-ergative,False,DI,"obrien2018kamsa[139,72]"
 cams1241-ref-ergative-domain,cams1241,ref-ergative-domain,NA,DI,"obrien2018kamsa[139,72]"
-cams1241-ref-tripartite,cams1241,ref-tripartite,True,DI,"obrien2018kamsa[139,72]"
-cams1241-ref-tripartite-domain,cams1241,ref-tripartite-domain,Verb,DI,"obrien2018kamsa[139,72]"
+cams1241-ref-tripartite,cams1241,ref-tripartite,False,DI,"obrien2018kamsa[139,72]"
+cams1241-ref-tripartite-domain,cams1241,ref-tripartite-domain,NA,DI,"obrien2018kamsa[139,72]"
 cams1241-ref-horizontal,cams1241,ref-horizontal,False,DI,"obrien2018kamsa[139,72]"
 cams1241-ref-horizontal-domain,cams1241,ref-horizontal-domain,NA,DI,"obrien2018kamsa[139,72]"
 cams1241-ref-sensitive,cams1241,ref-sensitive,True,DI,"obrien2018kamsa[139,72]"
@@ -3835,19 +3835,19 @@ embe1260-ref-horizontal-domain,embe1260,ref-horizontal-domain,NA,AWM;DI;HT;MV,"m
 embe1260-ref-sensitive,embe1260,ref-sensitive,False,AWM;DI;HT;MV,"mortensen1999northernembera[20-25,42-43,49]"
 embe1260-ref-sensitive-domain,embe1260,ref-sensitive-domain,NA,AWM;DI;HT;MV,"mortensen1999northernembera[20-25,42-43,49]"
 emer1243-align-noun,emer1243,align-noun,no marking,DI;NCP,"rose2011emerillon[122-127,72-77]"
-emer1243-align-pro,emer1243,align-pro,ergative,DI;NCP,"rose2011emerillon[122-127,72-77]"
-emer1243-align-index,emer1243,align-index,accusative;sensitive,NCP,"rose2011emerillon[122-127,72-77]"
+emer1243-align-pro,emer1243,align-pro,sensitive,DI;NCP,"rose2011emerillon[122-127,72-77]"
+emer1243-align-index,emer1243,align-index,sensitive,NCP,"rose2011emerillon[122-127,72-77]"
 emer1243-align-noun-nl,emer1243,align-noun-nl,no marking,DI;NCP,"rose2011emerillon[122-127,72-77]"
 emer1243-align-pro-nl,emer1243,align-pro-nl,no marking,DI;NCP,"rose2011emerillon[122-127,72-77]"
 emer1243-align-index-nl,emer1243,align-index-nl,accusative,NCP,"rose2011emerillon[122-127,72-77]"
-emer1243-ref-ergative,emer1243,ref-ergative,True,DI;NCP,"rose2011emerillon[122-127,72-77]"
-emer1243-ref-ergative-domain,emer1243,ref-ergative-domain,Pro,DI;NCP,"rose2011emerillon[122-127,72-77]"
-emer1243-ref-tripartite,emer1243,ref-tripartite,True,DI;NCP,"rose2011emerillon[122-127,72-77]"
-emer1243-ref-tripartite-domain,emer1243,ref-tripartite-domain,Verb,DI;NCP,"rose2011emerillon[122-127,72-77]"
+emer1243-ref-ergative,emer1243,ref-ergative,False,DI;NCP,"rose2011emerillon[122-127,72-77]"
+emer1243-ref-ergative-domain,emer1243,ref-ergative-domain,NA,DI;NCP,"rose2011emerillon[122-127,72-77]"
+emer1243-ref-tripartite,emer1243,ref-tripartite,False,DI;NCP,"rose2011emerillon[122-127,72-77]"
+emer1243-ref-tripartite-domain,emer1243,ref-tripartite-domain,NA,DI;NCP,"rose2011emerillon[122-127,72-77]"
 emer1243-ref-horizontal,emer1243,ref-horizontal,False,DI;NCP,"rose2011emerillon[122-127,72-77]"
 emer1243-ref-horizontal-domain,emer1243,ref-horizontal-domain,NA,DI;NCP,"rose2011emerillon[122-127,72-77]"
 emer1243-ref-sensitive,emer1243,ref-sensitive,True,DI;NCP,"rose2011emerillon[122-127,72-77]"
-emer1243-ref-sensitive-domain,emer1243,ref-sensitive-domain,Verb,DI;NCP,"rose2011emerillon[122-127,72-77]"
+emer1243-ref-sensitive-domain,emer1243,ref-sensitive-domain,Pro;Verb,DI;NCP,"rose2011emerillon[122-127,72-77]"
 enap1235-align-noun,enap1235,align-noun,no marking,HT,"payne2013panare[205,238,288,88-89]"
 enap1235-align-pro,enap1235,align-pro,no marking,HT,"payne2013panare[205,238,288,88-89]"
 enap1235-align-index,enap1235,align-index,accusative,AWM;TH,"payne2013panare[205,238,288,88-89]"
@@ -4036,14 +4036,14 @@ guah1255-align-index,guah1255,align-index,accusative,AN,"queixalos1995sikuani[14
 guah1255-align-noun-nl,guah1255,align-noun-nl,no marking,AN,"queixalos1995sikuani[14,7]"
 guah1255-align-pro-nl,guah1255,align-pro-nl,no marking,AN,"queixalos1995sikuani[14,7]"
 guah1255-align-index-nl,guah1255,align-index-nl,accusative,AN,"queixalos1995sikuani[14,7]"
-guah1255-ref-ergative,guah1255,ref-ergative,True,AN,"queixalos1995sikuani[14,7]"
-guah1255-ref-ergative-domain,guah1255,ref-ergative-domain,Verb,AN,"queixalos1995sikuani[14,7]"
+guah1255-ref-ergative,guah1255,ref-ergative,False,AN,"queixalos1995sikuani[14,7]"
+guah1255-ref-ergative-domain,guah1255,ref-ergative-domain,NA,AN,"queixalos1995sikuani[14,7]"
 guah1255-ref-tripartite,guah1255,ref-tripartite,False,AN,"queixalos1995sikuani[14,7]"
 guah1255-ref-tripartite-domain,guah1255,ref-tripartite-domain,NA,AN,"queixalos1995sikuani[14,7]"
 guah1255-ref-horizontal,guah1255,ref-horizontal,False,AN,"queixalos1995sikuani[14,7]"
 guah1255-ref-horizontal-domain,guah1255,ref-horizontal-domain,NA,AN,"queixalos1995sikuani[14,7]"
-guah1255-ref-sensitive,guah1255,ref-sensitive,False,AN,"queixalos1995sikuani[14,7]"
-guah1255-ref-sensitive-domain,guah1255,ref-sensitive-domain,NA,AN,"queixalos1995sikuani[14,7]"
+guah1255-ref-sensitive,guah1255,ref-sensitive,True,AN,"queixalos1995sikuani[14,7]"
+guah1255-ref-sensitive-domain,guah1255,ref-sensitive-domain,Verb,AN,"queixalos1995sikuani[14,7]"
 guan1269-align-noun,guan1269,align-noun,accusative;no marking,HT,"stenzel2013kotiria[142,145-146,161,323-324,327-329,422]"
 guan1269-align-pro,guan1269,align-pro,accusative;no marking,HT,"stenzel2013kotiria[142,145-146,161,323-324,327-329,422]"
 guan1269-align-index,guan1269,align-index,accusative;no marking,HT,"stenzel2013kotiria[142,145-146,161,323-324,327-329,422]"
@@ -4102,18 +4102,18 @@ halh1238-ref-sensitive,halh1238,ref-sensitive,False,AWM;DI;MV,"janhunen2012mongo
 halh1238-ref-sensitive-domain,halh1238,ref-sensitive-domain,NA,AWM;DI;MV,"janhunen2012mongolian[104,205-208]"
 halk1245-align-noun,halk1245,align-noun,no marking,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
 halk1245-align-pro,halk1245,align-pro,no marking,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
-halk1245-align-index,halk1245,align-index,accusative;ergative,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
+halk1245-align-index,halk1245,align-index,accusative;sensitive,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
 halk1245-align-noun-nl,halk1245,align-noun-nl,no marking,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
 halk1245-align-pro-nl,halk1245,align-pro-nl,no marking,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
 halk1245-align-index-nl,halk1245,align-index-nl,accusative;sensitive,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
-halk1245-ref-ergative,halk1245,ref-ergative,True,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
-halk1245-ref-ergative-domain,halk1245,ref-ergative-domain,Verb,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
+halk1245-ref-ergative,halk1245,ref-ergative,False,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
+halk1245-ref-ergative-domain,halk1245,ref-ergative-domain,NA,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
 halk1245-ref-tripartite,halk1245,ref-tripartite,False,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
 halk1245-ref-tripartite-domain,halk1245,ref-tripartite-domain,NA,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
 halk1245-ref-horizontal,halk1245,ref-horizontal,False,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
 halk1245-ref-horizontal-domain,halk1245,ref-horizontal-domain,NA,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
-halk1245-ref-sensitive,halk1245,ref-sensitive,False,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
-halk1245-ref-sensitive-domain,halk1245,ref-sensitive-domain,NA,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
+halk1245-ref-sensitive,halk1245,ref-sensitive,True,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
+halk1245-ref-sensitive-domain,halk1245,ref-sensitive-domain,Verb,AWM,gerdts2010ditransitive[1-15];suttles2004musqueam[321]
 hatt1246-align-noun,hatt1246,align-noun,accusative;no marking,DI,girbal1986betraege[137-139];soysal2004hattischer[184-185]
 hatt1246-align-pro,hatt1246,align-pro,NA,DI,girbal1986betraege[137-139];soysal2004hattischer[184-185]
 hatt1246-align-index,hatt1246,align-index,accusative,DI,girbal1986betraege[137-139];soysal2004hattischer[184-185]
@@ -4158,7 +4158,7 @@ high1242-ref-sensitive,high1242,ref-sensitive,False,AWM;DI;HT;MV,turner1966highl
 high1242-ref-sensitive-domain,high1242,ref-sensitive-domain,NA,AWM;DI;HT;MV,turner1966highlandchontal[30-110]
 high1276-align-noun,high1276,align-noun,no marking,HT,"boudreault2009popoluca[155,179]"
 high1276-align-pro,high1276,align-pro,no marking,HT,"boudreault2009popoluca[155,179]"
-high1276-align-index,high1276,align-index,ergative;sensitive,AWM;DI;MV,"boudreault2009popoluca[155,179]"
+high1276-align-index,high1276,align-index,sensitive,AWM;DI;MV,"boudreault2009popoluca[155,179]"
 high1276-align-noun-nl,high1276,align-noun-nl,no marking,HT,"boudreault2009popoluca[155,179]"
 high1276-align-pro-nl,high1276,align-pro-nl,no marking,HT,"boudreault2009popoluca[155,179]"
 high1276-align-index-nl,high1276,align-index-nl,ergative,AWM;DI;MV,"boudreault2009popoluca[155,179]"
@@ -4214,12 +4214,12 @@ hual1241-ref-sensitive,hual1241,ref-sensitive,True,AWM;DI;MV,weber1989huallagagr
 hual1241-ref-sensitive-domain,hual1241,ref-sensitive-domain,Verb,AWM;DI;MV,weber1989huallagagrammar[178-179]
 huas1242-align-noun,huas1242,align-noun,no marking,AWM;HT,edmonson1988huastec
 huas1242-align-pro,huas1242,align-pro,no marking,AWM;HT,edmonson1988huastec
-huas1242-align-index,huas1242,align-index,tripartite,AWM;DI;MV,edmonson1988huastec
+huas1242-align-index,huas1242,align-index,sensitive;tripartite,AWM;DI;MV,edmonson1988huastec
 huas1242-align-noun-nl,huas1242,align-noun-nl,no marking,AWM;HT,edmonson1988huastec
 huas1242-align-pro-nl,huas1242,align-pro-nl,no marking,AWM;HT,edmonson1988huastec
 huas1242-align-index-nl,huas1242,align-index-nl,tripartite,AWM;DI;MV,edmonson1988huastec
-huas1242-ref-ergative,huas1242,ref-ergative,True,AWM;DI;HT;MV,edmonson1988huastec
-huas1242-ref-ergative-domain,huas1242,ref-ergative-domain,Verb,AWM;DI;HT;MV,edmonson1988huastec
+huas1242-ref-ergative,huas1242,ref-ergative,False,AWM;DI;HT;MV,edmonson1988huastec
+huas1242-ref-ergative-domain,huas1242,ref-ergative-domain,NA,AWM;DI;HT;MV,edmonson1988huastec
 huas1242-ref-tripartite,huas1242,ref-tripartite,True,AWM;DI;HT;MV,edmonson1988huastec
 huas1242-ref-tripartite-domain,huas1242,ref-tripartite-domain,Verb,AWM;DI;HT;MV,edmonson1988huastec
 huas1242-ref-horizontal,huas1242,ref-horizontal,False,AWM;DI;HT;MV,edmonson1988huastec
@@ -4704,7 +4704,7 @@ kich1262-ref-sensitive,kich1262,ref-sensitive,False,AN;AWM,pixabaj2017kiche[475-
 kich1262-ref-sensitive-domain,kich1262,ref-sensitive-domain,NA,AN;AWM,pixabaj2017kiche[475-485]
 kiow1266-align-noun,kiow1266,align-noun,no marking,AN,"watkins1984kiowa[100-101,204]"
 kiow1266-align-pro,kiow1266,align-pro,no marking,AN,"watkins1984kiowa[100-101,204]"
-kiow1266-align-index,kiow1266,align-index,no marking,AN;DI,"watkins1984kiowa[100-101,204]"
+kiow1266-align-index,kiow1266,align-index,sensitive,AN;DI,"watkins1984kiowa[100-101,204]"
 kiow1266-align-noun-nl,kiow1266,align-noun-nl,no marking,AN,"watkins1984kiowa[100-101,204]"
 kiow1266-align-pro-nl,kiow1266,align-pro-nl,no marking,AN,"watkins1984kiowa[100-101,204]"
 kiow1266-align-index-nl,kiow1266,align-index-nl,sensitive,AN;DI,"watkins1984kiowa[100-101,204]"
@@ -4858,14 +4858,14 @@ kusu1250-ref-sensitive,kusu1250,ref-sensitive,False,AWM;HT,watters2006kusunda[45
 kusu1250-ref-sensitive-domain,kusu1250,ref-sensitive-domain,NA,AWM;HT,watters2006kusunda[45-53]
 kute1249-align-noun,kute1249,align-noun,no marking,DI,"morgan1992kutenai[36,387-388]"
 kute1249-align-pro,kute1249,align-pro,NA,DI,"morgan1992kutenai[36,387-388]"
-kute1249-align-index,kute1249,align-index,accusative;sensitive;tripartite,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
+kute1249-align-index,kute1249,align-index,sensitive,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
 kute1249-align-noun-nl,kute1249,align-noun-nl,no marking,DI,"morgan1992kutenai[36,387-388]"
 kute1249-align-pro-nl,kute1249,align-pro-nl,NA,DI,"morgan1992kutenai[36,387-388]"
 kute1249-align-index-nl,kute1249,align-index-nl,sensitive,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
 kute1249-ref-ergative,kute1249,ref-ergative,False,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
 kute1249-ref-ergative-domain,kute1249,ref-ergative-domain,NA,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
-kute1249-ref-tripartite,kute1249,ref-tripartite,True,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
-kute1249-ref-tripartite-domain,kute1249,ref-tripartite-domain,Verb,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
+kute1249-ref-tripartite,kute1249,ref-tripartite,False,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
+kute1249-ref-tripartite-domain,kute1249,ref-tripartite-domain,NA,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
 kute1249-ref-horizontal,kute1249,ref-horizontal,False,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
 kute1249-ref-horizontal-domain,kute1249,ref-horizontal-domain,NA,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
 kute1249-ref-sensitive,kute1249,ref-sensitive,True,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
@@ -4890,8 +4890,8 @@ kwaz1243-align-index,kwaz1243,align-index,accusative,AN;AWM,"voort2004kwaza[105-
 kwaz1243-align-noun-nl,kwaz1243,align-noun-nl,no marking,AN,"voort2004kwaza[105-110,235-236]"
 kwaz1243-align-pro-nl,kwaz1243,align-pro-nl,accusative,AN,"voort2004kwaza[105-110,235-236]"
 kwaz1243-align-index-nl,kwaz1243,align-index-nl,accusative,AN;AWM,"voort2004kwaza[105-110,235-236]"
-kwaz1243-ref-ergative,kwaz1243,ref-ergative,True,AN;AWM,"voort2004kwaza[105-110,235-236]"
-kwaz1243-ref-ergative-domain,kwaz1243,ref-ergative-domain,Verb,AN;AWM,"voort2004kwaza[105-110,235-236]"
+kwaz1243-ref-ergative,kwaz1243,ref-ergative,False,AN;AWM,"voort2004kwaza[105-110,235-236]"
+kwaz1243-ref-ergative-domain,kwaz1243,ref-ergative-domain,NA,AN;AWM,"voort2004kwaza[105-110,235-236]"
 kwaz1243-ref-tripartite,kwaz1243,ref-tripartite,False,AN;AWM,"voort2004kwaza[105-110,235-236]"
 kwaz1243-ref-tripartite-domain,kwaz1243,ref-tripartite-domain,NA,AN;AWM,"voort2004kwaza[105-110,235-236]"
 kwaz1243-ref-horizontal,kwaz1243,ref-horizontal,False,AN;AWM,"voort2004kwaza[105-110,235-236]"
@@ -4938,8 +4938,8 @@ lake1258-ref-tripartite,lake1258,ref-tripartite,False,HT,"callaghan1963lakemiwok
 lake1258-ref-tripartite-domain,lake1258,ref-tripartite-domain,NA,HT,"callaghan1963lakemiwok[124,231,234-235,263,276,283,286,91,96-97]"
 lake1258-ref-horizontal,lake1258,ref-horizontal,False,HT,"callaghan1963lakemiwok[124,231,234-235,263,276,283,286,91,96-97]"
 lake1258-ref-horizontal-domain,lake1258,ref-horizontal-domain,NA,HT,"callaghan1963lakemiwok[124,231,234-235,263,276,283,286,91,96-97]"
-lake1258-ref-sensitive,lake1258,ref-sensitive,False,HT,"callaghan1963lakemiwok[124,231,234-235,263,276,283,286,91,96-97]"
-lake1258-ref-sensitive-domain,lake1258,ref-sensitive-domain,NA,HT,"callaghan1963lakemiwok[124,231,234-235,263,276,283,286,91,96-97]"
+lake1258-ref-sensitive,lake1258,ref-sensitive,True,HT,"callaghan1963lakemiwok[124,231,234-235,263,276,283,286,91,96-97]"
+lake1258-ref-sensitive-domain,lake1258,ref-sensitive-domain,Pro,HT,"callaghan1963lakemiwok[124,231,234-235,263,276,283,286,91,96-97]"
 lako1247-align-noun,lako1247,align-noun,no marking,HT,"ingham2003lakota[50,74]"
 lako1247-align-pro,lako1247,align-pro,no marking,HT,"ingham2003lakota[50,74]"
 lako1247-align-index,lako1247,align-index,accusative;no marking,AN;AWM;HT,"ingham2003lakota[50,74]"
@@ -5156,8 +5156,8 @@ mapu1245-align-index,mapu1245,align-index,sensitive,AN,zuniga2019grammatical[41]
 mapu1245-align-noun-nl,mapu1245,align-noun-nl,no marking,AWM,zuniga2019grammatical[41]
 mapu1245-align-pro-nl,mapu1245,align-pro-nl,no marking,AWM,zuniga2019grammatical[41]
 mapu1245-align-index-nl,mapu1245,align-index-nl,overt neutral,AN,zuniga2019grammatical[41]
-mapu1245-ref-ergative,mapu1245,ref-ergative,True,AN;AWM,zuniga2019grammatical[41]
-mapu1245-ref-ergative-domain,mapu1245,ref-ergative-domain,Verb,AN;AWM,zuniga2019grammatical[41]
+mapu1245-ref-ergative,mapu1245,ref-ergative,False,AN;AWM,zuniga2019grammatical[41]
+mapu1245-ref-ergative-domain,mapu1245,ref-ergative-domain,NA,AN;AWM,zuniga2019grammatical[41]
 mapu1245-ref-tripartite,mapu1245,ref-tripartite,True,AN;AWM,zuniga2019grammatical[41]
 mapu1245-ref-tripartite-domain,mapu1245,ref-tripartite-domain,Verb,AN;AWM,zuniga2019grammatical[41]
 mapu1245-ref-horizontal,mapu1245,ref-horizontal,False,AN;AWM,zuniga2019grammatical[41]
@@ -5394,10 +5394,10 @@ mose1249-align-index,mose1249,align-index,sensitive,DI;HT,"sakel2004moseten[117-
 mose1249-align-noun-nl,mose1249,align-noun-nl,no marking,HT,"sakel2004moseten[117-119,195]"
 mose1249-align-pro-nl,mose1249,align-pro-nl,no marking,HT,"sakel2004moseten[117-119,195]"
 mose1249-align-index-nl,mose1249,align-index-nl,no marking,DI;HT,"sakel2004moseten[117-119,195]"
-mose1249-ref-ergative,mose1249,ref-ergative,True,DI;HT,"sakel2004moseten[117-119,195]"
-mose1249-ref-ergative-domain,mose1249,ref-ergative-domain,Verb,DI;HT,"sakel2004moseten[117-119,195]"
-mose1249-ref-tripartite,mose1249,ref-tripartite,True,DI;HT,"sakel2004moseten[117-119,195]"
-mose1249-ref-tripartite-domain,mose1249,ref-tripartite-domain,Verb,DI;HT,"sakel2004moseten[117-119,195]"
+mose1249-ref-ergative,mose1249,ref-ergative,False,DI;HT,"sakel2004moseten[117-119,195]"
+mose1249-ref-ergative-domain,mose1249,ref-ergative-domain,NA,DI;HT,"sakel2004moseten[117-119,195]"
+mose1249-ref-tripartite,mose1249,ref-tripartite,False,DI;HT,"sakel2004moseten[117-119,195]"
+mose1249-ref-tripartite-domain,mose1249,ref-tripartite-domain,NA,DI;HT,"sakel2004moseten[117-119,195]"
 mose1249-ref-horizontal,mose1249,ref-horizontal,False,DI;HT,"sakel2004moseten[117-119,195]"
 mose1249-ref-horizontal-domain,mose1249,ref-horizontal-domain,NA,DI;HT,"sakel2004moseten[117-119,195]"
 mose1249-ref-sensitive,mose1249,ref-sensitive,True,DI;HT,"sakel2004moseten[117-119,195]"
@@ -5618,8 +5618,8 @@ nene1249-align-index,nene1249,align-index,sensitive,AWM;HT,"nikolaeva2014nenets[
 nene1249-align-noun-nl,nene1249,align-noun-nl,accusative,HT,"nikolaeva2014nenets[194-195,202,420]"
 nene1249-align-pro-nl,nene1249,align-pro-nl,accusative,HT,"nikolaeva2014nenets[194-195,202,420]"
 nene1249-align-index-nl,nene1249,align-index-nl,sensitive,AWM;HT,"nikolaeva2014nenets[194-195,202,420]"
-nene1249-ref-ergative,nene1249,ref-ergative,True,AWM;HT,"nikolaeva2014nenets[194-195,202,420]"
-nene1249-ref-ergative-domain,nene1249,ref-ergative-domain,Verb,AWM;HT,"nikolaeva2014nenets[194-195,202,420]"
+nene1249-ref-ergative,nene1249,ref-ergative,False,AWM;HT,"nikolaeva2014nenets[194-195,202,420]"
+nene1249-ref-ergative-domain,nene1249,ref-ergative-domain,NA,AWM;HT,"nikolaeva2014nenets[194-195,202,420]"
 nene1249-ref-tripartite,nene1249,ref-tripartite,False,AWM;HT,"nikolaeva2014nenets[194-195,202,420]"
 nene1249-ref-tripartite-domain,nene1249,ref-tripartite-domain,NA,AWM;HT,"nikolaeva2014nenets[194-195,202,420]"
 nene1249-ref-horizontal,nene1249,ref-horizontal,False,AWM;HT,"nikolaeva2014nenets[194-195,202,420]"
@@ -5670,12 +5670,12 @@ nisg1240-ref-sensitive,nisg1240,ref-sensitive,False,AWM;DI,peterson2017alignment
 nisg1240-ref-sensitive-domain,nisg1240,ref-sensitive-domain,NA,AWM;DI,peterson2017alignment[11-34]
 niva1238-align-noun,niva1238,align-noun,no marking,HT,"fabre2016nivacle[102-103,193]"
 niva1238-align-pro,niva1238,align-pro,no marking,HT,"fabre2016nivacle[102-103,193]"
-niva1238-align-index,niva1238,align-index,accusative;sensitive,AWM;HT,"fabre2016nivacle[102-103,193]"
+niva1238-align-index,niva1238,align-index,sensitive,AWM;HT,"fabre2016nivacle[102-103,193]"
 niva1238-align-noun-nl,niva1238,align-noun-nl,no marking,HT,"fabre2016nivacle[102-103,193]"
 niva1238-align-pro-nl,niva1238,align-pro-nl,no marking,HT,"fabre2016nivacle[102-103,193]"
 niva1238-align-index-nl,niva1238,align-index-nl,accusative,AWM;HT,"fabre2016nivacle[102-103,193]"
-niva1238-ref-ergative,niva1238,ref-ergative,True,AWM;HT,"fabre2016nivacle[102-103,193]"
-niva1238-ref-ergative-domain,niva1238,ref-ergative-domain,Verb,AWM;HT,"fabre2016nivacle[102-103,193]"
+niva1238-ref-ergative,niva1238,ref-ergative,False,AWM;HT,"fabre2016nivacle[102-103,193]"
+niva1238-ref-ergative-domain,niva1238,ref-ergative-domain,NA,AWM;HT,"fabre2016nivacle[102-103,193]"
 niva1238-ref-tripartite,niva1238,ref-tripartite,True,AWM;HT,"fabre2016nivacle[102-103,193]"
 niva1238-ref-tripartite-domain,niva1238,ref-tripartite-domain,Verb,AWM;HT,"fabre2016nivacle[102-103,193]"
 niva1238-ref-horizontal,niva1238,ref-horizontal,False,AWM;HT,"fabre2016nivacle[102-103,193]"
@@ -5690,13 +5690,13 @@ nort1550-align-pro-nl,nort1550,align-pro-nl,no marking,AN,"trager1946taos[204,ha
 nort1550-align-index-nl,nort1550,align-index-nl,sensitive,AN,"trager1946taos[204,harrington1910taos]"
 nort1550-ref-ergative,nort1550,ref-ergative,False,AN,"trager1946taos[204,harrington1910taos]"
 nort1550-ref-ergative-domain,nort1550,ref-ergative-domain,NA,AN,"trager1946taos[204,harrington1910taos]"
-nort1550-ref-tripartite,nort1550,ref-tripartite,True,AN,"trager1946taos[204,harrington1910taos]"
-nort1550-ref-tripartite-domain,nort1550,ref-tripartite-domain,Verb,AN,"trager1946taos[204,harrington1910taos]"
+nort1550-ref-tripartite,nort1550,ref-tripartite,False,AN,"trager1946taos[204,harrington1910taos]"
+nort1550-ref-tripartite-domain,nort1550,ref-tripartite-domain,NA,AN,"trager1946taos[204,harrington1910taos]"
 nort1550-ref-horizontal,nort1550,ref-horizontal,False,AN,"trager1946taos[204,harrington1910taos]"
 nort1550-ref-horizontal-domain,nort1550,ref-horizontal-domain,NA,AN,"trager1946taos[204,harrington1910taos]"
 nort1550-ref-sensitive,nort1550,ref-sensitive,True,AN,"trager1946taos[204,harrington1910taos]"
 nort1550-ref-sensitive-domain,nort1550,ref-sensitive-domain,Verb,AN,"trager1946taos[204,harrington1910taos]"
-nort2745-align-noun,nort2745,align-noun,accusative,AWM;DI;HT,"maslova2003kolyma[88-96];schmalz2013yukaghir[166-168,179,299,79-82]"
+nort2745-align-noun,nort2745,align-noun,sensitive,AWM;DI;HT,"maslova2003kolyma[88-96];schmalz2013yukaghir[166-168,179,299,79-82]"
 nort2745-align-pro,nort2745,align-pro,accusative,AWM;DI;HT,"maslova2003kolyma[88-96];schmalz2013yukaghir[166-168,179,299,79-82]"
 nort2745-align-index,nort2745,align-index,tripartite,AWM;HT,"maslova2003kolyma[88-96];schmalz2013yukaghir[166-168,179,299,79-82]"
 nort2745-align-noun-nl,nort2745,align-noun-nl,accusative,AWM;DI;HT,"maslova2003kolyma[88-96];schmalz2013yukaghir[166-168,179,299,79-82]"
@@ -5708,8 +5708,8 @@ nort2745-ref-tripartite,nort2745,ref-tripartite,True,AWM;DI;HT,"maslova2003kolym
 nort2745-ref-tripartite-domain,nort2745,ref-tripartite-domain,Verb,AWM;DI;HT,"maslova2003kolyma[88-96];schmalz2013yukaghir[166-168,179,299,79-82]"
 nort2745-ref-horizontal,nort2745,ref-horizontal,False,AWM;DI;HT,"maslova2003kolyma[88-96];schmalz2013yukaghir[166-168,179,299,79-82]"
 nort2745-ref-horizontal-domain,nort2745,ref-horizontal-domain,NA,AWM;DI;HT,"maslova2003kolyma[88-96];schmalz2013yukaghir[166-168,179,299,79-82]"
-nort2745-ref-sensitive,nort2745,ref-sensitive,False,AWM;DI;HT,"maslova2003kolyma[88-96];schmalz2013yukaghir[166-168,179,299,79-82]"
-nort2745-ref-sensitive-domain,nort2745,ref-sensitive-domain,NA,AWM;DI;HT,"maslova2003kolyma[88-96];schmalz2013yukaghir[166-168,179,299,79-82]"
+nort2745-ref-sensitive,nort2745,ref-sensitive,True,AWM;DI;HT,"maslova2003kolyma[88-96];schmalz2013yukaghir[166-168,179,299,79-82]"
+nort2745-ref-sensitive-domain,nort2745,ref-sensitive-domain,Noun,AWM;DI;HT,"maslova2003kolyma[88-96];schmalz2013yukaghir[166-168,179,299,79-82]"
 nort2942-align-noun,nort2942,align-noun,no marking,AWM,rice1989slave[1005]
 nort2942-align-pro,nort2942,align-pro,no marking,AWM,rice1989slave[1005]
 nort2942-align-index,nort2942,align-index,accusative,AWM,rice1989slave[1005]
@@ -5722,8 +5722,8 @@ nort2942-ref-tripartite,nort2942,ref-tripartite,False,AWM,rice1989slave[1005]
 nort2942-ref-tripartite-domain,nort2942,ref-tripartite-domain,NA,AWM,rice1989slave[1005]
 nort2942-ref-horizontal,nort2942,ref-horizontal,False,AWM,rice1989slave[1005]
 nort2942-ref-horizontal-domain,nort2942,ref-horizontal-domain,NA,AWM,rice1989slave[1005]
-nort2942-ref-sensitive,nort2942,ref-sensitive,False,AWM,rice1989slave[1005]
-nort2942-ref-sensitive-domain,nort2942,ref-sensitive-domain,NA,AWM,rice1989slave[1005]
+nort2942-ref-sensitive,nort2942,ref-sensitive,True,AWM,rice1989slave[1005]
+nort2942-ref-sensitive-domain,nort2942,ref-sensitive-domain,Verb,AWM,rice1989slave[1005]
 nort2951-align-noun,nort2951,align-noun,accusative,DI,"ultan1967maidu[133,145-147]"
 nort2951-align-pro,nort2951,align-pro,accusative,DI,"ultan1967maidu[133,145-147]"
 nort2951-align-index,nort2951,align-index,accusative,DI,"ultan1967maidu[133,145-147]"
@@ -5768,7 +5768,7 @@ nort2980-ref-sensitive,nort2980,ref-sensitive,True,AWM;DI,adelaar1977northjuninq
 nort2980-ref-sensitive-domain,nort2980,ref-sensitive-domain,Verb,AWM;DI,adelaar1977northjuninquechua[187-190]
 nucl1302-align-noun,nucl1302,align-noun,accusative,AWM,"gurevich2006constructional[75-80];hewitt1987georgian[33-50,77]"
 nucl1302-align-pro,nucl1302,align-pro,no marking,AWM,"gurevich2006constructional[75-80];hewitt1987georgian[33-50,77]"
-nucl1302-align-index,nucl1302,align-index,accusative,AWM,"gurevich2006constructional[75-80];hewitt1987georgian[33-50,77]"
+nucl1302-align-index,nucl1302,align-index,sensitive,AWM,"gurevich2006constructional[75-80];hewitt1987georgian[33-50,77]"
 nucl1302-align-noun-nl,nucl1302,align-noun-nl,accusative,AWM,"gurevich2006constructional[75-80];hewitt1987georgian[33-50,77]"
 nucl1302-align-pro-nl,nucl1302,align-pro-nl,no marking,AWM,"gurevich2006constructional[75-80];hewitt1987georgian[33-50,77]"
 nucl1302-align-index-nl,nucl1302,align-index-nl,accusative,AWM,"gurevich2006constructional[75-80];hewitt1987georgian[33-50,77]"
@@ -5820,8 +5820,8 @@ nucl1632-ref-tripartite,nucl1632,ref-tripartite,False,DI,mayer2021sentani[31-42]
 nucl1632-ref-tripartite-domain,nucl1632,ref-tripartite-domain,NA,DI,mayer2021sentani[31-42]
 nucl1632-ref-horizontal,nucl1632,ref-horizontal,False,DI,mayer2021sentani[31-42]
 nucl1632-ref-horizontal-domain,nucl1632,ref-horizontal-domain,NA,DI,mayer2021sentani[31-42]
-nucl1632-ref-sensitive,nucl1632,ref-sensitive,False,DI,mayer2021sentani[31-42]
-nucl1632-ref-sensitive-domain,nucl1632,ref-sensitive-domain,NA,DI,mayer2021sentani[31-42]
+nucl1632-ref-sensitive,nucl1632,ref-sensitive,True,DI,mayer2021sentani[31-42]
+nucl1632-ref-sensitive-domain,nucl1632,ref-sensitive-domain,Verb,DI,mayer2021sentani[31-42]
 nucl1633-align-noun,nucl1633,align-noun,ergative;no marking,HT,"may1997study[122-123,133,167,79,98]"
 nucl1633-align-pro,nucl1633,align-pro,ergative;no marking,HT,"may1997study[122-123,133,167,79,98]"
 nucl1633-align-index,nucl1633,align-index,accusative,AN;HT,"may1997study[122-123,133,167,79,98]"
@@ -5872,8 +5872,8 @@ nuuc1236-align-pro-nl,nuuc1236,align-pro-nl,accusative;no marking,AWM,woo2007nuu
 nuuc1236-align-index-nl,nuuc1236,align-index-nl,overt neutral;sensitive,DI,woo2007nuuchahnulth[178-180]
 nuuc1236-ref-ergative,nuuc1236,ref-ergative,False,AWM;DI,woo2007nuuchahnulth[178-180]
 nuuc1236-ref-ergative-domain,nuuc1236,ref-ergative-domain,NA,AWM;DI,woo2007nuuchahnulth[178-180]
-nuuc1236-ref-tripartite,nuuc1236,ref-tripartite,True,AWM;DI,woo2007nuuchahnulth[178-180]
-nuuc1236-ref-tripartite-domain,nuuc1236,ref-tripartite-domain,Verb,AWM;DI,woo2007nuuchahnulth[178-180]
+nuuc1236-ref-tripartite,nuuc1236,ref-tripartite,False,AWM;DI,woo2007nuuchahnulth[178-180]
+nuuc1236-ref-tripartite-domain,nuuc1236,ref-tripartite-domain,NA,AWM;DI,woo2007nuuchahnulth[178-180]
 nuuc1236-ref-horizontal,nuuc1236,ref-horizontal,False,AWM;DI,woo2007nuuchahnulth[178-180]
 nuuc1236-ref-horizontal-domain,nuuc1236,ref-horizontal-domain,NA,AWM;DI,woo2007nuuchahnulth[178-180]
 nuuc1236-ref-sensitive,nuuc1236,ref-sensitive,True,AWM;DI,woo2007nuuchahnulth[178-180]
@@ -5898,8 +5898,8 @@ olut1240-align-index,olut1240,align-index,sensitive,AWM;HT,"zavala2000olutec[149
 olut1240-align-noun-nl,olut1240,align-noun-nl,no marking,HT,"zavala2000olutec[149-150,49-51]"
 olut1240-align-pro-nl,olut1240,align-pro-nl,no marking,HT,"zavala2000olutec[149-150,49-51]"
 olut1240-align-index-nl,olut1240,align-index-nl,ergative,AWM;HT,"zavala2000olutec[149-150,49-51]"
-olut1240-ref-ergative,olut1240,ref-ergative,True,AWM;HT,"zavala2000olutec[149-150,49-51]"
-olut1240-ref-ergative-domain,olut1240,ref-ergative-domain,Verb,AWM;HT,"zavala2000olutec[149-150,49-51]"
+olut1240-ref-ergative,olut1240,ref-ergative,False,AWM;HT,"zavala2000olutec[149-150,49-51]"
+olut1240-ref-ergative-domain,olut1240,ref-ergative-domain,NA,AWM;HT,"zavala2000olutec[149-150,49-51]"
 olut1240-ref-tripartite,olut1240,ref-tripartite,False,AWM;HT,"zavala2000olutec[149-150,49-51]"
 olut1240-ref-tripartite-domain,olut1240,ref-tripartite-domain,NA,AWM;HT,"zavala2000olutec[149-150,49-51]"
 olut1240-ref-horizontal,olut1240,ref-horizontal,False,AWM;HT,"zavala2000olutec[149-150,49-51]"
@@ -5956,8 +5956,8 @@ para1311-align-pro-nl,para1311,align-pro-nl,accusative,NCP,"estigarriba2020parag
 para1311-align-index-nl,para1311,align-index-nl,accusative,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
 para1311-ref-ergative,para1311,ref-ergative,True,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
 para1311-ref-ergative-domain,para1311,ref-ergative-domain,Verb,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
-para1311-ref-tripartite,para1311,ref-tripartite,True,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
-para1311-ref-tripartite-domain,para1311,ref-tripartite-domain,Verb,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
+para1311-ref-tripartite,para1311,ref-tripartite,False,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
+para1311-ref-tripartite-domain,para1311,ref-tripartite-domain,NA,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
 para1311-ref-horizontal,para1311,ref-horizontal,False,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
 para1311-ref-horizontal-domain,para1311,ref-horizontal-domain,NA,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
 para1311-ref-sensitive,para1311,ref-sensitive,True,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
@@ -6114,8 +6114,8 @@ quil1240-ref-tripartite,quil1240,ref-tripartite,False,HT,"andrade1933quileute[20
 quil1240-ref-tripartite-domain,quil1240,ref-tripartite-domain,NA,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
 quil1240-ref-horizontal,quil1240,ref-horizontal,False,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
 quil1240-ref-horizontal-domain,quil1240,ref-horizontal-domain,NA,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
-quil1240-ref-sensitive,quil1240,ref-sensitive,False,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
-quil1240-ref-sensitive-domain,quil1240,ref-sensitive-domain,NA,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
+quil1240-ref-sensitive,quil1240,ref-sensitive,True,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
+quil1240-ref-sensitive-domain,quil1240,ref-sensitive-domain,Pro,HT,"andrade1933quileute[204,233,236-237,240];powell1976quileute[500-501,504]"
 rama1270-align-noun,rama1270,align-noun,no marking,AWM;HT,grinevald1990rama[104-112]
 rama1270-align-pro,rama1270,align-pro,accusative,AWM;HT,grinevald1990rama[104-112]
 rama1270-align-index,rama1270,align-index,no marking,AWM;HT,grinevald1990rama[104-112]
@@ -6272,7 +6272,7 @@ savo1255-ref-sensitive,savo1255,ref-sensitive,False,AWM;MV,wegener2012grammar[13
 savo1255-ref-sensitive-domain,savo1255,ref-sensitive-domain,NA,AWM;MV,wegener2012grammar[131-132]
 seri1257-align-noun,seri1257,align-noun,no marking,AWM,marlett2005seri[136]
 seri1257-align-pro,seri1257,align-pro,no marking,AWM,marlett2005seri[136]
-seri1257-align-index,seri1257,align-index,accusative,AWM,marlett2005seri[136]
+seri1257-align-index,seri1257,align-index,sensitive,AWM,marlett2005seri[136]
 seri1257-align-noun-nl,seri1257,align-noun-nl,no marking,AWM,marlett2005seri[136]
 seri1257-align-pro-nl,seri1257,align-pro-nl,no marking,AWM,marlett2005seri[136]
 seri1257-align-index-nl,seri1257,align-index-nl,accusative,AWM,marlett2005seri[136]
@@ -6410,7 +6410,7 @@ sius1254-ref-horizontal,sius1254,ref-horizontal,False,AN;HT,"frachtenberg1922siu
 sius1254-ref-horizontal-domain,sius1254,ref-horizontal-domain,NA,AN;HT,"frachtenberg1922siuslaw[462,540-541,573,575-576]"
 sius1254-ref-sensitive,sius1254,ref-sensitive,True,AN;HT,"frachtenberg1922siuslaw[462,540-541,573,575-576]"
 sius1254-ref-sensitive-domain,sius1254,ref-sensitive-domain,Verb,AN;HT,"frachtenberg1922siuslaw[462,540-541,573,575-576]"
-sout2750-align-noun,sout2750,align-noun,accusative,AWM,maslova2003kolyma[80-89]
+sout2750-align-noun,sout2750,align-noun,sensitive,AWM,maslova2003kolyma[80-89]
 sout2750-align-pro,sout2750,align-pro,accusative,AWM,maslova2003kolyma[80-89]
 sout2750-align-index,sout2750,align-index,tripartite,AWM,maslova2003kolyma[80-89]
 sout2750-align-noun-nl,sout2750,align-noun-nl,accusative,AWM,maslova2003kolyma[80-89]
@@ -6422,8 +6422,8 @@ sout2750-ref-tripartite,sout2750,ref-tripartite,True,AWM,maslova2003kolyma[80-89
 sout2750-ref-tripartite-domain,sout2750,ref-tripartite-domain,Verb,AWM,maslova2003kolyma[80-89]
 sout2750-ref-horizontal,sout2750,ref-horizontal,True,AWM,maslova2003kolyma[80-89]
 sout2750-ref-horizontal-domain,sout2750,ref-horizontal-domain,Verb,AWM,maslova2003kolyma[80-89]
-sout2750-ref-sensitive,sout2750,ref-sensitive,False,AWM,maslova2003kolyma[80-89]
-sout2750-ref-sensitive-domain,sout2750,ref-sensitive-domain,NA,AWM,maslova2003kolyma[80-89]
+sout2750-ref-sensitive,sout2750,ref-sensitive,True,AWM,maslova2003kolyma[80-89]
+sout2750-ref-sensitive-domain,sout2750,ref-sensitive-domain,Noun;Pro,AWM,maslova2003kolyma[80-89]
 sout2956-align-noun,sout2956,align-noun,no marking,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
 sout2956-align-pro,sout2956,align-pro,accusative,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
 sout2956-align-index,sout2956,align-index,no marking,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
@@ -6592,20 +6592,20 @@ tehu1242-ref-horizontal,tehu1242,ref-horizontal,True,AWM;DI,"garay1998tehuelche[
 tehu1242-ref-horizontal-domain,tehu1242,ref-horizontal-domain,Verb,AWM;DI,"garay1998tehuelche[119-120,180-199,313-315]"
 tehu1242-ref-sensitive,tehu1242,ref-sensitive,False,AWM;DI,"garay1998tehuelche[119-120,180-199,313-315]"
 tehu1242-ref-sensitive-domain,tehu1242,ref-sensitive-domain,NA,AWM;DI,"garay1998tehuelche[119-120,180-199,313-315]"
-teri1250-align-noun,teri1250,align-noun,ergative,AWM;HT,quesada2000teribe
+teri1250-align-noun,teri1250,align-noun,sensitive,AWM;HT,quesada2000teribe
 teri1250-align-pro,teri1250,align-pro,accusative,AWM;HT,quesada2000teribe
 teri1250-align-index,teri1250,align-index,no marking,AWM;HT,quesada2000teribe
 teri1250-align-noun-nl,teri1250,align-noun-nl,sensitive,AWM;HT,quesada2000teribe
 teri1250-align-pro-nl,teri1250,align-pro-nl,accusative,AWM;HT,quesada2000teribe
 teri1250-align-index-nl,teri1250,align-index-nl,no marking,AWM;HT,quesada2000teribe
-teri1250-ref-ergative,teri1250,ref-ergative,True,AWM;HT,quesada2000teribe
-teri1250-ref-ergative-domain,teri1250,ref-ergative-domain,Noun,AWM;HT,quesada2000teribe
+teri1250-ref-ergative,teri1250,ref-ergative,False,AWM;HT,quesada2000teribe
+teri1250-ref-ergative-domain,teri1250,ref-ergative-domain,NA,AWM;HT,quesada2000teribe
 teri1250-ref-tripartite,teri1250,ref-tripartite,False,AWM;HT,quesada2000teribe
 teri1250-ref-tripartite-domain,teri1250,ref-tripartite-domain,NA,AWM;HT,quesada2000teribe
 teri1250-ref-horizontal,teri1250,ref-horizontal,False,AWM;HT,quesada2000teribe
 teri1250-ref-horizontal-domain,teri1250,ref-horizontal-domain,NA,AWM;HT,quesada2000teribe
-teri1250-ref-sensitive,teri1250,ref-sensitive,False,AWM;HT,quesada2000teribe
-teri1250-ref-sensitive-domain,teri1250,ref-sensitive-domain,NA,AWM;HT,quesada2000teribe
+teri1250-ref-sensitive,teri1250,ref-sensitive,True,AWM;HT,quesada2000teribe
+teri1250-ref-sensitive-domain,teri1250,ref-sensitive-domain,Noun,AWM;HT,quesada2000teribe
 tete1251-align-noun,tete1251,align-noun,no marking,AWM,tuggy1979tetelcingo[10]
 tete1251-align-pro,tete1251,align-pro,no marking,AWM,tuggy1979tetelcingo[10]
 tete1251-align-index,tete1251,align-index,accusative,DI,tuggy1979tetelcingo[10]
@@ -6762,12 +6762,12 @@ tonk1249-ref-sensitive,tonk1249,ref-sensitive,False,AWM;HT,"wier2016tonkawa[11,3
 tonk1249-ref-sensitive-domain,tonk1249,ref-sensitive-domain,NA,AWM;HT,"wier2016tonkawa[11,37]"
 toto1305-align-noun,toto1305,align-noun,no marking,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
 toto1305-align-pro,toto1305,align-pro,no marking,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
-toto1305-align-index,toto1305,align-index,tripartite,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
+toto1305-align-index,toto1305,align-index,sensitive,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
 toto1305-align-noun-nl,toto1305,align-noun-nl,no marking,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
 toto1305-align-pro-nl,toto1305,align-pro-nl,no marking,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
 toto1305-align-index-nl,toto1305,align-index-nl,tripartite,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
-toto1305-ref-ergative,toto1305,ref-ergative,True,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
-toto1305-ref-ergative-domain,toto1305,ref-ergative-domain,Verb,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
+toto1305-ref-ergative,toto1305,ref-ergative,False,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
+toto1305-ref-ergative-domain,toto1305,ref-ergative-domain,NA,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
 toto1305-ref-tripartite,toto1305,ref-tripartite,True,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
 toto1305-ref-tripartite-domain,toto1305,ref-tripartite-domain,Verb,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
 toto1305-ref-horizontal,toto1305,ref-horizontal,False,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
@@ -6851,13 +6851,13 @@ tupi1273-align-noun-nl,tupi1273,align-noun-nl,no marking,DI;NCP,"barbosa1956tupi
 tupi1273-align-pro-nl,tupi1273,align-pro-nl,no marking,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-align-index-nl,tupi1273,align-index-nl,accusative,NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-ref-ergative,tupi1273,ref-ergative,True,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
-tupi1273-ref-ergative-domain,tupi1273,ref-ergative-domain,Pro;Verb,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
+tupi1273-ref-ergative-domain,tupi1273,ref-ergative-domain,Verb,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-ref-tripartite,tupi1273,ref-tripartite,False,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-ref-tripartite-domain,tupi1273,ref-tripartite-domain,NA,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-ref-horizontal,tupi1273,ref-horizontal,False,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-ref-horizontal-domain,tupi1273,ref-horizontal-domain,NA,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-ref-sensitive,tupi1273,ref-sensitive,True,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
-tupi1273-ref-sensitive-domain,tupi1273,ref-sensitive-domain,Verb,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
+tupi1273-ref-sensitive-domain,tupi1273,ref-sensitive-domain,Pro;Verb,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tusc1257-align-noun,tusc1257,align-noun,no marking,HT,williams1974tuscarora[14]
 tusc1257-align-pro,tusc1257,align-pro,no marking,HT,williams1974tuscarora[14]
 tusc1257-align-index,tusc1257,align-index,sensitive,AWM;HT,williams1974tuscarora[14]
@@ -7033,7 +7033,7 @@ ward1246-align-noun-nl,ward1246,align-noun-nl,ergative,AN,"merlan1994wardaman[10
 ward1246-align-pro-nl,ward1246,align-pro-nl,ergative,AN,"merlan1994wardaman[107-108,64]"
 ward1246-align-index-nl,ward1246,align-index-nl,overt neutral,AN,"merlan1994wardaman[107-108,64]"
 ward1246-ref-ergative,ward1246,ref-ergative,True,AN,"merlan1994wardaman[107-108,64]"
-ward1246-ref-ergative-domain,ward1246,ref-ergative-domain,Noun;Pro;Verb,AN,"merlan1994wardaman[107-108,64]"
+ward1246-ref-ergative-domain,ward1246,ref-ergative-domain,Noun;Pro,AN,"merlan1994wardaman[107-108,64]"
 ward1246-ref-tripartite,ward1246,ref-tripartite,False,AN,"merlan1994wardaman[107-108,64]"
 ward1246-ref-tripartite-domain,ward1246,ref-tripartite-domain,NA,AN,"merlan1994wardaman[107-108,64]"
 ward1246-ref-horizontal,ward1246,ref-horizontal,False,AN,"merlan1994wardaman[107-108,64]"
@@ -7104,8 +7104,8 @@ wich1260-align-pro-nl,wich1260,align-pro-nl,NA,HT;NCP,"rood1976wichita[3,6]"
 wich1260-align-index-nl,wich1260,align-index-nl,accusative,AWM,"rood1976wichita[3,6]"
 wich1260-ref-ergative,wich1260,ref-ergative,True,AWM;HT;NCP,"rood1976wichita[3,6]"
 wich1260-ref-ergative-domain,wich1260,ref-ergative-domain,Verb,AWM;HT;NCP,"rood1976wichita[3,6]"
-wich1260-ref-tripartite,wich1260,ref-tripartite,True,AWM;HT;NCP,"rood1976wichita[3,6]"
-wich1260-ref-tripartite-domain,wich1260,ref-tripartite-domain,Verb,AWM;HT;NCP,"rood1976wichita[3,6]"
+wich1260-ref-tripartite,wich1260,ref-tripartite,False,AWM;HT;NCP,"rood1976wichita[3,6]"
+wich1260-ref-tripartite-domain,wich1260,ref-tripartite-domain,NA,AWM;HT;NCP,"rood1976wichita[3,6]"
 wich1260-ref-horizontal,wich1260,ref-horizontal,False,AWM;HT;NCP,"rood1976wichita[3,6]"
 wich1260-ref-horizontal-domain,wich1260,ref-horizontal-domain,NA,AWM;HT;NCP,"rood1976wichita[3,6]"
 wich1260-ref-sensitive,wich1260,ref-sensitive,True,AWM;HT;NCP,"rood1976wichita[3,6]"
@@ -7146,8 +7146,8 @@ wiyo1248-align-pro-nl,wiyo1248,align-pro-nl,no marking,AN,teeter1964wiyot[78]
 wiyo1248-align-index-nl,wiyo1248,align-index-nl,accusative;sensitive,AN,teeter1964wiyot[78]
 wiyo1248-ref-ergative,wiyo1248,ref-ergative,False,AN,teeter1964wiyot[78]
 wiyo1248-ref-ergative-domain,wiyo1248,ref-ergative-domain,NA,AN,teeter1964wiyot[78]
-wiyo1248-ref-tripartite,wiyo1248,ref-tripartite,True,AN,teeter1964wiyot[78]
-wiyo1248-ref-tripartite-domain,wiyo1248,ref-tripartite-domain,Verb,AN,teeter1964wiyot[78]
+wiyo1248-ref-tripartite,wiyo1248,ref-tripartite,False,AN,teeter1964wiyot[78]
+wiyo1248-ref-tripartite-domain,wiyo1248,ref-tripartite-domain,NA,AN,teeter1964wiyot[78]
 wiyo1248-ref-horizontal,wiyo1248,ref-horizontal,False,AN,teeter1964wiyot[78]
 wiyo1248-ref-horizontal-domain,wiyo1248,ref-horizontal-domain,NA,AN,teeter1964wiyot[78]
 wiyo1248-ref-sensitive,wiyo1248,ref-sensitive,True,AN,teeter1964wiyot[78]
@@ -7444,8 +7444,8 @@ yuro1248-ref-tripartite,yuro1248,ref-tripartite,False,AN;AWM,robins1958yurok[20]
 yuro1248-ref-tripartite-domain,yuro1248,ref-tripartite-domain,NA,AN;AWM,robins1958yurok[20]
 yuro1248-ref-horizontal,yuro1248,ref-horizontal,False,AN;AWM,robins1958yurok[20]
 yuro1248-ref-horizontal-domain,yuro1248,ref-horizontal-domain,NA,AN;AWM,robins1958yurok[20]
-yuro1248-ref-sensitive,yuro1248,ref-sensitive,False,AN;AWM,robins1958yurok[20]
-yuro1248-ref-sensitive-domain,yuro1248,ref-sensitive-domain,NA,AN;AWM,robins1958yurok[20]
+yuro1248-ref-sensitive,yuro1248,ref-sensitive,True,AN;AWM,robins1958yurok[20]
+yuro1248-ref-sensitive-domain,yuro1248,ref-sensitive-domain,Pro,AN;AWM,robins1958yurok[20]
 zapa1253-align-noun,zapa1253,align-noun,no marking,DI,"peeke1991zaparo[12-24,26-32]"
 zapa1253-align-pro,zapa1253,align-pro,accusative,DI,"peeke1991zaparo[12-24,26-32]"
 zapa1253-align-index,zapa1253,align-index,no marking,DI,"peeke1991zaparo[12-24,26-32]"
