@@ -1193,21 +1193,30 @@ def other_alignments(ref_loc):
             alignment_not_local = "NA"
         elif all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" for x in S_values) and all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" for x in A_values_not_local) and all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" for x in P_values_not_local):
             alignment_not_local = "no marking"
-        elif any("coarg:" in x for x in S_values) or any("coarg:" in x for x in A_values_not_local) or any("coarg:" in x for x in P_values_not_local):
-            alignment_not_local = "sensitive"
-        elif S_values == A_values_not_local != P_values_not_local:
-            alignment_not_local = "accusative"
-        elif S_values == A_values_not_local == P_values_not_local:
-            if "_zero" in S_values[0] and not "_overt" in S_values[0]:
-                alignment_not_local = "no marking"
-            elif "_overt" in S_values[0]:
-                alignment_not_local = "overt neutral"
-        elif P_values_not_local == A_values_not_local != S_values:
-            alignment_not_local = "horizontal"
-        elif P_values_not_local == S_values != A_values_not_local:
-            alignment_not_local = "ergative"
-        elif P_values_not_local != A_values_not_local != S_values:
-            alignment_not_local = "tripartite"
+        else:
+            all_alignments = set()
+            for s in S_values:
+                for a in A_values_not_local:
+                    a = re.sub("_coarg:[^\& ]*","",a)
+                    for p in P_values_not_local:
+                        p = re.sub("_coarg:[^\& ]*","",p)
+                        if s == a == p:
+                            if "_zero" in s and not "_overt" in s:
+                                all_alignments.add("no marking")
+                            elif "_overt" in s:
+                                all_alignments.add("overt neutral")
+                        elif s == a != p:
+                            all_alignments.add("accusative")
+                        elif s == p != a:
+                            all_alignments.add("ergative")
+                        elif a == p != s:
+                            all_alignments.add("horizontal")
+                        elif s != a != p:
+                            all_alignments.add("tripartite")
+            if len(all_alignments) > 1:
+                alignment_not_local = "sensitive"
+            else:
+                alignment_not_local = all_alignments.pop()
         row.Alignment_not_local = alignment_not_local
     references["ID"] = references["ID"].apply(slugify)
     references.to_csv(ref_loc, index=False)

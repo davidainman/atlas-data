@@ -931,31 +931,39 @@ def add_alignment(
     if (all(["_zero" in coarg and "_overt" not in coarg and "NO_PRONOUN_zero" not in coarg for coarg in out_row[I_P].split(";")])) :
         out_row[I_P] = "ZERO"
 
-    # elif ";" in out_row[I_A] or ";" in out_row[I_P] or ";" in out_row[I_S]:
-    if (
-        "coarg:" in out_row[I_A] or "coarg:" in out_row[I_P] or "coarg:" in out_row[I_S]
-    ):
-        alignment = "sensitive"
-    elif out_row[I_A] == out_row[I_S] != out_row[I_P]:
-        alignment = "accusative"
-    elif out_row[I_A] == out_row[I_S] == out_row[I_P]:
-        if "ZERO" in out_row[I_P]:
-            alignment = "no marking"
-        elif "overt" in out_row[I_P]:
-            alignment = "overt neutral"
-        elif "-" in out_row[I_P]:
-            alignment = "NA"
-        elif "?" in out_row[I_P]:
-            alignment = "?"
-    elif out_row[I_P] == out_row[I_A] != out_row[I_S]:
-        alignment = "horizontal"
-    elif out_row[I_P] == out_row[I_S] != out_row[I_A]:
-        alignment = "ergative"
-    # this must be the last one to check, otherwise if P==S!=A, below expression would also be true
-    elif out_row[I_P] != out_row[I_A] != out_row[I_S]:
-        alignment = "tripartite"
-
-
+    # calculate the full set of all alignments
+    all_alignments = set()
+    coarg_split_As = [x.strip() for x in out_row[I_A].split(';')]
+    coarg_split_Ps = [x.strip() for x in out_row[I_P].split(';')]
+    for a_coarg in coarg_split_As:
+        a_coarg = re.sub("_coarg:[^\& ]*","",a_coarg)
+        for p_coarg in coarg_split_Ps:
+            p_coarg = re.sub("_coarg:[^\& ]*","",p_coarg)
+            if out_row[I_S] == a_coarg == p_coarg:
+                if "ZERO" in out_row[I_S] or "NO_PRONOUN_zero" in out_row[I_S]:
+                    all_alignments.add("no marking")
+                elif "overt" in out_row[I_S]:
+                    all_alignments.add("overt neutral")
+                elif "-" in out_row[I_S]:
+                    all_alignments.add("NA")
+                elif "?" in out_row[I_P]:
+                    all_alignments.add("?")
+            elif out_row[I_S] == a_coarg != p_coarg:
+                all_alignments.add("accusative")
+            elif out_row[I_S] == p_coarg != a_coarg:
+                all_alignments.add("ergative")
+            elif a_coarg == p_coarg != out_row[I_S]:
+                all_alignments.add("horizontal")
+            elif a_coarg != p_coarg != out_row[I_S]:
+                all_alignments.add("tripartite")
+    
+    # if there are multiple alignments, designate it "sensitive", otherwise report what was found
+    if not "ERROR" in all_alignments: # if an error occurred, leave the error in output
+        if len(all_alignments) > 1:
+            alignment = "sensitive"
+        else:
+            alignment = all_alignments.pop()
+    
     out_row[I_ALIG] = alignment
     # restore original values
     out_row[I_A] = original_a

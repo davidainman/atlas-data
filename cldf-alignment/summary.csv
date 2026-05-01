@@ -1,49 +1,47 @@
 Level,Variable,Value,Count,Percentage
-Language,align-index,accusative,111,0.3546325878594249
-Language,align-index,accusative;no marking,6,0.019169329073482427
+Language,align-index,accusative,124,0.3961661341853035
+Language,align-index,accusative;ergative,1,0.003194888178913738
+Language,align-index,accusative;no marking,7,0.022364217252396165
+Language,align-index,accusative;no marking;sensitive,1,0.003194888178913738
 Language,align-index,accusative;overt neutral,1,0.003194888178913738
 Language,align-index,accusative;sensitive,6,0.019169329073482427
+Language,align-index,accusative;sensitive;tripartite,1,0.003194888178913738
 Language,align-index,accusative;tripartite,1,0.003194888178913738
-Language,align-index,ergative,11,0.03514376996805112
-Language,align-index,ergative;sensitive,1,0.003194888178913738
+Language,align-index,ergative,15,0.04792332268370607
+Language,align-index,ergative;sensitive,2,0.006389776357827476
 Language,align-index,horizontal,3,0.009584664536741214
-Language,align-index,no marking,69,0.22044728434504793
+Language,align-index,no marking,70,0.22364217252396165
 Language,align-index,no marking;overt neutral,2,0.006389776357827476
 Language,align-index,overt neutral,5,0.01597444089456869
-Language,align-index,sensitive,85,0.2715654952076677
-Language,align-index,sensitive;tripartite,1,0.003194888178913738
-Language,align-index,tripartite,11,0.03514376996805112
-Language,align-index-nl,accusative,143,0.45686900958466453
+Language,align-index,sensitive,55,0.1757188498402556
+Language,align-index,tripartite,19,0.06070287539936102
+Language,align-index-nl,accusative,149,0.476038338658147
 Language,align-index-nl,accusative;ergative;sensitive,1,0.003194888178913738
 Language,align-index-nl,accusative;no marking,6,0.019169329073482427
 Language,align-index-nl,accusative;no marking;overt neutral,1,0.003194888178913738
-Language,align-index-nl,accusative;overt neutral,2,0.006389776357827476
+Language,align-index-nl,accusative;overt neutral,1,0.003194888178913738
 Language,align-index-nl,accusative;overt neutral;sensitive,1,0.003194888178913738
-Language,align-index-nl,accusative;sensitive,8,0.025559105431309903
+Language,align-index-nl,accusative;sensitive,5,0.01597444089456869
 Language,align-index-nl,accusative;tripartite,1,0.003194888178913738
-Language,align-index-nl,ergative,16,0.051118210862619806
-Language,align-index-nl,ergative;sensitive,1,0.003194888178913738
+Language,align-index-nl,ergative,18,0.05750798722044728
 Language,align-index-nl,horizontal,4,0.012779552715654952
 Language,align-index-nl,no marking,70,0.22364217252396165
 Language,align-index-nl,no marking;overt neutral,2,0.006389776357827476
-Language,align-index-nl,overt neutral,11,0.03514376996805112
-Language,align-index-nl,overt neutral;sensitive,3,0.009584664536741214
-Language,align-index-nl,sensitive,25,0.07987220447284345
-Language,align-index-nl,sensitive;tripartite,2,0.006389776357827476
-Language,align-index-nl,tripartite,16,0.051118210862619806
-Language,align-noun,accusative,56,0.1723076923076923
+Language,align-index-nl,overt neutral,13,0.04153354632587859
+Language,align-index-nl,overt neutral;sensitive,2,0.006389776357827476
+Language,align-index-nl,sensitive,19,0.06070287539936102
+Language,align-index-nl,sensitive;tripartite,1,0.003194888178913738
+Language,align-index-nl,tripartite,19,0.06070287539936102
+Language,align-noun,accusative,60,0.18461538461538463
 Language,align-noun,accusative;ergative,1,0.003076923076923077
 Language,align-noun,accusative;ergative;no marking,1,0.003076923076923077
 Language,align-noun,accusative;no marking,32,0.09846153846153846
 Language,align-noun,accusative;overt neutral,2,0.006153846153846154
-Language,align-noun,accusative;sensitive,1,0.003076923076923077
-Language,align-noun,ergative,26,0.08
+Language,align-noun,ergative,28,0.08615384615384615
 Language,align-noun,ergative;no marking,11,0.033846153846153845
 Language,align-noun,ergative;overt neutral,2,0.006153846153846154
-Language,align-noun,ergative;sensitive,1,0.003076923076923077
 Language,align-noun,no marking,187,0.5753846153846154
 Language,align-noun,overt neutral,1,0.003076923076923077
-Language,align-noun,sensitive,4,0.012307692307692308
 Language,align-noun-nl,accusative,60,0.18461538461538463
 Language,align-noun-nl,accusative;ergative,1,0.003076923076923077
 Language,align-noun-nl,accusative;ergative;no marking,1,0.003076923076923077
@@ -55,18 +53,17 @@ Language,align-noun-nl,ergative;overt neutral,2,0.006153846153846154
 Language,align-noun-nl,no marking,187,0.5753846153846154
 Language,align-noun-nl,overt neutral,1,0.003076923076923077
 Language,align-noun-nl,sensitive,1,0.003076923076923077
-Language,align-pro,accusative,104,0.3291139240506329
+Language,align-pro,accusative,105,0.3322784810126582
 Language,align-pro,accusative;ergative,1,0.0031645569620253164
 Language,align-pro,accusative;ergative;no marking,1,0.0031645569620253164
 Language,align-pro,accusative;no marking,9,0.028481012658227847
-Language,align-pro,accusative;sensitive,1,0.0031645569620253164
 Language,align-pro,accusative;tripartite,1,0.0031645569620253164
-Language,align-pro,ergative,24,0.0759493670886076
+Language,align-pro,ergative,26,0.08227848101265822
 Language,align-pro,ergative;no marking,9,0.028481012658227847
 Language,align-pro,ergative;overt neutral,1,0.0031645569620253164
 Language,align-pro,ergative;tripartite,1,0.0031645569620253164
 Language,align-pro,no marking,160,0.5063291139240507
-Language,align-pro,sensitive,3,0.00949367088607595
+Language,align-pro,sensitive,1,0.0031645569620253164
 Language,align-pro,tripartite,1,0.0031645569620253164
 Language,align-pro-nl,accusative,105,0.3322784810126582
 Language,align-pro-nl,accusative;ergative,1,0.0031645569620253164
@@ -118,15 +115,15 @@ Language,indexing-features,person,33,0.125
 Language,indexing-features,person+number,134,0.5075757575757576
 Language,indexing-features,person+number;person+other,1,0.003787878787878788
 Language,indexing-features,person;person+number,47,0.17803030303030304
-Language,ref-ergative,False,221,0.68
-Language,ref-ergative,True,104,0.32
-Language,ref-ergative-domain,Noun,7,0.0673076923076923
-Language,ref-ergative-domain,Noun;Pro,37,0.3557692307692308
-Language,ref-ergative-domain,Noun;Pro;Verb,7,0.0673076923076923
-Language,ref-ergative-domain,Noun;Verb,1,0.009615384615384616
-Language,ref-ergative-domain,Pro,5,0.04807692307692308
-Language,ref-ergative-domain,Pro;Verb,2,0.019230769230769232
-Language,ref-ergative-domain,Verb,45,0.4326923076923077
+Language,ref-ergative,False,203,0.6246153846153846
+Language,ref-ergative,True,122,0.37538461538461537
+Language,ref-ergative-domain,Noun,8,0.06557377049180328
+Language,ref-ergative-domain,Noun;Pro,35,0.28688524590163933
+Language,ref-ergative-domain,Noun;Pro;Verb,9,0.07377049180327869
+Language,ref-ergative-domain,Noun;Verb,1,0.00819672131147541
+Language,ref-ergative-domain,Pro,6,0.04918032786885246
+Language,ref-ergative-domain,Pro;Verb,3,0.02459016393442623
+Language,ref-ergative-domain,Verb,60,0.4918032786885246
 Language,ref-horizontal,False,298,0.916923076923077
 Language,ref-horizontal,True,27,0.08307692307692308
 Language,ref-horizontal-domain,Noun,3,0.1111111111111111
@@ -134,21 +131,19 @@ Language,ref-horizontal-domain,Noun;Pro,1,0.037037037037037035
 Language,ref-horizontal-domain,Pro,1,0.037037037037037035
 Language,ref-horizontal-domain,Pro;Verb,1,0.037037037037037035
 Language,ref-horizontal-domain,Verb,21,0.7777777777777778
-Language,ref-sensitive,False,207,0.6369230769230769
-Language,ref-sensitive,True,118,0.3630769230769231
-Language,ref-sensitive-domain,Noun,2,0.01694915254237288
-Language,ref-sensitive-domain,Noun;Pro,2,0.01694915254237288
-Language,ref-sensitive-domain,Noun;Pro;Verb,2,0.01694915254237288
-Language,ref-sensitive-domain,Noun;Verb,1,0.00847457627118644
-Language,ref-sensitive-domain,Pro,4,0.03389830508474576
-Language,ref-sensitive-domain,Pro;Verb,2,0.01694915254237288
-Language,ref-sensitive-domain,Verb,105,0.8898305084745762
-Language,ref-tripartite,False,282,0.8676923076923077
-Language,ref-tripartite,True,43,0.13230769230769232
-Language,ref-tripartite-domain,Noun,2,0.046511627906976744
-Language,ref-tripartite-domain,Noun;Pro,1,0.023255813953488372
-Language,ref-tripartite-domain,Pro,4,0.09302325581395349
-Language,ref-tripartite-domain,Verb,36,0.8372093023255814
+Language,ref-sensitive,False,225,0.6923076923076923
+Language,ref-sensitive,True,100,0.3076923076923077
+Language,ref-sensitive-domain,Noun;Verb,1,0.01
+Language,ref-sensitive-domain,Pro,2,0.02
+Language,ref-sensitive-domain,Verb,97,0.97
+Language,ref-tripartite,False,255,0.7846153846153846
+Language,ref-tripartite,True,70,0.2153846153846154
+Language,ref-tripartite-domain,Noun,1,0.014285714285714285
+Language,ref-tripartite-domain,Noun;Pro,1,0.014285714285714285
+Language,ref-tripartite-domain,Noun;Verb,1,0.014285714285714285
+Language,ref-tripartite-domain,Pro,3,0.04285714285714286
+Language,ref-tripartite-domain,Pro;Verb,1,0.014285714285714285
+Language,ref-tripartite-domain,Verb,63,0.9
 Language,split-s,?,9,0.027692307692307693
 Language,split-s,False,260,0.8
 Language,split-s,True,56,0.1723076923076923
