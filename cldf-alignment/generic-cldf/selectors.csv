@@ -439,23 +439,23 @@ chol1284-ng-3sga-indexing-marker,chol1284,indexing marker,ŋ- 3sgA,overt,person+
 chol1284-no-flagging,chol1284,flagging,NO_FLAGGING,zero,,"bakkerus2005cholon[134,146]",AN,any,any,any,neutral
 chol1284-p-i-2f-sg-s-a-p-indexing-marker,chol1284,indexing marker,p(i)- 2f.sg S/A/P,overt,person+number,bakkerus2005cholon[204-211],AN,2sg.F,2sg.F_1pl;2sg.F_1sg;2sg.F_3pl;2sg.F_3sg,2sg.F_1pl;2sg.F_1sg;2sg.F_3pl;2sg.F_3sg,neutral
 chol1284-p-o-3plp-indexing-marker,chol1284,indexing marker,p(o)- 3plP,overt,person+number,bakkerus2005cholon[204-211],AN,NONE,NONE,3pl,accusative
-chuk1273-2pl-3-slot-5-indexing-marker,chuk1273,indexing marker,-ə 2pl>3 (slot 5),overt,person+number,dunn1999chukchi[177-247],MV; DI; AWM,NONE,2pl_3pl;2pl_3sg,3pl_2pl;3sg_2pl,horizontal
+chuk1273-2pl-3-slot-5-indexing-marker,chuk1273,indexing marker,-ə 2pl>3 (slot 5),overt,person+number,dunn1999chukchi[177-187],MV; DI; AWM,NONE,2pl_3pl;2pl_3sg,3pl_2pl;3sg_2pl,horizontal
 chuk1273-abs-case-overt-for-some-nouns-flagging,chuk1273,flagging,ABS case (overt for some nouns),overt,,"dunn1999chukchi[97,99]",AWM,any,NONE,any,ergative
 chuk1273-erg-case-flagging,chuk1273,flagging,ERG case,overt,,dunn1999chukchi[98],AWM,NONE,any,NONE,ergative
-chuk1273-g-m-3pla-1sgp-slot-3-indexing-marker,chuk1273,indexing marker,-ɣəm 3plA>1sgP (slot 3),overt,person+number,dunn1999chukchi[177-255],MV; DI; AWM,NONE,3pl_1sg,1sg_3pl,horizontal
-chuk1273-g-t-2sgp-slot-4-indexing-marker,chuk1273,indexing marker,-ɣət 2sgP (slot 4),overt,person+number,dunn1999chukchi[177-224],MV; DI; AWM,NONE,NONE,2sg_1pl;2sg_1sg;2sg_3pl;2sg_3sg,accusative
-chuk1273-i-1sg-2s-3s-indexing-marker,chuk1273,indexing marker,-i 1sg 2s/3s,overt,person+number,dunn1999chukchi[177-255],MV; DI; AWM,2sg;3sg,NONE,NONE,horizontal
-chuk1273-ine-1sgp-slot-1-indexing-marker,chuk1273,indexing marker,ine- 1sgP (slot -1),overt,person+number,dunn1999chukchi[177-199],MV; DI; AWM,NONE,NONE,1sg_2pl;1sg_2sg;1sg_3sg,accusative
-chuk1273-k-1sgs-slot-3-indexing-marker,chuk1273,indexing marker,-k 1sgS (slot 3),overt,person+number,dunn1999chukchi[177-213],MV; DI; AWM,1sg,NONE,NONE,horizontal
-chuk1273-m-k-1pls-p-slot-3-indexing-marker,chuk1273,indexing marker,-mək 1plS/P (slot 3),overt,person+number,dunn1999chukchi[177-216],MV; DI; AWM,1pl,NONE,1pl_3pl;1pl_3sg,ergative
-chuk1273-m-t-1pls-a-slot-1-indexing-marker,chuk1273,indexing marker,mət- 1plS/A (slot -1),overt,person+number,dunn1999chukchi[177-196],MV; DI; AWM,1pl,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg,NONE,accusative
-chuk1273-n-e-3p-slot-4-indexing-marker,chuk1273,indexing marker,-n(e) 3P (slot 4),overt,person,dunn1999chukchi[177-243],MV; DI; AWM,NONE,NONE,3pl_1pl;3pl_1sg;3pl_2sg;3pl_3pl;3pl_3sg;3sg_1pl;3sg_1sg;3sg_2sg;3sg_3pl;3sg_3sg,accusative
-chuk1273-ne-3a-slot-1-indexing-marker,chuk1273,indexing marker,ne- 3A (slot -1),overt,person,dunn1999chukchi[177-208],MV; DI; AWM,NONE,3pl_1pl;3pl_1sg;3pl_2pl;3pl_2sg;3pl_3pl;3pl_3sg;3sg_1pl;3sg_2pl;3sg_2sg,NONE,ergative
-chuk1273-ni-3sga-3p-slot-3-indexing-marker,chuk1273,indexing marker,-ni 3sgA>3P (slot 3),overt,person+number,dunn1999chukchi[177-220],MV; DI; AWM,NONE,3sg_3pl;3sg_3sg,3pl_3sg;3sg_3sg,horizontal
-chuk1273-t-1sgs-a-slot-1-indexing-marker,chuk1273,indexing marker,t- 1sgS/A (slot -1),overt,person+number,dunn1999chukchi[177-191],MV; DI; AWM,1sg,1sg_2pl;1sg_2sg;1sg_3pl;1sg_3sg,NONE,accusative
-chuk1273-t-3pls-p-slot-5-indexing-marker,chuk1273,indexing marker,-t 3plS/P (slot 5),overt,person+number,dunn1999chukchi[177-253],MV; DI; AWM,3pl,NONE,3pl_1pl;3pl_1sg;3pl_2sg;3pl_3pl;3pl_3sg,ergative
-chuk1273-t-k-2pl-slot-4-indexing-marker,chuk1273,indexing marker,-tək 2pl (slot 4),overt,person+number,dunn1999chukchi[177-233],MV; DI; AWM,2pl,2pl_1pl;2pl_1sg;2pl_3pl;2pl_3sg,2pl_1pl;2pl_1sg;2pl_3pl;2pl_3sg,neutral
-chuk1273-tku-2-1pl-slot-1-indexing-marker,chuk1273,indexing marker,-tku 2>1pl (slot 1),overt,person+number,dunn1999chukchi[177-212],MV; DI; AWM,NONE,2pl_1pl;2sg_1pl,1pl_2pl;1pl_2sg,horizontal
+chuk1273-g-m-3pla-1sgp-slot-3-indexing-marker,chuk1273,indexing marker,-ɣəm 3plA>1sgP (slot 3),overt,person+number,dunn1999chukchi[177-187],MV; DI; AWM,NONE,3pl_1sg,1sg_3pl,horizontal
+chuk1273-g-t-2sgp-slot-4-indexing-marker,chuk1273,indexing marker,-ɣət 2sgP (slot 4),overt,person+number,dunn1999chukchi[177-187],MV; DI; AWM,NONE,NONE,2sg_1pl;2sg_1sg;2sg_3pl;2sg_3sg,accusative
+chuk1273-i-1sg-2s-3s-indexing-marker,chuk1273,indexing marker,-i 1sg 2s/3s,overt,person+number,dunn1999chukchi[177-187],MV; DI; AWM,2sg;3sg,NONE,NONE,horizontal
+chuk1273-ine-1sgp-slot-1-indexing-marker,chuk1273,indexing marker,ine- 1sgP (slot -1),overt,person+number,dunn1999chukchi[177-187],MV; DI; AWM,NONE,NONE,1sg_2pl;1sg_2sg;1sg_3sg,accusative
+chuk1273-k-1sgs-slot-3-indexing-marker,chuk1273,indexing marker,-k 1sgS (slot 3),overt,person+number,dunn1999chukchi[177-187],MV; DI; AWM,1sg,NONE,NONE,horizontal
+chuk1273-m-k-1pls-p-slot-3-indexing-marker,chuk1273,indexing marker,-mək 1plS/P (slot 3),overt,person+number,dunn1999chukchi[177-187],MV; DI; AWM,1pl,NONE,1pl_3pl;1pl_3sg,ergative
+chuk1273-m-t-1pls-a-slot-1-indexing-marker,chuk1273,indexing marker,mət- 1plS/A (slot -1),overt,person+number,dunn1999chukchi[177-187],MV; DI; AWM,1pl,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg,NONE,accusative
+chuk1273-n-e-3p-slot-4-indexing-marker,chuk1273,indexing marker,-n(e) 3P (slot 4),overt,person,dunn1999chukchi[177-187],MV; DI; AWM,NONE,NONE,3pl_1pl;3pl_1sg;3pl_2sg;3pl_3pl;3pl_3sg;3sg_1pl;3sg_1sg;3sg_2sg;3sg_3pl;3sg_3sg,accusative
+chuk1273-ne-3a-slot-1-indexing-marker,chuk1273,indexing marker,ne- 3A (slot -1),overt,person,dunn1999chukchi[177-187],MV; DI; AWM,NONE,3pl_1pl;3pl_1sg;3pl_2pl;3pl_2sg;3pl_3pl;3pl_3sg;3sg_1pl;3sg_2pl;3sg_2sg,NONE,ergative
+chuk1273-ni-3sga-3p-slot-3-indexing-marker,chuk1273,indexing marker,-ni 3sgA>3P (slot 3),overt,person+number,dunn1999chukchi[177-187],MV; DI; AWM,NONE,3sg_3pl;3sg_3sg,3pl_3sg;3sg_3sg,horizontal
+chuk1273-t-1sgs-a-slot-1-indexing-marker,chuk1273,indexing marker,t- 1sgS/A (slot -1),overt,person+number,dunn1999chukchi[177-187],MV; DI; AWM,1sg,1sg_2pl;1sg_2sg;1sg_3pl;1sg_3sg,NONE,accusative
+chuk1273-t-3pls-p-slot-5-indexing-marker,chuk1273,indexing marker,-t 3plS/P (slot 5),overt,person+number,dunn1999chukchi[177-187],MV; DI; AWM,3pl,NONE,3pl_1pl;3pl_1sg;3pl_2sg;3pl_3pl;3pl_3sg,ergative
+chuk1273-t-k-2pl-slot-4-indexing-marker,chuk1273,indexing marker,-tək 2pl (slot 4),overt,person+number,dunn1999chukchi[177-187],MV; DI; AWM,2pl,2pl_1pl;2pl_1sg;2pl_3pl;2pl_3sg,2pl_1pl;2pl_1sg;2pl_3pl;2pl_3sg,neutral
+chuk1273-tku-2-1pl-slot-1-indexing-marker,chuk1273,indexing marker,-tku 2>1pl (slot 1),overt,person+number,dunn1999chukchi[177-187],MV; DI; AWM,NONE,2pl_1pl;2sg_1pl,1pl_2pl;1pl_2sg,horizontal
 coah1252-accusative-demonstrative-suffix-flagging,coah1252,flagging,accusative demonstrative suffix,overt,,troike1996coahuilteco[59-62],DI,NONE,NONE,Noun,accusative
 coah1252-no-flagging,coah1252,flagging,NO_FLAGGING,zero,,troike1996coahuilteco[59-62],DI,Noun,Noun,NONE,accusative
 coah1252-subject-pronoun-flagging,coah1252,flagging,subject pronoun,overt,,troike1996coahuilteco[59-62],DI,Pro,Pro,NONE,accusative

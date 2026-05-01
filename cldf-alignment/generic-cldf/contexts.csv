@@ -2604,79 +2604,79 @@ chol1284-79,chol1284,chol1284-p-o-3plp-indexing-marker,-1,simple,P,3pl,A,any,any
 chol1284-8,chol1284,chol1284-ha-pls-a-p-indexing-marker,3,simple,A,2pl,P,3pl,any,none,any,default,,bakkerus2005cholon[204-211],,AN
 chol1284-9,chol1284,chol1284-ha-pls-a-p-indexing-marker,3,simple,P,2pl,A,1sg,any,none,any,default,,bakkerus2005cholon[204-211],,AN
 chuk1273-1,chuk1273,chuk1273-erg-case-flagging,,simple,A,any,P,any,any,none,any,default,,dunn1999chukchi[98],,AWM
-chuk1273-10,chuk1273,chuk1273-g-m-3pla-1sgp-slot-3-indexing-marker,3,portmanteau,A,3pl,P,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-255],,MV; DI; AWM
-chuk1273-11,chuk1273,chuk1273-g-m-3pla-1sgp-slot-3-indexing-marker,3,portmanteau,P,1sg,A,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-254],,MV; DI; AWM
-chuk1273-12,chuk1273,chuk1273-g-t-2sgp-slot-4-indexing-marker,4,simple,P,2sg,A,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-221],,MV; DI; AWM
-chuk1273-13,chuk1273,chuk1273-g-t-2sgp-slot-4-indexing-marker,4,simple,P,2sg,A,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-222],,MV; DI; AWM
-chuk1273-14,chuk1273,chuk1273-g-t-2sgp-slot-4-indexing-marker,4,simple,P,2sg,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-223],,MV; DI; AWM
-chuk1273-15,chuk1273,chuk1273-g-t-2sgp-slot-4-indexing-marker,4,simple,P,2sg,A,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-224],,MV; DI; AWM
-chuk1273-16,chuk1273,chuk1273-k-1sgs-slot-3-indexing-marker,3,NA,S,1sg,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-213],,MV; DI; AWM
-chuk1273-17,chuk1273,chuk1273-m-k-1pls-p-slot-3-indexing-marker,3,simple,P,1pl,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-215],,MV; DI; AWM
-chuk1273-18,chuk1273,chuk1273-m-k-1pls-p-slot-3-indexing-marker,3,simple,P,1pl,A,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-216],,MV; DI; AWM
-chuk1273-19,chuk1273,chuk1273-m-k-1pls-p-slot-3-indexing-marker,3,NA,S,1pl,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-214],,MV; DI; AWM
+chuk1273-10,chuk1273,chuk1273-g-m-3pla-1sgp-slot-3-indexing-marker,3,portmanteau,A,3pl,P,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-11,chuk1273,chuk1273-g-m-3pla-1sgp-slot-3-indexing-marker,3,portmanteau,P,1sg,A,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-12,chuk1273,chuk1273-g-t-2sgp-slot-4-indexing-marker,4,simple,P,2sg,A,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-13,chuk1273,chuk1273-g-t-2sgp-slot-4-indexing-marker,4,simple,P,2sg,A,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-14,chuk1273,chuk1273-g-t-2sgp-slot-4-indexing-marker,4,simple,P,2sg,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-15,chuk1273,chuk1273-g-t-2sgp-slot-4-indexing-marker,4,simple,P,2sg,A,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-16,chuk1273,chuk1273-k-1sgs-slot-3-indexing-marker,3,NA,S,1sg,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-17,chuk1273,chuk1273-m-k-1pls-p-slot-3-indexing-marker,3,simple,P,1pl,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-18,chuk1273,chuk1273-m-k-1pls-p-slot-3-indexing-marker,3,simple,P,1pl,A,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-19,chuk1273,chuk1273-m-k-1pls-p-slot-3-indexing-marker,3,NA,S,1pl,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
 chuk1273-2,chuk1273,chuk1273-abs-case-overt-for-some-nouns-flagging,,simple,P,any,A,any,any,none,any,default,,dunn1999chukchi[99],,AWM
-chuk1273-20,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3pl,A,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-239],,MV; DI; AWM
-chuk1273-21,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3pl,A,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-240],,MV; DI; AWM
-chuk1273-22,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3pl,A,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-241],,MV; DI; AWM
-chuk1273-23,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3pl,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-242],,MV; DI; AWM
-chuk1273-24,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3pl,A,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-243],,MV; DI; AWM
-chuk1273-25,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3sg,A,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-234],,MV; DI; AWM
-chuk1273-26,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3sg,A,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-235],,MV; DI; AWM
-chuk1273-27,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3sg,A,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-236],,MV; DI; AWM
-chuk1273-28,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3sg,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-237],,MV; DI; AWM
-chuk1273-29,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3sg,A,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-238],,MV; DI; AWM
+chuk1273-20,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3pl,A,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-21,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3pl,A,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-22,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3pl,A,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-23,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3pl,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-24,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3pl,A,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-25,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3sg,A,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-26,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3sg,A,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-27,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3sg,A,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-28,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3sg,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-29,chuk1273,chuk1273-n-e-3p-slot-4-indexing-marker,4,simple,P,3sg,A,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
 chuk1273-3,chuk1273,chuk1273-abs-case-overt-for-some-nouns-flagging,,NA,S,any,NA,NA,any,NA,any,default,,dunn1999chukchi[97],,AWM
-chuk1273-30,chuk1273,chuk1273-ni-3sga-3p-slot-3-indexing-marker,3,portmanteau,A,3sg,P,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-217],,MV; DI; AWM
-chuk1273-31,chuk1273,chuk1273-ni-3sga-3p-slot-3-indexing-marker,3,portmanteau,A,3sg,P,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-218],,MV; DI; AWM
-chuk1273-32,chuk1273,chuk1273-ni-3sga-3p-slot-3-indexing-marker,3,portmanteau,P,3pl,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-220],,MV; DI; AWM
-chuk1273-33,chuk1273,chuk1273-ni-3sga-3p-slot-3-indexing-marker,3,portmanteau,P,3sg,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-219],,MV; DI; AWM
-chuk1273-34,chuk1273,chuk1273-t-3pls-p-slot-5-indexing-marker,5,simple,P,3pl,A,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-249],,MV; DI; AWM
-chuk1273-35,chuk1273,chuk1273-t-3pls-p-slot-5-indexing-marker,5,simple,P,3pl,A,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-250],,MV; DI; AWM
-chuk1273-36,chuk1273,chuk1273-t-3pls-p-slot-5-indexing-marker,5,simple,P,3pl,A,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-251],,MV; DI; AWM
-chuk1273-37,chuk1273,chuk1273-t-3pls-p-slot-5-indexing-marker,5,simple,P,3pl,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-252],,MV; DI; AWM
-chuk1273-38,chuk1273,chuk1273-t-3pls-p-slot-5-indexing-marker,5,simple,P,3pl,A,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-253],,MV; DI; AWM
-chuk1273-39,chuk1273,chuk1273-t-3pls-p-slot-5-indexing-marker,5,NA,S,3pl,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-248],,MV; DI; AWM
-chuk1273-4,chuk1273,chuk1273-i-1sg-2s-3s-indexing-marker,1,NA,S,2sg,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-255],"Chukchi has many paradigms which vary a little bit from one to the other, and may affect alignment slightly. Rather than coding all of the complex paradigms, we picked a representative one based on the exemplar case and coded for it.",MV; DI; AWM
-chuk1273-40,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,A,2pl,P,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-226],,MV; DI; AWM
-chuk1273-41,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,A,2pl,P,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-227],,MV; DI; AWM
-chuk1273-42,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,A,2pl,P,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-228],,MV; DI; AWM
-chuk1273-43,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,A,2pl,P,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-229],,MV; DI; AWM
-chuk1273-44,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,P,2pl,A,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-230],,MV; DI; AWM
-chuk1273-45,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,P,2pl,A,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-231],,MV; DI; AWM
-chuk1273-46,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,P,2pl,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-232],,MV; DI; AWM
-chuk1273-47,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,P,2pl,A,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-233],,MV; DI; AWM
-chuk1273-48,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,NA,S,2pl,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-225],,MV; DI; AWM
-chuk1273-49,chuk1273,chuk1273-tku-2-1pl-slot-1-indexing-marker,1,portmanteau,A,2pl,P,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-210],Analyzed as inverse by Dunn 1999.,MV; DI; AWM
-chuk1273-5,chuk1273,chuk1273-i-1sg-2s-3s-indexing-marker,1,NA,S,3sg,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-255],,MV; DI; AWM
-chuk1273-50,chuk1273,chuk1273-tku-2-1pl-slot-1-indexing-marker,1,portmanteau,A,2sg,P,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-209],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-51,chuk1273,chuk1273-tku-2-1pl-slot-1-indexing-marker,1,portmanteau,P,1pl,A,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-211],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-52,chuk1273,chuk1273-tku-2-1pl-slot-1-indexing-marker,1,portmanteau,P,1pl,A,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-212],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-53,chuk1273,chuk1273-ine-1sgp-slot-1-indexing-marker,-1,simple,P,1sg,A,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-197],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-54,chuk1273,chuk1273-ine-1sgp-slot-1-indexing-marker,-1,simple,P,1sg,A,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-198],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-55,chuk1273,chuk1273-ine-1sgp-slot-1-indexing-marker,-1,simple,P,1sg,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-199],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-56,chuk1273,chuk1273-m-t-1pls-a-slot-1-indexing-marker,-1,simple,A,1pl,P,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-193],,MV; DI; AWM
-chuk1273-57,chuk1273,chuk1273-m-t-1pls-a-slot-1-indexing-marker,-1,simple,A,1pl,P,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-194],,MV; DI; AWM
-chuk1273-58,chuk1273,chuk1273-m-t-1pls-a-slot-1-indexing-marker,-1,simple,A,1pl,P,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-195],,MV; DI; AWM
-chuk1273-59,chuk1273,chuk1273-m-t-1pls-a-slot-1-indexing-marker,-1,simple,A,1pl,P,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-196],,MV; DI; AWM
-chuk1273-6,chuk1273,chuk1273-2pl-3-slot-5-indexing-marker,5,simple,A,2pl,P,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-244],,MV; DI; AWM
-chuk1273-60,chuk1273,chuk1273-m-t-1pls-a-slot-1-indexing-marker,-1,NA,S,1pl,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-192],,MV; DI; AWM
-chuk1273-61,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3pl,P,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-203],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-62,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3pl,P,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-204],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-63,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3pl,P,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-205],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-64,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3pl,P,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-206],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-65,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3pl,P,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-207],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-66,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3pl,P,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-208],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-67,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3sg,P,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-200],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-68,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3sg,P,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-201],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-69,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3sg,P,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-202],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
-chuk1273-7,chuk1273,chuk1273-2pl-3-slot-5-indexing-marker,5,simple,A,2pl,P,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-245],,MV; DI; AWM
-chuk1273-70,chuk1273,chuk1273-t-1sgs-a-slot-1-indexing-marker,-1,simple,A,1sg,P,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-188],,MV; DI; AWM
-chuk1273-71,chuk1273,chuk1273-t-1sgs-a-slot-1-indexing-marker,-1,simple,A,1sg,P,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-189],,MV; DI; AWM
-chuk1273-72,chuk1273,chuk1273-t-1sgs-a-slot-1-indexing-marker,-1,simple,A,1sg,P,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-190],,MV; DI; AWM
-chuk1273-73,chuk1273,chuk1273-t-1sgs-a-slot-1-indexing-marker,-1,simple,A,1sg,P,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-191],,MV; DI; AWM
+chuk1273-30,chuk1273,chuk1273-ni-3sga-3p-slot-3-indexing-marker,3,portmanteau,A,3sg,P,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-31,chuk1273,chuk1273-ni-3sga-3p-slot-3-indexing-marker,3,portmanteau,A,3sg,P,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-32,chuk1273,chuk1273-ni-3sga-3p-slot-3-indexing-marker,3,portmanteau,P,3pl,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-33,chuk1273,chuk1273-ni-3sga-3p-slot-3-indexing-marker,3,portmanteau,P,3sg,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-34,chuk1273,chuk1273-t-3pls-p-slot-5-indexing-marker,5,simple,P,3pl,A,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-35,chuk1273,chuk1273-t-3pls-p-slot-5-indexing-marker,5,simple,P,3pl,A,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-36,chuk1273,chuk1273-t-3pls-p-slot-5-indexing-marker,5,simple,P,3pl,A,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-37,chuk1273,chuk1273-t-3pls-p-slot-5-indexing-marker,5,simple,P,3pl,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-38,chuk1273,chuk1273-t-3pls-p-slot-5-indexing-marker,5,simple,P,3pl,A,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-39,chuk1273,chuk1273-t-3pls-p-slot-5-indexing-marker,5,NA,S,3pl,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-4,chuk1273,chuk1273-i-1sg-2s-3s-indexing-marker,1,NA,S,2sg,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-187],"Chukchi has many paradigms which vary a little bit from one to the other, and may affect alignment slightly. Rather than coding all of the complex paradigms, we picked a representative one based on the exemplar case and coded for it.",MV; DI; AWM
+chuk1273-40,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,A,2pl,P,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-41,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,A,2pl,P,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-42,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,A,2pl,P,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-43,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,A,2pl,P,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-44,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,P,2pl,A,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-45,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,P,2pl,A,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-46,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,P,2pl,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-47,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,simple,P,2pl,A,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-48,chuk1273,chuk1273-t-k-2pl-slot-4-indexing-marker,4,NA,S,2pl,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-49,chuk1273,chuk1273-tku-2-1pl-slot-1-indexing-marker,1,portmanteau,A,2pl,P,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn 1999.,MV; DI; AWM
+chuk1273-5,chuk1273,chuk1273-i-1sg-2s-3s-indexing-marker,1,NA,S,3sg,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-50,chuk1273,chuk1273-tku-2-1pl-slot-1-indexing-marker,1,portmanteau,A,2sg,P,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-51,chuk1273,chuk1273-tku-2-1pl-slot-1-indexing-marker,1,portmanteau,P,1pl,A,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-52,chuk1273,chuk1273-tku-2-1pl-slot-1-indexing-marker,1,portmanteau,P,1pl,A,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-53,chuk1273,chuk1273-ine-1sgp-slot-1-indexing-marker,-1,simple,P,1sg,A,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-54,chuk1273,chuk1273-ine-1sgp-slot-1-indexing-marker,-1,simple,P,1sg,A,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-55,chuk1273,chuk1273-ine-1sgp-slot-1-indexing-marker,-1,simple,P,1sg,A,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-56,chuk1273,chuk1273-m-t-1pls-a-slot-1-indexing-marker,-1,simple,A,1pl,P,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-57,chuk1273,chuk1273-m-t-1pls-a-slot-1-indexing-marker,-1,simple,A,1pl,P,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-58,chuk1273,chuk1273-m-t-1pls-a-slot-1-indexing-marker,-1,simple,A,1pl,P,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-59,chuk1273,chuk1273-m-t-1pls-a-slot-1-indexing-marker,-1,simple,A,1pl,P,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-6,chuk1273,chuk1273-2pl-3-slot-5-indexing-marker,5,simple,A,2pl,P,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-60,chuk1273,chuk1273-m-t-1pls-a-slot-1-indexing-marker,-1,NA,S,1pl,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-61,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3pl,P,1sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-62,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3pl,P,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-63,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3pl,P,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-64,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3pl,P,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-65,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3pl,P,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-66,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3pl,P,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-67,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3sg,P,1pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-68,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3sg,P,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-69,chuk1273,chuk1273-ne-3a-slot-1-indexing-marker,-1,simple,A,3sg,P,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],Analyzed as inverse by Dunn (1999).,MV; DI; AWM
+chuk1273-7,chuk1273,chuk1273-2pl-3-slot-5-indexing-marker,5,simple,A,2pl,P,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-70,chuk1273,chuk1273-t-1sgs-a-slot-1-indexing-marker,-1,simple,A,1sg,P,2sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-71,chuk1273,chuk1273-t-1sgs-a-slot-1-indexing-marker,-1,simple,A,1sg,P,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-72,chuk1273,chuk1273-t-1sgs-a-slot-1-indexing-marker,-1,simple,A,1sg,P,3sg,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-73,chuk1273,chuk1273-t-1sgs-a-slot-1-indexing-marker,-1,simple,A,1sg,P,3pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
 chuk1273-74,chuk1273,chuk1273-t-1sgs-a-slot-1-indexing-marker,-1,NA,S,1sg,NA,NA,NFUT/NEU,NA,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
-chuk1273-8,chuk1273,chuk1273-2pl-3-slot-5-indexing-marker,5,simple,P,3pl,A,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-247],,MV; DI; AWM
-chuk1273-9,chuk1273,chuk1273-2pl-3-slot-5-indexing-marker,5,simple,P,3sg,A,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-246],,MV; DI; AWM
+chuk1273-8,chuk1273,chuk1273-2pl-3-slot-5-indexing-marker,5,simple,P,3pl,A,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
+chuk1273-9,chuk1273,chuk1273-2pl-3-slot-5-indexing-marker,5,simple,P,3sg,A,2pl,NFUT/NEU,none,any,default,,dunn1999chukchi[177-187],,MV; DI; AWM
 coah1252-1,coah1252,coah1252-subject-pronoun-flagging,,NA,S,Pro,NA,NA,any,NA,any,default,,troike1996coahuilteco[59-62],,DI
 coah1252-2,coah1252,coah1252-subject-pronoun-flagging,,simple,A,Pro,P,any,any,none,any,default,,troike1996coahuilteco[59-62],,DI
 coah1252-3,coah1252,coah1252-no-flagging,,NA,S,Noun,NA,NA,any,NA,any,default,,troike1996coahuilteco[59-62],,DI

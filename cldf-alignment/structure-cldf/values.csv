@@ -352,10 +352,10 @@ chol1284-coargument-sensitivity indexing,chol1284,coargument-sensitivity indexin
 chuk1273-flagging,chuk1273,flagging,True,AWM,dunn1999chukchi[97-99]
 chuk1273-indexing,chuk1273,indexing,True,AWM;DI;MV,dunn1999chukchi[97-99]
 chuk1273-indexing-features,chuk1273,indexing-features,person;person+number,AWM;DI;MV,dunn1999chukchi[97-99]
-chuk1273-tam-split,chuk1273,tam-split,True,AWM;DI;MV,"dunn1999chukchi[177-255,97-99]"
-chuk1273-split-s,chuk1273,split-s,False,AWM;DI;MV,"dunn1999chukchi[177-255,97-99]"
-chuk1273-coargument-sensitivity flagging,chuk1273,coargument-sensitivity flagging,no,AWM;DI;MV,"dunn1999chukchi[177-255,97-99]"
-chuk1273-coargument-sensitivity indexing,chuk1273,coargument-sensitivity indexing,yes,AWM;DI;MV,"dunn1999chukchi[177-255,97-99]"
+chuk1273-tam-split,chuk1273,tam-split,True,AWM;DI;MV,"dunn1999chukchi[177-187,97-99]"
+chuk1273-split-s,chuk1273,split-s,False,AWM;DI;MV,"dunn1999chukchi[177-187,97-99]"
+chuk1273-coargument-sensitivity flagging,chuk1273,coargument-sensitivity flagging,no,AWM;DI;MV,"dunn1999chukchi[177-187,97-99]"
+chuk1273-coargument-sensitivity indexing,chuk1273,coargument-sensitivity indexing,yes,AWM;DI;MV,"dunn1999chukchi[177-187,97-99]"
 coah1252-flagging,coah1252,flagging,True,DI,troike1996coahuilteco[59-62]
 coah1252-indexing,coah1252,indexing,True,auto,troike1996coahuilteco[59-62]
 coah1252-indexing-features,coah1252,indexing-features,?,auto,troike1996coahuilteco[59-62]
