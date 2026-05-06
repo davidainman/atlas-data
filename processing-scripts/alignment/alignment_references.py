@@ -917,22 +917,38 @@ def add_alignment(
         ):
             alignment = "NA"
     # for purposes of comparison, remove zeros coordinated with an overt
-    out_row[I_S] = re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",out_row[I_S]);
-    out_row[I_A] = re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",out_row[I_A]);
-    out_row[I_P] = re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",out_row[I_P]);
+    out_row[I_S] = re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",out_row[I_S])
+    out_row[I_A] = re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",out_row[I_A])
+    out_row[I_P] = re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",out_row[I_P])
 
     # replace complex strings with ZERO
-    out_row[I_S] = "ZERO" if "_zero" in out_row[I_S] and "_overt" not in out_row[I_S] \
-                    and "NO_PRONOUN_zero" not in out_row[I_S] \
-                    else out_row[I_S]
-                    
-    out_row[I_A] = ["ZERO" if "_zero" in x and "_overt" not in x \
-                    and "NO_PRONOUN_zero" not in x \
-                    else x.strip() for x in out_row[I_A].split(";")]
+    S_ampersands = [x.strip() for x in out_row[I_S].split("&&") \
+                    if "_zero" not in x or "NO_PRONOUN_zero" in x]
+    out_row[I_S] = " && ".join(S_ampersands) if len(S_ampersands) > 0 else "ZERO"
     
-    out_row[I_P] = ["ZERO" if "_zero" in x and "_overt" not in x \
-                    and "NO_PRONOUN_zero" not in x \
-                    else x.strip() for x in out_row[I_P].split(";")]
+    a_s = []
+    for a_coarg in [x.strip() for x in out_row[I_A].split(";")]:
+        A_ampersands = [x.strip() for x in a_coarg.split("&&") \
+                        if "_zero" not in x or "NO_PRONOUN_zero" in x]
+        if len(A_ampersands) > 0:
+            a_s.append(" && ".join(A_ampersands))
+        elif "_coarg" in a_coarg:
+            a_s.append(re.sub(r".+?(?=_coarg)", "ZERO", a_coarg))
+        else:
+            a_s.append("ZERO")
+    out_row[I_A] = a_s
+    
+    p_s = []
+    for p_coarg in [x.strip() for x in out_row[I_P].split(";")]:
+        P_ampersands = [x.strip() for x in p_coarg.split("&&") \
+                        if "_zero" not in x or "NO_PRONOUN_zero" in x]
+        if len(P_ampersands) > 0:
+            p_s.append(" && ".join(P_ampersands))
+        elif "_coarg" in p_coarg:
+            p_s.append(re.sub(r".+?(?=_coarg)", "ZERO", p_coarg))
+        else:
+            p_s.append("ZERO")
+    out_row[I_P] = p_s
 
     # calculate the full set of all alignments
     all_alignments = set()

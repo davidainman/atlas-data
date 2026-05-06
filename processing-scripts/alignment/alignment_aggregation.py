@@ -1182,16 +1182,16 @@ def other_alignments(ref_loc):
         # generate alignment with local scenarios removed
         A_values_not_local = fix_not_local(A_values, reftype)
         P_values_not_local = fix_not_local(P_values, reftype)
-        S_values = ["_zero" if "_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" else x for x in S_values]
-        A_values_not_local = ["_zero" if "_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" not in x else x for x in A_values_not_local]
-        P_values_not_local = ["_zero" if "_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" not in x else x for x in P_values_not_local]
+        S_values = ["_zero" if "_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" and "&&" not in x else x for x in S_values]
+        A_values_not_local = ["_zero" if "_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" not in x and "&&" not in x else x for x in A_values_not_local]
+        P_values_not_local = ["_zero" if "_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" not in x and "&&" not in x else x for x in P_values_not_local]
         # get rid of duplication
         S_values = list(set(S_values))
         A_values_not_local = list(set(A_values_not_local))
         P_values_not_local = list(set(P_values_not_local))
         if all(x == "NO_PRONOUN_zero" for x in S_values + A_values_not_local + P_values_not_local):
             alignment_not_local = "NA"
-        elif all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" for x in S_values) and all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" for x in A_values_not_local) and all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" for x in P_values_not_local):
+        elif all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" and "&&" not in x for x in S_values) and all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" and "&&" not in x for x in A_values_not_local) and all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" and "&&" not in x for x in P_values_not_local):
             alignment_not_local = "no marking"
         else:
             all_alignments = set()
