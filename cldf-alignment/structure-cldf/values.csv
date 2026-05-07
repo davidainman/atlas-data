@@ -4378,8 +4378,8 @@ itel1242-ref-tripartite,itel1242,ref-tripartite,True,AN;AWM,bobaljik2002agreemen
 itel1242-ref-tripartite-domain,itel1242,ref-tripartite-domain,Verb,AN;AWM,bobaljik2002agreement[4-9]
 itel1242-ref-horizontal,itel1242,ref-horizontal,False,AN;AWM,bobaljik2002agreement[4-9]
 itel1242-ref-horizontal-domain,itel1242,ref-horizontal-domain,NA,AN;AWM,bobaljik2002agreement[4-9]
-itel1242-ref-sensitive,itel1242,ref-sensitive,False,AN;AWM,bobaljik2002agreement[4-9]
-itel1242-ref-sensitive-domain,itel1242,ref-sensitive-domain,NA,AN;AWM,bobaljik2002agreement[4-9]
+itel1242-ref-sensitive,itel1242,ref-sensitive,True,AN;AWM,bobaljik2002agreement[4-9]
+itel1242-ref-sensitive-domain,itel1242,ref-sensitive-domain,Verb,AN;AWM,bobaljik2002agreement[4-9]
 iton1250-align-noun,iton1250,align-noun,no marking,MV;NCP,crevels2012itonama[251]
 iton1250-align-pro,iton1250,align-pro,no marking,MV;NCP,crevels2012itonama[251]
 iton1250-align-index,iton1250,align-index,accusative,MV;NCP,crevels2012itonama[251]
@@ -5368,8 +5368,8 @@ moha1258-align-pro-nl,moha1258,align-pro-nl,no marking,AN,"deering1976mohawk[56]
 moha1258-align-index-nl,moha1258,align-index-nl,sensitive,AN,"deering1976mohawk[56];hopkins1988mohawk[151,265]"
 moha1258-ref-ergative,moha1258,ref-ergative,False,AN,"deering1976mohawk[56];hopkins1988mohawk[151,265]"
 moha1258-ref-ergative-domain,moha1258,ref-ergative-domain,NA,AN,"deering1976mohawk[56];hopkins1988mohawk[151,265]"
-moha1258-ref-tripartite,moha1258,ref-tripartite,True,AN,"deering1976mohawk[56];hopkins1988mohawk[151,265]"
-moha1258-ref-tripartite-domain,moha1258,ref-tripartite-domain,Verb,AN,"deering1976mohawk[56];hopkins1988mohawk[151,265]"
+moha1258-ref-tripartite,moha1258,ref-tripartite,False,AN,"deering1976mohawk[56];hopkins1988mohawk[151,265]"
+moha1258-ref-tripartite-domain,moha1258,ref-tripartite-domain,NA,AN,"deering1976mohawk[56];hopkins1988mohawk[151,265]"
 moha1258-ref-horizontal,moha1258,ref-horizontal,False,AN,"deering1976mohawk[56];hopkins1988mohawk[151,265]"
 moha1258-ref-horizontal-domain,moha1258,ref-horizontal-domain,NA,AN,"deering1976mohawk[56];hopkins1988mohawk[151,265]"
 moha1258-ref-sensitive,moha1258,ref-sensitive,True,AN,"deering1976mohawk[56];hopkins1988mohawk[151,265]"
@@ -5634,8 +5634,8 @@ ngar1284-align-pro-nl,ngar1284,align-pro-nl,no marking,DI,"rumsey1978ungarinjin[
 ngar1284-align-index-nl,ngar1284,align-index-nl,ergative,AWM,"rumsey1978ungarinjin[44,83-104]"
 ngar1284-ref-ergative,ngar1284,ref-ergative,True,AWM;DI,"rumsey1978ungarinjin[44,83-104]"
 ngar1284-ref-ergative-domain,ngar1284,ref-ergative-domain,Verb,AWM;DI,"rumsey1978ungarinjin[44,83-104]"
-ngar1284-ref-tripartite,ngar1284,ref-tripartite,True,AWM;DI,"rumsey1978ungarinjin[44,83-104]"
-ngar1284-ref-tripartite-domain,ngar1284,ref-tripartite-domain,Verb,AWM;DI,"rumsey1978ungarinjin[44,83-104]"
+ngar1284-ref-tripartite,ngar1284,ref-tripartite,False,AWM;DI,"rumsey1978ungarinjin[44,83-104]"
+ngar1284-ref-tripartite-domain,ngar1284,ref-tripartite-domain,NA,AWM;DI,"rumsey1978ungarinjin[44,83-104]"
 ngar1284-ref-horizontal,ngar1284,ref-horizontal,True,AWM;DI,"rumsey1978ungarinjin[44,83-104]"
 ngar1284-ref-horizontal-domain,ngar1284,ref-horizontal-domain,Verb,AWM;DI,"rumsey1978ungarinjin[44,83-104]"
 ngar1284-ref-sensitive,ngar1284,ref-sensitive,True,AWM;DI,"rumsey1978ungarinjin[44,83-104]"

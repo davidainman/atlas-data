@@ -916,10 +916,6 @@ def add_alignment(
             and "NO_PRONOUN" in out_row[I_P]
         ):
             alignment = "NA"
-    # for purposes of comparison, remove zeros coordinated with an overt
-    out_row[I_S] = re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",out_row[I_S])
-    out_row[I_A] = re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",out_row[I_A])
-    out_row[I_P] = re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",out_row[I_P])
 
     # replace complex strings with ZERO
     S_ampersands = [x.strip() for x in out_row[I_S].split("&&") \

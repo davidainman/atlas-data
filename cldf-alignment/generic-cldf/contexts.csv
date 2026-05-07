@@ -3740,18 +3740,23 @@ huas1242-20,huas1242,huas1242-tu-1plp-1a-2p-2a-1plp-indexing-marker,clitic -1,po
 huas1242-21,huas1242,huas1242-tu-1plp-1a-2p-2a-1plp-indexing-marker,clitic -1,portmanteau,P,2sg,A,1pl,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
 huas1242-22,huas1242,huas1242-a-indexing-marker,clitic -1,simple,A,2sg,P,3sg,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
 huas1242-23,huas1242,huas1242-a-indexing-marker,clitic -1,simple,A,2sg,P,3pl,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
-huas1242-24,huas1242,huas1242-a-cik-indexing-marker,clitic -1/1,simple,A,2pl,P,3sg,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
-huas1242-25,huas1242,huas1242-a-cik-indexing-marker,clitic -1/1,simple,A,2pl,P,3pl,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
+huas1242-24,huas1242,huas1242-a-indexing-marker,clitic -1,simple,A,2pl,P,3sg,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
+huas1242-24a,huas1242,huas1242-cik-indexing-marker,1,simple,A,2pl,P,3sg,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
+huas1242-25,huas1242,huas1242-a-indexing-marker,clitic -1,simple,A,2pl,P,3pl,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
+huas1242-25a,huas1242,huas1242-cik-indexing-marker,1,simple,A,2pl,P,3pl,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
 huas1242-26,huas1242,huas1242-i-indexing-marker,clitic -1,simple,A,1pl,P,3sg,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
 huas1242-27,huas1242,huas1242-i-indexing-marker,clitic -1,simple,A,1pl,P,3pl,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
 huas1242-28,huas1242,huas1242-in-indexing-marker,clitic -1,NA,S,1sg,NA,NA,any,NA,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
 huas1242-29,huas1242,huas1242-in-indexing-marker,clitic -1,simple,A,3sg,P,3sg,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
 huas1242-3,huas1242,huas1242-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,edmonson1988huastec,,HT;AWM
 huas1242-30,huas1242,huas1242-in-indexing-marker,clitic -1,simple,A,3sg,P,3pl,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
-huas1242-31,huas1242,huas1242-in-cik-indexing-marker,clitic -1/1,simple,A,3pl,P,3sg,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
-huas1242-32,huas1242,huas1242-in-cik-indexing-marker,clitic -1/1,simple,A,3pl,P,3pl,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
+huas1242-31,huas1242,huas1242-in-indexing-marker,clitic -1,simple,A,3pl,P,3sg,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
+huas1242-31a,huas1242,huas1242-cik-indexing-marker,1,simple,A,3pl,P,3sg,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
+huas1242-32,huas1242,huas1242-in-indexing-marker,clitic -1,simple,A,3pl,P,3pl,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
+huas1242-32a,huas1242,huas1242-cik-indexing-marker,1,simple,A,3pl,P,3pl,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
 huas1242-33,huas1242,huas1242-it-indexing-marker,clitic -1,NA,S,2sg,NA,NA,any,NA,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
-huas1242-34,huas1242,huas1242-it-cik-indexing-marker,clitic -1/1,NA,S,2pl,NA,NA,any,NA,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
+huas1242-34,huas1242,huas1242-it-indexing-marker,clitic -1,NA,S,2pl,NA,NA,any,NA,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
+huas1242-34a,huas1242,huas1242-cik-indexing-marker,1,NA,S,2pl,NA,NA,any,NA,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
 huas1242-35,huas1242,huas1242-u-indexing-marker,clitic -1,NA,S,1pl,NA,NA,any,NA,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
 huas1242-36,huas1242,huas1242-u-indexing-marker,clitic -1,simple,A,1sg,P,3sg,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
 huas1242-37,huas1242,huas1242-u-indexing-marker,clitic -1,simple,A,1sg,P,3pl,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
@@ -4197,9 +4202,9 @@ itel1242-18,itel1242,itel1242-k-icen-1s-3p-indexing-marker,3,simple,P,3pl,A,1pl,
 itel1242-19,itel1242,itel1242-k-icen-1s-3p-indexing-marker,3,simple,P,3sg,A,1sg,any,none,any,default,,bobaljik2002agreement[4-9],There are two classes of verbs; parts in parenthesis are added to form the markers of class II verbs.,AN
 itel1242-2,itel1242,itel1242-no-flagging,,simple,A,any,P,any,any,none,any,default,,bobaljik2002agreement[4-9],,AWM
 itel1242-20,itel1242,itel1242-k-icen-1s-3p-indexing-marker,3,simple,P,3sg,A,1pl,any,none,any,default,,bobaljik2002agreement[4-9],There are two classes of verbs; parts in parenthesis are added to form the markers of class II verbs.,AN
-itel1242-21,itel1242,itel1242-sx-2pla-indexing-marker,4,simple,A,2pl,P,1sg,any,none,any,default,,bobaljik2002agreement[4-9],,AN
-itel1242-22,itel1242,itel1242-sx-2pla-indexing-marker,4,simple,A,2pl,P,1pl,any,none,any,default,,bobaljik2002agreement[4-9],,AN
-itel1242-23,itel1242,itel1242-sx-2pls-indexing-marker,3,NA,S,2pl,NA,NA,any,NA,any,default,,bobaljik2002agreement[4-9],,AN
+itel1242-21,itel1242,itel1242-sx-2pls-a-indexing-marker,4,simple,A,2pl,P,1sg,any,none,any,default,,bobaljik2002agreement[4-9],,AN
+itel1242-22,itel1242,itel1242-sx-2pls-a-indexing-marker,4,simple,A,2pl,P,1pl,any,none,any,default,,bobaljik2002agreement[4-9],,AN
+itel1242-23,itel1242,itel1242-sx-2pls-a-indexing-marker,3,NA,S,2pl,NA,NA,any,NA,any,default,,bobaljik2002agreement[4-9],,AN
 itel1242-24,itel1242,itel1242-sx-ik-2pl-3sg-indexing-marker,3,portmanteau,A,2pl,P,3sg,any,none,any,default,,bobaljik2002agreement[4-9],There are two classes of verbs; parts in parenthesis are added to form the markers of class II verbs.,AN
 itel1242-25,itel1242,itel1242-sx-ik-2pl-3sg-indexing-marker,3,portmanteau,P,3sg,A,2pl,any,none,any,default,,bobaljik2002agreement[4-9],There are two classes of verbs; parts in parenthesis are added to form the markers of class II verbs.,AN
 itel1242-26,itel1242,itel1242-sxi-n-xki-n-2pl-3pl-indexing-marker,3,portmanteau,A,2pl,P,3pl,any,none,any,default,,bobaljik2002agreement[4-9],There are two classes of verbs; parts in parenthesis are added to form the markers of class II verbs.,AN

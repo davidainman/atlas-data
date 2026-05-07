@@ -103,7 +103,7 @@ ines1240,False,True,False,False,person+number,False,NA,no marking,no marking,acc
 ingu1240,True,True,True,True,gender,False,NA,ergative,ergative,no marking,ergative,ergative,no marking,True,Noun;Pro,False,NA,False,NA,False,NA,no,no
 iran1263,False,True,True,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no
 iris1253,True,False,False,False,NA,False,NA,no marking,no marking,no marking,no marking,no marking,no marking,False,NA,False,NA,False,NA,False,NA,no,no
-itel1242,False,True,False,False,number;person;person+number,False,NA,no marking,no marking,tripartite,no marking,no marking,tripartite,False,NA,True,Verb,False,NA,False,NA,no,yes
+itel1242,False,True,False,False,number;person;person+number,False,NA,no marking,no marking,tripartite,no marking,no marking,tripartite,False,NA,True,Verb,False,NA,True,Verb,no,yes
 iton1250,False,True,False,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,yes
 iumi1238,False,False,False,False,NA,False,NA,no marking,no marking,no marking,no marking,no marking,no marking,False,NA,False,NA,False,NA,False,NA,no,no
 jama1261,True,True,False,False,person+number,False,NA,no marking,accusative,accusative,no marking,accusative,accusative,False,NA,False,NA,False,NA,True,Pro,yes,no
@@ -174,7 +174,7 @@ miri1266,False,True,False,False,number;person;person+number,False,NA,no marking,
 misk1235,True,True,False,False,person,False,NA,no marking,accusative,accusative,no marking,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no
 miya1260,True,False,False,False,NA,True,Miscellaneous_condition,accusative;no marking,accusative;no marking,no marking,accusative;no marking,accusative;no marking,no marking,False,NA,False,NA,False,NA,False,NA,no,no
 moch1259,True,False,False,False,NA,False,NA,ergative,ergative;no marking,no marking,ergative,ergative;no marking,no marking,True,Noun;Pro,False,NA,False,NA,False,NA,no,no
-moha1258,False,True,False,True,number;person;person+number;person+other,False,NA,no marking,no marking,sensitive,no marking,no marking,sensitive,False,NA,True,Verb,False,NA,True,Verb,no,yes
+moha1258,False,True,False,True,number;person;person+number;person+other,False,NA,no marking,no marking,sensitive,no marking,no marking,sensitive,False,NA,False,NA,False,NA,True,Verb,no,yes
 mola1238,True,True,False,False,person;person+number,True,Reference,accusative,no marking,accusative,accusative,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no
 mose1249,False,True,False,False,gender;person+number,False,NA,no marking,no marking,sensitive,no marking,no marking,no marking,False,NA,False,NA,False,NA,True,Verb,no,yes
 movi1243,True,True,False,False,person,False,NA,no marking,sensitive,no marking,no marking,sensitive,no marking,False,NA,False,NA,True,Pro;Verb,True,Pro,yes,no
@@ -193,7 +193,7 @@ natc1249,True,True,False,True,person;person+number,False,NA,ergative,NA,accusati
 nava1243,False,True,False,False,person;person+number,False,NA,no marking,accusative,accusative,no marking,accusative,accusative,False,NA,False,NA,False,NA,True,Verb,no,no
 negi1245,True,True,True,False,person+number,False,NA,accusative,accusative,accusative,accusative,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no
 nene1249,True,True,False,False,person+number,False,NA,accusative,accusative,sensitive,accusative,accusative,sensitive,False,NA,False,NA,False,NA,True,Verb,no,yes
-ngar1284,False,True,False,False,number;person+number,False,NA,no marking,no marking,ergative,no marking,no marking,ergative,True,Verb,True,Verb,True,Verb,True,Verb,no,yes
+ngar1284,False,True,False,False,number;person+number,False,NA,no marking,no marking,ergative,no marking,no marking,ergative,True,Verb,False,NA,True,Verb,True,Verb,no,yes
 niha1238,True,False,False,False,NA,True,Reference,accusative,accusative,no marking,accusative,accusative,no marking,False,NA,False,NA,False,NA,False,NA,no,no
 nisg1240,False,True,False,False,person+number,False,NA,no marking,ergative,ergative,no marking,ergative,ergative,True,Pro;Verb,False,NA,False,NA,False,NA,no,no
 niva1238,False,True,False,True,person,False,NA,no marking,no marking,sensitive,no marking,no marking,accusative,False,NA,True,Verb,False,NA,True,Verb,no,yes

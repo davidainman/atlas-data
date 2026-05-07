@@ -739,13 +739,11 @@ hual1241-3-2-marker-indexing-marker,hual1241,indexing marker,3>2 marker,overt,pe
 hual1241-3rd-s-a-marker-indexing-marker,hual1241,indexing marker,3rd S/A marker,overt,person,"weber1989huallagagrammar[70,79,96-111]",MV; DI; AWM,3,3_1;3_3,NONE,accusative
 hual1241-acc-ta-flagging,hual1241,flagging,ACC =ta,overt,,weber1989huallagagrammar[178-179],DI,NONE,NONE,any,accusative
 hual1241-no-flagging,hual1241,flagging,NO_FLAGGING,zero,,weber1989huallagagrammar[178-179],DI,any,any,NONE,accusative
-huas1242-a-cik-indexing-marker,huas1242,indexing marker,ʔa= … cik,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,NONE,2pl_3pl;2pl_3sg,NONE,ergative
-huas1242-a-indexing-marker,huas1242,indexing marker,ʔa=,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,NONE,2sg_3pl;2sg_3sg,NONE,ergative
+huas1242-cik-indexing-marker,huas1242,indexing marker,-cik,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,2pl,2pl_3pl;2pl_3sg;3pl_3pl;3pl_3sg,NONE,accusative
+huas1242-a-indexing-marker,huas1242,indexing marker,ʔa=,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,NONE,2pl_3pl;2pl_3sg;2sg_3pl;2sg_3sg,NONE,ergative
 huas1242-i-indexing-marker,huas1242,indexing marker,ʔi=,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,NONE,1pl_3pl;1pl_3sg,NONE,ergative
-huas1242-in-cik-indexing-marker,huas1242,indexing marker,ʔin= … cik,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,NONE,3pl_3pl;3pl_3sg,NONE,ergative
-huas1242-in-indexing-marker,huas1242,indexing marker,ʔin=,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,1sg,3sg_3pl;3sg_3sg,NONE,accusative
-huas1242-it-cik-indexing-marker,huas1242,indexing marker,ʔit= … cik,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,2pl,NONE,NONE,horizontal
-huas1242-it-indexing-marker,huas1242,indexing marker,ʔit=,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,2sg,NONE,NONE,horizontal
+huas1242-in-indexing-marker,huas1242,indexing marker,ʔin=,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,1sg,3pl_3pl;3pl_3sg;3sg_3pl;3sg_3sg,NONE,accusative
+huas1242-it-indexing-marker,huas1242,indexing marker,ʔit=,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,2pl;2sg,NONE,NONE,horizontal
 huas1242-no-flagging,huas1242,flagging,NO_FLAGGING,zero,,edmonson1988huastec,HT;AWM,any,any,any,neutral
 huas1242-ti-3a-2p-indexing-marker,huas1242,indexing marker,ti= 3A>2P,overt,person,edmonson1988huastec[114-115],MV; DI; AWM,NONE,3pl_2pl;3pl_2sg;3sg_2pl;3sg_2sg,2pl_3pl;2pl_3sg;2sg_3pl;2sg_3sg,horizontal
 huas1242-tin-2a-1sgp-3a-1sgp-indexing-marker,huas1242,indexing marker,"tin= 2A>1sgP, 3A>1sgP",overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,NONE,NONE,1sg,accusative
@@ -837,8 +835,7 @@ itel1242-n-3s-indexing-marker,itel1242,indexing marker,-ʔn 3S,overt,person,boba
 itel1242-n-cgwin-3p-indexing-marker,itel1242,indexing marker,-ən/-čɣwin 3P,overt,person,bobaljik2002agreement[4-9],AN,NONE,NONE,3pl_2sg;3sg_2sg,accusative
 itel1242-no-flagging,itel1242,flagging,NO_FLAGGING,zero,,bobaljik2002agreement[4-9],AWM,any,any,any,neutral
 itel1242-nt-1pls-a-indexing-marker,itel1242,indexing marker,nt- 1plS/A,overt,person+number,bobaljik2002agreement[4-9],AN,1pl,1pl,NONE,accusative
-itel1242-sx-2pla-indexing-marker,itel1242,indexing marker,-sx 2plA,overt,person+number,bobaljik2002agreement[4-9],AN,NONE,2pl_1pl;2pl_1sg,NONE,ergative
-itel1242-sx-2pls-indexing-marker,itel1242,indexing marker,-sx 2plS,overt,person+number,bobaljik2002agreement[4-9],AN,2pl,NONE,NONE,horizontal
+itel1242-sx-2pls-a-indexing-marker,itel1242,indexing marker,-sx 2plS/A,overt,person+number,bobaljik2002agreement[4-9],AN,2pl,2pl_1pl;2pl_1sg,NONE,accusative
 itel1242-sx-ik-2pl-3sg-indexing-marker,itel1242,indexing marker,-sx(ik) 2pl>3sg,overt,person+number,bobaljik2002agreement[4-9],AN,NONE,2pl_3sg,3sg_2pl,horizontal
 itel1242-sxi-n-xki-n-2pl-3pl-indexing-marker,itel1242,indexing marker,-sxiʔn/-xkiʔn 2pl>3pl,overt,person+number,bobaljik2002agreement[4-9],AN,NONE,2pl_3pl,3pl_2pl,horizontal
 itel1242-t-1sgs-a-indexing-marker,itel1242,indexing marker,t- 1sgS/A,overt,person+number,bobaljik2002agreement[4-9],AN,1sg,1sg,NONE,accusative

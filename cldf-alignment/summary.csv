@@ -132,23 +132,23 @@ Language,ref-horizontal-domain,Noun;Pro,1,0.037037037037037035
 Language,ref-horizontal-domain,Pro,1,0.037037037037037035
 Language,ref-horizontal-domain,Pro;Verb,1,0.037037037037037035
 Language,ref-horizontal-domain,Verb,21,0.7777777777777778
-Language,ref-sensitive,False,214,0.6584615384615384
-Language,ref-sensitive,True,111,0.3415384615384615
-Language,ref-sensitive-domain,Noun,2,0.018018018018018018
-Language,ref-sensitive-domain,Noun;Pro,1,0.009009009009009009
-Language,ref-sensitive-domain,Noun;Pro;Verb,2,0.018018018018018018
-Language,ref-sensitive-domain,Noun;Verb,1,0.009009009009009009
-Language,ref-sensitive-domain,Pro,5,0.04504504504504504
-Language,ref-sensitive-domain,Pro;Verb,2,0.018018018018018018
-Language,ref-sensitive-domain,Verb,98,0.8828828828828829
-Language,ref-tripartite,False,264,0.8123076923076923
-Language,ref-tripartite,True,61,0.18769230769230769
-Language,ref-tripartite-domain,Noun,1,0.01639344262295082
-Language,ref-tripartite-domain,Noun;Pro,1,0.01639344262295082
-Language,ref-tripartite-domain,Noun;Verb,1,0.01639344262295082
-Language,ref-tripartite-domain,Pro,3,0.04918032786885246
-Language,ref-tripartite-domain,Pro;Verb,1,0.01639344262295082
-Language,ref-tripartite-domain,Verb,54,0.8852459016393442
+Language,ref-sensitive,False,213,0.6553846153846153
+Language,ref-sensitive,True,112,0.3446153846153846
+Language,ref-sensitive-domain,Noun,2,0.017857142857142856
+Language,ref-sensitive-domain,Noun;Pro,1,0.008928571428571428
+Language,ref-sensitive-domain,Noun;Pro;Verb,2,0.017857142857142856
+Language,ref-sensitive-domain,Noun;Verb,1,0.008928571428571428
+Language,ref-sensitive-domain,Pro,5,0.044642857142857144
+Language,ref-sensitive-domain,Pro;Verb,2,0.017857142857142856
+Language,ref-sensitive-domain,Verb,99,0.8839285714285714
+Language,ref-tripartite,False,266,0.8184615384615385
+Language,ref-tripartite,True,59,0.18153846153846154
+Language,ref-tripartite-domain,Noun,1,0.01694915254237288
+Language,ref-tripartite-domain,Noun;Pro,1,0.01694915254237288
+Language,ref-tripartite-domain,Noun;Verb,1,0.01694915254237288
+Language,ref-tripartite-domain,Pro,3,0.05084745762711865
+Language,ref-tripartite-domain,Pro;Verb,1,0.01694915254237288
+Language,ref-tripartite-domain,Verb,52,0.8813559322033898
 Language,split-s,?,9,0.027692307692307693
 Language,split-s,False,260,0.8
 Language,split-s,True,56,0.1723076923076923
@@ -165,16 +165,16 @@ Selector (flagging),Alignment,accusative,197,0.6723549488054608
 Selector (flagging),Alignment,ergative,70,0.23890784982935154
 Selector (flagging),Alignment,horizontal,6,0.020477815699658702
 Selector (flagging),Alignment,neutral,20,0.06825938566552901
-Selector (indexing marker),S,False,799,0.4031281533804238
-Selector (indexing marker),S,True,1183,0.5968718466195762
-Selector (indexing marker),A,False,661,0.33350151362260344
-Selector (indexing marker),A,True,1321,0.6664984863773966
-Selector (indexing marker),P,False,916,0.46215943491422806
-Selector (indexing marker),P,True,1066,0.5378405650857719
-Selector (indexing marker),Alignment,accusative,1021,0.5151362260343088
-Selector (indexing marker),Alignment,ergative,348,0.17558022199798184
-Selector (indexing marker),Alignment,horizontal,318,0.16044399596367306
-Selector (indexing marker),Alignment,neutral,295,0.14883955600403634
+Selector (indexing marker),S,False,796,0.4022233451237999
+Selector (indexing marker),S,True,1183,0.5977766548762001
+Selector (indexing marker),A,False,659,0.3329964628600303
+Selector (indexing marker),A,True,1320,0.6670035371399696
+Selector (indexing marker),P,False,913,0.461344113188479
+Selector (indexing marker),P,True,1066,0.538655886811521
+Selector (indexing marker),Alignment,accusative,1023,0.5169277412834765
+Selector (indexing marker),Alignment,ergative,345,0.17433046993431026
+Selector (indexing marker),Alignment,horizontal,316,0.1596766043456291
+Selector (indexing marker),Alignment,neutral,295,0.14906518443658415
 Reference,Zero indexing of 1,Role A,119,0.14354644149577805
 Reference,Zero indexing of 1,Role P,77,0.106353591160221
 Reference,Zero indexing of 1,Role S,29,0.03473053892215569
