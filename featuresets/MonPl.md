@@ -667,7 +667,7 @@ Karok has a suffix *-va* which can target S, P, or E plurality. When used on an 
 
 Note that the AP combination was, as expected, not attested in our sample and is thus not included in the states above.
 
-SAP: Nanti \[nant1250\] (Arawakan; Peru)
+### SAP: Nanti \[nant1250\] (Arawakan; Peru)
 
 In Nanti, there is a plural suffix that can indicate the plurality of either A or P, as well as that of S, as illustrated with a transitive verb in (22) and an intransitive verb in (23) (examples from [Michael 2008](Source#cldf:michael2008nanti): 260, 317).
 
