@@ -714,7 +714,7 @@ In Nanti, there is a plural suffix that can indicate the plurality of either A o
 </table>
 
 
-#### yes: Teko \[emer1243\] (Tupian; French Guiana)
+#### SA; SA: Teko \[emer1243\] (Tupian; French Guiana)
 Apart from the plural marker -kom indicating plurality of the P argument, which was mentioned in (4) under MonPl-03, Teko has two more monoexponential verbal plural markers, both indicating S and A plurality (subject plurality): the verbal clause clitic -(o)ŋ and the morpheme *kupa*[^5] ([Rose 2011](Source#cldf:rose2011emerillon): 105-111). Examples with both transitive and intransitive verbs for both morphemes are given in (11-14).
 
 <table class="tg">
