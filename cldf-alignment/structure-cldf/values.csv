@@ -2726,8 +2726,6 @@ trio1238-dom,trio1238,dom,No,HT,"carlin2004trio[144-151,209,285]"
 trio1238-dom-trigger,trio1238,dom-trigger,NA,HT,"carlin2004trio[144-151,209,285]"
 trum1247-dom,trum1247,dom,No,AN,"guirardello1999trumai[303-304,47]"
 trum1247-dom-trigger,trum1247,dom-trigger,NA,AN,"guirardello1999trumai[303-304,47]"
-tuka1248-dom,tuka1248,dom,No,AN;MV,donohue1999tukangbesi[47-67]
-tuka1248-dom-trigger,tuka1248,dom-trigger,NA,AN;MV,donohue1999tukangbesi[47-67]
 tuni1252-dom,tuni1252,dom,No,DI,haas1941tunica[126-128]
 tuni1252-dom-trigger,tuni1252,dom-trigger,NA,DI,haas1941tunica[126-128]
 tupi1273-dom,tupi1273,dom,No,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
@@ -2916,6 +2914,8 @@ toll1241-dom,toll1241,dom,Yes,DI,holt1999tol[37-38]
 toll1241-dom-trigger,toll1241,dom-trigger,Reference,DI,holt1999tol[37-38]
 tomm1242-dom,tomm1242,dom,Yes,HT;AWM,"mcpherson2013tommo[129,337-338]"
 tomm1242-dom-trigger,tomm1242,dom-trigger,Reference,HT;AWM,"mcpherson2013tommo[129,337-338]"
+tuka1248-dom,tuka1248,dom,Yes,MV;AN,donohue1999tukangbesi[47-67]
+tuka1248-dom-trigger,tuka1248,dom-trigger,Miscellaneous_condition,MV;AN,donohue1999tukangbesi[47-67]
 yaki1237-dom,yaki1237,dom,Yes,AN,"jansen2010northernsahaptin[126-140,160,183-186]"
 yaki1237-dom-trigger,yaki1237,dom-trigger,Co-argument_reference+Miscellaneous_condition+Reference,AN,"jansen2010northernsahaptin[126-140,160,183-186]"
 yaqu1251-dom,yaqu1251,dom,Yes,AWM,guerrero2019grammatical[433-467]

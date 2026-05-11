@@ -517,26 +517,7 @@ def dom_aggregation(contexts, selectors, references):
             continue
         # filter g_data only for contexts which mark case on P (this gets rid of P indexation rows)
         g_data = g_data[(g_data.Selector_ID.isin(case_P_selector_ID))]
-        # check if changing the P selectors changes alignment
         glot_refs = references[(references.Glottocode == g) & ((references.Domain == "Noun") | (references.Domain == "Pro"))]
-        p_to_alignment = dict()
-        for selectorid in case_P_selector_ID:
-            selector = selectors.Selector_label[selectors.ID == selectorid].values[0]
-            selector_alignments = set()
-            for index, row in glot_refs.iterrows():
-                if selector in row.S or selector in row.A or selector in row.P:
-                    to_add = row.Alignment
-                    if to_add == "overt neutral":
-                        to_add = "neutral"
-                    elif to_add == "no marking":
-                        to_add = "neutral"
-                    selector_alignments.add(to_add)
-            p_to_alignment[selector] = selector_alignments
-        some_different_alignment = False
-        for p in p_to_alignment.keys():
-            for q in set(p_to_alignment.keys()) - set([p]):
-                if p_to_alignment[p] != p_to_alignment[q]:
-                    some_different_alignment = True
         # if two P selectors appear in the same cell, there is coargument sensitive DOM
         coargument_dom = False
         for p_id in case_P_selector_ID:
@@ -547,8 +528,6 @@ def dom_aggregation(contexts, selectors, references):
                     row_selectors = set([re.sub("_overt.*|_zero.*", "", x).strip() for x in row.P.split(";")])
                     if p_sel in row_selectors and q_sel in row_selectors:
                         coargument_dom = True
-        if not some_different_alignment and not coargument_dom:
-            continue
         # Collect all columns in which different conditions appear which could be relevant for the DOM split
         dommable = [
             x

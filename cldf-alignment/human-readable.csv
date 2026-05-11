@@ -278,7 +278,7 @@ toto1305,False,True,False,True,number;person;person+number,False,NA,no marking,n
 trin1274,False,True,False,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no
 trio1238,False,True,False,True,person,False,NA,no marking,no marking,sensitive,no marking,no marking,accusative,True,Verb,False,NA,False,NA,True,Verb,no,yes
 trum1247,True,False,False,False,NA,False,NA,ergative,ergative,no marking,ergative,ergative,no marking,True,Noun;Pro,False,NA,False,NA,False,NA,no,no
-tuka1248,True,True,False,False,person+number,False,NA,accusative;ergative,accusative;ergative,accusative,accusative;ergative,accusative;ergative,accusative,True,Noun;Pro,False,NA,False,NA,False,NA,no,no
+tuka1248,True,True,False,False,person+number,True,Miscellaneous_condition,accusative;ergative,accusative;ergative,accusative,accusative;ergative,accusative;ergative,accusative,True,Noun;Pro,False,NA,False,NA,False,NA,no,no
 tuni1252,False,True,False,True,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,True,Verb,False,NA,False,NA,False,NA,no,no
 tupi1273,True,True,False,True,person;person+number,False,NA,no marking,no marking,sensitive,no marking,no marking,accusative,True,Verb,False,NA,False,NA,True,Pro;Verb,yes,yes
 tusc1257,False,True,False,False,number;person;person+number,False,NA,no marking,no marking,sensitive,no marking,no marking,horizontal,True,Verb,False,NA,False,NA,True,Verb,no,yes
