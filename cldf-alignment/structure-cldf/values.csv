@@ -5068,7 +5068,7 @@ madi1260-ref-sensitive,madi1260,ref-sensitive,False,AWM;HT,"blackings2003madi[10
 madi1260-ref-sensitive-domain,madi1260,ref-sensitive-domain,NA,AWM;HT,"blackings2003madi[109,155-156]"
 magd1235-align-noun,magd1235,align-noun,no marking,DI,erickson2013mixtecomagdalena[50]
 magd1235-align-pro,magd1235,align-pro,no marking,DI,erickson2013mixtecomagdalena[50]
-magd1235-align-index,magd1235,align-index,accusative,DI,erickson2013mixtecomagdalena[50]
+magd1235-align-index,magd1235,align-index,accusative;sensitive,DI,erickson2013mixtecomagdalena[50]
 magd1235-align-noun-nl,magd1235,align-noun-nl,no marking,DI,erickson2013mixtecomagdalena[50]
 magd1235-align-pro-nl,magd1235,align-pro-nl,no marking,DI,erickson2013mixtecomagdalena[50]
 magd1235-align-index-nl,magd1235,align-index-nl,accusative;sensitive,DI,erickson2013mixtecomagdalena[50]
@@ -5078,8 +5078,8 @@ magd1235-ref-tripartite,magd1235,ref-tripartite,False,DI,erickson2013mixtecomagd
 magd1235-ref-tripartite-domain,magd1235,ref-tripartite-domain,NA,DI,erickson2013mixtecomagdalena[50]
 magd1235-ref-horizontal,magd1235,ref-horizontal,False,DI,erickson2013mixtecomagdalena[50]
 magd1235-ref-horizontal-domain,magd1235,ref-horizontal-domain,NA,DI,erickson2013mixtecomagdalena[50]
-magd1235-ref-sensitive,magd1235,ref-sensitive,False,DI,erickson2013mixtecomagdalena[50]
-magd1235-ref-sensitive-domain,magd1235,ref-sensitive-domain,NA,DI,erickson2013mixtecomagdalena[50]
+magd1235-ref-sensitive,magd1235,ref-sensitive,True,DI,erickson2013mixtecomagdalena[50]
+magd1235-ref-sensitive-domain,magd1235,ref-sensitive-domain,Verb,DI,erickson2013mixtecomagdalena[50]
 maib1239-align-noun,maib1239,align-noun,no marking,AN,"dol2007grammar[62,83]"
 maib1239-align-pro,maib1239,align-pro,no marking,AN,"dol2007grammar[62,83]"
 maib1239-align-index,maib1239,align-index,accusative,AN,"dol2007grammar[62,83]"
@@ -5845,7 +5845,7 @@ nucl1649-align-index-nl,nucl1649,align-index-nl,tripartite,DI,forbes2018tsimshia
 nucl1649-ref-ergative,nucl1649,ref-ergative,True,DI,forbes2018tsimshianic[198-220]
 nucl1649-ref-ergative-domain,nucl1649,ref-ergative-domain,Noun;Pro,DI,forbes2018tsimshianic[198-220]
 nucl1649-ref-tripartite,nucl1649,ref-tripartite,True,DI,forbes2018tsimshianic[198-220]
-nucl1649-ref-tripartite-domain,nucl1649,ref-tripartite-domain,Pro;Verb,DI,forbes2018tsimshianic[198-220]
+nucl1649-ref-tripartite-domain,nucl1649,ref-tripartite-domain,Pro,DI,forbes2018tsimshianic[198-220]
 nucl1649-ref-horizontal,nucl1649,ref-horizontal,True,DI,forbes2018tsimshianic[198-220]
 nucl1649-ref-horizontal-domain,nucl1649,ref-horizontal-domain,Noun,DI,forbes2018tsimshianic[198-220]
 nucl1649-ref-sensitive,nucl1649,ref-sensitive,True,DI,forbes2018tsimshianic[198-220]

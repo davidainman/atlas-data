@@ -1,9 +1,9 @@
 Level,Variable,Value,Count,Percentage
-Language,align-index,accusative,122,0.38977635782747605
+Language,align-index,accusative,121,0.3865814696485623
 Language,align-index,accusative;no marking,7,0.022364217252396165
 Language,align-index,accusative;no marking;sensitive,1,0.003194888178913738
 Language,align-index,accusative;overt neutral,1,0.003194888178913738
-Language,align-index,accusative;sensitive,5,0.01597444089456869
+Language,align-index,accusative;sensitive,6,0.019169329073482427
 Language,align-index,accusative;tripartite,1,0.003194888178913738
 Language,align-index,ergative,14,0.04472843450479233
 Language,align-index,ergative;sensitive,1,0.003194888178913738
@@ -132,22 +132,21 @@ Language,ref-horizontal-domain,Noun;Pro,1,0.037037037037037035
 Language,ref-horizontal-domain,Pro,1,0.037037037037037035
 Language,ref-horizontal-domain,Pro;Verb,1,0.037037037037037035
 Language,ref-horizontal-domain,Verb,21,0.7777777777777778
-Language,ref-sensitive,False,213,0.6553846153846153
-Language,ref-sensitive,True,112,0.3446153846153846
-Language,ref-sensitive-domain,Noun,2,0.017857142857142856
-Language,ref-sensitive-domain,Noun;Pro,1,0.008928571428571428
-Language,ref-sensitive-domain,Noun;Pro;Verb,2,0.017857142857142856
-Language,ref-sensitive-domain,Noun;Verb,1,0.008928571428571428
-Language,ref-sensitive-domain,Pro,5,0.044642857142857144
-Language,ref-sensitive-domain,Pro;Verb,2,0.017857142857142856
-Language,ref-sensitive-domain,Verb,99,0.8839285714285714
+Language,ref-sensitive,False,212,0.6523076923076923
+Language,ref-sensitive,True,113,0.3476923076923077
+Language,ref-sensitive-domain,Noun,2,0.017699115044247787
+Language,ref-sensitive-domain,Noun;Pro,1,0.008849557522123894
+Language,ref-sensitive-domain,Noun;Pro;Verb,2,0.017699115044247787
+Language,ref-sensitive-domain,Noun;Verb,1,0.008849557522123894
+Language,ref-sensitive-domain,Pro,5,0.04424778761061947
+Language,ref-sensitive-domain,Pro;Verb,2,0.017699115044247787
+Language,ref-sensitive-domain,Verb,100,0.8849557522123894
 Language,ref-tripartite,False,266,0.8184615384615385
 Language,ref-tripartite,True,59,0.18153846153846154
 Language,ref-tripartite-domain,Noun,1,0.01694915254237288
 Language,ref-tripartite-domain,Noun;Pro,1,0.01694915254237288
 Language,ref-tripartite-domain,Noun;Verb,1,0.01694915254237288
-Language,ref-tripartite-domain,Pro,3,0.05084745762711865
-Language,ref-tripartite-domain,Pro;Verb,1,0.01694915254237288
+Language,ref-tripartite-domain,Pro,4,0.06779661016949153
 Language,ref-tripartite-domain,Verb,52,0.8813559322033898
 Language,split-s,?,9,0.027692307692307693
 Language,split-s,False,260,0.8

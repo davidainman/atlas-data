@@ -893,9 +893,9 @@ def add_alignment(
     original_p = out_row[I_P][:]
 
     # get rid of "slot" information
-    out_row[I_S] = re.sub("_slot:[^_( )\&\&]+", "", out_row[I_S])
-    out_row[I_A] = re.sub("_slot:[^_( )\&\&]+", "", out_row[I_A])
-    out_row[I_P] = re.sub("_slot:[^_( )\&\&]+", "", out_row[I_P])
+    out_row[I_S] = re.sub("_slot:[^_\&\&]+", "", out_row[I_S])
+    out_row[I_A] = re.sub("_slot:[^_\&\&]+", "", out_row[I_A])
+    out_row[I_P] = re.sub("_slot:[^_\&\&]+", "", out_row[I_P])
 
     # if errors in role, write error to alignment and exit
     if "ERROR" in out_row[I_A] or "ERROR" in out_row[I_P] or "ERROR" in out_row[I_S]:
@@ -949,9 +949,9 @@ def add_alignment(
     # calculate the full set of all alignments
     all_alignments = set()
     for a_coarg in out_row[I_A]:
-        a_coarg = re.sub(r"_coarg:[^& ]*","",a_coarg)
+        a_coarg = re.sub(r"_coarg:[^&]*","",a_coarg)
         for p_coarg in out_row[I_P] :
-            p_coarg = re.sub(r"_coarg:[^& ]*","",p_coarg)
+            p_coarg = re.sub(r"_coarg:[^&]*","",p_coarg)
             if out_row[I_S] == a_coarg == p_coarg:
                 if "ZERO" in out_row[I_S] or "_zero" in out_row[I_S]:
                     all_alignments.add("no marking")
