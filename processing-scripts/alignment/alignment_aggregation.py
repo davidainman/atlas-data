@@ -31,6 +31,8 @@ REF_SENS_P = "ref-sensitive"
 REF_SENS_LOC_P = "ref-sensitive-domain"
 COARG_SENS_F_P = "coargument-sensitivity flagging"
 COARG_SENS_I_P = "coargument-sensitivity indexing"
+S_NOT_A_FLAGGING = "S!=A flagging"
+S_NOT_A_INDEXING = "S!=A indexing"
 
 
 # keywords for the language-level attribute-value dictionary
@@ -158,7 +160,9 @@ def read_parameters_csv(param_loc):
         REF_SENS_P,
         REF_SENS_LOC_P,
         COARG_SENS_F_P,
-        COARG_SENS_I_P
+        COARG_SENS_I_P,
+        S_NOT_A_FLAGGING,
+        S_NOT_A_INDEXING
     ]
     param_dict = dict()
     for k in paramset:
@@ -168,9 +172,10 @@ def read_parameters_csv(param_loc):
 
 # Parameters ref_loc: The location of the references.csv
 # Output: ref_dict, a nested dictionary of reference frequencies, in the form of:
-#         glottocode -> [ PRO, NOUN, INDEX ] -> [ alignments ]    -> Frequency of alignment
-#                                            -> "Most'            -> Most frequent reference-based alignment
+#         glottocode -> [ PRO, NOUN, INDEX ] -> dict()            -> alignment:frequency (incl sensitive)
+#                                            -> "Most"            -> Most frequent reference-based alignment
 #                                            -> [ Coder, Source ] -> coder, source information
+#         glottocode -> [ S_NOT_A_FLAGGING, S_NOT_P_FLAGGING ] -> bool presence of S!=A (including in sensitive alignments)
 def read_reference_aggregation(ref_loc):
     references = pd.read_csv(ref_loc, keep_default_na=False)
     ref_dict = dict()
@@ -178,7 +183,10 @@ def read_reference_aggregation(ref_loc):
     all_alignments = set(references.Alignment.values)
     for g in glottocodes:
         ref_dict[g] = dict()
+        all_flagging_alignments = set()
+        all_indexing_alignments = set()
         for l in [PRO, NOUN, INDEX]:
+            # calculate alignments (w/ sensitive) in all scenarios
             ref_dict[g][l] = dict()
             alignments = list(
                 references[(references.Glottocode == g) & (references.Domain == l)].Alignment.values
@@ -202,7 +210,7 @@ def read_reference_aggregation(ref_loc):
             if (best_alignment is not None):
                 best_alignment = ";".join(sorted(best_alignment.split(";")))
             ref_dict[g][l]["Most"] = best_alignment
-            #notlocal alignment
+            # calculate alignments (w/ sensitive) in non-local scenarios
             best_alignment_not_local = None
             max_alignment_not_local = 0
             for a in all_alignments:
@@ -219,6 +227,30 @@ def read_reference_aggregation(ref_loc):
             if (best_alignment_not_local is not None):
                 best_alignment_not_local = ";".join(sorted(best_alignment_not_local.split(";")))
             ref_dict[g][l]["Most_not_local"] = best_alignment_not_local
+            # calculate alignments (with sensitive "blown up") in non-local scenarios
+            for index, row in references[(references.Glottocode == g) & (references.Domain == l)].iterrows():
+                reftype = row.Referential_type
+                listed_coargs = set(references[(references.Glottocode == g) & (references.Domain == l)].Referential_type.values)
+                possible_coargs = list_possible_coargs(row, listed_coargs)
+                S_values = regularize_role(row.S, possible_coargs)
+                A_values = regularize_role(row.A, possible_coargs)
+                P_values = regularize_role(row.P, possible_coargs)
+                A_values_not_local = fix_not_local(A_values, reftype)
+                P_values_not_local = fix_not_local(P_values, reftype)
+                all_not_local_alignments = calculate_alignments(S_values, A_values_not_local, P_values_not_local)
+                if l == PRO or l == NOUN:
+                    for a in all_not_local_alignments:
+                        all_flagging_alignments.add(a)
+                else:
+                    for a in all_not_local_alignments:
+                        all_indexing_alignments.add(a)
+        # add S != A
+        ref_dict[g][NOUN][S_NOT_A_FLAGGING] = True if "horizontal" in all_flagging_alignments or \
+            "ergative" in all_flagging_alignments or "tripartite" in all_flagging_alignments \
+            else False
+        ref_dict[g][INDEX][S_NOT_A_INDEXING] = True if "horizontal" in all_indexing_alignments or \
+            "ergative" in all_indexing_alignments or "tripartite" in all_indexing_alignments \
+            else False
     return ref_dict
 
 
@@ -234,6 +266,8 @@ def generate_reference_questions(ref_dict):
         lang_ref_dict[glot][REF_N_NL_FREQ_P] = ref_dict[glot][NOUN]["Most_not_local"] if ref_dict[glot][NOUN]["Most_not_local"] != None else "NA"
         lang_ref_dict[glot][REF_P_NL_FREQ_P] = ref_dict[glot][PRO]["Most_not_local"] if ref_dict[glot][PRO]["Most_not_local"] != None else "NA"
         lang_ref_dict[glot][REF_I_NL_FREQ_P] = ref_dict[glot][INDEX]["Most_not_local"] if ref_dict[glot][INDEX]["Most_not_local"] != None else "NA"
+        lang_ref_dict[glot][S_NOT_A_FLAGGING] = ref_dict[glot][NOUN][S_NOT_A_FLAGGING]
+        lang_ref_dict[glot][S_NOT_A_INDEXING] = ref_dict[glot][INDEX][S_NOT_A_INDEXING]
         lang_ref_dict[glot][REF_ERG_P] = (
             True
             if True in [ref_dict[glot][x]["ergative"] > 0 for x in ref_dict[glot].keys()]
@@ -866,6 +900,26 @@ def write_values_csv(lang_dict, values_loc, dom_dict=None, ref_dict=None):
                             all_sources,
                         ]
                     )
+                writer.writerow(
+                    [
+                        glot + "-" + S_NOT_A_FLAGGING,
+                        glot,
+                        S_NOT_A_FLAGGING,
+                        lang_ref_dict[glot][S_NOT_A_FLAGGING],
+                        indexing_coder,
+                        indexing_source,
+                    ]
+                )
+                writer.writerow(
+                    [
+                        glot + "-" + S_NOT_A_INDEXING,
+                        glot,
+                        S_NOT_A_INDEXING,
+                        lang_ref_dict[glot][S_NOT_A_INDEXING],
+                        indexing_coder,
+                        indexing_source,
+                    ]
+                )
 
 
 # Parameters lang_dict: the set of all language-level aggregations, generated by the language_level function
@@ -896,7 +950,7 @@ def write_human_readable_csv(lang_dict, out_loc, param_dict, dom_dict=None, ref_
                     out_row.append("NA")
             if ref_dict is not None:
                 lang_ref_dict = generate_reference_questions(ref_dict)
-                for param in list(param_dict.keys())[7:-2]:
+                for param in list(param_dict.keys())[7:-4]:
                     if glot in lang_ref_dict.keys():
                         out_row.append(lang_ref_dict[glot][param])
                     else:
@@ -905,6 +959,10 @@ def write_human_readable_csv(lang_dict, out_loc, param_dict, dom_dict=None, ref_
                 out_row.append(lang_dict[glot][COARG_SENS_F_P][VALUE])
             if COARG_SENS_I_P in lang_dict[glot].keys():
                 out_row.append(lang_dict[glot][COARG_SENS_I_P][VALUE])
+            if S_NOT_A_FLAGGING in ref_dict[glot][NOUN].keys():
+                out_row.append(ref_dict[glot][NOUN][S_NOT_A_FLAGGING])
+            if S_NOT_A_INDEXING in ref_dict[glot][INDEX].keys():
+                out_row.append(ref_dict[glot][INDEX][S_NOT_A_INDEXING])
             writer.writerow(out_row)
 
 
