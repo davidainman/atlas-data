@@ -1,8 +1,8 @@
 Level,Variable,Value,Count,Percentage
 Language,S!=A flagging,False,262,0.8061538461538461
 Language,S!=A flagging,True,63,0.19384615384615383
-Language,S!=A indexing,False,183,0.563076923076923
-Language,S!=A indexing,True,142,0.4369230769230769
+Language,S!=A indexing,False,213,0.6553846153846153
+Language,S!=A indexing,True,112,0.3446153846153846
 Language,align-index,accusative,121,0.3865814696485623
 Language,align-index,accusative;no marking,7,0.022364217252396165
 Language,align-index,accusative;no marking;sensitive,1,0.003194888178913738
@@ -145,13 +145,13 @@ Language,ref-sensitive-domain,Noun;Verb,1,0.008849557522123894
 Language,ref-sensitive-domain,Pro,5,0.04424778761061947
 Language,ref-sensitive-domain,Pro;Verb,2,0.017699115044247787
 Language,ref-sensitive-domain,Verb,100,0.8849557522123894
-Language,ref-tripartite,False,266,0.8184615384615385
-Language,ref-tripartite,True,59,0.18153846153846154
-Language,ref-tripartite-domain,Noun,1,0.01694915254237288
-Language,ref-tripartite-domain,Noun;Pro,1,0.01694915254237288
-Language,ref-tripartite-domain,Noun;Verb,1,0.01694915254237288
-Language,ref-tripartite-domain,Pro,4,0.06779661016949153
-Language,ref-tripartite-domain,Verb,52,0.8813559322033898
+Language,ref-tripartite,False,267,0.8215384615384616
+Language,ref-tripartite,True,58,0.17846153846153845
+Language,ref-tripartite-domain,Noun,1,0.017241379310344827
+Language,ref-tripartite-domain,Noun;Pro,1,0.017241379310344827
+Language,ref-tripartite-domain,Noun;Verb,1,0.017241379310344827
+Language,ref-tripartite-domain,Pro,4,0.06896551724137931
+Language,ref-tripartite-domain,Verb,51,0.8793103448275862
 Language,split-s,?,9,0.027692307692307693
 Language,split-s,False,260,0.8
 Language,split-s,True,56,0.1723076923076923
@@ -180,7 +180,7 @@ Selector (indexing marker),Alignment,horizontal,316,0.1596766043456291
 Selector (indexing marker),Alignment,neutral,295,0.14906518443658415
 Reference,Zero indexing of 1,Role A,119,0.14354644149577805
 Reference,Zero indexing of 1,Role P,77,0.106353591160221
-Reference,Zero indexing of 1,Role S,29,0.03473053892215569
+Reference,Zero indexing of 1,Role S,28,0.033532934131736525
 Reference,Zero indexing of 2,Role A,119,0.1643646408839779
 Reference,Zero indexing of 2,Role P,100,0.16129032258064516
 Reference,Zero indexing of 2,Role S,24,0.03287671232876712
