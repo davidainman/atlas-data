@@ -4521,19 +4521,19 @@ kala1400-30,kala1400,kala1400-n-2-irrealis-subject-indexing-marker,-11,simple,S,
 kala1400-31,kala1400,kala1400-n-2-irrealis-subject-indexing-marker,-11,simple,S,2pl,NA,NA,irrealis,NA,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-32,kala1400,kala1400-n-2-irrealis-subject-indexing-marker,-11,simple,A,2sg,P,any,irrealis,none,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-33,kala1400,kala1400-n-2-irrealis-subject-indexing-marker,-11,simple,A,2pl,P,any,irrealis,none,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-34,kala1400,kala1400-ni-3pl-subject-object-indexing-marker,-3,simple,S,3pl,NA,any,any,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
+kala1400-34,kala1400,kala1400-ni-3pl-subject-object-indexing-marker,-3,simple,S,3pl,NA,NA,any,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-35,kala1400,kala1400-ni-3pl-subject-object-indexing-marker,-3,simple,A,3pl,P,any,any,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-36,kala1400,kala1400-ni-3pl-subject-object-indexing-marker,-3,simple,P,3pl,A,3sg,any,none,any,default,,"banks2007kalapuya[15-17,34-39,8]","It is not made explicit in the grammar how slot competition works for 3pl objects, given that it is in the same position as 1pl/2pl subject. However, it is reasonable to assume it is only marked here if there is not a 1pl or 2pl subject. In the case of a 3pl>3pl scenario, it becomes ambiguous what ni- is marking (pl subject or pl object), and we have not encoded this scenario twice, once for each interpretation. The claim that 3pl A always has this morpheme covers 3pl>3pl as well.",DI;MV
-kala1400-37,kala1400,kala1400-null-marker,NA,NA,S,1sg,NA,any,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
+kala1400-37,kala1400,kala1400-null-marker,NA,NA,S,1sg,NA,NA,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-38,kala1400,kala1400-null-marker,NA,simple,A,1sg,P,any,past-realis,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-39,kala1400,kala1400-null-marker,NA,NA,S,1pl,NA,any,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
+kala1400-39,kala1400,kala1400-null-marker,NA,NA,S,1pl,NA,NA,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-4,kala1400,kala1400-fa-1sg-object-indexing-marker,5,simple,P,1sg,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
 kala1400-40,kala1400,kala1400-null-marker,NA,simple,A,1pl,P,any,past-realis,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-41,kala1400,kala1400-null-marker,NA,NA,S,2sg,NA,any,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
+kala1400-41,kala1400,kala1400-null-marker,NA,NA,S,2sg,NA,NA,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-42,kala1400,kala1400-null-marker,NA,simple,A,2sg,P,any,past-realis,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-43,kala1400,kala1400-null-marker,NA,NA,S,2pl,NA,any,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
+kala1400-43,kala1400,kala1400-null-marker,NA,NA,S,2pl,NA,NA,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-44,kala1400,kala1400-null-marker,NA,simple,A,2pl,P,any,past-realis,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-45,kala1400,kala1400-null-marker,NA,NA,S,3sg,NA,any,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
+kala1400-45,kala1400,kala1400-null-marker,NA,NA,S,3sg,NA,NA,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-46,kala1400,kala1400-null-marker,NA,simple,A,3sg,P,any,past-realis,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-5,kala1400,kala1400-fi-2pl-object-indexing-marker,5,simple,P,2pl,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
 kala1400-6,kala1400,kala1400-fubu-2sg-object-indexing-marker,5,simple,P,2sg,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
@@ -7822,7 +7822,7 @@ miri1266-48,miri1266,miri1266-ya-rr-1pl-exclp-3a-indexing-marker,2,simple,P,1pl.
 miri1266-49,miri1266,miri1266-yan-1pl-incls-a-indexing-marker,1,simple,A,1pl.incl,P,3sg.F,any,none,any,default,,kofod1978miriwung[181-212],,AWM
 miri1266-5,miri1266,miri1266-nan-2s-a-p-indexing-marker,1,simple,A,2pl,P,1pl.excl,any,none,any,default,,kofod1978miriwung[181-212],,AWM
 miri1266-50,miri1266,miri1266-yan-1pl-incls-a-indexing-marker,1,simple,A,1pl.incl,P,3pl,any,none,any,default,,kofod1978miriwung[181-212],,AWM
-miri1266-51,miri1266,miri1266-yan-1pl-incls-a-indexing-marker,1,simple,S,1pl.incl,NA,3sg.M,any,none,any,default,,kofod1978miriwung[181-212],,AWM
+miri1266-51,miri1266,miri1266-yan-1pl-incls-a-indexing-marker,1,simple,S,1pl.incl,NA,NA,any,none,any,default,,kofod1978miriwung[181-212],,AWM
 miri1266-52,miri1266,miri1266-yin-1pl-exs-a-and-1sgs-a-and-3sg-ms-a-indexing-marker,1,simple,A,1pl.excl,P,2sg,any,none,any,default,,kofod1978miriwung[181-212],,AWM
 miri1266-53,miri1266,miri1266-yin-1pl-exs-a-and-1sgs-a-and-3sg-ms-a-indexing-marker,1,simple,A,1pl.excl,P,2pl,any,none,any,default,,kofod1978miriwung[181-212],,AWM
 miri1266-54,miri1266,miri1266-yin-1pl-exs-a-and-1sgs-a-and-3sg-ms-a-indexing-marker,1,simple,A,1pl.excl,P,3sg.M,any,none,any,default,,kofod1978miriwung[181-212],,AWM
