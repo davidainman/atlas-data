@@ -223,6 +223,8 @@ def get_s_a_p_marking(sub_references, scenario="non-local"):
     return([s_marking, a_marking, p_marking])
 
 
+# Parameters sub_references: a glottocode-filtered subset of the references.csv table
+# Output: True if local scenarios are marked independently of one another, false otherwise
 def is_local_marked_independently(sub_references):
     s_marking, a_marking, p_marking = get_s_a_p_marking(sub_references, scenario="local")
     for reftype in a_marking.keys():
