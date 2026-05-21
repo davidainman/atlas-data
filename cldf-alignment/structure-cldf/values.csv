@@ -1673,12 +1673,12 @@ savo1255-split-s,savo1255,split-s,False,AWM;MV,wegener2012grammar[131-135]
 savo1255-coargument-sensitivity flagging,savo1255,coargument-sensitivity flagging,no,AWM;MV,wegener2012grammar[131-135]
 savo1255-coargument-sensitivity indexing,savo1255,coargument-sensitivity indexing,no,AWM;MV,wegener2012grammar[131-135]
 seri1257-flagging,seri1257,flagging,False,AWM,marlett2005seri[136]
-seri1257-indexing,seri1257,indexing,True,AWM,marlett2005seri[136]
-seri1257-indexing-features,seri1257,indexing-features,person;person+number,AWM,marlett2005seri[136]
-seri1257-tam-split,seri1257,tam-split,False,AWM,marlett1981seri[33-35];marlett2005seri[136]
-seri1257-split-s,seri1257,split-s,False,AWM,marlett1981seri[33-35];marlett2005seri[136]
-seri1257-coargument-sensitivity flagging,seri1257,coargument-sensitivity flagging,no,AWM,marlett1981seri[33-35];marlett2005seri[136]
-seri1257-coargument-sensitivity indexing,seri1257,coargument-sensitivity indexing,yes,AWM,marlett1981seri[33-35];marlett2005seri[136]
+seri1257-indexing,seri1257,indexing,True,AWM;DI,marlett2005seri[136]
+seri1257-indexing-features,seri1257,indexing-features,person;person+number,AWM;DI,marlett2005seri[136]
+seri1257-tam-split,seri1257,tam-split,False,AWM;DI,marlett1981seri[33-35];marlett2005seri[136]
+seri1257-split-s,seri1257,split-s,False,AWM;DI,marlett1981seri[33-35];marlett2005seri[136]
+seri1257-coargument-sensitivity flagging,seri1257,coargument-sensitivity flagging,no,AWM;DI,marlett1981seri[33-35];marlett2005seri[136]
+seri1257-coargument-sensitivity indexing,seri1257,coargument-sensitivity indexing,yes,AWM;DI,marlett1981seri[33-35];marlett2005seri[136]
 shab1252-flagging,shab1252,flagging,True,AWM;HT,kibebe2015chabu[143-147]
 shab1252-indexing,shab1252,indexing,True,AWM;HT,kibebe2015chabu[143-147]
 shab1252-indexing-features,shab1252,indexing-features,person+number,AWM;HT,kibebe2015chabu[143-147]
@@ -3466,8 +3466,8 @@ cadd1256-ref-horizontal-domain,cadd1256,ref-horizontal-domain,NA,AWM;DI;HT,"meln
 cadd1256-ref-sensitive,cadd1256,ref-sensitive,True,AWM;DI;HT,"melnar1998verbal[132,56,71]"
 cadd1256-ref-sensitive-domain,cadd1256,ref-sensitive-domain,Verb,AWM;DI;HT,"melnar1998verbal[132,56,71]"
 cadd1256-S!=A flagging,cadd1256,S!=A flagging,False,DI;HT,"melnar1998verbal[132,56,71]"
-cadd1256-S!=A indexing,cadd1256,S!=A indexing,False,DI;HT,"melnar1998verbal[132,56,71]"
-cadd1256-hierarchical-indexing,cadd1256,hierarchical-indexing,True,DI;HT,"melnar1998verbal[132,56,71]"
+cadd1256-S!=A indexing,cadd1256,S!=A indexing,True,DI;HT,"melnar1998verbal[132,56,71]"
+cadd1256-hierarchical-indexing,cadd1256,hierarchical-indexing,False,DI;HT,"melnar1998verbal[132,56,71]"
 cahu1264-align-noun,cahu1264,align-noun,accusative;no marking,HT,"seiler1977cahuilla[105-107,117-118,207,79-80]"
 cahu1264-align-pro,cahu1264,align-pro,accusative,HT,"seiler1977cahuilla[105-107,117-118,207,79-80]"
 cahu1264-align-index,cahu1264,align-index,accusative,DI;HT,"seiler1977cahuilla[105-107,117-118,207,79-80]"
@@ -4061,8 +4061,8 @@ enap1235-ref-horizontal-domain,enap1235,ref-horizontal-domain,Verb,AWM;HT;TH,"pa
 enap1235-ref-sensitive,enap1235,ref-sensitive,False,AWM;HT;TH,"payne2013panare[205,238,288,88-89]"
 enap1235-ref-sensitive-domain,enap1235,ref-sensitive-domain,NA,AWM;HT;TH,"payne2013panare[205,238,288,88-89]"
 enap1235-S!=A flagging,enap1235,S!=A flagging,False,AWM;TH,"payne2013panare[205,238,288,88-89]"
-enap1235-S!=A indexing,enap1235,S!=A indexing,False,AWM;TH,"payne2013panare[205,238,288,88-89]"
-enap1235-hierarchical-indexing,enap1235,hierarchical-indexing,True,AWM;TH,"payne2013panare[205,238,288,88-89]"
+enap1235-S!=A indexing,enap1235,S!=A indexing,True,AWM;TH,"payne2013panare[205,238,288,88-89]"
+enap1235-hierarchical-indexing,enap1235,hierarchical-indexing,False,AWM;TH,"payne2013panare[205,238,288,88-89]"
 esee1248-align-noun,esee1248,align-noun,ergative,AWM,vuillermet2012eseejja[285-287]
 esee1248-align-pro,esee1248,align-pro,ergative,AWM,vuillermet2012eseejja[285-287]
 esee1248-align-index,esee1248,align-index,no marking,MV;NCP,vuillermet2012eseejja[285-287]
@@ -5285,8 +5285,8 @@ kute1249-ref-horizontal-domain,kute1249,ref-horizontal-domain,NA,AWM;DI;KMB,"mor
 kute1249-ref-sensitive,kute1249,ref-sensitive,True,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
 kute1249-ref-sensitive-domain,kute1249,ref-sensitive-domain,Verb,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
 kute1249-S!=A flagging,kute1249,S!=A flagging,False,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
-kute1249-S!=A indexing,kute1249,S!=A indexing,True,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
-kute1249-hierarchical-indexing,kute1249,hierarchical-indexing,False,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
+kute1249-S!=A indexing,kute1249,S!=A indexing,False,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
+kute1249-hierarchical-indexing,kute1249,hierarchical-indexing,True,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
 kwak1269-align-noun,kwak1269,align-noun,accusative,DI,littell2016kwakwala[558];rosenblum2013kwakwala[106-111]
 kwak1269-align-pro,kwak1269,align-pro,accusative,DI,littell2016kwakwala[558];rosenblum2013kwakwala[106-111]
 kwak1269-align-index,kwak1269,align-index,no marking,DI,littell2016kwakwala[558];rosenblum2013kwakwala[106-111]
@@ -6917,8 +6917,8 @@ sana1298-ref-horizontal-domain,sana1298,ref-horizontal-domain,NA,DI,vangysel2022
 sana1298-ref-sensitive,sana1298,ref-sensitive,True,DI,vangysel2022pc;vangyselforthcsanapana
 sana1298-ref-sensitive-domain,sana1298,ref-sensitive-domain,Verb,DI,vangysel2022pc;vangyselforthcsanapana
 sana1298-S!=A flagging,sana1298,S!=A flagging,False,DI,vangysel2022pc;vangyselforthcsanapana
-sana1298-S!=A indexing,sana1298,S!=A indexing,True,DI,vangysel2022pc;vangyselforthcsanapana
-sana1298-hierarchical-indexing,sana1298,hierarchical-indexing,False,DI,vangysel2022pc;vangyselforthcsanapana
+sana1298-S!=A indexing,sana1298,S!=A indexing,False,DI,vangysel2022pc;vangyselforthcsanapana
+sana1298-hierarchical-indexing,sana1298,hierarchical-indexing,True,DI,vangysel2022pc;vangyselforthcsanapana
 sand1273-align-noun,sand1273,align-noun,no marking,HT,steeman2012sandawe[85-87]
 sand1273-align-pro,sand1273,align-pro,no marking,HT,steeman2012sandawe[85-87]
 sand1273-align-index,sand1273,align-index,accusative,HT,steeman2012sandawe[85-87]
@@ -6989,21 +6989,21 @@ savo1255-S!=A indexing,savo1255,S!=A indexing,False,MV,wegener2012grammar[131-13
 savo1255-hierarchical-indexing,savo1255,hierarchical-indexing,False,MV,wegener2012grammar[131-132]
 seri1257-align-noun,seri1257,align-noun,no marking,AWM,marlett2005seri[136]
 seri1257-align-pro,seri1257,align-pro,no marking,AWM,marlett2005seri[136]
-seri1257-align-index,seri1257,align-index,sensitive,AWM,marlett2005seri[136]
+seri1257-align-index,seri1257,align-index,sensitive,AWM;DI,marlett2005seri[136]
 seri1257-align-noun-nl,seri1257,align-noun-nl,no marking,AWM,marlett2005seri[136]
 seri1257-align-pro-nl,seri1257,align-pro-nl,no marking,AWM,marlett2005seri[136]
-seri1257-align-index-nl,seri1257,align-index-nl,accusative,AWM,marlett2005seri[136]
-seri1257-ref-ergative,seri1257,ref-ergative,False,AWM,marlett2005seri[136]
-seri1257-ref-ergative-domain,seri1257,ref-ergative-domain,NA,AWM,marlett2005seri[136]
-seri1257-ref-tripartite,seri1257,ref-tripartite,True,AWM,marlett2005seri[136]
-seri1257-ref-tripartite-domain,seri1257,ref-tripartite-domain,Verb,AWM,marlett2005seri[136]
-seri1257-ref-horizontal,seri1257,ref-horizontal,False,AWM,marlett2005seri[136]
-seri1257-ref-horizontal-domain,seri1257,ref-horizontal-domain,NA,AWM,marlett2005seri[136]
-seri1257-ref-sensitive,seri1257,ref-sensitive,True,AWM,marlett2005seri[136]
-seri1257-ref-sensitive-domain,seri1257,ref-sensitive-domain,Verb,AWM,marlett2005seri[136]
-seri1257-S!=A flagging,seri1257,S!=A flagging,False,AWM,marlett2005seri[136]
-seri1257-S!=A indexing,seri1257,S!=A indexing,False,AWM,marlett2005seri[136]
-seri1257-hierarchical-indexing,seri1257,hierarchical-indexing,True,AWM,marlett2005seri[136]
+seri1257-align-index-nl,seri1257,align-index-nl,accusative,AWM;DI,marlett2005seri[136]
+seri1257-ref-ergative,seri1257,ref-ergative,False,AWM;DI,marlett2005seri[136]
+seri1257-ref-ergative-domain,seri1257,ref-ergative-domain,NA,AWM;DI,marlett2005seri[136]
+seri1257-ref-tripartite,seri1257,ref-tripartite,True,AWM;DI,marlett2005seri[136]
+seri1257-ref-tripartite-domain,seri1257,ref-tripartite-domain,Verb,AWM;DI,marlett2005seri[136]
+seri1257-ref-horizontal,seri1257,ref-horizontal,False,AWM;DI,marlett2005seri[136]
+seri1257-ref-horizontal-domain,seri1257,ref-horizontal-domain,NA,AWM;DI,marlett2005seri[136]
+seri1257-ref-sensitive,seri1257,ref-sensitive,True,AWM;DI,marlett2005seri[136]
+seri1257-ref-sensitive-domain,seri1257,ref-sensitive-domain,Verb,AWM;DI,marlett2005seri[136]
+seri1257-S!=A flagging,seri1257,S!=A flagging,False,AWM;DI,marlett2005seri[136]
+seri1257-S!=A indexing,seri1257,S!=A indexing,False,AWM;DI,marlett2005seri[136]
+seri1257-hierarchical-indexing,seri1257,hierarchical-indexing,True,AWM;DI,marlett2005seri[136]
 shab1252-align-noun,shab1252,align-noun,accusative,AWM;HT,kibebe2015chabu[143-147]
 shab1252-align-pro,shab1252,align-pro,accusative,AWM;HT,kibebe2015chabu[143-147]
 shab1252-align-index,shab1252,align-index,accusative,AWM;HT,kibebe2015chabu[143-147]
@@ -7342,8 +7342,8 @@ take1257-ref-horizontal-domain,take1257,ref-horizontal-domain,Verb,AWM;HT,kendal
 take1257-ref-sensitive,take1257,ref-sensitive,True,AWM;HT,kendall1997takelma[21-39]
 take1257-ref-sensitive-domain,take1257,ref-sensitive-domain,Verb,AWM;HT,kendall1997takelma[21-39]
 take1257-S!=A flagging,take1257,S!=A flagging,False,AWM;HT,kendall1997takelma[21-39]
-take1257-S!=A indexing,take1257,S!=A indexing,False,AWM;HT,kendall1997takelma[21-39]
-take1257-hierarchical-indexing,take1257,hierarchical-indexing,True,AWM;HT,kendall1997takelma[21-39]
+take1257-S!=A indexing,take1257,S!=A indexing,True,AWM;HT,kendall1997takelma[21-39]
+take1257-hierarchical-indexing,take1257,hierarchical-indexing,False,AWM;HT,kendall1997takelma[21-39]
 tari1256-align-noun,tari1256,align-noun,accusative;no marking,AWM,aikhenvald2003tarianagrammar[139-140]
 tari1256-align-pro,tari1256,align-pro,accusative,AWM,aikhenvald2003tarianagrammar[139-140]
 tari1256-align-index,tari1256,align-index,accusative,DI;HT,aikhenvald2003tarianagrammar[139-140]
@@ -7631,8 +7631,8 @@ trio1238-ref-horizontal-domain,trio1238,ref-horizontal-domain,NA,HT;MV,"carlin20
 trio1238-ref-sensitive,trio1238,ref-sensitive,True,HT;MV,"carlin2004trio[144-151,209,285]"
 trio1238-ref-sensitive-domain,trio1238,ref-sensitive-domain,Verb,HT;MV,"carlin2004trio[144-151,209,285]"
 trio1238-S!=A flagging,trio1238,S!=A flagging,False,MV,"carlin2004trio[144-151,209,285]"
-trio1238-S!=A indexing,trio1238,S!=A indexing,False,MV,"carlin2004trio[144-151,209,285]"
-trio1238-hierarchical-indexing,trio1238,hierarchical-indexing,True,MV,"carlin2004trio[144-151,209,285]"
+trio1238-S!=A indexing,trio1238,S!=A indexing,True,MV,"carlin2004trio[144-151,209,285]"
+trio1238-hierarchical-indexing,trio1238,hierarchical-indexing,False,MV,"carlin2004trio[144-151,209,285]"
 trum1247-align-noun,trum1247,align-noun,ergative,AN,"guirardello1999trumai[303-304,47]"
 trum1247-align-pro,trum1247,align-pro,ergative,AN,"guirardello1999trumai[303-304,47]"
 trum1247-align-index,trum1247,align-index,no marking,AWM,"guirardello1999trumai[303-304,47]"

@@ -1,8 +1,8 @@
 Level,Variable,Value,Count,Percentage
 Language,S!=A flagging,False,262,0.8061538461538461
 Language,S!=A flagging,True,63,0.19384615384615383
-Language,S!=A indexing,False,213,0.6553846153846153
-Language,S!=A indexing,True,112,0.3446153846153846
+Language,S!=A indexing,False,211,0.6492307692307693
+Language,S!=A indexing,True,114,0.3507692307692308
 Language,align-index,accusative,121,0.3865814696485623
 Language,align-index,accusative;no marking,7,0.022364217252396165
 Language,align-index,accusative;no marking;sensitive,1,0.003194888178913738
@@ -168,18 +168,18 @@ Selector (flagging),Alignment,accusative,197,0.6723549488054608
 Selector (flagging),Alignment,ergative,70,0.23890784982935154
 Selector (flagging),Alignment,horizontal,6,0.020477815699658702
 Selector (flagging),Alignment,neutral,20,0.06825938566552901
-Selector (indexing marker),S,False,796,0.4022233451237999
-Selector (indexing marker),S,True,1183,0.5977766548762001
-Selector (indexing marker),A,False,659,0.3329964628600303
-Selector (indexing marker),A,True,1320,0.6670035371399696
-Selector (indexing marker),P,False,913,0.461344113188479
-Selector (indexing marker),P,True,1066,0.538655886811521
-Selector (indexing marker),Alignment,accusative,1023,0.5169277412834765
-Selector (indexing marker),Alignment,ergative,345,0.17433046993431026
-Selector (indexing marker),Alignment,horizontal,316,0.1596766043456291
-Selector (indexing marker),Alignment,neutral,295,0.14906518443658415
+Selector (indexing marker),S,False,797,0.4025252525252525
+Selector (indexing marker),S,True,1183,0.5974747474747475
+Selector (indexing marker),A,False,659,0.3328282828282828
+Selector (indexing marker),A,True,1321,0.6671717171717172
+Selector (indexing marker),P,False,914,0.4616161616161616
+Selector (indexing marker),P,True,1066,0.5383838383838384
+Selector (indexing marker),Alignment,accusative,1023,0.5166666666666667
+Selector (indexing marker),Alignment,ergative,346,0.17474747474747473
+Selector (indexing marker),Alignment,horizontal,316,0.1595959595959596
+Selector (indexing marker),Alignment,neutral,295,0.14898989898989898
 Reference,Zero indexing of 1,Role A,119,0.14354644149577805
-Reference,Zero indexing of 1,Role P,77,0.106353591160221
+Reference,Zero indexing of 1,Role P,76,0.10497237569060773
 Reference,Zero indexing of 1,Role S,28,0.033532934131736525
 Reference,Zero indexing of 2,Role A,119,0.1643646408839779
 Reference,Zero indexing of 2,Role P,100,0.16129032258064516

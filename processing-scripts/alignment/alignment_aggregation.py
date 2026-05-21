@@ -175,7 +175,7 @@ def read_parameters_csv(param_loc):
 # Output: s_marking a dict of [reftype] -> marking of S in sub_references
 #         a_marking a dict of [reftype][coarg] -> marking of A in sub_references
 #         p_marking a dict of [reftype][coarg] -> marking of P in sub_references
-def get_s_a_p_marking(sub_references):
+def get_s_a_p_marking(sub_references, scenario="non-local"):
     s_marking = dict()
     a_marking = dict()
     p_marking = dict()
@@ -188,23 +188,29 @@ def get_s_a_p_marking(sub_references):
         s_marking[reftype] = S_values[0]
         A_values = regularize_role(row.A, possible_coargs)
         P_values = regularize_role(row.P, possible_coargs)
-        A_values_not_local = fix_not_local(A_values, reftype)
-        P_values_not_local = fix_not_local(P_values, reftype)
+        if scenario == "non-local":
+            A_values = fix_not_local(A_values, reftype)
+            P_values = fix_not_local(P_values, reftype)
+            relevant_coargs = not_local_coargs(possible_coargs, reftype)
+        elif scenario == "local":
+            A_values = fix_local(A_values, reftype)
+            P_values = fix_local(P_values, reftype)
+            relevant_coargs = local_coargs(possible_coargs, reftype)
         a_marking[reftype] = dict()
-        for a in A_values_not_local:
+        for a in A_values:
             if "_coarg:" in a:
                 coarg_ref = a[a.index("_coarg:")+len("_coarg:"):]
                 a_marking[reftype][coarg_ref] = a[:a.index("_coarg:")]
             else:
-                for cp in not_local_coargs(possible_coargs, reftype):
+                for cp in relevant_coargs:
                     a_marking[reftype][cp] = a
         p_marking[reftype] = dict()
-        for p in P_values_not_local:
+        for p in P_values:
             if "_coarg:" in p:
                 coarg_ref = p[p.index("_coarg:")+len("_coarg:"):]
                 p_marking[reftype][coarg_ref] = p[:p.index("_coarg:")]
             else:
-                for ca in not_local_coargs(possible_coargs, reftype):
+                for ca in relevant_coargs:
                     p_marking[reftype][ca] = p
     # add in zeros for types that are not listed
     for lr in listed_reftypes:
@@ -215,6 +221,18 @@ def get_s_a_p_marking(sub_references):
                     if '3' in coarg or lr != coarg:
                         role_marking[lr][coarg] = "INFERRED_NULL_zero"
     return([s_marking, a_marking, p_marking])
+
+
+def is_local_marked_independently(sub_references):
+    s_marking, a_marking, p_marking = get_s_a_p_marking(sub_references, scenario="local")
+    for reftype in a_marking.keys():
+        for coarg in a_marking[reftype].keys():
+            if coarg in p_marking:
+                if reftype in p_marking[coarg]:
+                    if a_marking[reftype][coarg] != p_marking[coarg][reftype] and \
+                      "_overt" not in a_marking[reftype][coarg] and "_overt" not in p_marking[coarg][reftype]:
+                        return True
+    return False
 
 
 # Parameters sub_references: a glottocode-filtered subset of the references.csv table
@@ -234,6 +252,7 @@ def is_any_hierarchical(sub_references):
                 monopred_table = condition_table[(condition_table.Monovalent_predicate_class == monopred)]
                 for bipred in set(monopred_table.Bivalent_predicate_class.values):
                     bipred_table = monopred_table[(monopred_table.Bivalent_predicate_class == bipred)]
+                    local_marked_independently = is_local_marked_independently(bipred_table)
                     s_marking, a_marking, p_marking = get_s_a_p_marking(bipred_table)
                     hierarchical = True
                     coargs_present = False # you can only be hierarchical if there are coargs
@@ -252,6 +271,7 @@ def is_any_hierarchical(sub_references):
                             if len(a_marking[reftype]) == 1 or len(p_marking[reftype]) == 1:
                                 if len(a_marking[reftype]) > 1 or len(p_marking[reftype]) > 1:
                                     hierarchical = False
+                                    break
                                 continue
                             coargs_present = True
                             for coarg in a_marking[reftype].keys():
@@ -260,8 +280,23 @@ def is_any_hierarchical(sub_references):
                                         if reftype in p_marking[coarg]:
                                             if "_overt" in p_marking[coarg][reftype]:
                                                 hierarchical = False
+                                elif "_zero" in a_marking[reftype][coarg]:
+                                    if "3" in reftype and "3" in coarg and not local_marked_independently:
+                                        continue
+                                    elif coarg not in p_marking:
+                                        hierarchical = False # assuming it's zero
+                                        break
+                                    else:
+                                        if reftype not in p_marking[coarg]:
+                                            hierarchical = False # assuming it's zero
+                                            break
+                                        else:
+                                            if "_zero" in p_marking[coarg][reftype]:
+                                                hierarchical = False
+                                                break
                     if not coargs_present or not p_marked or not a_marked:
                         hierarchical = False
+                        break
                     if hierarchical:
                         any_hierarchical = True
                         break
@@ -351,11 +386,6 @@ def read_reference_aggregation(ref_loc):
         ref_dict[g][NOUN][S_NOT_A_FLAGGING] = True if "horizontal" in all_flagging_alignments or \
             "ergative" in all_flagging_alignments or "tripartite" in all_flagging_alignments \
             else False
-        if (g == "nuuc1236"):
-            print(ref_dict[g][INDEX][HIERARCHICAL])
-            print((("horizontal" in all_indexing_alignments or \
-            "ergative" in all_indexing_alignments or "tripartite" in all_indexing_alignments) \
-            and not ref_dict[g][INDEX][HIERARCHICAL]))
         ref_dict[g][INDEX][S_NOT_A_INDEXING] = True if (("horizontal" in all_indexing_alignments or \
             "ergative" in all_indexing_alignments or "tripartite" in all_indexing_alignments) \
             and not ref_dict[g][INDEX][HIERARCHICAL]) else False
@@ -1272,7 +1302,7 @@ def fix_3(values_list):
 
 # Parameters values_list: a list of alignment values from the references.csv, with <else> removed
 #            ref_type: the referential type being considered
-# Output: the same values_list with all local scenarios removed
+# Output: the same values_list with only non-local scenarios
 def fix_not_local(values_list, reftype):
     if "3" in reftype:
         return values_list
@@ -1285,14 +1315,40 @@ def fix_not_local(values_list, reftype):
         return ret_val
 
 
+# Parameters values_list: a list of alignment values from the references.csv, with <else> removed
+#            ref_type: the referential type being considered
+# Output: the same values_list with only local scenarios
+def fix_local(values_list, reftype):
+    if "3" in reftype:
+        return []
+    else:
+        ret_val = [x for x in values_list if "coarg:" not in x or ("1" in re.sub(".*_coarg:","",x) or "2" in re.sub(".*_coarg:","",x) or "incl" in re.sub(".*_coarg:","",x))]
+        if all(["_zero_" in x for x in ret_val]):
+            return ["INFERRED_NULL_ZERO"]
+        if len(set([re.sub("_coarg:.*","",x) for x in ret_val])) == 1:
+            return [re.sub("(_slot:.*)?(_coarg:.*)?","",ret_val[0])]
+        return ret_val
+
 # Parameters possible_coargs: the list of all possible coarguments
 #            reftype: the referential type being considered
-# Output: the same possible_coargs list with non-local coarguments removed
+# Output: the same possible_coargs list with local coarguments removed
 def not_local_coargs(possible_coargs, reftype):
     if "3" in reftype:
         return possible_coargs
     else: # non-3rd, remove 1, 2, and incl
-        return [x for x in possible_coargs if "1" not in x and "2" not in x and "incl" not in x]
+        return [x for x in possible_coargs if "1" not in x and "incl" not in x and \
+                ("2" not in x or "2/3" in x)]
+
+
+# Parameters possible_coargs: the list of all possible coarguments
+#            reftype: the referential type being considered
+# Output: the same possible_coargs list with non-local coarguments removed
+def local_coargs(possible_coargs, reftype):
+    if "1" in reftype:
+        return [x for x in possible_coargs if "2" in x]
+    elif "2" in reftype:
+        return [x for x in possible_coargs if "1" in x]
+    return []
 
 
 # Parameters row: a row from the references.csv file
@@ -1336,14 +1392,15 @@ def list_possible_coargs(references, row, listed_coargs):
 def regularize_role(role_string, possible_coargs):
     role_values = role_string.split(";")
     role_values = [x.strip() for x in role_values]
-    role_values = [re.sub("_slot:[0-9-/\&]+","",x) for x in role_values]
-    role_values = [re.sub("_slot:[^_\&]+","",x) for x in role_values]
-    if (any([":else" in x for x in role_values])):
-        role_values = expand_else(role_values, possible_coargs)
     # remove meaningless && zeros
     role_values = [re.sub("[^\&]*_zero(_coarg:[^&]+) \&\& (.*)","\\2:\\1",x) for x in role_values]
     role_values = [re.sub("( )\&\&[^\&]*zero[^\&]*(_coarg:[^ ]*)","\\2",x) for x in role_values]
     role_values = [re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",x) for x in role_values]
+    # remove slots
+    role_values = [re.sub("_slot:[0-9-/\&]+","",x) for x in role_values]
+    role_values = [re.sub("_slot:[^_\&]+","",x) for x in role_values]
+    if (any([":else" in x for x in role_values])):
+        role_values = expand_else(role_values, possible_coargs)
     return role_values
 
 
