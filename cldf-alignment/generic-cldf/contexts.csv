@@ -6116,7 +6116,7 @@ kute1249-15,kute1249,kute1249-is-2p-indexing-marker,2,simple,P,2pl,A,1sg,any,non
 kute1249-16,kute1249,kute1249-is-2p-indexing-marker,2,simple,P,2pl,A,3-high,any,none,any,default,,morgan1992kutenai[355-360],,DI; KMB; AWM
 kute1249-17,kute1249,kute1249-is-2p-indexing-marker,2,simple,P,2pl,A,3-low,any,none,any,default,,morgan1992kutenai[355-360],,DI; KMB; AWM
 kute1249-18,kute1249,kute1249-is-2p-indexing-marker,2,simple,P,2pl,A,3fobv-low,any,none,any,default,,morgan1992kutenai[355-360],,DI; KMB; AWM
-kute1249-19,kute1249,kute1249-is-3obv-p-indexing-marker,3,simple,P,3-low,A,3fobv-low,any,INV,any,default,,morgan1992kutenai[355-360],,DI; KMB; AWM
+kute1249-19,kute1249,kute1249-is-3obv-a-indexing-marker,3,simple,A,3fobv-low,P,3-low,any,INV,any,default,,morgan1992kutenai[355-360],,DI; KMB; AWM
 kute1249-2,kute1249,kute1249-no-flagging,,simple,A,Noun,P,any,any,none,any,default,,"morgan1992kutenai[36,387-388]",,DI
 kute1249-20,kute1249,kute1249-kil-2pl-s-a-p-indexing-marker,3,simple,S,2pl,NA,NA,any,NA,any,default,,morgan1992kutenai[355-360],,DI; KMB; AWM
 kute1249-21,kute1249,kute1249-kil-2pl-s-a-p-indexing-marker,3,simple,A,2pl,P,1sg,any,none,any,default,,morgan1992kutenai[355-360],,DI; KMB; AWM
@@ -11477,6 +11477,10 @@ seri1257-24,seri1257,seri1257-1sga-indexing-marker,-2,simple,A,1sg,P,2sg,any,non
 seri1257-25,seri1257,seri1257-1sga-indexing-marker,-2,simple,A,1sg,P,2pl,any,none,any,default,any,marlett1981seri[33-35],,AWM
 seri1257-26,seri1257,seri1257-1sga-indexing-marker,-2,simple,A,1sg,P,3sg,any,none,any,default,any,marlett1981seri[33-35],,AWM
 seri1257-27,seri1257,seri1257-1sga-indexing-marker,-2,simple,A,1sg,P,3pl,any,none,any,default,any,marlett1981seri[33-35],,AWM
+seri1257-27a,seri1257,seri1257-isi-1plp-indexing-marker,-2,simple,P,1pl,A,2sg,any,none,any,default,any,marlett1981seri[33-35],,DI
+seri1257-27b,seri1257,seri1257-isi-1plp-indexing-marker,-2,simple,P,1pl,A,2pl,any,none,any,default,any,marlett1981seri[33-35],,DI
+seri1257-27c,seri1257,seri1257-isi-1plp-indexing-marker,-2,simple,P,1pl,A,3sg,any,none,any,default,any,marlett1981seri[33-35],,DI
+seri1257-27d,seri1257,seri1257-isi-1plp-indexing-marker,-2,simple,P,1pl,A,3pl,any,none,any,default,any,marlett1981seri[33-35],,DI
 seri1257-28,seri1257,seri1257-a-1pls-a-indexing-marker,-2,NA,S,1pl,NA,NA,any,none,any,default,any,marlett1981seri[33-35],,AWM
 seri1257-29,seri1257,seri1257-a-1pls-a-indexing-marker,-2,simple,A,1pl,P,2sg,any,none,any,default,any,marlett1981seri[33-35],,AWM
 seri1257-3,seri1257,seri1257-no-flagging,,simple,P,any,A,any,any,none,any,default,,marlett2005seri[136],,AWM

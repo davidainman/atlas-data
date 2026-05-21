@@ -1129,7 +1129,7 @@ kute1249-awas-1pl-p-1pl-2-indexing-marker,kute1249,indexing marker,-awas 1pl P /
 kute1249-hin-2-s-a-indexing-marker,kute1249,indexing marker,hin= 2 S/A,overt,person+number,"morgan1992kutenai[355-367,424-425]",DI; KMB; AWM,2pl;2sg,2pl;2sg,NONE,accusative
 kute1249-hu-1-s-a-indexing-marker,kute1249,indexing marker,hu= 1 S/A,overt,person+number,"morgan1992kutenai[355-367,424-425]",DI; KMB; AWM,1pl;1sg,1pl;1sg,NONE,accusative
 kute1249-is-2p-indexing-marker,kute1249,indexing marker,-is 2P,overt,person,morgan1992kutenai[355-360],DI; KMB; AWM,NONE,NONE,2pl_1sg;2pl_3-high;2pl_3-low;2pl_3fobv-low;2sg_1sg;2sg_3-high;2sg_3-low;2sg_3fobv-low,accusative
-kute1249-is-3obv-p-indexing-marker,kute1249,indexing marker,-is 3obv P,overt,person+number,morgan1992kutenai[355-360],DI; KMB; AWM,NONE,NONE,3-low_3fobv-low,accusative
+kute1249-is-3obv-a-indexing-marker,kute1249,indexing marker,-is 3obv A,overt,person+number,morgan1992kutenai[355-360],DI; KMB; AWM,NONE,3fobv-low_3-low,NONE,ergative
 kute1249-kil-2pl-s-a-p-indexing-marker,kute1249,indexing marker,-kił 2pl S/A/P,overt,person+number,morgan1992kutenai[355-360],DI; KMB; AWM,2pl,2pl_1sg;2pl_3-high;2pl_3-low,2pl_1sg;2pl_3-high;2pl_3-low;2pl_3fobv-low,neutral
 kute1249-no-flagging,kute1249,flagging,NO_FLAGGING,zero,,"morgan1992kutenai[36,387-388]",DI,Noun,Noun,Noun,neutral
 kute1249-null-marker,kute1249,indexing marker,NULL_MARKER,zero,person,"morgan1992kutenai[355-367,424-425]",DI; KMB; AWM,3-high;3-low;3fobv-low,3-high;3-low;3fobv-low,NONE,accusative
@@ -2057,6 +2057,7 @@ savo1255-s-a-enclitic-na-flagging,savo1255,flagging,S/A enclitic =na,overt,,wege
 savo1255-various-affixes-all-overt-indexing-marker,savo1255,indexing marker,"various affixes, all overt",overt,person+number,wegener2012grammar[131-135],MV,NONE,NONE,any,accusative
 seri1257-1sga-indexing-marker,seri1257,indexing marker,ʔ- 1sgA,overt,person+number,marlett1981seri[33-35],AWM,NONE,1sg_2pl;1sg_2sg;1sg_3pl;1sg_3sg,NONE,ergative
 seri1257-a-1pls-a-indexing-marker,seri1257,indexing marker,ʔa- 1plS/A,overt,person+number,marlett1981seri[33-35],AWM,1pl,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg,NONE,accusative
+seri1257-isi-1plp-indexing-marker,seri1257,indexing marker,ʔiši- 1plP,overt,person+number,marlett1981seri[33-35],AWM; DI,NONE,NONE,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg,accusative
 seri1257-i-3p-indexing-marker,seri1257,indexing marker,i- 3P,overt,person,marlett1981seri[33-35],AWM,NONE,NONE,3pl_3pl;3pl_3sg;3sg_3pl;3sg_3sg,accusative
 seri1257-im-1sgp-indexing-marker,seri1257,indexing marker,ʔim- 1sgP,overt,person+number,marlett1981seri[33-35],AWM,NONE,NONE,1sg_2pl;1sg_2sg;1sg_3pl;1sg_3sg,accusative
 seri1257-m-2sgs-a-indexing-marker,seri1257,indexing marker,m- 2sgS/A,overt,person+number,marlett1981seri[33-35],AWM,2sg,2sg_1pl;2sg_3pl;2sg_3sg,NONE,accusative
