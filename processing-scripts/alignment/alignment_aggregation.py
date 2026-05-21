@@ -230,7 +230,7 @@ def is_local_marked_independently(sub_references):
             if coarg in p_marking:
                 if reftype in p_marking[coarg]:
                     if a_marking[reftype][coarg] != p_marking[coarg][reftype] and \
-                      "_overt" not in a_marking[reftype][coarg] and "_overt" not in p_marking[coarg][reftype]:
+                      "_overt" in a_marking[reftype][coarg] and "_overt" in p_marking[coarg][reftype]:
                         return True
     return False
 

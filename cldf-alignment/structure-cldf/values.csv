@@ -3007,8 +3007,8 @@ ainu1240-ref-horizontal-domain,ainu1240,ref-horizontal-domain,NA,AN;AWM,tamura20
 ainu1240-ref-sensitive,ainu1240,ref-sensitive,True,AN;AWM,tamura2000ainu[25-92]
 ainu1240-ref-sensitive-domain,ainu1240,ref-sensitive-domain,Verb,AN;AWM,tamura2000ainu[25-92]
 ainu1240-S!=A flagging,ainu1240,S!=A flagging,False,AN;AWM,tamura2000ainu[25-92]
-ainu1240-S!=A indexing,ainu1240,S!=A indexing,False,AN;AWM,tamura2000ainu[25-92]
-ainu1240-hierarchical-indexing,ainu1240,hierarchical-indexing,True,AN;AWM,tamura2000ainu[25-92]
+ainu1240-S!=A indexing,ainu1240,S!=A indexing,True,AN;AWM,tamura2000ainu[25-92]
+ainu1240-hierarchical-indexing,ainu1240,hierarchical-indexing,False,AN;AWM,tamura2000ainu[25-92]
 akab1249-align-noun,akab1249,align-noun,no marking,AWM,zamponi2020akabea[166-170]
 akab1249-align-pro,akab1249,align-pro,accusative,AWM,zamponi2020akabea[166-170]
 akab1249-align-index,akab1249,align-index,no marking,AWM;DI;MV,zamponi2020akabea[166-170]
@@ -3891,8 +3891,8 @@ cree1270-ref-horizontal-domain,cree1270,ref-horizontal-domain,NA,AWM;DI;HT;MV,"m
 cree1270-ref-sensitive,cree1270,ref-sensitive,False,AWM;DI;HT;MV,"martin2011creek[142,337-343]"
 cree1270-ref-sensitive-domain,cree1270,ref-sensitive-domain,NA,AWM;DI;HT;MV,"martin2011creek[142,337-343]"
 cree1270-S!=A flagging,cree1270,S!=A flagging,False,AWM;DI;MV,"martin2011creek[142,337-343]"
-cree1270-S!=A indexing,cree1270,S!=A indexing,False,AWM;DI;MV,"martin2011creek[142,337-343]"
-cree1270-hierarchical-indexing,cree1270,hierarchical-indexing,True,AWM;DI;MV,"martin2011creek[142,337-343]"
+cree1270-S!=A indexing,cree1270,S!=A indexing,True,AWM;DI;MV,"martin2011creek[142,337-343]"
+cree1270-hierarchical-indexing,cree1270,hierarchical-indexing,False,AWM;DI;MV,"martin2011creek[142,337-343]"
 cube1242-align-noun,cube1242,align-noun,accusative;no marking,AWM;HT,"chacon2012cubeo[311-314];morse1999cubeo[110-111,83]"
 cube1242-align-pro,cube1242,align-pro,accusative,AWM;HT,"chacon2012cubeo[311-314];morse1999cubeo[110-111,83]"
 cube1242-align-index,cube1242,align-index,accusative,HT,"chacon2012cubeo[311-314];morse1999cubeo[110-111,83]"
@@ -4113,7 +4113,7 @@ eyak1241-ref-sensitive,eyak1241,ref-sensitive,False,HT,"krauss1965eyak[106-107,1
 eyak1241-ref-sensitive-domain,eyak1241,ref-sensitive-domain,NA,HT,"krauss1965eyak[106-107,169]"
 eyak1241-S!=A flagging,eyak1241,S!=A flagging,False,HT,"krauss1965eyak[106-107,169]"
 eyak1241-S!=A indexing,eyak1241,S!=A indexing,False,HT,"krauss1965eyak[106-107,169]"
-eyak1241-hierarchical-indexing,eyak1241,hierarchical-indexing,True,HT,"krauss1965eyak[106-107,169]"
+eyak1241-hierarchical-indexing,eyak1241,hierarchical-indexing,False,HT,"krauss1965eyak[106-107,169]"
 fuln1247-align-noun,fuln1247,align-noun,no marking,DI,"dasilva2016yaathe[142-145,21,64-78]"
 fuln1247-align-pro,fuln1247,align-pro,no marking,DI,"dasilva2016yaathe[142-145,21,64-78]"
 fuln1247-align-index,fuln1247,align-index,no marking,DI,"dasilva2016yaathe[142-145,21,64-78]"
@@ -5149,8 +5149,8 @@ koas1236-ref-horizontal-domain,koas1236,ref-horizontal-domain,NA,AWM,kimball1991
 koas1236-ref-sensitive,koas1236,ref-sensitive,False,AWM,kimball1991koasati[389-394]
 koas1236-ref-sensitive-domain,koas1236,ref-sensitive-domain,NA,AWM,kimball1991koasati[389-394]
 koas1236-S!=A flagging,koas1236,S!=A flagging,False,AWM,kimball1991koasati[389-394]
-koas1236-S!=A indexing,koas1236,S!=A indexing,False,AWM,kimball1991koasati[389-394]
-koas1236-hierarchical-indexing,koas1236,hierarchical-indexing,True,AWM,kimball1991koasati[389-394]
+koas1236-S!=A indexing,koas1236,S!=A indexing,True,AWM,kimball1991koasati[389-394]
+koas1236-hierarchical-indexing,koas1236,hierarchical-indexing,False,AWM,kimball1991koasati[389-394]
 koyr1242-align-noun,koyr1242,align-noun,no marking,AWM,heath1999koyraboro[79]
 koyr1242-align-pro,koyr1242,align-pro,no marking,AWM,heath1999koyraboro[79]
 koyr1242-align-index,koyr1242,align-index,no marking,AWM,heath1999koyraboro[79]
@@ -5285,8 +5285,8 @@ kute1249-ref-horizontal-domain,kute1249,ref-horizontal-domain,NA,AWM;DI;KMB,"mor
 kute1249-ref-sensitive,kute1249,ref-sensitive,True,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
 kute1249-ref-sensitive-domain,kute1249,ref-sensitive-domain,Verb,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
 kute1249-S!=A flagging,kute1249,S!=A flagging,False,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
-kute1249-S!=A indexing,kute1249,S!=A indexing,False,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
-kute1249-hierarchical-indexing,kute1249,hierarchical-indexing,True,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
+kute1249-S!=A indexing,kute1249,S!=A indexing,True,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
+kute1249-hierarchical-indexing,kute1249,hierarchical-indexing,False,AWM;DI;KMB,"morgan1992kutenai[36,387-388]"
 kwak1269-align-noun,kwak1269,align-noun,accusative,DI,littell2016kwakwala[558];rosenblum2013kwakwala[106-111]
 kwak1269-align-pro,kwak1269,align-pro,accusative,DI,littell2016kwakwala[558];rosenblum2013kwakwala[106-111]
 kwak1269-align-index,kwak1269,align-index,no marking,DI,littell2016kwakwala[558];rosenblum2013kwakwala[106-111]
@@ -5677,7 +5677,7 @@ mari1440-ref-sensitive,mari1440,ref-sensitive,True,AN;HT,"gordon1986maricopa[36-
 mari1440-ref-sensitive-domain,mari1440,ref-sensitive-domain,Verb,AN;HT,"gordon1986maricopa[36-37,58-59]"
 mari1440-S!=A flagging,mari1440,S!=A flagging,False,AN;HT,"gordon1986maricopa[36-37,58-59]"
 mari1440-S!=A indexing,mari1440,S!=A indexing,False,AN;HT,"gordon1986maricopa[36-37,58-59]"
-mari1440-hierarchical-indexing,mari1440,hierarchical-indexing,True,AN;HT,"gordon1986maricopa[36-37,58-59]"
+mari1440-hierarchical-indexing,mari1440,hierarchical-indexing,False,AN;HT,"gordon1986maricopa[36-37,58-59]"
 mart1255-align-noun,mart1255,align-noun,accusative,HT,"dench1995martuthunira[100-101,110-111,221,65-67]"
 mart1255-align-pro,mart1255,align-pro,accusative,HT,"dench1995martuthunira[100-101,110-111,221,65-67]"
 mart1255-align-index,mart1255,align-index,no marking,AWM,"dench1995martuthunira[100-101,110-111,221,65-67]"
@@ -7733,8 +7733,8 @@ tute1247-ref-horizontal-domain,tute1247,ref-horizontal-domain,NA,AWM;HT,"oliveri
 tute1247-ref-sensitive,tute1247,ref-sensitive,False,AWM;HT,"oliverio1996tutelo[148-150,170-171]"
 tute1247-ref-sensitive-domain,tute1247,ref-sensitive-domain,NA,AWM;HT,"oliverio1996tutelo[148-150,170-171]"
 tute1247-S!=A flagging,tute1247,S!=A flagging,False,AWM;HT,"oliverio1996tutelo[148-150,170-171]"
-tute1247-S!=A indexing,tute1247,S!=A indexing,False,AWM;HT,"oliverio1996tutelo[148-150,170-171]"
-tute1247-hierarchical-indexing,tute1247,hierarchical-indexing,True,AWM;HT,"oliverio1996tutelo[148-150,170-171]"
+tute1247-S!=A indexing,tute1247,S!=A indexing,True,AWM;HT,"oliverio1996tutelo[148-150,170-171]"
+tute1247-hierarchical-indexing,tute1247,hierarchical-indexing,False,AWM;HT,"oliverio1996tutelo[148-150,170-171]"
 uppe1439-align-noun,uppe1439,align-noun,no marking,DI,"kinkade1963upperchehalis[116-129,58]"
 uppe1439-align-pro,uppe1439,align-pro,no marking,DI,"kinkade1963upperchehalis[116-129,58]"
 uppe1439-align-index,uppe1439,align-index,accusative,DI,"kinkade1963upperchehalis[116-129,58]"
@@ -7751,7 +7751,7 @@ uppe1439-ref-sensitive,uppe1439,ref-sensitive,False,DI,"kinkade1963upperchehalis
 uppe1439-ref-sensitive-domain,uppe1439,ref-sensitive-domain,NA,DI,"kinkade1963upperchehalis[116-129,58]"
 uppe1439-S!=A flagging,uppe1439,S!=A flagging,False,DI,"kinkade1963upperchehalis[116-129,58]"
 uppe1439-S!=A indexing,uppe1439,S!=A indexing,False,DI,"kinkade1963upperchehalis[116-129,58]"
-uppe1439-hierarchical-indexing,uppe1439,hierarchical-indexing,True,DI,"kinkade1963upperchehalis[116-129,58]"
+uppe1439-hierarchical-indexing,uppe1439,hierarchical-indexing,False,DI,"kinkade1963upperchehalis[116-129,58]"
 urar1246-align-noun,urar1246,align-noun,no marking,HT,olawsky2006urarina[213-214]
 urar1246-align-pro,urar1246,align-pro,no marking,HT,olawsky2006urarina[213-214]
 urar1246-align-index,urar1246,align-index,accusative,HT,olawsky2006urarina[213-214]
@@ -8005,8 +8005,8 @@ wich1260-ref-horizontal-domain,wich1260,ref-horizontal-domain,NA,AWM;HT;NCP,"roo
 wich1260-ref-sensitive,wich1260,ref-sensitive,True,AWM;HT;NCP,"rood1976wichita[3,6]"
 wich1260-ref-sensitive-domain,wich1260,ref-sensitive-domain,Verb,AWM;HT;NCP,"rood1976wichita[3,6]"
 wich1260-S!=A flagging,wich1260,S!=A flagging,False,AWM,"rood1976wichita[3,6]"
-wich1260-S!=A indexing,wich1260,S!=A indexing,False,AWM,"rood1976wichita[3,6]"
-wich1260-hierarchical-indexing,wich1260,hierarchical-indexing,True,AWM,"rood1976wichita[3,6]"
+wich1260-S!=A indexing,wich1260,S!=A indexing,True,AWM,"rood1976wichita[3,6]"
+wich1260-hierarchical-indexing,wich1260,hierarchical-indexing,False,AWM,"rood1976wichita[3,6]"
 wich1262-align-noun,wich1262,align-noun,no marking,DI,"terraza2009wichi[129,99-101]"
 wich1262-align-pro,wich1262,align-pro,no marking,DI,"terraza2009wichi[129,99-101]"
 wich1262-align-index,wich1262,align-index,tripartite,DI,"terraza2009wichi[129,99-101]"
