@@ -3161,7 +3161,7 @@ awac1239-ref-sensitive,awac1239,ref-sensitive,True,AWM;DI;HT;MV,"curnow1997awacu
 awac1239-ref-sensitive-domain,awac1239,ref-sensitive-domain,Verb,AWM;DI;HT;MV,"curnow1997awacuaiquer[64-65,85-86]"
 awac1239-S!=A flagging,awac1239,S!=A flagging,False,AWM;DI;MV,"curnow1997awacuaiquer[64-65,85-86]"
 awac1239-S!=A indexing,awac1239,S!=A indexing,True,AWM;DI;MV,"curnow1997awacuaiquer[64-65,85-86]"
-awac1239-hierarchical-indexing,awac1239,hierarchical-indexing,False,AWM;DI;MV,"curnow1997awacuaiquer[64-65,85-86]"
+awac1239-hierarchical-indexing,awac1239,hierarchical-indexing,True,AWM;DI;MV,"curnow1997awacuaiquer[64-65,85-86]"
 awet1244-align-noun,awet1244,align-noun,no marking,NCP,"reiter2011aweti[107-109,99]"
 awet1244-align-pro,awet1244,align-pro,no marking,NCP,"reiter2011aweti[107-109,99]"
 awet1244-align-index,awet1244,align-index,sensitive,AWM;NCP,"reiter2011aweti[107-109,99]"
@@ -3177,7 +3177,7 @@ awet1244-ref-horizontal-domain,awet1244,ref-horizontal-domain,NA,AWM;NCP,"reiter
 awet1244-ref-sensitive,awet1244,ref-sensitive,True,AWM;NCP,"reiter2011aweti[107-109,99]"
 awet1244-ref-sensitive-domain,awet1244,ref-sensitive-domain,Verb,AWM;NCP,"reiter2011aweti[107-109,99]"
 awet1244-S!=A flagging,awet1244,S!=A flagging,False,AWM;NCP,"reiter2011aweti[107-109,99]"
-awet1244-S!=A indexing,awet1244,S!=A indexing,False,AWM;NCP,"reiter2011aweti[107-109,99]"
+awet1244-S!=A indexing,awet1244,S!=A indexing,True,AWM;NCP,"reiter2011aweti[107-109,99]"
 awet1244-hierarchical-indexing,awet1244,hierarchical-indexing,True,AWM;NCP,"reiter2011aweti[107-109,99]"
 ayor1240-align-noun,ayor1240,align-noun,no marking,HT,"bertinetto2009ayoreo[17-18,31-32,40]"
 ayor1240-align-pro,ayor1240,align-pro,no marking,HT,"bertinetto2009ayoreo[17-18,31-32,40]"
@@ -3653,7 +3653,7 @@ chim1301-ref-horizontal-domain,chim1301,ref-horizontal-domain,NA,AWM,jany2009chi
 chim1301-ref-sensitive,chim1301,ref-sensitive,True,AWM,jany2009chimariko;mithun2012core
 chim1301-ref-sensitive-domain,chim1301,ref-sensitive-domain,Verb,AWM,jany2009chimariko;mithun2012core
 chim1301-S!=A flagging,chim1301,S!=A flagging,False,AWM,jany2009chimariko;mithun2012core
-chim1301-S!=A indexing,chim1301,S!=A indexing,False,AWM,jany2009chimariko;mithun2012core
+chim1301-S!=A indexing,chim1301,S!=A indexing,True,AWM,jany2009chimariko;mithun2012core
 chim1301-hierarchical-indexing,chim1301,hierarchical-indexing,True,AWM,jany2009chimariko;mithun2012core
 chim1309-align-noun,chim1309,align-noun,ergative,DI,trillos1996chimila[106-110]
 chim1309-align-pro,chim1309,align-pro,ergative,DI,trillos1996chimila[106-110]
@@ -4043,8 +4043,8 @@ emer1243-ref-horizontal,emer1243,ref-horizontal,False,DI;NCP,"rose2011emerillon[
 emer1243-ref-horizontal-domain,emer1243,ref-horizontal-domain,NA,DI;NCP,"rose2011emerillon[122-127,72-77]"
 emer1243-ref-sensitive,emer1243,ref-sensitive,True,DI;NCP,"rose2011emerillon[122-127,72-77]"
 emer1243-ref-sensitive-domain,emer1243,ref-sensitive-domain,Pro;Verb,DI;NCP,"rose2011emerillon[122-127,72-77]"
-emer1243-S!=A flagging,emer1243,S!=A flagging,False,NCP,"rose2011emerillon[122-127,72-77]"
-emer1243-S!=A indexing,emer1243,S!=A indexing,False,NCP,"rose2011emerillon[122-127,72-77]"
+emer1243-S!=A flagging,emer1243,S!=A flagging,True,NCP,"rose2011emerillon[122-127,72-77]"
+emer1243-S!=A indexing,emer1243,S!=A indexing,True,NCP,"rose2011emerillon[122-127,72-77]"
 emer1243-hierarchical-indexing,emer1243,hierarchical-indexing,True,NCP,"rose2011emerillon[122-127,72-77]"
 enap1235-align-noun,enap1235,align-noun,no marking,HT,"payne2013panare[205,238,288,88-89]"
 enap1235-align-pro,enap1235,align-pro,no marking,HT,"payne2013panare[205,238,288,88-89]"
@@ -4282,7 +4282,7 @@ guah1255-ref-horizontal-domain,guah1255,ref-horizontal-domain,NA,AN,"queixalos19
 guah1255-ref-sensitive,guah1255,ref-sensitive,True,AN,"queixalos1995sikuani[14,7]"
 guah1255-ref-sensitive-domain,guah1255,ref-sensitive-domain,Verb,AN,"queixalos1995sikuani[14,7]"
 guah1255-S!=A flagging,guah1255,S!=A flagging,False,AN,"queixalos1995sikuani[14,7]"
-guah1255-S!=A indexing,guah1255,S!=A indexing,False,AN,"queixalos1995sikuani[14,7]"
+guah1255-S!=A indexing,guah1255,S!=A indexing,True,AN,"queixalos1995sikuani[14,7]"
 guah1255-hierarchical-indexing,guah1255,hierarchical-indexing,True,AN,"queixalos1995sikuani[14,7]"
 guan1269-align-noun,guan1269,align-noun,accusative;no marking,HT,"stenzel2013kotiria[142,145-146,161,323-324,327-329,422]"
 guan1269-align-pro,guan1269,align-pro,accusative;no marking,HT,"stenzel2013kotiria[142,145-146,161,323-324,327-329,422]"
@@ -4435,7 +4435,7 @@ high1276-ref-horizontal-domain,high1276,ref-horizontal-domain,NA,AWM;DI;HT;MV,"b
 high1276-ref-sensitive,high1276,ref-sensitive,True,AWM;DI;HT;MV,"boudreault2009popoluca[155,179]"
 high1276-ref-sensitive-domain,high1276,ref-sensitive-domain,Verb,AWM;DI;HT;MV,"boudreault2009popoluca[155,179]"
 high1276-S!=A flagging,high1276,S!=A flagging,False,AWM;DI;MV,"boudreault2009popoluca[155,179]"
-high1276-S!=A indexing,high1276,S!=A indexing,False,AWM;DI;MV,"boudreault2009popoluca[155,179]"
+high1276-S!=A indexing,high1276,S!=A indexing,True,AWM;DI;MV,"boudreault2009popoluca[155,179]"
 high1276-hierarchical-indexing,high1276,hierarchical-indexing,True,AWM;DI;MV,"boudreault2009popoluca[155,179]"
 hixk1239-align-noun,hixk1239,align-noun,no marking,HT,"derbyshire1979syntax[127,151,86-87]"
 hixk1239-align-pro,hixk1239,align-pro,no marking,HT,"derbyshire1979syntax[127,151,86-87]"
@@ -4571,7 +4571,7 @@ ikpe1245-ref-horizontal-domain,ikpe1245,ref-horizontal-domain,NA,AWM;DI;MV,pache
 ikpe1245-ref-sensitive,ikpe1245,ref-sensitive,True,AWM;DI;MV,pacheco2001ikpeng[148-151]
 ikpe1245-ref-sensitive-domain,ikpe1245,ref-sensitive-domain,Verb,AWM;DI;MV,pacheco2001ikpeng[148-151]
 ikpe1245-S!=A flagging,ikpe1245,S!=A flagging,False,AWM;DI;MV,pacheco2001ikpeng[148-151]
-ikpe1245-S!=A indexing,ikpe1245,S!=A indexing,False,AWM;DI;MV,pacheco2001ikpeng[148-151]
+ikpe1245-S!=A indexing,ikpe1245,S!=A indexing,True,AWM;DI;MV,pacheco2001ikpeng[148-151]
 ikpe1245-hierarchical-indexing,ikpe1245,hierarchical-indexing,True,AWM;DI;MV,pacheco2001ikpeng[148-151]
 imba1240-align-noun,imba1240,align-noun,accusative,HT,"peter1985imbabura[102-103,129]"
 imba1240-align-pro,imba1240,align-pro,accusative,HT,"peter1985imbabura[102-103,129]"
@@ -5098,7 +5098,7 @@ kiow1266-ref-horizontal-domain,kiow1266,ref-horizontal-domain,NA,AN;DI,"watkins1
 kiow1266-ref-sensitive,kiow1266,ref-sensitive,True,AN;DI,"watkins1984kiowa[100-101,204]"
 kiow1266-ref-sensitive-domain,kiow1266,ref-sensitive-domain,Verb,AN;DI,"watkins1984kiowa[100-101,204]"
 kiow1266-S!=A flagging,kiow1266,S!=A flagging,False,AN;DI,"watkins1984kiowa[100-101,204]"
-kiow1266-S!=A indexing,kiow1266,S!=A indexing,False,AN;DI,"watkins1984kiowa[100-101,204]"
+kiow1266-S!=A indexing,kiow1266,S!=A indexing,True,AN;DI,"watkins1984kiowa[100-101,204]"
 kiow1266-hierarchical-indexing,kiow1266,hierarchical-indexing,True,AN;DI,"watkins1984kiowa[100-101,204]"
 kitj1240-align-noun,kitj1240,align-noun,no marking,AWM,kofod1996kija[1-188]
 kitj1240-align-pro,kitj1240,align-pro,no marking,AWM,kofod1996kija[1-188]
@@ -5982,7 +5982,7 @@ mund1330-ref-horizontal-domain,mund1330,ref-horizontal-domain,NA,DI,"gomes2006mu
 mund1330-ref-sensitive,mund1330,ref-sensitive,True,DI,"gomes2006munduruku[24,243,86]"
 mund1330-ref-sensitive-domain,mund1330,ref-sensitive-domain,Verb,DI,"gomes2006munduruku[24,243,86]"
 mund1330-S!=A flagging,mund1330,S!=A flagging,False,DI,"gomes2006munduruku[24,243,86]"
-mund1330-S!=A indexing,mund1330,S!=A indexing,False,DI,"gomes2006munduruku[24,243,86]"
+mund1330-S!=A indexing,mund1330,S!=A indexing,True,DI,"gomes2006munduruku[24,243,86]"
 mund1330-hierarchical-indexing,mund1330,hierarchical-indexing,True,DI,"gomes2006munduruku[24,243,86]"
 muni1258-align-noun,muni1258,align-noun,no marking,DI,"proyecto2009muniche[15,20,8-9]"
 muni1258-align-pro,muni1258,align-pro,accusative,DI,"proyecto2009muniche[15,20,8-9]"
@@ -6390,7 +6390,7 @@ nucl1302-ref-horizontal-domain,nucl1302,ref-horizontal-domain,Verb,AWM,"gurevich
 nucl1302-ref-sensitive,nucl1302,ref-sensitive,True,AWM,"gurevich2006constructional[75-80];hewitt1987georgian[33-50,77]"
 nucl1302-ref-sensitive-domain,nucl1302,ref-sensitive-domain,Verb,AWM,"gurevich2006constructional[75-80];hewitt1987georgian[33-50,77]"
 nucl1302-S!=A flagging,nucl1302,S!=A flagging,True,AWM,"gurevich2006constructional[75-80];hewitt1987georgian[33-50,77]"
-nucl1302-S!=A indexing,nucl1302,S!=A indexing,False,AWM,"gurevich2006constructional[75-80];hewitt1987georgian[33-50,77]"
+nucl1302-S!=A indexing,nucl1302,S!=A indexing,True,AWM,"gurevich2006constructional[75-80];hewitt1987georgian[33-50,77]"
 nucl1302-hierarchical-indexing,nucl1302,hierarchical-indexing,True,AWM,"gurevich2006constructional[75-80];hewitt1987georgian[33-50,77]"
 nucl1327-align-noun,nucl1327,align-noun,no marking,AWM;HT,harvey2001limilngan
 nucl1327-align-pro,nucl1327,align-pro,no marking,AWM;HT,harvey2001limilngan
@@ -6509,7 +6509,7 @@ nuuc1236-ref-horizontal-domain,nuuc1236,ref-horizontal-domain,NA,AWM;DI,woo2007n
 nuuc1236-ref-sensitive,nuuc1236,ref-sensitive,True,AWM;DI,woo2007nuuchahnulth[178-180]
 nuuc1236-ref-sensitive-domain,nuuc1236,ref-sensitive-domain,Verb,AWM;DI,woo2007nuuchahnulth[178-180]
 nuuc1236-S!=A flagging,nuuc1236,S!=A flagging,False,DI,woo2007nuuchahnulth[178-180]
-nuuc1236-S!=A indexing,nuuc1236,S!=A indexing,False,DI,woo2007nuuchahnulth[178-180]
+nuuc1236-S!=A indexing,nuuc1236,S!=A indexing,True,DI,woo2007nuuchahnulth[178-180]
 nuuc1236-hierarchical-indexing,nuuc1236,hierarchical-indexing,True,DI,woo2007nuuchahnulth[178-180]
 ofay1240-align-noun,ofay1240,align-noun,no marking,DI,"oliveira2006ofaye[196-197,94-95]"
 ofay1240-align-pro,ofay1240,align-pro,no marking,DI,"oliveira2006ofaye[196-197,94-95]"
@@ -6543,7 +6543,7 @@ olut1240-ref-horizontal-domain,olut1240,ref-horizontal-domain,NA,AWM;HT,"zavala2
 olut1240-ref-sensitive,olut1240,ref-sensitive,True,AWM;HT,"zavala2000olutec[149-150,49-51]"
 olut1240-ref-sensitive-domain,olut1240,ref-sensitive-domain,Verb,AWM;HT,"zavala2000olutec[149-150,49-51]"
 olut1240-S!=A flagging,olut1240,S!=A flagging,False,AWM;HT,"zavala2000olutec[149-150,49-51]"
-olut1240-S!=A indexing,olut1240,S!=A indexing,False,AWM;HT,"zavala2000olutec[149-150,49-51]"
+olut1240-S!=A indexing,olut1240,S!=A indexing,True,AWM;HT,"zavala2000olutec[149-150,49-51]"
 olut1240-hierarchical-indexing,olut1240,hierarchical-indexing,True,AWM;HT,"zavala2000olutec[149-150,49-51]"
 otta1242-align-noun,otta1242,align-noun,no marking,DI,"valentine2001ottawa[122-123,173,183-184]"
 otta1242-align-pro,otta1242,align-pro,no marking,DI,"valentine2001ottawa[122-123,173,183-184]"
@@ -6611,7 +6611,7 @@ para1311-ref-horizontal-domain,para1311,ref-horizontal-domain,NA,NCP,"estigarrib
 para1311-ref-sensitive,para1311,ref-sensitive,True,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
 para1311-ref-sensitive-domain,para1311,ref-sensitive-domain,Verb,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
 para1311-S!=A flagging,para1311,S!=A flagging,False,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
-para1311-S!=A indexing,para1311,S!=A indexing,False,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
+para1311-S!=A indexing,para1311,S!=A indexing,True,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
 para1311-hierarchical-indexing,para1311,hierarchical-indexing,True,NCP,"estigarriba2020paraguayanguarani[105-106,132-133,69-70]"
 pare1272-align-noun,pare1272,align-noun,no marking,HT,brandao2014paresiphd[85-87]
 pare1272-align-pro,pare1272,align-pro,no marking,HT,brandao2014paresiphd[85-87]
@@ -7002,7 +7002,7 @@ seri1257-ref-horizontal-domain,seri1257,ref-horizontal-domain,NA,AWM;DI,marlett2
 seri1257-ref-sensitive,seri1257,ref-sensitive,True,AWM;DI,marlett2005seri[136]
 seri1257-ref-sensitive-domain,seri1257,ref-sensitive-domain,Verb,AWM;DI,marlett2005seri[136]
 seri1257-S!=A flagging,seri1257,S!=A flagging,False,AWM;DI,marlett2005seri[136]
-seri1257-S!=A indexing,seri1257,S!=A indexing,False,AWM;DI,marlett2005seri[136]
+seri1257-S!=A indexing,seri1257,S!=A indexing,True,AWM;DI,marlett2005seri[136]
 seri1257-hierarchical-indexing,seri1257,hierarchical-indexing,True,AWM;DI,marlett2005seri[136]
 shab1252-align-noun,shab1252,align-noun,accusative,AWM;HT,kibebe2015chabu[143-147]
 shab1252-align-pro,shab1252,align-pro,accusative,AWM;HT,kibebe2015chabu[143-147]
@@ -7597,7 +7597,7 @@ toto1305-ref-horizontal-domain,toto1305,ref-horizontal-domain,NA,DI,"guzman2012t
 toto1305-ref-sensitive,toto1305,ref-sensitive,True,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
 toto1305-ref-sensitive-domain,toto1305,ref-sensitive-domain,Verb,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
 toto1305-S!=A flagging,toto1305,S!=A flagging,False,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
-toto1305-S!=A indexing,toto1305,S!=A indexing,False,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
+toto1305-S!=A indexing,toto1305,S!=A indexing,True,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
 toto1305-hierarchical-indexing,toto1305,hierarchical-indexing,True,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
 trin1274-align-noun,trin1274,align-noun,no marking,DI,"rose2015sketch[71,90]"
 trin1274-align-pro,trin1274,align-pro,no marking,DI,"rose2015sketch[71,90]"
@@ -7698,7 +7698,7 @@ tupi1273-ref-horizontal,tupi1273,ref-horizontal,False,DI;NCP,"barbosa1956tupi[11
 tupi1273-ref-horizontal-domain,tupi1273,ref-horizontal-domain,NA,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-ref-sensitive,tupi1273,ref-sensitive,True,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-ref-sensitive-domain,tupi1273,ref-sensitive-domain,Pro;Verb,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
-tupi1273-S!=A flagging,tupi1273,S!=A flagging,False,NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
+tupi1273-S!=A flagging,tupi1273,S!=A flagging,True,NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-S!=A indexing,tupi1273,S!=A indexing,True,NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-hierarchical-indexing,tupi1273,hierarchical-indexing,False,NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tusc1257-align-noun,tusc1257,align-noun,no marking,HT,williams1974tuscarora[14]
@@ -7818,7 +7818,7 @@ waim1253-ref-horizontal-domain,waim1253,ref-horizontal-domain,Verb,AWM;HT,bruno2
 waim1253-ref-sensitive,waim1253,ref-sensitive,True,AWM;HT,bruno2003waimiriatroari[128]
 waim1253-ref-sensitive-domain,waim1253,ref-sensitive-domain,Verb,AWM;HT,bruno2003waimiriatroari[128]
 waim1253-S!=A flagging,waim1253,S!=A flagging,False,AWM;HT,bruno2003waimiriatroari[128]
-waim1253-S!=A indexing,waim1253,S!=A indexing,False,AWM;HT,bruno2003waimiriatroari[128]
+waim1253-S!=A indexing,waim1253,S!=A indexing,True,AWM;HT,bruno2003waimiriatroari[128]
 waim1253-hierarchical-indexing,waim1253,hierarchical-indexing,True,AWM;HT,bruno2003waimiriatroari[128]
 wang1291-align-noun,wang1291,align-noun,ergative,HT,"donaldson1980ngiyambaa[120-127,81-83]"
 wang1291-align-pro,wang1291,align-pro,accusative,HT,"donaldson1980ngiyambaa[120-127,81-83]"
@@ -7988,7 +7988,7 @@ west2632-ref-horizontal-domain,west2632,ref-horizontal-domain,Verb,DI,lachler200
 west2632-ref-sensitive,west2632,ref-sensitive,True,DI,lachler2006keres[54]
 west2632-ref-sensitive-domain,west2632,ref-sensitive-domain,Verb,DI,lachler2006keres[54]
 west2632-S!=A flagging,west2632,S!=A flagging,False,DI,lachler2006keres[54]
-west2632-S!=A indexing,west2632,S!=A indexing,False,DI,lachler2006keres[54]
+west2632-S!=A indexing,west2632,S!=A indexing,True,DI,lachler2006keres[54]
 west2632-hierarchical-indexing,west2632,hierarchical-indexing,True,DI,lachler2006keres[54]
 wich1260-align-noun,wich1260,align-noun,no marking,HT;NCP,"rood1976wichita[3,6]"
 wich1260-align-pro,wich1260,align-pro,NA,HT;NCP,"rood1976wichita[3,6]"

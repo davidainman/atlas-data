@@ -1,8 +1,8 @@
 Level,Variable,Value,Count,Percentage
-Language,S!=A flagging,False,262,0.8061538461538461
-Language,S!=A flagging,True,63,0.19384615384615383
-Language,S!=A indexing,False,205,0.6307692307692307
-Language,S!=A indexing,True,120,0.36923076923076925
+Language,S!=A flagging,False,260,0.8
+Language,S!=A flagging,True,65,0.2
+Language,S!=A indexing,False,189,0.5815384615384616
+Language,S!=A indexing,True,136,0.41846153846153844
 Language,align-index,accusative,121,0.3865814696485623
 Language,align-index,accusative;no marking,7,0.022364217252396165
 Language,align-index,accusative;no marking;sensitive,1,0.003194888178913738
