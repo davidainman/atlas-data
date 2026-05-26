@@ -1871,7 +1871,7 @@ nuuc1236-1sg-enclitic-indexing-marker,nuuc1236,indexing marker,1sg enclitic,over
 nuuc1236-2pl-enclitic-indexing-marker,nuuc1236,indexing marker,2pl enclitic,overt,person+number,emanatian1988nootka[267-277],DI,2pl,2pl,2pl_3pl-high;2pl_3pl-low;2pl_3sg-high;2pl_3sg-low,neutral
 nuuc1236-2sg-enclitic-indexing-marker,nuuc1236,indexing marker,2sg enclitic,overt,person+number,emanatian1988nootka[267-277],DI,2sg,2sg,2sg_3pl-high;2sg_3pl-low;2sg_3sg-high;2sg_3sg-low,neutral
 nuuc1236-3-enclitic-indexing-marker,nuuc1236,indexing marker,3 enclitic,overt,person,emanatian1988nootka[267-277],DI,3pl-high;3pl-low;3sg-high;3sg-low,3pl-high_3pl-low;3pl-high_3sg-low;3pl-low_3pl-high;3pl-low_3sg-high;3sg-high_3pl-low;3sg-high_3sg-low;3sg-low_3pl-high;3sg-low_3sg-high,NONE,accusative
-nuuc1236-3pl-enclitic-indexing-marker,nuuc1236,indexing marker,3pl enclitic,overt,person+number,emanatian1988nootka[267-277],DI,3pl-high;3pl-low,3pl-high;3pl-low,3pl-high;3pl-low,neutral
+nuuc1236-3pl-enclitic-indexing-marker,nuuc1236,indexing marker,3pl enclitic,overt,number,emanatian1988nootka[267-277],DI,3pl-high;3pl-low,3pl-high;3pl-low,3pl-high;3pl-low,neutral
 nuuc1236-acc-case-flagging,nuuc1236,flagging,ACC case,overt,,woo2007nuuchahnulth[178-180],AWM,NONE,NONE,any,accusative
 nuuc1236-no-flagging,nuuc1236,flagging,NO_FLAGGING,zero,,woo2007nuuchahnulth[178-180],AWM,any,any,any,neutral
 nuuc1236-null-marker,nuuc1236,indexing marker,NULL_MARKER,zero,person+number,emanatian1988nootka[267-277],DI,3pl-high;3pl-low,3pl-high;3pl-low,3pl-high;3pl-low,neutral

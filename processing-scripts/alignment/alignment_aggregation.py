@@ -1411,7 +1411,7 @@ def regularize_role(role_string, possible_coargs):
     role_values = [re.sub("_slot:(clitic )?[^_\&]*(?= &&|$)","",x) for x in role_values]
     # remove meaningless && zeros
     role_values = [re.sub("[^\&]*_zero(_coarg:[^&]+) \&\&(.*)","\\2:\\1",x) for x in role_values]
-    role_values = [re.sub("\&\&[^\&]*zero[^\&]*(_coarg:[^ ]*)","\\1",x) for x in role_values]
+    role_values = [re.sub(" ?\&\&[^\&]*zero[^\&]*(_coarg:[^ ]*)","\\1",x) for x in role_values]
     role_values = [re.sub("[^\&]*_zero[^&]*\&\&|\&\&[^&]*zero[^&]*","",x) for x in role_values]
     role_values = [x.strip() for x in role_values]
     if (any([":else" in x for x in role_values])):

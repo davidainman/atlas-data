@@ -1471,7 +1471,7 @@ nung1290-coargument-sensitivity flagging,nung1290,coargument-sensitivity flaggin
 nung1290-coargument-sensitivity indexing,nung1290,coargument-sensitivity indexing,yes,AN,"heath1984functional[167,242-243,348-359]"
 nuuc1236-flagging,nuuc1236,flagging,True,AWM,woo2007nuuchahnulth[178-180]
 nuuc1236-indexing,nuuc1236,indexing,True,DI,woo2007nuuchahnulth[178-180]
-nuuc1236-indexing-features,nuuc1236,indexing-features,person;person+number,DI,woo2007nuuchahnulth[178-180]
+nuuc1236-indexing-features,nuuc1236,indexing-features,number;person;person+number,DI,woo2007nuuchahnulth[178-180]
 nuuc1236-tam-split,nuuc1236,tam-split,False,AWM;DI,emanatian1988nootka[267-277];woo2007nuuchahnulth[178-180]
 nuuc1236-split-s,nuuc1236,split-s,False,AWM;DI,emanatian1988nootka[267-277];woo2007nuuchahnulth[178-180]
 nuuc1236-coargument-sensitivity flagging,nuuc1236,coargument-sensitivity flagging,no,AWM;DI,emanatian1988nootka[267-277];woo2007nuuchahnulth[178-180]
@@ -6299,7 +6299,7 @@ nuuc1236-ref-horizontal-domain,nuuc1236,ref-horizontal-domain,NA,AWM;DI,woo2007n
 nuuc1236-ref-sensitive,nuuc1236,ref-sensitive,True,AWM;DI,woo2007nuuchahnulth[178-180]
 nuuc1236-ref-sensitive-domain,nuuc1236,ref-sensitive-domain,Verb,AWM;DI,woo2007nuuchahnulth[178-180]
 nuuc1236-S!=A flagging,nuuc1236,S!=A flagging,False,DI,woo2007nuuchahnulth[178-180]
-nuuc1236-S!=A indexing,nuuc1236,S!=A indexing,True,DI,woo2007nuuchahnulth[178-180]
+nuuc1236-S!=A indexing,nuuc1236,S!=A indexing,False,DI,woo2007nuuchahnulth[178-180]
 ofay1240-align-noun,ofay1240,align-noun,no marking,DI,"oliveira2006ofaye[196-197,94-95]"
 ofay1240-align-pro,ofay1240,align-pro,no marking,DI,"oliveira2006ofaye[196-197,94-95]"
 ofay1240-align-index,ofay1240,align-index,accusative,DI,"oliveira2006ofaye[196-197,94-95]"

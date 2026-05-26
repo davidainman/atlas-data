@@ -210,7 +210,7 @@ nucl1632,False,True,True,False,person+number,False,NA,no marking,no marking,accu
 nucl1633,True,True,False,False,number;person;person+number,False,NA,ergative;no marking,ergative;no marking,accusative,ergative;no marking,ergative;no marking,accusative,True,Noun;Pro,False,NA,False,NA,False,NA,no,no,True,False
 nucl1649,True,True,False,False,person;person+number,True,Miscellaneous_condition+Reference,overt neutral,ergative;tripartite,sensitive,overt neutral,ergative;tripartite,tripartite,True,Noun;Pro,True,Pro,True,Noun,True,Verb,no,yes,True,True
 nung1290,False,True,False,False,gender;number;person+number,False,NA,no marking,no marking,tripartite,no marking,no marking,tripartite,False,NA,True,Verb,False,NA,True,Verb,no,yes,False,True
-nuuc1236,True,True,False,False,person;person+number,True,Miscellaneous_condition,accusative;no marking,accusative;no marking,sensitive,accusative;no marking,accusative;no marking,overt neutral;sensitive,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
+nuuc1236,True,True,False,False,number;person;person+number,True,Miscellaneous_condition,accusative;no marking,accusative;no marking,sensitive,accusative;no marking,accusative;no marking,overt neutral;sensitive,False,NA,False,NA,False,NA,True,Verb,no,yes,False,False
 ofay1240,False,True,False,True,number;person;person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,True,Verb,True,Verb,False,NA,False,NA,no,no,False,True
 olut1240,False,True,False,False,person,False,NA,no marking,no marking,sensitive,no marking,no marking,ergative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
 otta1242,False,True,?,?,?,False,NA,no marking,no marking,NA,no marking,no marking,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
