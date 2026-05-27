@@ -549,6 +549,7 @@ def basic_language_level(contexts, selectors, languages, sensitive_lgs_flagging,
                     (selectors.Glottocode == g)
                     & (selectors.Selector_type == "indexing marker")
                     & (selectors.Marker_type == "overt")
+                    & (selectors.Features != "number")
                 ]
             ) > 0 or languages[languages.Glottocode == g]["sufficient_data_indexing"].values[0] == False
             else "False"

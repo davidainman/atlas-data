@@ -371,8 +371,8 @@ coca1259-split-s,coca1259,split-s,True,AWM;DI;MV,"vallejos2010grammar[201-212];v
 coca1259-coargument-sensitivity flagging,coca1259,coargument-sensitivity flagging,no,AWM;DI;MV,"vallejos2010grammar[201-212];vallejos2016kukama[158-162,262-267]"
 coca1259-coargument-sensitivity indexing,coca1259,coargument-sensitivity indexing,no,AWM;DI;MV,"vallejos2010grammar[201-212];vallejos2016kukama[158-162,262-267]"
 cofa1242-flagging,cofa1242,flagging,True,AWM,hengeveld2018aingae[330-331]
-cofa1242-indexing,cofa1242,indexing,True,AWM,hengeveld2018aingae[330-331]
-cofa1242-indexing-features,cofa1242,indexing-features,number,AWM,hengeveld2018aingae[330-331]
+cofa1242-indexing,cofa1242,indexing,False,AWM,hengeveld2018aingae[330-331]
+cofa1242-indexing-features,cofa1242,indexing-features,NA,AWM,hengeveld2018aingae[330-331]
 cofa1242-tam-split,cofa1242,tam-split,False,AWM,hengeveld2018aingae[330-331]
 cofa1242-split-s,cofa1242,split-s,False,AWM,hengeveld2018aingae[330-331]
 cofa1242-coargument-sensitivity flagging,cofa1242,coargument-sensitivity flagging,no,AWM,hengeveld2018aingae[330-331]
@@ -686,8 +686,8 @@ imba1240-split-s,imba1240,split-s,False,HT,"peter1985imbabura[102-103,129,144]"
 imba1240-coargument-sensitivity flagging,imba1240,coargument-sensitivity flagging,no,HT,"peter1985imbabura[102-103,129,144]"
 imba1240-coargument-sensitivity indexing,imba1240,coargument-sensitivity indexing,no,HT,"peter1985imbabura[102-103,129,144]"
 imon1245-flagging,imon1245,flagging,True,AWM,"seiler1985imonda[138-139,160]"
-imon1245-indexing,imon1245,indexing,True,AWM,"seiler1985imonda[138-139,160]"
-imon1245-indexing-features,imon1245,indexing-features,number,AWM,"seiler1985imonda[138-139,160]"
+imon1245-indexing,imon1245,indexing,False,AWM,"seiler1985imonda[138-139,160]"
+imon1245-indexing-features,imon1245,indexing-features,NA,AWM,"seiler1985imonda[138-139,160]"
 imon1245-tam-split,imon1245,tam-split,False,AWM,"seiler1985imonda[138-139,160,81-85]"
 imon1245-split-s,imon1245,split-s,True,AWM,"seiler1985imonda[138-139,160,81-85]"
 imon1245-coargument-sensitivity flagging,imon1245,coargument-sensitivity flagging,no,AWM,"seiler1985imonda[138-139,160,81-85]"
@@ -2268,8 +2268,8 @@ zapa1253-split-s,zapa1253,split-s,True,DI,"peeke1991zaparo[12-24,26-32]"
 zapa1253-coargument-sensitivity flagging,zapa1253,coargument-sensitivity flagging,no,DI,"peeke1991zaparo[12-24,26-32]"
 zapa1253-coargument-sensitivity indexing,zapa1253,coargument-sensitivity indexing,no,DI,"peeke1991zaparo[12-24,26-32]"
 zuni1245-flagging,zuni1245,flagging,True,AWM,nichols1997zuni[17-18]
-zuni1245-indexing,zuni1245,indexing,True,AWM,nichols1997zuni[17-18]
-zuni1245-indexing-features,zuni1245,indexing-features,number,AWM,nichols1997zuni[17-18]
+zuni1245-indexing,zuni1245,indexing,False,AWM,nichols1997zuni[17-18]
+zuni1245-indexing-features,zuni1245,indexing-features,NA,AWM,nichols1997zuni[17-18]
 zuni1245-tam-split,zuni1245,tam-split,False,AWM,nichols1997zuni[17-18]
 zuni1245-split-s,zuni1245,split-s,False,AWM,nichols1997zuni[17-18]
 zuni1245-coargument-sensitivity flagging,zuni1245,coargument-sensitivity flagging,no,AWM,nichols1997zuni[17-18]

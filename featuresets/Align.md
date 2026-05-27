@@ -434,6 +434,8 @@ Because the conditions that alter the pronominal alignment of Siuslaw cross-cut 
 ### [](ParameterTable#cldf:Align-06)
 &emsp;**{ yes | no }**
 
+We count languages as containing indexing if at least person information is marked on the verb. The marking of number alone (that is, through a [monoexponential plural marker](MonPl)) is insufficient.
+
 #### yes:  Creek \[cree1270\] (Muskogean; United States)
 Creek has a complex method of indexing, explained in more detail [below](#align-07-what-are-the-exemplar-alignments-of-indexing) ([Kimball 2005](Source#cldf:kimball2005natchez): 407-414).
 
