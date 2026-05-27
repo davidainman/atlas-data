@@ -2510,6 +2510,9 @@ choc1276-18,choc1276,choc1276-2pls-a-hash-cl-i-indexing-marker,-2,simple,A,2pl,P
 choc1276-19,choc1276,choc1276-2plp-hachi-cl-ii-indexing-marker,-1,simple,P,2pl,A,any,any,none,any,default,,broadwell2006choctaw[137-143],,MV; DI; AWM
 choc1276-2,choc1276,choc1276-no-flagging,,simple,P,any,A,any,any,none,any,default,default,broadwell2006choctaw[68-75],,AWM
 choc1276-20,choc1276,choc1276-2plp-hachi-cl-ii-indexing-marker,-1,NA,S,2pl,NA,NA,any,NA,non-exemplar,stative,,broadwell2006choctaw[137-143],,MV; DI; AWM
+choc1276-21,choc1276,choc1276-null-marker,-2&-1,simple,S,3,NA,NA,any,NA,any,any,,broadwell2006choctaw[137-143],,DI
+choc1276-22,choc1276,choc1276-null-marker,-2,simple,A,3,P,any,any,none,any,default,,broadwell2006choctaw[137-143],,DI
+choc1276-23,choc1276,choc1276-null-marker,-1,simple,P,3,A,any,any,none,any,default,,broadwell2006choctaw[137-143],,DI
 choc1276-3,choc1276,choc1276-acc-case-flagging,,simple,P,any,A,any,any,none,any,default,condition 2 (uncommon),broadwell2006choctaw[68-75],,AWM
 choc1276-4,choc1276,choc1276-nom-case-flagging,,NA,S,any,NA,NA,any,NA,any,default,any,broadwell2006choctaw[68-75],,AWM
 choc1276-5,choc1276,choc1276-1sgs-a-li-cl-i-indexing-marker,1,NA,S,1sg,NA,NA,any,NA,any,default,,broadwell2006choctaw[137-143],,MV; DI; AWM
@@ -3627,6 +3630,9 @@ hida1246-18,hida1246,hida1246-nii-2p-ssta-indexing-marker,-2,simple,S,2pl,NA,any
 hida1246-19,hida1246,hida1246-nii-2p-ssta-indexing-marker,-2,simple,P,2sg,A,any,any,none,any,default,,"park2012hidatsa[213,69-86]",,AWM
 hida1246-2,hida1246,hida1246-erg-case-flagging,,simple,A,any,P,any,any,none,any,default,default,"park2012hidatsa[379,412]",Unclear how to determine the distribution of ABS vs ERG on A.,AWM
 hida1246-20,hida1246,hida1246-nii-2p-ssta-indexing-marker,-2,simple,P,2pl,A,any,any,none,any,default,,"park2012hidatsa[213,69-86]",Monoexponential plural not coded here.,AWM
+hida1246-21,hida1246,hida1246-null-marker,-1,simple,A,3,P,any,any,none,any,default,,"park2012hidatsa[213,69-86]",,DI
+hida1246-22,hida1246,hida1246-null-marker,-2,simple,P,3,P,any,any,none,any,default,,"park2012hidatsa[213,69-86]",,DI
+hida1246-23,hida1246,hida1246-null-marker,-2,simple,S,3,NA,NA,any,NA,any,default,,"park2012hidatsa[213,69-86]",,DI
 hida1246-3,hida1246,hida1246-no-flagging,,simple,P,any,A,any,any,none,any,default,any,"park2012hidatsa[379,412]",Unclear how to determine the distribution of ABS vs ERG on A.,AWM
 hida1246-4,hida1246,hida1246-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,any,"park2012hidatsa[379,412]","The absolutive use of pronouns has a -wa suffix which disappears with the application of the ergative suffix; however, this is a focus particle that is used to create free-standing pronouns and thus not a case marker.",AWM
 hida1246-5,hida1246,hida1246-maa-ma-m-waa-1a-sact-indexing-marker,-1,simple,S,1sg,NA,any,any,none,any,default,,"park2012hidatsa[213,69-86]",,AWM
@@ -9029,6 +9035,32 @@ movi1243-310,movi1243,movi1243-i-s-2-proclitic-indexing-marker,clitic -1,simple,
 movi1243-311,movi1243,movi1243-i-t-1excl-proclitic-indexing-marker,clitic -1,simple,S,1sg,NA,NA,any,NA,any,default,condition1,haude2011argument;haude2023pc,"We consider the proclitics to be (optional) indexing because they co-occur with obligatory ARG 2 suffixes, which we treat as bound pronouns.",MV; DI
 movi1243-312,movi1243,movi1243-i-t-1excl-proclitic-indexing-marker,clitic -1,simple,S,1pl.excl,NA,NA,any,NA,any,default,condition1,haude2011argument;haude2023pc,"We consider the proclitics to be (optional) indexing because they co-occur with obligatory ARG 2 suffixes, which we treat as bound pronouns.",MV; DI
 movi1243-313,movi1243,movi1243-role-not-marked,NA,NA,any,any,any,any,any,NA,any,default,condition2,haude2011argument;haude2023pc,,MV; DI
+movi1243-314,movi1243,movi1243-null-marker,clitic -1,simple,S,3-high,NA,NA,any,NA,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-315,movi1243,movi1243-null-marker,clitic -1,simple,S,3-low,NA,NA,any,NA,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-316,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,1sg,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-317,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,1pl.incl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-318,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,1pl.excl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-319,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,2sg,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-320,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,2pl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-321,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,3-low,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-322,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,1sg,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-323,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,1pl.incl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-324,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,1pl.excl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-325,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,2sg,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-326,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,2pl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-327,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,3-low,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-316,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,1sg,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-317,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,1pl.incl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-318,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,1pl.excl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-319,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,2sg,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-320,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,2pl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-321,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,3-low,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-322,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,1sg,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-323,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,1pl.incl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-324,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,1pl.excl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-325,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,2sg,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-326,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,2pl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-327,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,3-low,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
 movi1243-32,movi1243,movi1243-n-kwel-2pl-flagging,,simple,P,2plPro,A,Noun-pl-low,any,INV,any,default,,haude2011argument;haude2023pc,"The Movima system is not clearly pronominal nor clearly indexing, but something in between. We have coded the proclitic as indexing and the enclitic(s) as flagging, due to co-occurrence restraints on each. We have only encoded the presential 3rd persons, but absential forms exist.",MV; DI
 movi1243-33,movi1243,movi1243-n-kwel-2pl-flagging,,simple,P,2plPro,A,Noun-pl-high,any,INV,any,default,,haude2011argument;haude2023pc,"The Movima system is not clearly pronominal nor clearly indexing, but something in between. We have coded the proclitic as indexing and the enclitic(s) as flagging, due to co-occurrence restraints on each. We have only encoded the presential 3rd persons, but absential forms exist.",MV; DI
 movi1243-34,movi1243,movi1243-i-y-bi-2pl-flagging,,simple,P,2plPro,A,1sgPro,any,DIR,any,default,,haude2011argument;haude2023pc,"The Movima system is not clearly pronominal nor clearly indexing, but something in between. We have coded the proclitic as indexing and the enclitic(s) as flagging, due to co-occurrence restraints on each. We have only encoded the presential 3rd persons, but absential forms exist.",MV; DI
@@ -15064,6 +15096,9 @@ yana1271-68,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,2sg,A,1pl,any,n
 yana1271-69,yana1271,yana1271-wi-3-2pla-1sg-1pl-indexing-marker,3,simple,A,2pl,P,1pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
 yana1271-7,yana1271,yana1271-no-flagging,,NA,S,1plPro,NA,NA,any,NA,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
 yana1271-70,yana1271,yana1271-wi-3-2pla-1sg-1pl-indexing-marker,3,simple,A,2pl,P,1sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-71,yana1271,yana1271-null-marker,multiple,simple,S,3,NA,NA,any,NA,any,default,,sapir1922yana[233],,DI
+yana1271-72,yana1271,yana1271-null-marker,multiple,simple,A,3,P,any,any,none,any,default,,sapir1922yana[233],,DI
+yana1271-73,yana1271,yana1271-null-marker,multiple,simple,P,3,A,any,any,none,any,default,,sapir1922yana[233],,DI
 yana1271-8,yana1271,yana1271-no-flagging,,simple,A,1plPro,P,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
 yana1271-9,yana1271,yana1271-no-flagging,,simple,P,1plPro,A,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
 yane1238-1,yane1238,yane1238-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,dufftripp1997yanesha[61-75],,AWM

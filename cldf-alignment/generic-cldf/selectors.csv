@@ -423,6 +423,7 @@ choc1276-2sgs-a-is-h-cl-i-indexing-marker,choc1276,indexing marker,2sgS/A is(h)-
 choc1276-acc-case-flagging,choc1276,flagging,ACC case,overt,,broadwell2006choctaw[68-75],AWM,NONE,NONE,any,accusative
 choc1276-no-flagging,choc1276,flagging,NO_FLAGGING,zero,,broadwell2006choctaw[68-75],AWM,NONE,NONE,any,accusative
 choc1276-nom-case-flagging,choc1276,flagging,NOM case,overt,,broadwell2006choctaw[68-75],AWM,any,any,NONE,accusative
+choc1276-null-marker,choc1276,indexing marker,NULL_MARKER,zero,person,broadwell2006choctaw[68-75],DI,3,3,3,neutral
 chol1282-no-flagging,chol1282,flagging,NO_FLAGGING,zero,,"alvarez2011chol[153,85]",HT,any,any,any,neutral
 chol1282-set-a-affixes-indexing-marker,chol1282,indexing marker,Set A affixes,overt,person+number,"alvarez2011chol[264-266,76-83]",MV; DI; AWM,any,any,NONE,accusative
 chol1282-set-b-suffixes-indexing-marker,chol1282,indexing marker,Set B suffixes,overt,person+number,"alvarez2011chol[264-266,76-83]",MV; DI; AWM,any,NONE,any,ergative
@@ -704,6 +705,7 @@ hida1246-mii-1p-sstat-indexing-marker,hida1246,indexing marker,mii- 1P/Sstat,ove
 hida1246-naa-na-n-ra-2a-sact-indexing-marker,hida1246,indexing marker,náà- / ná- / n ́- (rá-) 2A/Sact,overt,person,"park2012hidatsa[213,69-86]",AWM,2pl;2sg,2pl;2sg,NONE,accusative
 hida1246-nii-2p-ssta-indexing-marker,hida1246,indexing marker,nii- 2P/Ssta,overt,person,"park2012hidatsa[213,69-86]",AWM,2pl;2sg,NONE,2pl;2sg,ergative
 hida1246-no-flagging,hida1246,flagging,NO_FLAGGING,zero,,"park2012hidatsa[379,412]",AWM,any,any,any,neutral
+hida1246-null-marker,hida1246,indexing marker,NULL_MARKER,zero,person,"park2012hidatsa[213,69-86]",DI,3,3,3,neutral
 high1242-no-flagging,high1242,flagging,NO_FLAGGING,zero,,turner1966highlandchontal[30-110],HT,any,any,any,neutral
 high1242-p-affixes-indexing-marker,high1242,indexing marker,P affixes,overt,person+number,turner1966highlandchontal[47-65],MV; DI; AWM,NONE,NONE,any,accusative
 high1242-s-a-prefixes-indexing-marker,high1242,indexing marker,S/A prefixes,overt,person+number,turner1966highlandchontal[47-65],MV; DI; AWM,any,any,NONE,accusative
@@ -1532,6 +1534,7 @@ movi1243-i-l-1-proclitic-indexing-marker,movi1243,indexing marker,(i)ɬ 1 procli
 movi1243-i-ne-3sg-f-flagging,movi1243,flagging,i'ne' 3sg.F,overt,,haude2011argument;haude2023pc,MV; DI,3sg.F.Pro-high;3sg.F.Pro-low,3sg.F.Pro-high_1pl.exclPro;3sg.F.Pro-high_1pl.inclPro;3sg.F.Pro-high_1sgPro;3sg.F.Pro-high_2plPro;3sg.F.Pro-high_2sgPro;3sg.F.Pro-high_3plPro-low;3sg.F.Pro-high_3sg.F.Pro-low;3sg.F.Pro-high_3sg.M.Pro-low;3sg.F.Pro-high_3sg.N.Pro-low;3sg.F.Pro-high_Noun-pl-low;3sg.F.Pro-high_Noun-sg-low;3sg.F.Pro-low_1pl.exclPro;3sg.F.Pro-low_1pl.inclPro;3sg.F.Pro-low_1sgPro;3sg.F.Pro-low_2plPro;3sg.F.Pro-low_2sgPro;3sg.F.Pro-low_3plPro-high;3sg.F.Pro-low_3sg.F.Pro-high;3sg.F.Pro-low_3sg.M.Pro-high;3sg.F.Pro-low_3sg.N.Pro-high;3sg.F.Pro-low_Noun-pl-high;3sg.F.Pro-low_Noun-sg-high,3sg.F.Pro-high_1pl.exclPro;3sg.F.Pro-high_1sgPro;3sg.F.Pro-high_2plPro;3sg.F.Pro-high_2sgPro;3sg.F.Pro-high_3plPro-low;3sg.F.Pro-high_3sg.F.Pro-low;3sg.F.Pro-high_3sg.M.Pro-low;3sg.F.Pro-high_3sg.N.Pro-low;3sg.F.Pro-high_Noun-pl-low;3sg.F.Pro-high_Noun-sg-low;3sg.F.Pro-low_1pl.exclPro;3sg.F.Pro-low_1sgPro;3sg.F.Pro-low_2plPro;3sg.F.Pro-low_2sgPro,neutral
 movi1243-i-s-2-proclitic-indexing-marker,movi1243,indexing marker,(i)s 2 proclitic,overt,person,haude2011argument;haude2023pc,MV; DI,2pl;2sg,NONE,NONE,horizontal
 movi1243-i-t-1excl-proclitic-indexing-marker,movi1243,indexing marker,(i)t 1excl proclitic,overt,person,haude2011argument;haude2023pc,MV; DI,1pl.excl;1sg,NONE,NONE,horizontal
+movi1243-null-marker,movi1243,indexing marker,NULL_MARKER,zero,person,haude2011argument;haude2023pc,DI,3-high;3-low,3-high_1pl.excl;3-high_1pl.incl;3-high_1sg;3-high_2pl;3-high_2sg;3-high_3-low;3-low_1pl.excl;3-low_1pl.incl;3-low_1sg;3-low_2pl;3-low_2sg;3-low_3-low,3-high_1pl.excl;3-high_1pl.incl;3-high_1sg;3-high_2pl;3-high_2sg;3-high_3-low;3-low_1pl.excl;3-low_1pl.incl;3-low_1sg;3-low_2pl;3-low_2sg;3-low_3-low,neutral
 movi1243-i-y-bi-2pl-flagging,movi1243,flagging,(i)y'bi 2pl,overt,,haude2011argument;haude2023pc,MV; DI,2plPro,2plPro_1pl.exclPro;2plPro_1sgPro,2plPro_1pl.exclPro;2plPro_1sgPro,neutral
 movi1243-i-y-li-1pl-excl-flagging,movi1243,flagging,(i)y'ɬi 1pl.excl,overt,,haude2011argument;haude2023pc,MV; DI,1pl.exclPro,1pl.exclPro,1pl.exclPro,neutral
 movi1243-ka-3sg-n-flagging,movi1243,flagging,ka' 3sg.N,overt,,haude2011argument;haude2023pc,MV; DI,NONE,NONE,3sg.N.Pro-high_1pl.inclPro;3sg.N.Pro-low_1pl.inclPro;3sg.N.Pro-low_3plPro-high;3sg.N.Pro-low_3sg.F.Pro-high;3sg.N.Pro-low_3sg.M.Pro-high;3sg.N.Pro-low_3sg.N.Pro-high;3sg.N.Pro-low_Noun-pl-high;3sg.N.Pro-low_Noun-sg-high,accusative
@@ -2675,6 +2678,7 @@ yana1271-numa-4-2sgp-3-indexing-marker,yana1271,indexing marker,-’numa (4) 2sg
 yana1271-numa-4-2sgs-a-indexing-marker,yana1271,indexing marker,-numa (4) 2sgS/A,overt,person+number,sapir1922yana[233],HT;AWM,2sg,2sg_3pl;2sg_3sg,NONE,accusative
 yana1271-wa-1-2p-indexing-marker,yana1271,indexing marker,-wa 1/2P,overt,person,sapir1922yana[233],HT;AWM,NONE,NONE,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg;1sg_2pl;1sg_2sg;1sg_3pl;1sg_3sg;2pl_1pl;2pl_1sg;2pl_3pl;2pl_3sg;2sg_1pl;2sg_1sg;2sg_3pl;2sg_3sg,accusative
 yana1271-wi-3-2pla-1sg-1pl-indexing-marker,yana1271,indexing marker,"-wi (3) 2plA(>1sg, 1pl)",overt,person+number,sapir1922yana[233],HT;AWM,NONE,2pl_1pl;2pl_1sg,NONE,ergative
+yana1271-null-marker,yana1271,indexing marker,NULL_MARKER,zero,person,sapir1922yana[233],DI,3,3,3,neutral
 yane1238-et-3pl-s-a-index-indexing-marker,yane1238,indexing marker,-et 3pl S/A index,overt,person+number,dufftripp1997yanesha[61-75],AWM,3pl,3pl,NONE,accusative
 yane1238-ne-1sg-s-a-index-indexing-marker,yane1238,indexing marker,ne- 1sg S/A index,overt,person+number,dufftripp1997yanesha[61-75],AWM,1sg,1sg,NONE,accusative
 yane1238-no-flagging,yane1238,flagging,NO_FLAGGING,zero,,dufftripp1997yanesha[61-75],AWM,any,any,any,neutral

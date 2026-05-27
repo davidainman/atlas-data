@@ -1,13 +1,13 @@
 Level,Variable,Value,Count,Percentage
 Language,S!=A flagging,False,260,0.8
 Language,S!=A flagging,True,65,0.2
-Language,S!=A indexing,False,191,0.5876923076923077
-Language,S!=A indexing,True,134,0.4123076923076923
+Language,S!=A indexing,False,190,0.5846153846153846
+Language,S!=A indexing,True,135,0.4153846153846154
 Language,align-index,accusative,121,0.3865814696485623
 Language,align-index,accusative;no marking,7,0.022364217252396165
 Language,align-index,accusative;no marking;sensitive,1,0.003194888178913738
 Language,align-index,accusative;overt neutral,1,0.003194888178913738
-Language,align-index,accusative;sensitive,6,0.019169329073482427
+Language,align-index,accusative;sensitive,5,0.01597444089456869
 Language,align-index,accusative;tripartite,1,0.003194888178913738
 Language,align-index,ergative,14,0.04472843450479233
 Language,align-index,ergative;sensitive,1,0.003194888178913738
@@ -15,10 +15,10 @@ Language,align-index,horizontal,3,0.009584664536741214
 Language,align-index,no marking,69,0.22044728434504793
 Language,align-index,no marking;overt neutral,2,0.006389776357827476
 Language,align-index,overt neutral,5,0.01597444089456869
-Language,align-index,sensitive,64,0.20447284345047922
+Language,align-index,sensitive,65,0.20766773162939298
 Language,align-index,sensitive;tripartite,2,0.006389776357827476
 Language,align-index,tripartite,16,0.051118210862619806
-Language,align-index-nl,accusative,149,0.476038338658147
+Language,align-index-nl,accusative,148,0.4728434504792332
 Language,align-index-nl,accusative;ergative;sensitive,1,0.003194888178913738
 Language,align-index-nl,accusative;no marking,6,0.019169329073482427
 Language,align-index-nl,accusative;no marking;overt neutral,1,0.003194888178913738
@@ -32,7 +32,7 @@ Language,align-index-nl,no marking,70,0.22364217252396165
 Language,align-index-nl,no marking;overt neutral,2,0.006389776357827476
 Language,align-index-nl,overt neutral,13,0.04153354632587859
 Language,align-index-nl,overt neutral;sensitive,2,0.006389776357827476
-Language,align-index-nl,sensitive,19,0.06070287539936102
+Language,align-index-nl,sensitive,20,0.06389776357827476
 Language,align-index-nl,sensitive;tripartite,1,0.003194888178913738
 Language,align-index-nl,tripartite,19,0.06070287539936102
 Language,align-noun,accusative,57,0.1753846153846154
@@ -84,8 +84,8 @@ Language,align-pro-nl,sensitive,1,0.0031645569620253164
 Language,align-pro-nl,tripartite,1,0.0031645569620253164
 Language,coargument-sensitivity flagging,no,312,0.96
 Language,coargument-sensitivity flagging,yes,13,0.04
-Language,coargument-sensitivity indexing,no,225,0.6923076923076923
-Language,coargument-sensitivity indexing,yes,100,0.3076923076923077
+Language,coargument-sensitivity indexing,no,224,0.6892307692307692
+Language,coargument-sensitivity indexing,yes,101,0.31076923076923074
 Language,dom,No,268,0.8246153846153846
 Language,dom,Yes,57,0.1753846153846154
 Language,dom-trigger,Co-argument_reference,2,0.03508771929824561
@@ -116,9 +116,9 @@ Language,indexing-features,other;person+number,1,0.0038314176245210726
 Language,indexing-features,other;person;person+number,1,0.0038314176245210726
 Language,indexing-features,other;person;person+number;person+other,1,0.0038314176245210726
 Language,indexing-features,person,33,0.12643678160919541
-Language,indexing-features,person+number,134,0.5134099616858238
+Language,indexing-features,person+number,133,0.5095785440613027
 Language,indexing-features,person+number;person+other,1,0.0038314176245210726
-Language,indexing-features,person;person+number,45,0.1724137931034483
+Language,indexing-features,person;person+number,46,0.17624521072796934
 Language,ref-ergative,False,215,0.6615384615384615
 Language,ref-ergative,True,110,0.3384615384615385
 Language,ref-ergative-domain,Noun,7,0.06363636363636363
@@ -177,11 +177,11 @@ Selector (indexing marker),Alignment,accusative,1024,0.5171717171717172
 Selector (indexing marker),Alignment,ergative,346,0.17474747474747473
 Selector (indexing marker),Alignment,horizontal,315,0.1590909090909091
 Selector (indexing marker),Alignment,neutral,295,0.14898989898989898
-Reference,Zero indexing of 1,Role A,119,0.14424242424242426
-Reference,Zero indexing of 1,Role P,72,0.1
+Reference,Zero indexing of 1,Role A,121,0.14666666666666667
+Reference,Zero indexing of 1,Role P,74,0.10277777777777777
 Reference,Zero indexing of 1,Role S,28,0.03369434416365824
-Reference,Zero indexing of 2,Role A,119,0.16527777777777777
-Reference,Zero indexing of 2,Role P,96,0.15584415584415584
+Reference,Zero indexing of 2,Role A,121,0.16805555555555557
+Reference,Zero indexing of 2,Role P,98,0.1590909090909091
 Reference,Zero indexing of 2,Role S,24,0.03305785123966942
 Reference,Zero indexing of 3,Role A,281,0.3259860788863109
 Reference,Zero indexing of 3,Role P,333,0.4393139841688654
