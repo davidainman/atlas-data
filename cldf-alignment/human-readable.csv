@@ -65,7 +65,7 @@ djeo1235,True,True,False,False,person+number,False,NA,no marking,accusative,hori
 dukh1234,False,True,True,False,person+number,False,NA,no marking,no marking,no marking,no marking,no marking,no marking,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 duna1248,True,False,False,False,NA,False,NA,accusative;ergative;no marking,accusative;ergative;no marking,no marking,accusative;ergative;no marking,accusative;ergative;no marking,no marking,True,Noun;Pro,False,NA,False,NA,False,NA,no,no,True,False
 embe1260,True,False,False,False,NA,False,NA,ergative,ergative,no marking,ergative,ergative,no marking,True,Noun;Pro,False,NA,False,NA,False,NA,no,no,True,False
-emer1243,True,True,False,False,person;person+number,False,NA,no marking,sensitive,sensitive,no marking,no marking,accusative,False,NA,False,NA,False,NA,True,Pro;Verb,yes,yes,True,True
+emer1243,True,True,False,False,number;person;person+number,False,NA,no marking,sensitive,sensitive,no marking,no marking,accusative,False,NA,False,NA,False,NA,True,Pro;Verb,yes,yes,True,False
 enap1235,False,True,False,False,person;person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,True,Verb,True,Verb,False,NA,no,yes,False,True
 esee1248,True,True,True,False,person;person+number,False,NA,ergative,ergative,no marking,ergative,ergative,no marking,True,Noun;Pro;Verb,True,Verb,True,Verb,False,NA,no,no,True,True
 esse1238,True,False,False,False,NA,False,NA,no marking,accusative,no marking,no marking,accusative,no marking,False,NA,False,NA,False,NA,False,NA,no,no,False,False

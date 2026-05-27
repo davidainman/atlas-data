@@ -541,7 +541,7 @@ duna1248-role-not-marked,duna1248,indexing trigger,ROLE_NOT_MARKED,zero,NA,sanro
 embe1260-abs-marking-flagging,embe1260,flagging,ABS marking,overt,,"mortensen1999northernembera[20-25,42-43,49]",HT,any,NONE,any,ergative
 embe1260-erg-marking-pa-flagging,embe1260,flagging,ERG marking -pa,overt,,"mortensen1999northernembera[20-25,42-43,49]",HT,NONE,any,NONE,ergative
 embe1260-role-not-marked,embe1260,indexing trigger,ROLE_NOT_MARKED,zero,NA,"mortensen1999northernembera[20,42]",MV; DI; AWM,NONE,NONE,NONE,NA
-emer1243-3pls-a-o-ng-indexing-marker,emer1243,indexing marker,3plS/A =(o)ŋ,overt,person+number,"rose2011emerillon[57-58,65-78]",NCP,3pl,NONE,NONE,horizontal
+emer1243-3pls-a-o-ng-indexing-marker,emer1243,indexing marker,3plS/A =(o)ŋ,overt,number,"rose2011emerillon[57-58,65-78]",NCP,3pl,3pl,NONE,accusative
 emer1243-a-1ss-a-indexing-indexing-marker,emer1243,indexing marker,a- ‘1sS/A’ indexing,overt,person+number,"rose2011emerillon[57-58,65-78]",NCP,1sg,1pl.excl_2pl;1sg_2pl;1sg_3pl;1sg_3sg,NONE,accusative
 emer1243-de-2sp-indexing-indexing-marker,emer1243,indexing marker,de- ‘2sP’ indexing,overt,person+number,"rose2011emerillon[57-58,65-78]",NCP,NONE,NONE,2sg_3pl;2sg_3sg,accusative
 emer1243-e-1sp-indexing-indexing-marker,emer1243,indexing marker,e- ‘1sP’ indexing,overt,person+number,"rose2011emerillon[57-58,65-78]",NCP,NONE,NONE,1sg_3pl;1sg_3sg,accusative
