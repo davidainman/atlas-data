@@ -171,15 +171,18 @@ def read_parameters_csv(param_loc):
 
 
 # Parameters sub_references: a glottocode-filtered subset of the references.csv table
+#            domain: the domain being considered, by default indexation
+#            scenario: the scenario, by default non-local but possibly local
 # Output: s_marking a dict of [reftype] -> marking of S in sub_references
 #         a_marking a dict of [reftype][coarg] -> marking of A in sub_references
 #         p_marking a dict of [reftype][coarg] -> marking of P in sub_references
-def get_s_a_p_marking(sub_references, scenario="non-local"):
+def get_s_a_p_marking(sub_references, domain=INDEX, scenario="non-local"):
     s_marking = dict()
     a_marking = dict()
     p_marking = dict()
+    domain_references = sub_references[sub_references.Domain == domain]
     listed_reftypes = set(sub_references.Referential_type.values)
-    for index, row in sub_references.iterrows():
+    for index, row in domain_references.iterrows():
         reftype = row.Referential_type
         possible_coargs = list_possible_coargs(sub_references, row, listed_reftypes)
         S_values = regularize_role(row.S, possible_coargs)
@@ -325,10 +328,12 @@ def is_any_hierarchical(sub_references):
 
 # Parameters sub_references: a glottocode-filtered subset of the references.csv table
 #            is_hierarchical: a boolean of whether this glottocode is hierarchical (if we are looking at indexation)
+#            domain: the domain being considered
 # Output: True if S != A (for non-hierarchical reasons), False otherwise
-def check_s_not_a(sub_references, is_hierarchical):
-    for table in get_tables_for_subconditions(sub_references):
-        s_marking, a_marking, p_marking = get_s_a_p_marking(table)
+def check_s_not_a(sub_references, is_hierarchical, domain):
+    domain_references = sub_references[sub_references.Domain == domain]
+    for table in get_tables_for_subconditions(domain_references):
+        s_marking, a_marking, p_marking = get_s_a_p_marking(table, domain=domain)
         for reftype in set(table.Referential_type.values):
             s_value = s_marking[reftype]
             for coarg in a_marking[reftype].keys():
@@ -400,12 +405,14 @@ def read_reference_aggregation(ref_loc):
                 best_alignment_not_local = ";".join(sorted(best_alignment_not_local.split(";")))
             ref_dict[g][l]["Most_not_local"] = best_alignment_not_local
             # calculate S != A (disregarding if due to hierarchicalness)
-            sub_references = references[(references.Glottocode == g) & (references.Domain == l)]
             if l == INDEX:
+                sub_references = references[(references.Glottocode == g) & (references.Domain == l)]
                 is_hierarchical = is_any_hierarchical(sub_references)
-                ref_dict[g][l][S_NOT_A_INDEXING] = check_s_not_a(sub_references, is_hierarchical)
+                ref_dict[g][l][S_NOT_A_INDEXING] = check_s_not_a(sub_references, is_hierarchical, INDEX)
             else:
-                ref_dict[g][l][S_NOT_A_FLAGGING] = check_s_not_a(sub_references, False)
+                sub_references = references[(references.Glottocode == g) & \
+                                     ((references.Domain == NOUN) | (references.Domain == PRO))]
+                ref_dict[g][l][S_NOT_A_FLAGGING] = check_s_not_a(sub_references, False, l)
     return ref_dict
 
 
@@ -1389,15 +1396,19 @@ def list_possible_coargs(references, row, listed_coargs):
                     break
         if not in_both_places:
             possible_coargs = [x for x in possible_coargs if "low" not in x]
-    # some languages do not have a third person listed (e.g. Choctaw), 
-    # so hallucinate a 3rd person if it's not there
-    # TODO: remove the following 6 lines when issue #156 is fixed
-    no_third = True
-    for person in possible_coargs:
-        if "3" in person:
-            no_third = False
-    if no_third:
-        possible_coargs.append("3")
+    # if this is a pronoun and "Noun({-low|-high})" is a possible coargument, add it
+    if "Pro" in reftype:
+        noun_args = set(references[(references.Glottocode == row.Glottocode) & \
+                               (references.Domain == NOUN)].Referential_type)
+        additional_args = set()
+        for index, r in references[(references.Glottocode == row.Glottocode) & \
+                            (references.Domain == row.Domain)].iterrows():
+            for role in [r.A, r.S, r.P]:
+                for arg in noun_args:
+                    if bool(re.search("coarg:"+arg+"(?![-])",role)):
+                        additional_args.add(arg)
+        for arg in additional_args:
+            possible_coargs.append(arg)
     return possible_coargs
 
 

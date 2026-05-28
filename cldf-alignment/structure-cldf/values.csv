@@ -3978,7 +3978,7 @@ emer1243-ref-horizontal,emer1243,ref-horizontal,False,DI;NCP,"rose2011emerillon[
 emer1243-ref-horizontal-domain,emer1243,ref-horizontal-domain,NA,DI;NCP,"rose2011emerillon[122-127,72-77]"
 emer1243-ref-sensitive,emer1243,ref-sensitive,True,DI;NCP,"rose2011emerillon[122-127,72-77]"
 emer1243-ref-sensitive-domain,emer1243,ref-sensitive-domain,Pro;Verb,DI;NCP,"rose2011emerillon[122-127,72-77]"
-emer1243-S!=A flagging,emer1243,S!=A flagging,True,NCP,"rose2011emerillon[122-127,72-77]"
+emer1243-S!=A flagging,emer1243,S!=A flagging,False,NCP,"rose2011emerillon[122-127,72-77]"
 emer1243-S!=A indexing,emer1243,S!=A indexing,False,NCP,"rose2011emerillon[122-127,72-77]"
 enap1235-align-noun,enap1235,align-noun,no marking,HT,"payne2013panare[205,238,288,88-89]"
 enap1235-align-pro,enap1235,align-pro,no marking,HT,"payne2013panare[205,238,288,88-89]"
@@ -7418,7 +7418,7 @@ tupi1273-ref-horizontal,tupi1273,ref-horizontal,False,DI;NCP,"barbosa1956tupi[11
 tupi1273-ref-horizontal-domain,tupi1273,ref-horizontal-domain,NA,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-ref-sensitive,tupi1273,ref-sensitive,True,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-ref-sensitive-domain,tupi1273,ref-sensitive-domain,Pro;Verb,DI;NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
-tupi1273-S!=A flagging,tupi1273,S!=A flagging,True,NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
+tupi1273-S!=A flagging,tupi1273,S!=A flagging,False,NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tupi1273-S!=A indexing,tupi1273,S!=A indexing,True,NCP,"barbosa1956tupi[117-119,124-126];navarro2004tupinamba[150]"
 tusc1257-align-noun,tusc1257,align-noun,no marking,HT,williams1974tuscarora[14]
 tusc1257-align-pro,tusc1257,align-pro,no marking,HT,williams1974tuscarora[14]
