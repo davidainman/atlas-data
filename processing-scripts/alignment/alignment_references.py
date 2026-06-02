@@ -953,7 +953,9 @@ def add_alignment(
         for p_coarg in out_row[I_P] :
             p_coarg = re.sub(r"_coarg:[^&]*","",p_coarg)
             if out_row[I_S] == a_coarg == p_coarg:
-                if "ZERO" in out_row[I_S] or "_zero" in out_row[I_S]:
+                if out_row[I_S] == "NO_PRONOUN_zero":
+                    all_alignments.add("NA")
+                elif "ZERO" in out_row[I_S] or "_zero" in out_row[I_S]:
                     all_alignments.add("no marking")
                 elif "overt" in out_row[I_S]:
                     all_alignments.add("overt neutral")
