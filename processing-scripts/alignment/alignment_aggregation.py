@@ -181,10 +181,10 @@ def get_s_a_p_marking(sub_references, domain=INDEX, scenario="non-local"):
     a_marking = dict()
     p_marking = dict()
     domain_references = sub_references[sub_references.Domain == domain]
-    listed_reftypes = set(sub_references.Referential_type.values)
+    all_reftypes = set(sub_references.Referential_type.values)
     for index, row in domain_references.iterrows():
         reftype = row.Referential_type
-        possible_coargs = list_possible_coargs(sub_references, row, listed_reftypes)
+        possible_coargs = list_possible_coargs(sub_references, row, all_reftypes)
         S_values = regularize_role(row.S, possible_coargs)
         assert len(S_values) == 1
         s_marking[reftype] = S_values[0]
@@ -215,13 +215,14 @@ def get_s_a_p_marking(sub_references, domain=INDEX, scenario="non-local"):
                 for ca in relevant_coargs:
                     p_marking[reftype][ca] = p
     # add in zeros for types that are not listed
-    for lr in listed_reftypes:
+    domain_reftypes = set(domain_references.Referential_type.values)
+    for dr in domain_reftypes:
         for role_marking in [a_marking, p_marking]:
-            if lr not in role_marking:
-                role_marking[lr] = dict()
+            if dr not in role_marking:
+                role_marking[dr] = dict()
                 for coarg in listed_reftypes:
-                    if '3' in coarg or lr != coarg:
-                        role_marking[lr][coarg] = "INFERRED_NULL_zero"
+                    if '3' in coarg or dr != coarg:
+                        role_marking[dr][coarg] = "INFERRED_NULL_zero"
     return([s_marking, a_marking, p_marking])
 
 
