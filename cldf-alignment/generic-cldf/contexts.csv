@@ -1544,29 +1544,10 @@ cata1286-1,cata1286,cata1286-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"ga
 cata1286-2,cata1286,cata1286-no-flagging,,simple,A,any,P,any,any,none,any,default,,"gatschet1900catawba[532,537-538]",,HT
 cata1286-3,cata1286,cata1286-no-flagging,,simple,P,any,A,any,any,none,any,default,,"gatschet1900catawba[532,537-538]",,HT
 cavi1250-1,cavi1250,cavi1250-erg-case-flagging,,simple,A,any,P,any,any,none,any,default,,"guillaume2008cavinena[16,571,66,78];guillaume2010ergative[101]",,AWM
-cavi1250-10,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,1pl,A,any,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-100,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3pl.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-101,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2pl,A,1sg,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-102,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2pl,A,1du,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-103,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2pl,A,1pl,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-104,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3sg,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-105,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3du,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-106,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3pl,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-107,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3sg.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-108,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3du.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-109,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3pl.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-11,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2sg,A,1sg,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-110,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3sg,A,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-111,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3du,A,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-112,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3pl,A,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-113,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3sg.prox,A,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-114,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3du.prox,A,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-115,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3pl.prox,A,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-116,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,1sg,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-117,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,1du,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-118,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,1pl,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-119,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2sg,A,1sg,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-12,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2sg,A,1du,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
 cavi1250-120,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2sg,A,1du,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-121,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2sg,A,1pl,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-122,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3sg,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
@@ -1577,7 +1558,6 @@ cavi1250-126,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2s
 cavi1250-127,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3pl.prox,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-128,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2du,A,1sg,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-129,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2du,A,1du,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-13,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2sg,A,1pl,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
 cavi1250-130,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2du,A,1pl,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-131,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3sg,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-132,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3du,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
@@ -1588,7 +1568,6 @@ cavi1250-136,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2d
 cavi1250-137,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2pl,A,1sg,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-138,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2pl,A,1du,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-139,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2pl,A,1pl,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-14,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3sg,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
 cavi1250-140,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3sg,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-141,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3du,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-142,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3pl,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
@@ -1599,129 +1578,9 @@ cavi1250-146,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3s
 cavi1250-147,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3du,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-148,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3pl,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-149,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3sg.prox,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-15,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3du,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
 cavi1250-150,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3du.prox,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-151,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3pl.prox,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-152,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,1sg,P,any,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-153,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,1du,P,any,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-154,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,1pl,P,any,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-155,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2sg,P,1sg,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-156,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2sg,P,1du,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-157,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2sg,P,1pl,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-158,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3sg,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-159,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3du,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-16,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3pl,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-160,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3pl,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-161,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3sg.prox,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-162,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3du.prox,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-163,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3pl.prox,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-164,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2du,P,1sg,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-165,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2du,P,1du,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-166,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2du,P,1pl,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-167,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3sg,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-168,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3du,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-169,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3pl,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-17,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3sg.prox,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-170,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3sg.prox,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-171,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3du.prox,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-172,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3pl.prox,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-173,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2pl,P,1sg,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-174,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2pl,P,1du,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-175,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2pl,P,1pl,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-176,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3sg,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-177,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3du,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-178,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3pl,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-179,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3sg.prox,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-18,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3du.prox,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-180,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3du.prox,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-181,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3pl.prox,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-182,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3sg,P,any,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-183,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3du,P,any,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-184,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3pl,P,any,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-185,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3sg.prox,P,any,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-186,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3du.prox,P,any,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-187,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3pl.prox,P,any,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-188,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,1sg,P,any,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-189,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,1du,P,any,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-19,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3pl.prox,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-190,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,1pl,P,any,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-191,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2sg,P,1sg,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-192,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2sg,P,1du,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-193,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2sg,P,1pl,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-194,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3sg,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-195,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3du,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-196,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3pl,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-197,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3sg.prox,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-198,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3du.prox,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-199,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3pl.prox,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-2,cavi1250,cavi1250-no-flagging,,simple,P,any,A,any,any,none,any,default,,"guillaume2008cavinena[16,571,66,78]","Singular pronouns have an additional -ke in the absolutive, but this could be analyzed for all persons except 3sg proximate as a phonological requirement for bisyllabicity.",AWM
-cavi1250-20,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2du,A,1sg,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-200,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2du,P,1sg,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-201,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2du,P,1du,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-202,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2du,P,1pl,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-203,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3sg,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-204,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3du,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-205,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3pl,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-206,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3sg.prox,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-207,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3du.prox,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-208,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3pl.prox,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-209,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2pl,P,1sg,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-21,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2du,A,1du,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-210,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2pl,P,1du,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-211,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2pl,P,1pl,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-212,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3sg,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-213,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3du,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-214,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3pl,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-215,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3sg.prox,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-216,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3du.prox,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-217,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3pl.prox,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-218,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3sg,P,any,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-219,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3du,P,any,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-22,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2du,A,1pl,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-220,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3pl,P,any,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-221,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3sg.prox,P,any,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-222,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3du.prox,P,any,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-223,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3pl.prox,P,any,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-224,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,1sg,P,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-225,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,1du,P,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-226,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,1pl,P,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-227,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2sg,P,1sg,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-228,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2sg,P,1du,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-229,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2sg,P,1pl,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-23,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3sg,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-230,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3sg,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-231,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3du,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-232,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3pl,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-233,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3sg.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-234,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3du.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-235,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3pl.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-236,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2du,P,1sg,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-237,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2du,P,1du,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-238,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2du,P,1pl,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-239,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3sg,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-24,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3du,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-240,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3du,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-241,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3pl,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-242,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3sg.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-243,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3du.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-244,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3pl.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-245,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2pl,P,1sg,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-246,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2pl,P,1du,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-247,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2pl,P,1pl,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-248,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3sg,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-249,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3du,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-25,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3pl,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-250,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3pl,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-251,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3sg.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-252,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3du.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-253,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3pl.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-254,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3sg,P,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-255,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3du,P,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-256,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3pl,P,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-257,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3sg.prox,P,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-258,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3du.prox,P,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-259,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3pl.prox,P,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-26,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3sg.prox,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
 cavi1250-260,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,1sg,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-261,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,1du,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-262,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,1pl,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
@@ -1732,7 +1591,6 @@ cavi1250-266,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2s
 cavi1250-267,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3du,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-268,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3pl,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-269,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3sg.prox,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-27,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3du.prox,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
 cavi1250-270,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3du.prox,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-271,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2sg,P,3pl.prox,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-272,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2du,P,1sg,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
@@ -1743,7 +1601,6 @@ cavi1250-276,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2d
 cavi1250-277,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3pl,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-278,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3sg.prox,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-279,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3du.prox,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-28,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3pl.prox,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
 cavi1250-280,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2du,P,3pl.prox,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-281,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2pl,P,1sg,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-282,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,2pl,P,1du,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
@@ -1754,7 +1611,6 @@ cavi1250-286,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2p
 cavi1250-287,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3sg.prox,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-288,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3du.prox,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-289,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2pl,P,3pl.prox,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-29,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2pl,A,1sg,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
 cavi1250-290,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3sg,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-291,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3du,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-292,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3pl,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
@@ -1762,94 +1618,10 @@ cavi1250-293,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3s
 cavi1250-294,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3du.prox,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-295,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3pl.prox,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-296,cavi1250,cavi1250-role-not-marked,NA,NA,S,any,NA,NA,any,NA,any,default,no indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-297,cavi1250,cavi1250-role-not-marked,NA,NA,S,any,NA,NA,any,NA,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-298,cavi1250,cavi1250-role-not-marked,NA,NA,S,any,NA,NA,any,NA,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-299,cavi1250,cavi1250-role-not-marked,NA,NA,S,any,NA,NA,any,NA,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-3,cavi1250,cavi1250-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"guillaume2008cavinena[16,571,66,78]","Singular pronouns have an additional -ke in the absolutive, but this could be analyzed for all persons except 3sg proximate as a phonological requirement for bisyllabicity.",AWM
-cavi1250-30,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2pl,A,1du,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-300,cavi1250,cavi1250-role-not-marked,NA,NA,P,any,A,any,any,none,any,default,A indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-301,cavi1250,cavi1250-role-not-marked,NA,NA,P,any,A,any,any,none,any,default,S indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-302,cavi1250,cavi1250-role-not-marked,NA,NA,P,any,A,any,any,none,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-303,cavi1250,cavi1250-role-not-marked,NA,NA,P,any,A,any,any,none,any,default,no indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-304,cavi1250,cavi1250-role-not-marked,NA,NA,A,any,P,any,any,none,any,default,S indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-305,cavi1250,cavi1250-role-not-marked,NA,NA,A,any,P,any,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-306,cavi1250,cavi1250-role-not-marked,NA,NA,A,any,P,any,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
 cavi1250-307,cavi1250,cavi1250-role-not-marked,NA,NA,A,any,P,any,any,none,any,default,no indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-31,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2pl,A,1pl,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-32,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3sg,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-33,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3du,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-34,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3pl,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-35,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3sg.prox,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-36,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3du.prox,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-37,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3pl.prox,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-38,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3sg,A,any,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-39,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3du,A,any,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-4,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1 & clitic 2,simple,S,any,NA,NA,any,NA,any,default,S indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-40,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3pl,A,any,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-41,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3sg.prox,A,any,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-42,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3du.prox,A,any,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-43,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3pl.prox,A,any,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-44,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,1sg,A,any,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-45,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,1du,A,any,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-46,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,1pl,A,any,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-47,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2sg,A,1sg,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-48,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2sg,A,1du,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-49,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2sg,A,1pl,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-5,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1 & clitic 3,simple,S,any,NA,NA,any,NA,any,default,S and A indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-50,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3sg,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-51,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3du,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-52,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3pl,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-53,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3sg.prox,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-54,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3du.prox,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-55,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3pl.prox,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-56,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2du,A,1sg,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-57,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2du,A,1du,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-58,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2du,A,1pl,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-59,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3sg,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-6,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1 & clitic 4,simple,S,any,NA,NA,any,NA,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-60,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3du,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-61,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3pl,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-62,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3sg.prox,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-63,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3du.prox,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-64,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3pl.prox,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-65,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2pl,A,1sg,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-66,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2pl,A,1du,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-67,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2pl,A,1pl,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-68,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3sg,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-69,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3du,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-7,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1 & clitic 5,simple,S,any,NA,NA,any,NA,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-70,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3pl,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-71,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3sg.prox,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-72,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3du.prox,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-73,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2pl,A,3pl.prox,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-74,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3sg,A,any,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-75,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3du,A,any,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-76,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3pl,A,any,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-77,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3sg.prox,A,any,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-78,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3du.prox,A,any,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-79,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3pl.prox,A,any,any,none,any,default,S and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-8,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,1sg,A,any,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-80,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,1sg,A,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-81,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,1du,A,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-82,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,1pl,A,any,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-83,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2sg,A,1sg,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-84,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2sg,A,1du,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-85,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2sg,A,1pl,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-86,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3sg,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-87,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3du,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-88,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3pl,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-89,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3sg.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-9,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,1du,A,any,any,none,any,default,P indexing only,guillaume2010ergative[99-106],,MV; DI
-cavi1250-90,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3du.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-91,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2sg,A,3pl.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-92,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2du,A,1sg,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-93,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2du,A,1du,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-94,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,2du,A,1pl,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-95,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3sg,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-96,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3du,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-97,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3pl,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-98,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3sg.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-99,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2du,A,3du.prox,any,none,any,default,A and P indexing,guillaume2010ergative[99-106],,MV; DI
 cayu1262-1,cayu1262,cayu1262-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"key1967cayubaba[48,54]",,AN
 cayu1262-2,cayu1262,cayu1262-no-flagging,,simple,A,any,P,any,any,none,any,default,,"key1967cayubaba[48,54]",,AN
 cayu1262-3,cayu1262,cayu1262-no-flagging,,simple,P,any,A,any,any,none,any,default,,"key1967cayubaba[48,54]",,AN
@@ -10568,7 +10340,7 @@ nucl1622-20,nucl1622,nucl1622-s-a-prefix-3pl-n-not-in-3pl-1-indexing-marker,-1,s
 nucl1622-21,nucl1622,nucl1622-s-a-prefix-3sg-a-0-indexing-marker,-1,NA,S,3sg,NA,NA,any,NA,any,default,,"olsson2017coastal[213-228,259-272]",,HT;AWM
 nucl1622-22,nucl1622,nucl1622-s-a-prefix-3sg-a-0-indexing-marker,-1,simple,A,3sg,P,any,any,none,any,default,,"olsson2017coastal[213-228,259-272]",,HT;AWM
 nucl1622-3,nucl1622,nucl1622-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"olsson2017coastal[295,79]",,HT;AWM
-nucl1622-4,nucl1622,nucl1622-p-affix-indexing-marker,-1/1,NA,S,any,NA,NA,any,NA,non-exemplar,Sp class,,"olsson2017coastal[213-228,259-272]",,HT;AWM
+nucl1622-4,nucl1622,nucl1622-p-affixes-indexing-marker,-1/1,NA,S,any,NA,NA,any,NA,non-exemplar,Sp class,,"olsson2017coastal[213-228,259-272]",,HT;AWM
 nucl1622-5,nucl1622,nucl1622-p-affixes-indexing-marker,-1/1,simple,P,any,A,any,any,none,any,default,,"olsson2017coastal[213-228,259-272]",,HT;AWM
 nucl1622-6,nucl1622,nucl1622-s-a-prefix-1pl-nak-e-indexing-marker,-1,NA,S,1pl,NA,NA,any,NA,any,default,,"olsson2017coastal[213-228,259-272]",,HT;AWM
 nucl1622-7,nucl1622,nucl1622-s-a-prefix-1pl-nak-e-indexing-marker,-1,simple,A,1pl,P,any,any,none,any,default,,"olsson2017coastal[213-228,259-272]",,HT;AWM

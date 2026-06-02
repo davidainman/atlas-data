@@ -36,7 +36,7 @@ cahu1264,True,True,False,False,person+number,True,Miscellaneous_condition,accusa
 cams1241,False,True,False,False,number;person;person+number,False,NA,no marking,no marking,sensitive,no marking,no marking,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,False
 cane1242,True,False,False,False,NA,False,NA,ergative,accusative,no marking,ergative,accusative,no marking,True,Noun,False,NA,False,NA,False,NA,no,no,True,False
 cata1286,False,True,?,?,?,False,NA,no marking,no marking,NA,no marking,no marking,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
-cavi1250,True,True,False,False,person+number,False,NA,ergative,ergative,ergative,ergative,ergative,ergative,True,Noun;Pro;Verb,True,Verb,True,Verb,False,NA,no,no,True,True
+cavi1250,True,True,False,False,person+number,False,NA,ergative,ergative,ergative;no marking,ergative,ergative,ergative;no marking,True,Noun;Pro;Verb,False,NA,False,NA,False,NA,no,no,True,True
 cayu1262,False,True,False,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 cent2050,True,True,False,False,person+number,True,Miscellaneous_condition,accusative;no marking,accusative,accusative,accusative;no marking,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 cent2127,True,True,False,False,number;person;person+number,False,NA,no marking,no marking,ergative,no marking,no marking,ergative,True,Noun;Pro;Verb,False,NA,False,NA,True,Verb,no,yes,True,True
@@ -205,7 +205,7 @@ nort2954,True,False,False,False,NA,True,Reference,accusative,accusative,no marki
 nort2980,True,True,False,False,person+number,False,NA,accusative,accusative,accusative,accusative,accusative,accusative,False,NA,False,NA,False,NA,True,Verb,no,no,False,False
 nucl1302,True,True,True,True,number;person;person+number,True,TAM,accusative,no marking,sensitive,accusative,no marking,accusative,True,Noun;Pro,True,Verb,True,Verb,True,Verb,no,yes,True,True
 nucl1327,False,True,?,?,?,False,NA,no marking,no marking,NA,no marking,no marking,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
-nucl1622,False,True,False,True,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,True,Verb,False,NA,True,Verb,no,yes,False,True
+nucl1622,False,True,False,True,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,True,Verb,False,NA,False,NA,True,Verb,no,yes,False,True
 nucl1632,False,True,True,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,False
 nucl1633,True,True,False,False,number;person;person+number,False,NA,ergative;no marking,ergative;no marking,accusative,ergative;no marking,ergative;no marking,accusative,True,Noun;Pro,False,NA,False,NA,False,NA,no,no,True,False
 nucl1649,True,True,False,False,person;person+number,True,Miscellaneous_condition+Reference,overt neutral,ergative;tripartite,sensitive,overt neutral,ergative;tripartite,tripartite,True,Noun;Pro,True,Pro,True,Noun,True,Verb,no,yes,True,True

@@ -1783,8 +1783,7 @@ nucl1302-sf-t-pl-set-b-indexing-marker,nucl1302,indexing marker,sf. -t 'pl' (set
 nucl1302-v-1-set-a-indexing-marker,nucl1302,indexing marker,v- '1' (set A),overt,person,"gurevich2006constructional[81];hewitt1995georgian[217,242,258]",AWM,1pl;1sg,1pl_3pl;1pl_3sg;1sg_3pl;1sg_3sg,NONE,accusative
 nucl1327-no-flagging,nucl1327,flagging,NO_FLAGGING,zero,,harvey2001limilngan,HT;AWM,any,any,any,neutral
 nucl1622-no-flagging,nucl1622,flagging,NO_FLAGGING,zero,,"olsson2017coastal[295-297,79]",HT;AWM,any,any,any,neutral
-nucl1622-p-affix-indexing-marker,nucl1622,indexing marker,P affix,overt,person+number,"olsson2017coastal[213-228,259-272]",HT;AWM,any,NONE,NONE,horizontal
-nucl1622-p-affixes-indexing-marker,nucl1622,indexing marker,P affixes,overt,person+number,"olsson2017coastal[213-228,259-272]",HT;AWM,NONE,NONE,any,accusative
+nucl1622-p-affixes-indexing-marker,nucl1622,indexing marker,P affixes,overt,person+number,"olsson2017coastal[213-228,259-272]",HT;AWM,any,NONE,any,ergative
 nucl1622-s-a-prefix-1pl-nak-e-indexing-marker,nucl1622,indexing marker,S/A prefix 1pl nak-…(e-),overt,person+number,"olsson2017coastal[213-228,259-272]",HT;AWM,1pl,1pl,NONE,accusative
 nucl1622-s-a-prefix-1sg-no-nak-indexing-marker,nucl1622,indexing marker,S/A prefix 1sg no-/nak-,overt,person+number,"olsson2017coastal[213-228,259-272]",HT;AWM,1sg,1sg,NONE,accusative
 nucl1622-s-a-prefix-2pl-e-indexing-marker,nucl1622,indexing marker,S/A prefix 2pl e-,overt,person+number,"olsson2017coastal[213-228,259-272]",HT;AWM,2pl,2pl,NONE,accusative
