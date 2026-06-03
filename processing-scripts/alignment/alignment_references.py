@@ -112,9 +112,6 @@ def yield_from_cldf(
         selector_id = row[E_SEL_ID]
         # some selector ids are None, warn and skip
         selector_row = selector_id_to_selector_row[selector_id]
-        # we are not calculating non-person based alignments: Ignore gender/other/number -- note there may be more combinations in the future
-        if selector_row[E_FEAT] == "other" or selector_row[E_FEAT] == "gender" or selector_row[E_FEAT] == "number" or selector_row[E_FEAT] == "number" or selector_row[E_FEAT] == "number+gender":
-            continue
         for header in [E_SEL, E_SEL_TYPE, E_OV, E_FEAT]:
             row[header] = selector_row[header]
         glottocode_to_context_rows[row[E_GLOT]].append(row)
@@ -532,6 +529,11 @@ def get_role_value(
     birch: str,
     language_rows: t.List[t.Dict[str, t.Union[str, int, float]]],
 ):
+    lang_name = rows[0][E_LAN]
+    lang_coder = rows[0][E_COD]
+    # remove rows that do not encode person
+    refs_set = set([row[E_REF] for row in rows])
+    rows = [row for row in rows if row[E_FEAT] != "other" and row[E_FEAT] != "gender" and row[E_FEAT] != "number" and row[E_FEAT] != "number+gender"]
     for role in ["S", "A", "P"]:
         roles = [row[E_ROLE] for row in rows]
         # handle special case for pronouns
@@ -565,9 +567,9 @@ def get_role_value(
                             warnings.log(
                                 row=(
                                     type,
-                                    rows[0][E_LAN],
+                                    lang_name,
                                     language,
-                                    ", ".join(sorted(rows[0][E_COD])),
+                                    ", ".join(sorted(lang_coder)),
                                     f"language has an inferred gap at reference: {this_type} and Role: {role} (INFERRED_NULL_zero)",
                                 )
                             )
@@ -576,9 +578,9 @@ def get_role_value(
                             warnings.log(
                                 row=(
                                     type,
-                                    rows[0][E_LAN],
+                                    lang_name,
                                     language,
-                                    ", ".join(sorted(rows[0][E_COD])),
+                                    ", ".join(sorted(lang_coder)),
                                     f"language has an inferred gap at reference: {this_type} and Role: {role} (ROLE_NOT_MARKED_zero)",
                                 )
                             )
@@ -587,9 +589,9 @@ def get_role_value(
                         warnings.log(
                             row=(
                                 type,
-                                rows[0][E_LAN],
+                                lang_name,
                                 language,
-                                ", ".join(sorted(rows[0][E_COD])),
+                                ", ".join(sorted(lang_coder)),
                                 f"language has an inferred gap at reference: {this_type} and Role: {role} (ROLE_NOT_MARKED_zero)",
                             )
                         )
@@ -660,9 +662,9 @@ def get_role_value(
                     errors.log(
                         row=(
                             type,
-                            rows[0][E_LAN],
+                            lang_name,
                             language,
-                            ", ".join(sorted(rows[0][E_COD])),
+                            ", ".join(sorted(lang_coder)),
                             f"ERROR: Not as many unique pairs of (Co_arg, Slot) as matching rows with reference: {this_type} and role: {role}",
                         )
                     )
@@ -751,9 +753,9 @@ def get_role_value(
                                     errors.log(
                                         row=(
                                             this_type,
-                                            rows[0][E_LAN],
+                                            lang_name,
                                             language,
-                                            ", ".join(sorted(rows[0][E_COD])),
+                                            ", ".join(sorted(lang_coder)),
                                             f"ERROR: Inconsistent coarguments for reference {this_type} and role {role} in language: {rows[0][E_GLOT]}",
                                         )
                                     )
@@ -763,9 +765,9 @@ def get_role_value(
                             warnings.log(
                                 row=(
                                     this_type,
-                                    rows[0][E_LAN],
+                                    lang_name,
                                     language,
-                                    ", ".join(sorted(rows[0][E_COD])),
+                                    ", ".join(sorted(lang_coder)),
                                     f"WARNING: More possible coarguments than referential types found for reference {this_type} and role {role} in language: {rows[0][E_GLOT]}, this is probably due to one or more monoexponential plurals",
                                 )
                             )
@@ -816,9 +818,9 @@ def get_role_value(
                 errors.log(
                     row=(
                         type,
-                        rows[0][E_LAN],
+                        lang_name,
                         language,
-                        ", ".join(sorted(rows[0][E_COD])),
+                        ", ".join(sorted(lang_coder)),
                         f"ERROR: Multiple rows with Reference {this_type} and Role {role} with identical co_arg references {ss}.",
                     )
                 )
