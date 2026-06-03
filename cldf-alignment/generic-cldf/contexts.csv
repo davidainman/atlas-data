@@ -13007,19 +13007,25 @@ tido1248-7,tido1248,tido1248-no-flagging,,NA,S,1pl.exclPro,NA,NA,any,NA,any,defa
 tido1248-8,tido1248,tido1248-no-flagging,,simple,A,1pl.exclPro,P,any,any,none,any,default,any,"vanstaden2000tidore[221,77-78,82,92]","There is a politeness register for these pronouns in Tidore, but it does not affect the alignment of the system.",HT
 tido1248-9,tido1248,tido1248-no-flagging,,simple,P,1pl.exclPro,A,any,any,none,any,default,any,"vanstaden2000tidore[221,77-78,82,92]","There is a politeness register for these pronouns in Tidore, but it does not affect the alignment of the system.",HT
 timu1245-1,timu1245,timu1245-no-flagging,,simple,A,any,P,any,any,none,any,default,,"granberry1993timucua[107-110,83-84]",,HT
-timu1245-10,timu1245,timu1245-chi-2p-indexing-marker,-1,simple,P,2pl,A,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
-timu1245-11,timu1245,timu1245-chi-2p-indexing-marker,-1,simple,P,2sg,A,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
-timu1245-12,timu1245,timu1245-chi-2s-a-indexing-marker,-2,NA,S,2pl,NA,NA,any,NA,any,default,,granberry1993timucua[84-85],,HT;AWM
-timu1245-13,timu1245,timu1245-chi-2s-a-indexing-marker,-2,simple,A,2pl,P,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
-timu1245-14,timu1245,timu1245-chi-2s-a-indexing-marker,-2,NA,S,2sg,NA,NA,any,NA,any,default,,granberry1993timucua[84-85],,HT;AWM
-timu1245-15,timu1245,timu1245-chi-2s-a-indexing-marker,-2,simple,A,2sg,P,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
-timu1245-16,timu1245,timu1245-ni-ho-1p-indexing-marker,-1,simple,P,1pl,A,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
-timu1245-17,timu1245,timu1245-ni-ho-1p-indexing-marker,-1,simple,P,1sg,A,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
-timu1245-18,timu1245,timu1245-ni-ho-1s-a-indexing-marker,-2,NA,S,1pl,NA,NA,any,NA,any,default,,granberry1993timucua[84-85],,HT;AWM
-timu1245-19,timu1245,timu1245-ni-ho-1s-a-indexing-marker,-2,simple,A,1pl,P,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
+timu1245-10,timu1245,timu1245-chi-2s-a-p-indexing-marker,-1,simple,P,2pl,A,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
+timu1245-11,timu1245,timu1245-chi-2s-a-p-indexing-marker,-1,simple,P,2sg,A,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
+timu1245-12,timu1245,timu1245-chi-2s-a-p-indexing-marker,-2,NA,S,2pl,NA,NA,any,NA,any,default,,granberry1993timucua[84-85],,HT;AWM
+timu1245-13,timu1245,timu1245-chi-2s-a-p-indexing-marker,-2,simple,A,2pl,P,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
+timu1245-14,timu1245,timu1245-chi-2s-a-p-indexing-marker,-2,NA,S,2sg,NA,NA,any,NA,any,default,,granberry1993timucua[84-85],,HT;AWM
+timu1245-15,timu1245,timu1245-chi-2s-a-p-indexing-marker,-2,simple,A,2sg,P,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
+timu1245-16,timu1245,timu1245-ni-ho-1s-a-p-indexing-marker,-1,simple,P,1pl,A,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
+timu1245-17,timu1245,timu1245-ni-ho-1s-a-p-indexing-marker,-1,simple,P,1sg,A,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
+timu1245-18,timu1245,timu1245-ni-ho-1s-a-p-indexing-marker,-2,NA,S,1pl,NA,NA,any,NA,any,default,,granberry1993timucua[84-85],,HT;AWM
+timu1245-19,timu1245,timu1245-ni-ho-1s-a-p-indexing-marker,-2,simple,A,1pl,P,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
 timu1245-2,timu1245,timu1245-no-flagging,,simple,P,any,A,any,any,none,any,default,,"granberry1993timucua[107-110,83-84]",,HT
-timu1245-20,timu1245,timu1245-ni-ho-1s-a-indexing-marker,-2,NA,S,1sg,NA,NA,any,NA,any,default,,granberry1993timucua[84-85],,HT;AWM
-timu1245-21,timu1245,timu1245-ni-ho-1s-a-indexing-marker,-2,simple,A,1sg,P,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
+timu1245-20,timu1245,timu1245-ni-ho-1s-a-p-indexing-marker,-2,NA,S,1sg,NA,NA,any,NA,any,default,,granberry1993timucua[84-85],,HT;AWM
+timu1245-21,timu1245,timu1245-ni-ho-1s-a-p-indexing-marker,-2,simple,A,1sg,P,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM
+timu1245-22,timu1245,timu1245-null-marker,-2,simple,S,3sg,NA,NA,any,none,any,default,,granberry1993timucua[84-85],,DI
+timu1245-23,timu1245,timu1245-null-marker,-2,simple,A,3sg,P,any,any,none,any,default,,granberry1993timucua[84-85],,DI
+timu1245-24,timu1245,timu1245-null-marker,-1,simple,P,3sg,A,any,any,none,any,default,,granberry1993timucua[84-85],,DI
+timu1245-25,timu1245,timu1245-null-marker,-2,simple,S,3pl,NA,NA,any,none,any,default,,granberry1993timucua[84-85],,DI
+timu1245-26,timu1245,timu1245-null-marker,-2,simple,A,3pl,P,any,any,none,any,default,,granberry1993timucua[84-85],,DI
+timu1245-27,timu1245,timu1245-null-marker,-2,simple,P,3pl,A,any,any,none,any,default,,granberry1993timucua[84-85],,DI
 timu1245-3,timu1245,timu1245-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"granberry1993timucua[107-110,83-84]",,HT
 timu1245-4,timu1245,timu1245-bo-1pl-2pls-a-indexing-marker,1,NA,S,1pl,NA,NA,any,NA,any,default,,granberry1993timucua[84-85],,HT;AWM
 timu1245-5,timu1245,timu1245-bo-1pl-2pls-a-indexing-marker,1,simple,A,1pl,P,any,any,none,any,default,,granberry1993timucua[84-85],,HT;AWM

@@ -169,22 +169,22 @@ Selector (flagging),Alignment,accusative,197,0.6723549488054608
 Selector (flagging),Alignment,ergative,70,0.23890784982935154
 Selector (flagging),Alignment,horizontal,6,0.020477815699658702
 Selector (flagging),Alignment,neutral,20,0.06825938566552901
-Selector (indexing marker),S,False,796,0.4022233451237999
-Selector (indexing marker),S,True,1183,0.5977766548762001
-Selector (indexing marker),A,False,657,0.33198585144012127
-Selector (indexing marker),A,True,1322,0.6680141485598787
-Selector (indexing marker),P,False,913,0.461344113188479
-Selector (indexing marker),P,True,1066,0.538655886811521
-Selector (indexing marker),Alignment,accusative,1023,0.5169277412834765
-Selector (indexing marker),Alignment,ergative,347,0.1753410813542193
-Selector (indexing marker),Alignment,horizontal,314,0.15866599292572006
-Selector (indexing marker),Alignment,neutral,295,0.14906518443658415
+Selector (indexing marker),S,False,794,0.4016186140617097
+Selector (indexing marker),S,True,1183,0.5983813859382904
+Selector (indexing marker),A,False,655,0.33131006575619626
+Selector (indexing marker),A,True,1322,0.6686899342438037
+Selector (indexing marker),P,False,911,0.46079919069296915
+Selector (indexing marker),P,True,1066,0.5392008093070308
+Selector (indexing marker),Alignment,accusative,1019,0.5154274152756702
+Selector (indexing marker),Alignment,ergative,347,0.17551846231664137
+Selector (indexing marker),Alignment,horizontal,314,0.1588265048052605
+Selector (indexing marker),Alignment,neutral,297,0.15022761760242792
 Reference,Zero indexing of 1,Role A,121,0.1482843137254902
 Reference,Zero indexing of 1,Role P,74,0.10407876230661041
 Reference,Zero indexing of 1,Role S,28,0.0340632603406326
 Reference,Zero indexing of 2,Role A,121,0.170182841068917
 Reference,Zero indexing of 2,Role P,98,0.1614497528830313
 Reference,Zero indexing of 2,Role S,24,0.03347280334728033
-Reference,Zero indexing of 3,Role A,281,0.33293838862559244
+Reference,Zero indexing of 3,Role A,282,0.3341232227488152
 Reference,Zero indexing of 3,Role P,333,0.45
-Reference,Zero indexing of 3,Role S,155,0.18299881936245574
+Reference,Zero indexing of 3,Role S,156,0.18417945690672963

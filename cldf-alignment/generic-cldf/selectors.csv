@@ -2300,12 +2300,11 @@ tido1248-rv-neutral-marking-flagging,tido1248,flagging,-rV NEUTRAL marking,overt
 tido1248-s-a-marking-indexing-marker,tido1248,indexing marker,S/A marking,overt,person+number,"vanstaden2000tidore[77,79-82,88,92]",HT,any,any,NONE,accusative
 tido1248-to-actor-marking-flagging,tido1248,flagging,-to ACTOR marking,overt,,"vanstaden2000tidore[221,77-78,82,92]",HT,1sg.F.Pro;1sg.M.Pro,1sg.F.Pro;1sg.M.Pro,NONE,accusative
 timu1245-bo-1pl-2pls-a-indexing-marker,timu1245,indexing marker,-bo 1pl/2plS/A,overt,person+number,granberry1993timucua[84-85],HT;AWM,1pl;2pl,1pl;2pl,NONE,accusative
-timu1245-chi-2p-indexing-marker,timu1245,indexing marker,chi- 2P,overt,person,granberry1993timucua[84-85],HT;AWM,NONE,NONE,2pl;2sg,accusative
-timu1245-chi-2s-a-indexing-marker,timu1245,indexing marker,chi- 2S/A,overt,person,granberry1993timucua[84-85],HT;AWM,2pl;2sg,2pl;2sg,NONE,accusative
+timu1245-chi-2s-a-p-indexing-marker,timu1245,indexing marker,chi- 2S/A/P,overt,person,granberry1993timucua[84-85],HT;AWM,2pl;2sg,2pl;2sg,2pl;2sg,neutral
 timu1245-ma-3pls-a-indexing-marker,timu1245,indexing marker,-ma 3plS/A,overt,person+number,granberry1993timucua[84-85],HT;AWM,3pl,3pl,NONE,accusative
-timu1245-ni-ho-1p-indexing-marker,timu1245,indexing marker,ni-/ho- 1P,overt,person,granberry1993timucua[84-85],HT;AWM,NONE,NONE,1pl;1sg,accusative
-timu1245-ni-ho-1s-a-indexing-marker,timu1245,indexing marker,ni-/ho- 1S/A,overt,person,granberry1993timucua[84-85],HT;AWM,1pl;1sg,1pl;1sg,NONE,accusative
+timu1245-ni-ho-1s-a-p-indexing-marker,timu1245,indexing marker,ni-/ho- 1S/A/P,overt,person,granberry1993timucua[84-85],HT;AWM,1pl;1sg,1pl;1sg,1pl;1sg,neutral
 timu1245-no-flagging,timu1245,flagging,NO_FLAGGING,zero,,"granberry1993timucua[107-110,83-84]",HT,any,any,any,neutral
+timu1245-null-marker,timu1245,indexing marker,NULL_MARKER,zero,person,granberry1993timucua[84-85],DI,3pl;3sg,3pl;3sg,3pl;3sg,neutral
 tiwi1244-ji-2sgs-a-indexing-marker,tiwi1244,indexing marker,ji- 2sgS/A,overt,person+number,lee1987tiwi[73];osborne1970tiwi[38],HT;AWM,2sg,2sg_1pl.excl;2sg_1sg;2sg_3pl,NONE,accusative
 tiwi1244-ji-3sg-fs-a-indexing-marker,tiwi1244,indexing marker,ji- 3sg.fS/A,overt,person+number,lee1987tiwi[73];osborne1970tiwi[38],HT;AWM,3sg_fem378,3sg_fem378_1du.incl;3sg_fem378_1pl.excl;3sg_fem378_1pl.incl;3sg_fem378_1sg;3sg_fem378_2pl;3sg_fem378_2sg;3sg_fem378_3pl,3sg_fem378_3sg_fem378;3sg_fem378_3sg_masc378,neutral
 tiwi1244-mani-1duincl-p-1pinclp-2plp-indexing-marker,tiwi1244,indexing marker,"mani- 1duINCL.P, 1pINCLP, 2plP",overt,person+number,lee1987tiwi[73];osborne1970tiwi[38],HT;AWM,NONE,NONE,1du.incl_3pl;1du.incl_3sg_fem378;1du.incl_3sg_masc378;1pl.incl_3pl;1pl.incl_3sg_fem378;1pl.incl_3sg_masc378;2pl_1pl.excl;2pl_1sg;2pl_3pl;2pl_3sg_fem378;2pl_3sg_masc378,accusative
