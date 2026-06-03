@@ -48,7 +48,7 @@ chin1286,False,True,False,False,person+number,False,NA,no marking,no marking,sen
 chip1262,False,True,False,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 chiq1248,True,True,False,False,person+number,False,NA,no marking,accusative,tripartite,no marking,accusative,tripartite,False,NA,True,Verb,False,NA,False,NA,no,no,False,True
 choc1276,True,True,False,True,person;person+number,False,NA,accusative,accusative,accusative,accusative,accusative,accusative,True,Verb,False,NA,False,NA,False,NA,no,no,False,True
-chol1282,False,True,True,False,person+number,False,NA,no marking,no marking,ergative,no marking,no marking,ergative,True,Verb,False,NA,False,NA,False,NA,no,no,False,True
+chol1282,False,True,True,True,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,True,Verb,False,NA,False,NA,False,NA,no,no,False,True
 chol1284,False,True,False,False,number;person+number,False,NA,no marking,no marking,overt neutral,no marking,no marking,overt neutral,True,Verb,False,NA,False,NA,True,Verb,no,yes,False,True
 chuk1273,True,True,True,False,person;person+number,False,NA,ergative,ergative,tripartite,ergative,ergative,tripartite,True,Noun;Pro,True,Verb,False,NA,True,Verb,no,yes,True,True
 coah1252,True,True,?,?,?,False,NA,accusative,accusative,NA,accusative,accusative,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False

@@ -2295,10 +2295,11 @@ choc1276-9,choc1276,choc1276-2sgs-a-is-h-cl-i-indexing-marker,-2,NA,S,2sg,NA,NA,
 chol1282-1,chol1282,chol1282-no-flagging,,simple,A,any,P,any,any,none,any,default,,"alvarez2011chol[153,85]",,HT
 chol1282-2,chol1282,chol1282-no-flagging,,simple,P,any,A,any,any,none,any,default,,"alvarez2011chol[153,85]",,HT
 chol1282-3,chol1282,chol1282-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"alvarez2011chol[153,85]",,HT
-chol1282-4,chol1282,chol1282-set-a-affixes-indexing-marker,-1/1,simple,A,any,P,any,any,none,any,default,,"alvarez2011chol[264-266,76-83]",,MV; DI; AWM
-chol1282-5,chol1282,chol1282-set-a-affixes-indexing-marker,-1/1,NA,S,any,NA,NA,imperfective,NA,non-exemplar,default,,"alvarez2011chol[264-266,76-83]",,MV; DI; AWM
-chol1282-6,chol1282,chol1282-set-b-suffixes-indexing-marker,1,simple,P,any,A,any,any,none,any,default,,"alvarez2011chol[264-266,76-83]",,MV; DI; AWM
-chol1282-7,chol1282,chol1282-set-b-suffixes-indexing-marker,1,NA,S,any,NA,NA,perfective,NA,any,default,,"alvarez2011chol[264-266,76-83]",,MV; DI; AWM
+chol1282-4,chol1282,chol1282-set-a-affixes-indexing-marker,-1/clitic 1,simple,A,any,P,any,any,none,any,default,,"alvarez2011chol[264-266,76-83]",,MV; DI; AWM; NCP
+chol1282-5,chol1282,chol1282-set-a-affixes-indexing-marker,-1/clitic 1,NA,S,any,NA,NA,imperfective,NA,non-exemplar,any,,"alvarez2011chol[264-266,76-83]",,MV; DI; AWM; NCP
+chol1282-6,chol1282,chol1282-set-b-suffixes-indexing-marker,1,simple,P,any,A,any,any,none,any,default,,"alvarez2011chol[264-266,76-83]",,MV; DI; AWM; NCP
+chol1282-7,chol1282,chol1282-set-a-affixes-indexing-marker,-1/clitic 1,NA,S,any,NA,NA,perfective,NA,any,default,,"alvarez2011chol[264-266,76-83]",,MV; DI; AWM; NCP
+chol1282-8,chol1282,chol1282-set-b-suffixes-indexing-marker,1,NA,S,any,NA,NA,perfective,NA,non-exemplar,stative,,"alvarez2011chol[264-266,76-83]",,MV; DI; AWM; NCP
 chol1284-1,chol1284,chol1284-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"bakkerus2005cholon[134,146]","There is marker -tup which seemingly can function as an agent marker, although the author argues that it is rather a focus marker. + it can indicate an oblique case, not only ‘nominative’, so I do not code it as an S/A marker.",AN
 chol1284-10,chol1284,chol1284-ha-pls-a-p-indexing-marker,3,simple,P,2pl,A,1pl,any,none,any,default,,bakkerus2005cholon[204-211],,AN
 chol1284-11,chol1284,chol1284-ha-pls-a-p-indexing-marker,3,simple,P,2pl,A,3sg,any,none,any,default,,bakkerus2005cholon[204-211],,AN
