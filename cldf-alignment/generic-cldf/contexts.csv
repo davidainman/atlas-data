@@ -5024,7 +5024,7 @@ kiow1266-37,kiow1266,kiow1266-e-e-complementary-number-1pl-a-indexing-marker,-3,
 kiow1266-370,kiow1266,kiow1266-null-marker,multiple,simple,A,3sg.ClassA,P,3sg.ClassA,any,none,exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
 kiow1266-371,kiow1266,kiow1266-null-marker,multiple,simple,A,3sg.ClassA,P,3sg.ClassD,any,none,non-exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
 kiow1266-372,kiow1266,kiow1266-null-marker,multiple,simple,A,3sg.ClassD,P,3sg.ClassA,any,none,non-exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
-kiow1266-373,kiow1266,kiow1266-null-marker,multiple,simple,A,3sg.ClassD,P,3sg.ClassD,any,none,exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
+kiow1266-373,kiow1266,kiow1266-null-marker,multiple,simple,A,3sg.ClassD,P,3sg.ClassD,any,none,non-exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
 kiow1266-374,kiow1266,kiow1266-0-sg-indexing-marker,-1,simple,A,3sg.ClassA,P,3du.ClassA,any,none,exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
 kiow1266-375,kiow1266,kiow1266-e-dual-p-indexing-marker,-2,simple,P,3du.ClassA,A,3sg.ClassA,any,none,exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
 kiow1266-376,kiow1266,kiow1266-0-sg-indexing-marker,-1,simple,A,3sg.ClassA,P,3du.ClassB,any,none,non-exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
@@ -5066,8 +5066,8 @@ kiow1266-407,kiow1266,kiow1266-e-complementary-number-p-indexing-marker,-2,simpl
 kiow1266-408,kiow1266,kiow1266-0-sg-indexing-marker,-3,simple,A,3sg.ClassA,P,3pl.ClassC,any,none,non-exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
 kiow1266-409,kiow1266,kiow1266-e-complementary-number-p-indexing-marker,-2,simple,P,3pl.ClassC,A,3sg.ClassA,any,none,non-exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
 kiow1266-41,kiow1266,kiow1266-null-marker,multiple,NA,S,3pl.ClassA,NA,NA,any,NA,non-exemplar,stative,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
-kiow1266-410,kiow1266,kiow1266-0-sg-indexing-marker,-3,simple,A,3sg.ClassD,P,3pl.ClassA,any,none,exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
-kiow1266-411,kiow1266,kiow1266-e-complementary-number-p-indexing-marker,-2,simple,P,3pl.ClassA,A,3sg.ClassD,any,none,exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
+kiow1266-410,kiow1266,kiow1266-0-sg-indexing-marker,-3,simple,A,3sg.ClassD,P,3pl.ClassA,any,none,non-exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
+kiow1266-411,kiow1266,kiow1266-e-complementary-number-p-indexing-marker,-2,simple,P,3pl.ClassA,A,3sg.ClassD,any,none,non-exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
 kiow1266-412,kiow1266,kiow1266-0-sg-indexing-marker,-3,simple,A,3sg.ClassD,P,3sg.ClassB,any,none,non-exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
 kiow1266-413,kiow1266,kiow1266-e-complementary-number-p-indexing-marker,-2,simple,P,3sg.ClassB,A,3sg.ClassD,any,none,non-exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
 kiow1266-414,kiow1266,kiow1266-0-sg-indexing-marker,-3,simple,A,3sg.ClassD,P,3sg.ClassC,any,none,non-exemplar,default,,watkins1984kiowa[114-134];zuniga2006inverse[190-199],,DI;AN
