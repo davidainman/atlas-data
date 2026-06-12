@@ -112,9 +112,6 @@ def yield_from_cldf(
         selector_id = row[E_SEL_ID]
         # some selector ids are None, warn and skip
         selector_row = selector_id_to_selector_row[selector_id]
-        # we are not calculating non-person based alignments: Ignore gender/other/number -- note there may be more combinations in the future
-        if selector_row[E_FEAT] == "other" or selector_row[E_FEAT] == "gender" or selector_row[E_FEAT] == "number" or selector_row[E_FEAT] == "number" or selector_row[E_FEAT] == "number+gender":
-            continue
         for header in [E_SEL, E_SEL_TYPE, E_OV, E_FEAT]:
             row[header] = selector_row[header]
         glottocode_to_context_rows[row[E_GLOT]].append(row)
@@ -532,6 +529,11 @@ def get_role_value(
     birch: str,
     language_rows: t.List[t.Dict[str, t.Union[str, int, float]]],
 ):
+    lang_name = rows[0][E_LAN]
+    lang_coder = rows[0][E_COD]
+    # remove rows that do not encode person
+    refs_set = set([row[E_REF] for row in rows])
+    rows = [row for row in rows if row[E_FEAT] != "other" and row[E_FEAT] != "gender" and row[E_FEAT] != "number" and row[E_FEAT] != "number+gender"]
     for role in ["S", "A", "P"]:
         roles = [row[E_ROLE] for row in rows]
         # handle special case for pronouns
@@ -565,9 +567,9 @@ def get_role_value(
                             warnings.log(
                                 row=(
                                     type,
-                                    rows[0][E_LAN],
+                                    lang_name,
                                     language,
-                                    ", ".join(sorted(rows[0][E_COD])),
+                                    ", ".join(sorted(lang_coder)),
                                     f"language has an inferred gap at reference: {this_type} and Role: {role} (INFERRED_NULL_zero)",
                                 )
                             )
@@ -576,9 +578,9 @@ def get_role_value(
                             warnings.log(
                                 row=(
                                     type,
-                                    rows[0][E_LAN],
+                                    lang_name,
                                     language,
-                                    ", ".join(sorted(rows[0][E_COD])),
+                                    ", ".join(sorted(lang_coder)),
                                     f"language has an inferred gap at reference: {this_type} and Role: {role} (ROLE_NOT_MARKED_zero)",
                                 )
                             )
@@ -587,9 +589,9 @@ def get_role_value(
                         warnings.log(
                             row=(
                                 type,
-                                rows[0][E_LAN],
+                                lang_name,
                                 language,
-                                ", ".join(sorted(rows[0][E_COD])),
+                                ", ".join(sorted(lang_coder)),
                                 f"language has an inferred gap at reference: {this_type} and Role: {role} (ROLE_NOT_MARKED_zero)",
                             )
                         )
@@ -660,9 +662,9 @@ def get_role_value(
                     errors.log(
                         row=(
                             type,
-                            rows[0][E_LAN],
+                            lang_name,
                             language,
-                            ", ".join(sorted(rows[0][E_COD])),
+                            ", ".join(sorted(lang_coder)),
                             f"ERROR: Not as many unique pairs of (Co_arg, Slot) as matching rows with reference: {this_type} and role: {role}",
                         )
                     )
@@ -751,9 +753,9 @@ def get_role_value(
                                     errors.log(
                                         row=(
                                             this_type,
-                                            rows[0][E_LAN],
+                                            lang_name,
                                             language,
-                                            ", ".join(sorted(rows[0][E_COD])),
+                                            ", ".join(sorted(lang_coder)),
                                             f"ERROR: Inconsistent coarguments for reference {this_type} and role {role} in language: {rows[0][E_GLOT]}",
                                         )
                                     )
@@ -763,9 +765,9 @@ def get_role_value(
                             warnings.log(
                                 row=(
                                     this_type,
-                                    rows[0][E_LAN],
+                                    lang_name,
                                     language,
-                                    ", ".join(sorted(rows[0][E_COD])),
+                                    ", ".join(sorted(lang_coder)),
                                     f"WARNING: More possible coarguments than referential types found for reference {this_type} and role {role} in language: {rows[0][E_GLOT]}, this is probably due to one or more monoexponential plurals",
                                 )
                             )
@@ -816,9 +818,9 @@ def get_role_value(
                 errors.log(
                     row=(
                         type,
-                        rows[0][E_LAN],
+                        lang_name,
                         language,
-                        ", ".join(sorted(rows[0][E_COD])),
+                        ", ".join(sorted(lang_coder)),
                         f"ERROR: Multiple rows with Reference {this_type} and Role {role} with identical co_arg references {ss}.",
                     )
                 )
@@ -893,9 +895,9 @@ def add_alignment(
     original_p = out_row[I_P][:]
 
     # get rid of "slot" information
-    out_row[I_S] = re.sub("_slot:[^_( )\&\&]+", "", out_row[I_S])
-    out_row[I_A] = re.sub("_slot:[^_( )\&\&]+", "", out_row[I_A])
-    out_row[I_P] = re.sub("_slot:[^_( )\&\&]+", "", out_row[I_P])
+    out_row[I_S] = re.sub("_slot:[^_\&\&]+", "", out_row[I_S])
+    out_row[I_A] = re.sub("_slot:[^_\&\&]+", "", out_row[I_A])
+    out_row[I_P] = re.sub("_slot:[^_\&\&]+", "", out_row[I_P])
 
     # if errors in role, write error to alignment and exit
     if "ERROR" in out_row[I_A] or "ERROR" in out_row[I_P] or "ERROR" in out_row[I_S]:
@@ -916,46 +918,68 @@ def add_alignment(
             and "NO_PRONOUN" in out_row[I_P]
         ):
             alignment = "NA"
-    # for purposes of comparison, remove zeros coordinated with an overt
-    out_row[I_S] = re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",out_row[I_S]);
-    out_row[I_A] = re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",out_row[I_A]);
-    out_row[I_P] = re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",out_row[I_P]);
 
     # replace complex strings with ZERO
-    if (all(["_zero" in coarg and "_overt" not in coarg and "NO_PRONOUN_zero" not in coarg for coarg in out_row[I_A].split(";")])) :
-        out_row[I_A] = "ZERO"
+    S_ampersands = [x.strip() for x in out_row[I_S].split("&&") \
+                    if "_zero" not in x or "NO_PRONOUN_zero" in x]
+    out_row[I_S] = " && ".join(S_ampersands) if len(S_ampersands) > 0 else "ZERO"
+    
+    a_s = []
+    for a_coarg in [x.strip() for x in out_row[I_A].split(";")]:
+        A_ampersands = [x.strip() for x in a_coarg.split("&&") \
+                        if "_zero" not in x or "NO_PRONOUN_zero" in x]
+        if len(A_ampersands) > 0:
+            a_s.append(" && ".join(A_ampersands))
+        elif "_coarg" in a_coarg:
+            a_s.append(re.sub(r".+?(?=_coarg)", "ZERO", a_coarg))
+        else:
+            a_s.append("ZERO")
+    out_row[I_A] = a_s
+    
+    p_s = []
+    for p_coarg in [x.strip() for x in out_row[I_P].split(";")]:
+        P_ampersands = [x.strip() for x in p_coarg.split("&&") \
+                        if "_zero" not in x or "NO_PRONOUN_zero" in x]
+        if len(P_ampersands) > 0:
+            p_s.append(" && ".join(P_ampersands))
+        elif "_coarg" in p_coarg:
+            p_s.append(re.sub(r".+?(?=_coarg)", "ZERO", p_coarg))
+        else:
+            p_s.append("ZERO")
+    out_row[I_P] = p_s
 
-    if (all(["_zero" in coarg and "_overt" not in coarg and "NO_PRONOUN_zero" not in coarg for coarg in out_row[I_S].split(";")])) :
-        out_row[I_S] = "ZERO"
-
-    if (all(["_zero" in coarg and "_overt" not in coarg and "NO_PRONOUN_zero" not in coarg for coarg in out_row[I_P].split(";")])) :
-        out_row[I_P] = "ZERO"
-
-    # elif ";" in out_row[I_A] or ";" in out_row[I_P] or ";" in out_row[I_S]:
-    if (
-        "coarg:" in out_row[I_A] or "coarg:" in out_row[I_P] or "coarg:" in out_row[I_S]
-    ):
+    # calculate the full set of all alignments
+    all_alignments = set()
+    for a_coarg in out_row[I_A]:
+        a_coarg = re.sub(r"_coarg:[^&]*","",a_coarg)
+        for p_coarg in out_row[I_P] :
+            p_coarg = re.sub(r"_coarg:[^&]*","",p_coarg)
+            if out_row[I_S] == a_coarg == p_coarg:
+                if out_row[I_S] == "NO_PRONOUN_zero":
+                    all_alignments.add("NA")
+                elif "ZERO" in out_row[I_S] or "_zero" in out_row[I_S]:
+                    all_alignments.add("no marking")
+                elif "overt" in out_row[I_S]:
+                    all_alignments.add("overt neutral")
+                elif "-" in out_row[I_S]:
+                    all_alignments.add("NA")
+                elif "?" in out_row[I_P]:
+                    all_alignments.add("?")
+            elif out_row[I_S] == a_coarg != p_coarg:
+                all_alignments.add("accusative")
+            elif out_row[I_S] == p_coarg != a_coarg:
+                all_alignments.add("ergative")
+            elif a_coarg == p_coarg != out_row[I_S]:
+                all_alignments.add("horizontal")
+            elif a_coarg != p_coarg != out_row[I_S]:
+                all_alignments.add("tripartite")
+    
+    # if there are multiple alignments, designate it "sensitive", otherwise report what was found
+    if len(all_alignments) > 1:
         alignment = "sensitive"
-    elif out_row[I_A] == out_row[I_S] != out_row[I_P]:
-        alignment = "accusative"
-    elif out_row[I_A] == out_row[I_S] == out_row[I_P]:
-        if "ZERO" in out_row[I_P]:
-            alignment = "no marking"
-        elif "overt" in out_row[I_P]:
-            alignment = "overt neutral"
-        elif "-" in out_row[I_P]:
-            alignment = "NA"
-        elif "?" in out_row[I_P]:
-            alignment = "?"
-    elif out_row[I_P] == out_row[I_A] != out_row[I_S]:
-        alignment = "horizontal"
-    elif out_row[I_P] == out_row[I_S] != out_row[I_A]:
-        alignment = "ergative"
-    # this must be the last one to check, otherwise if P==S!=A, below expression would also be true
-    elif out_row[I_P] != out_row[I_A] != out_row[I_S]:
-        alignment = "tripartite"
-
-
+    else:
+        alignment = all_alignments.pop()
+    
     out_row[I_ALIG] = alignment
     # restore original values
     out_row[I_A] = original_a

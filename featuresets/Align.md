@@ -434,6 +434,8 @@ Because the conditions that alter the pronominal alignment of Siuslaw cross-cut 
 ### [](ParameterTable#cldf:Align-06)
 &emsp;**{ yes | no }**
 
+We count languages as containing indexing if at least person information is marked on the verb. The marking of number alone (that is, through a [monoexponential plural marker](MonPl)) is insufficient.
+
 #### yes:  Creek \[cree1270\] (Muskogean; United States)
 Creek has a complex method of indexing, explained in more detail [below](#align-07-what-are-the-exemplar-alignments-of-indexing) ([Kimball 2005](Source#cldf:kimball2005natchez): 407-414).
 
@@ -558,6 +560,8 @@ There are no changes in alignment properties in Nuu-chah-nulth between exemplar 
 ### [](ParameterTable#cldf:Align-09)
 &emsp;**{ yes | no }**
 
+For this feature, we consider only cases where S differs from A in the flagging of non-local scenarios. Other alignments may arise in scenarios of 1>2 and 2>1 due to other intersubjective factors such as politeness. This feature is intended to target the absence of a morphological subject for other reasons. Within non-local scenarios, we target all possible alignment statements, even those which may be otherwise categorized as "sensitive" due to co-argument sensitivity.
+
 #### yes: Shipibo-Conibo \[ship1254\] (Pano-Tacanan; Peru)
 Both [nouns](#align-02-what-are-all-the-alignments-of-nouns) and [pronouns](#align-04-what-are-the-exemplar-alignments-of-pronouns) are fully ergative, in which case S and A always are flagged differently.
 
@@ -569,6 +573,8 @@ Siuslaw pronouns are split between accusative and tripartite alignments (see [ab
 
 ### [](ParameterTable#cldf:Align-10)
 &emsp;**{ NA | yes | no }**
+
+As in Align-09, we consider only cases where S differs from A in the indexing of non-local scenarios. Other alignments may arise in scenarios of 1>2 and 2>1 due to other intersubjective factors such as politeness. In addition, we do not count languages in which S differs from A strictly due to a hierarchical effect: that is, we do not count cases in which A is present in some scenarios and absent in others (because P is marked instead of A).
 
 #### NA: Bulo Stieng \[bulo1242\] (Austroasiatic; Cambodia, Viet Nam)
 Bulo Stieng does not have indexing.

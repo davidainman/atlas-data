@@ -8,7 +8,7 @@
 This feature set investigates monoexponential verbal plurals, which we define as plural (and collective) agreement markers that are formally separate or separable from person markers. The scope of these markers, depending on the language, may be restricted to a single syntactic role or may cover a range: the Single argument (S) of an intransitive verb, the Agent (A) of a transitive verb, and/or the Patient (P) of a transitive verb. In addition to marking core argument plurality, they may also mark event plurality (E). The presence of monoexponential verbal plurals may be optional or obligatory, and they may be marked directly on the verb or elsewhere on the clause (through a second-position clitic, a required auxiliary, reduplication, etc.). In some cases, the same monoexponential verbal plural also occurs on other parts of speech, such as (pro)nouns, adjectives, or adpositions.[^1]
 
 ### Third person plural separated from the person paradigm
-In order for a verbal plural marker to be considered monoexponential, it needs to indicate only plurality (i.e. no portmanteau markers of person and number are considered).[^2] However, there is a complication around the 3rd person plural, as many languages mark a 3rd person singular with a null morpheme and 1st and 2nd persons (singular and plural) overtly. In such a system, a morpheme that indicates 3rd plural could be analyzed as either a joint person-number marker (3pl) or a monoexponential plural, for which an interpretation of 1pl or 2pl is blocked by the presence of separate person markers. To be consistent across language, we have made the following analytical decision: if a plural marker is completely separate from the person marking paradigm (e.g. by appearing in a different slot) and only has a 3rd person plural interpretation, we have considered these as monoexponential plural markers, regardless of the rest of the system, while documenting the peculiarity in the remarks. Tapieté \[tapi1253\] (Tupian; Argentina, Bolivia & Paraguay) exemplifies such a case: the markers indexing person and number are prefixes, while -reta, though it marks only 3rd person plural, is a suffix. (See also Ese Ejja \[esee1248\] (Pano-Tacanan; Bolivia & Peru) further below).
+In order for a verbal plural marker to be considered monoexponential, it needs to indicate only plurality (i.e. no portmanteau markers of person and number are considered).[^2] However, there is a complication around the 3rd person plural, as many languages mark a 3rd person singular with a null morpheme and 1st and 2nd persons (singular and plural) overtly. In such a system, a morpheme that indicates 3rd plural could be analyzed as either a joint person-number marker (3pl) or a monoexponential plural, for which an interpretation of 1pl or 2pl is blocked by the presence of separate person markers. To be consistent across languages, we have made the following analytical decision: if a plural marker is completely separate from the person marking paradigm (e.g. by appearing in a different slot) and only has a 3rd person plural interpretation, we have considered these as monoexponential plural markers, regardless of the rest of the system, while documenting the peculiarity in the remarks. Tapieté \[tapi1253\] (Tupian; Argentina, Bolivia & Paraguay) exemplifies such a case: the markers indexing person and number are prefixes, while -reta, though it marks only 3rd person plural, is a suffix. (See also Ese Ejja \[esee1248\] (Pano-Tacanan; Bolivia & Peru) further below).
 
 <table class="tg">
 <thead>
@@ -667,7 +667,7 @@ Karok has a suffix *-va* which can target S, P, or E plurality. When used on an 
 
 Note that the AP combination was, as expected, not attested in our sample and is thus not included in the states above.
 
-SAP: Nanti \[nant1250\] (Arawakan; Peru)
+### SAP: Nanti \[nant1250\] (Arawakan; Peru)
 
 In Nanti, there is a plural suffix that can indicate the plurality of either A or P, as well as that of S, as illustrated with a transitive verb in (22) and an intransitive verb in (23) (examples from [Michael 2008](Source#cldf:michael2008nanti): 260, 317).
 
@@ -714,7 +714,7 @@ In Nanti, there is a plural suffix that can indicate the plurality of either A o
 </table>
 
 
-#### yes: Teko \[emer1243\] (Tupian; French Guiana)
+#### SA; SA: Teko \[emer1243\] (Tupian; French Guiana)
 Apart from the plural marker -kom indicating plurality of the P argument, which was mentioned in (4) under MonPl-03, Teko has two more monoexponential verbal plural markers, both indicating S and A plurality (subject plurality): the verbal clause clitic -(o)ŋ and the morpheme *kupa*[^5] ([Rose 2011](Source#cldf:rose2011emerillon): 105-111). Examples with both transitive and intransitive verbs for both morphemes are given in (11-14).
 
 <table class="tg">

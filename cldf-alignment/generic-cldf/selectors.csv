@@ -171,7 +171,6 @@ bard1255-no-flagging,bard1255,flagging,NO_FLAGGING,zero,,"bowern2012bardi[195-19
 bard1255-null-marker,bard1255,indexing marker,NULL_MARKER,zero,person+number,"bowern2012bardi[364,394,396,399-402]",HT,NONE,NONE,3pl;3sg,accusative
 bard1255-p-enclitic-indexing-marker,bard1255,indexing marker,P enclitic,overt,person+number,"bowern2012bardi[364,394,396,399-402]",HT,NONE,NONE,1du.incl;1pl;1sg;2pl;2sg;3pl,accusative
 bard1255-s-a-prefix-indexing-marker,bard1255,indexing marker,S/A prefix,overt,person+number,"bowern2012bardi[364,394,396,399-402]",HT,any,any,NONE,accusative
-basq1248-0-3-set-i-ii-and-3pl-set-iii-indexing-marker,basq1248,indexing marker,0 3.Set.I/II and 3pl.Set.III,overt,person,zuniga2019basque,DI;NCP,NONE,3pl,NONE,ergative
 basq1248-dat-marking-flagging,basq1248,flagging,DAT marking,overt,,"hualde2003basque[171-179,363-364];zuniga2019basque[186-187]",DI; NCP,NONE,NONE,any,accusative
 basq1248-e-te-2-3pl-indexing-marker,basq1248,indexing marker,e/te 2/3pl,overt,person+number,zuniga2019basque,DI;NCP,2pl;3pl,2pl_1pl;2pl_1sg;2pl_3pl;2pl_3sg;3pl_1pl;3pl_1sg;3pl_2pl;3pl_2sg;3pl_2sg.FAM.F;3pl_2sg.FAM.M;3pl_3pl;3pl_3sg,2pl_1pl;2pl_1sg;2pl_3pl;2pl_3sg;3pl_1pl;3pl_1sg;3pl_2pl;3pl_2sg;3pl_2sg.FAM.F;3pl_2sg.FAM.M;3pl_3pl;3pl_3sg,neutral
 basq1248-g-1pl-set-i-indexing-marker,basq1248,indexing marker,g 1pl.Set.I,overt,person+number,zuniga2019basque,DI;NCP,1pl,1pl;1pl_3pl;1pl_3sg,1pl,neutral
@@ -424,6 +423,7 @@ choc1276-2sgs-a-is-h-cl-i-indexing-marker,choc1276,indexing marker,2sgS/A is(h)-
 choc1276-acc-case-flagging,choc1276,flagging,ACC case,overt,,broadwell2006choctaw[68-75],AWM,NONE,NONE,any,accusative
 choc1276-no-flagging,choc1276,flagging,NO_FLAGGING,zero,,broadwell2006choctaw[68-75],AWM,NONE,NONE,any,accusative
 choc1276-nom-case-flagging,choc1276,flagging,NOM case,overt,,broadwell2006choctaw[68-75],AWM,any,any,NONE,accusative
+choc1276-null-marker,choc1276,indexing marker,NULL_MARKER,zero,person,broadwell2006choctaw[68-75],DI,3,3,3,neutral
 chol1282-no-flagging,chol1282,flagging,NO_FLAGGING,zero,,"alvarez2011chol[153,85]",HT,any,any,any,neutral
 chol1282-set-a-affixes-indexing-marker,chol1282,indexing marker,Set A affixes,overt,person+number,"alvarez2011chol[264-266,76-83]",MV; DI; AWM,any,any,NONE,accusative
 chol1282-set-b-suffixes-indexing-marker,chol1282,indexing marker,Set B suffixes,overt,person+number,"alvarez2011chol[264-266,76-83]",MV; DI; AWM,any,NONE,any,ergative
@@ -542,7 +542,7 @@ duna1248-role-not-marked,duna1248,indexing trigger,ROLE_NOT_MARKED,zero,NA,sanro
 embe1260-abs-marking-flagging,embe1260,flagging,ABS marking,overt,,"mortensen1999northernembera[20-25,42-43,49]",HT,any,NONE,any,ergative
 embe1260-erg-marking-pa-flagging,embe1260,flagging,ERG marking -pa,overt,,"mortensen1999northernembera[20-25,42-43,49]",HT,NONE,any,NONE,ergative
 embe1260-role-not-marked,embe1260,indexing trigger,ROLE_NOT_MARKED,zero,NA,"mortensen1999northernembera[20,42]",MV; DI; AWM,NONE,NONE,NONE,NA
-emer1243-3pls-a-o-ng-indexing-marker,emer1243,indexing marker,3plS/A =(o)ŋ,overt,person+number,"rose2011emerillon[57-58,65-78]",NCP,3pl,NONE,NONE,horizontal
+emer1243-3pls-a-o-ng-indexing-marker,emer1243,indexing marker,3plS/A =(o)ŋ,overt,number,"rose2011emerillon[57-58,65-78]",NCP,3pl,3pl,NONE,accusative
 emer1243-a-1ss-a-indexing-indexing-marker,emer1243,indexing marker,a- ‘1sS/A’ indexing,overt,person+number,"rose2011emerillon[57-58,65-78]",NCP,1sg,1pl.excl_2pl;1sg_2pl;1sg_3pl;1sg_3sg,NONE,accusative
 emer1243-de-2sp-indexing-indexing-marker,emer1243,indexing marker,de- ‘2sP’ indexing,overt,person+number,"rose2011emerillon[57-58,65-78]",NCP,NONE,NONE,2sg_3pl;2sg_3sg,accusative
 emer1243-e-1sp-indexing-indexing-marker,emer1243,indexing marker,e- ‘1sP’ indexing,overt,person+number,"rose2011emerillon[57-58,65-78]",NCP,NONE,NONE,1sg_3pl;1sg_3sg,accusative
@@ -705,6 +705,7 @@ hida1246-mii-1p-sstat-indexing-marker,hida1246,indexing marker,mii- 1P/Sstat,ove
 hida1246-naa-na-n-ra-2a-sact-indexing-marker,hida1246,indexing marker,náà- / ná- / n ́- (rá-) 2A/Sact,overt,person,"park2012hidatsa[213,69-86]",AWM,2pl;2sg,2pl;2sg,NONE,accusative
 hida1246-nii-2p-ssta-indexing-marker,hida1246,indexing marker,nii- 2P/Ssta,overt,person,"park2012hidatsa[213,69-86]",AWM,2pl;2sg,NONE,2pl;2sg,ergative
 hida1246-no-flagging,hida1246,flagging,NO_FLAGGING,zero,,"park2012hidatsa[379,412]",AWM,any,any,any,neutral
+hida1246-null-marker,hida1246,indexing marker,NULL_MARKER,zero,person,"park2012hidatsa[213,69-86]",DI,3,3,3,neutral
 high1242-no-flagging,high1242,flagging,NO_FLAGGING,zero,,turner1966highlandchontal[30-110],HT,any,any,any,neutral
 high1242-p-affixes-indexing-marker,high1242,indexing marker,P affixes,overt,person+number,turner1966highlandchontal[47-65],MV; DI; AWM,NONE,NONE,any,accusative
 high1242-s-a-prefixes-indexing-marker,high1242,indexing marker,S/A prefixes,overt,person+number,turner1966highlandchontal[47-65],MV; DI; AWM,any,any,NONE,accusative
@@ -740,13 +741,11 @@ hual1241-3-2-marker-indexing-marker,hual1241,indexing marker,3>2 marker,overt,pe
 hual1241-3rd-s-a-marker-indexing-marker,hual1241,indexing marker,3rd S/A marker,overt,person,"weber1989huallagagrammar[70,79,96-111]",MV; DI; AWM,3,3_1;3_3,NONE,accusative
 hual1241-acc-ta-flagging,hual1241,flagging,ACC =ta,overt,,weber1989huallagagrammar[178-179],DI,NONE,NONE,any,accusative
 hual1241-no-flagging,hual1241,flagging,NO_FLAGGING,zero,,weber1989huallagagrammar[178-179],DI,any,any,NONE,accusative
-huas1242-a-cik-indexing-marker,huas1242,indexing marker,ʔa= … cik,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,NONE,2pl_3pl;2pl_3sg,NONE,ergative
-huas1242-a-indexing-marker,huas1242,indexing marker,ʔa=,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,NONE,2sg_3pl;2sg_3sg,NONE,ergative
+huas1242-cik-indexing-marker,huas1242,indexing marker,-cik,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,2pl,2pl_3pl;2pl_3sg;3pl_3pl;3pl_3sg,NONE,accusative
+huas1242-a-indexing-marker,huas1242,indexing marker,ʔa=,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,NONE,2pl_3pl;2pl_3sg;2sg_3pl;2sg_3sg,NONE,ergative
 huas1242-i-indexing-marker,huas1242,indexing marker,ʔi=,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,NONE,1pl_3pl;1pl_3sg,NONE,ergative
-huas1242-in-cik-indexing-marker,huas1242,indexing marker,ʔin= … cik,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,NONE,3pl_3pl;3pl_3sg,NONE,ergative
-huas1242-in-indexing-marker,huas1242,indexing marker,ʔin=,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,1sg,3sg_3pl;3sg_3sg,NONE,accusative
-huas1242-it-cik-indexing-marker,huas1242,indexing marker,ʔit= … cik,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,2pl,NONE,NONE,horizontal
-huas1242-it-indexing-marker,huas1242,indexing marker,ʔit=,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,2sg,NONE,NONE,horizontal
+huas1242-in-indexing-marker,huas1242,indexing marker,ʔin=,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,1sg,3pl_3pl;3pl_3sg;3sg_3pl;3sg_3sg,NONE,accusative
+huas1242-it-indexing-marker,huas1242,indexing marker,ʔit=,overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,2pl;2sg,NONE,NONE,horizontal
 huas1242-no-flagging,huas1242,flagging,NO_FLAGGING,zero,,edmonson1988huastec,HT;AWM,any,any,any,neutral
 huas1242-ti-3a-2p-indexing-marker,huas1242,indexing marker,ti= 3A>2P,overt,person,edmonson1988huastec[114-115],MV; DI; AWM,NONE,3pl_2pl;3pl_2sg;3sg_2pl;3sg_2sg,2pl_3pl;2pl_3sg;2sg_3pl;2sg_3sg,horizontal
 huas1242-tin-2a-1sgp-3a-1sgp-indexing-marker,huas1242,indexing marker,"tin= 2A>1sgP, 3A>1sgP",overt,person+number,edmonson1988huastec[114-115],MV; DI; AWM,NONE,NONE,1sg,accusative
@@ -838,8 +837,7 @@ itel1242-n-3s-indexing-marker,itel1242,indexing marker,-ʔn 3S,overt,person,boba
 itel1242-n-cgwin-3p-indexing-marker,itel1242,indexing marker,-ən/-čɣwin 3P,overt,person,bobaljik2002agreement[4-9],AN,NONE,NONE,3pl_2sg;3sg_2sg,accusative
 itel1242-no-flagging,itel1242,flagging,NO_FLAGGING,zero,,bobaljik2002agreement[4-9],AWM,any,any,any,neutral
 itel1242-nt-1pls-a-indexing-marker,itel1242,indexing marker,nt- 1plS/A,overt,person+number,bobaljik2002agreement[4-9],AN,1pl,1pl,NONE,accusative
-itel1242-sx-2pla-indexing-marker,itel1242,indexing marker,-sx 2plA,overt,person+number,bobaljik2002agreement[4-9],AN,NONE,2pl_1pl;2pl_1sg,NONE,ergative
-itel1242-sx-2pls-indexing-marker,itel1242,indexing marker,-sx 2plS,overt,person+number,bobaljik2002agreement[4-9],AN,2pl,NONE,NONE,horizontal
+itel1242-sx-2pls-a-indexing-marker,itel1242,indexing marker,-sx 2plS/A,overt,person+number,bobaljik2002agreement[4-9],AN,2pl,2pl_1pl;2pl_1sg,NONE,accusative
 itel1242-sx-ik-2pl-3sg-indexing-marker,itel1242,indexing marker,-sx(ik) 2pl>3sg,overt,person+number,bobaljik2002agreement[4-9],AN,NONE,2pl_3sg,3sg_2pl,horizontal
 itel1242-sxi-n-xki-n-2pl-3pl-indexing-marker,itel1242,indexing marker,-sxiʔn/-xkiʔn 2pl>3pl,overt,person+number,bobaljik2002agreement[4-9],AN,NONE,2pl_3pl,3pl_2pl,horizontal
 itel1242-t-1sgs-a-indexing-marker,itel1242,indexing marker,t- 1sgS/A,overt,person+number,bobaljik2002agreement[4-9],AN,1sg,1sg,NONE,accusative
@@ -1133,7 +1131,7 @@ kute1249-awas-1pl-p-1pl-2-indexing-marker,kute1249,indexing marker,-awas 1pl P /
 kute1249-hin-2-s-a-indexing-marker,kute1249,indexing marker,hin= 2 S/A,overt,person+number,"morgan1992kutenai[355-367,424-425]",DI; KMB; AWM,2pl;2sg,2pl;2sg,NONE,accusative
 kute1249-hu-1-s-a-indexing-marker,kute1249,indexing marker,hu= 1 S/A,overt,person+number,"morgan1992kutenai[355-367,424-425]",DI; KMB; AWM,1pl;1sg,1pl;1sg,NONE,accusative
 kute1249-is-2p-indexing-marker,kute1249,indexing marker,-is 2P,overt,person,morgan1992kutenai[355-360],DI; KMB; AWM,NONE,NONE,2pl_1sg;2pl_3-high;2pl_3-low;2pl_3fobv-low;2sg_1sg;2sg_3-high;2sg_3-low;2sg_3fobv-low,accusative
-kute1249-is-3obv-p-indexing-marker,kute1249,indexing marker,-is 3obv P,overt,person+number,morgan1992kutenai[355-360],DI; KMB; AWM,NONE,NONE,3-low_3fobv-low,accusative
+kute1249-is-3obv-a-indexing-marker,kute1249,indexing marker,-is 3obv A,overt,person+number,morgan1992kutenai[355-360],DI; KMB; AWM,NONE,3fobv-low_3-low,NONE,ergative
 kute1249-kil-2pl-s-a-p-indexing-marker,kute1249,indexing marker,-kił 2pl S/A/P,overt,person+number,morgan1992kutenai[355-360],DI; KMB; AWM,2pl,2pl_1sg;2pl_3-high;2pl_3-low,2pl_1sg;2pl_3-high;2pl_3-low;2pl_3fobv-low,neutral
 kute1249-no-flagging,kute1249,flagging,NO_FLAGGING,zero,,"morgan1992kutenai[36,387-388]",DI,Noun,Noun,Noun,neutral
 kute1249-null-marker,kute1249,indexing marker,NULL_MARKER,zero,person,"morgan1992kutenai[355-367,424-425]",DI; KMB; AWM,3-high;3-low;3fobv-low,3-high;3-low;3fobv-low,NONE,accusative
@@ -1470,7 +1468,7 @@ miri1266-wu-rr-3pl-2-indexing-marker,miri1266,indexing marker,-wu-rr 3pl (>2),ov
 miri1266-wun-3pls-a-indexing-marker,miri1266,indexing marker,-wun 3plS/A,overt,person+number,kofod1978miriwung[181-212],AWM,NONE,3pl_1pl.excl;3pl_1pl.incl;3pl_1sg;3pl_3pl;3pl_3sg.F;3pl_3sg.M,NONE,ergative
 miri1266-ya-1pl-ins-a-indexing-marker,miri1266,indexing marker,ya- 1pl.inS/A,overt,person+number,kofod1978miriwung[181-212],AWM,1pl.incl,1pl.incl_3pl;1pl.incl_3sg.F;1pl.incl_3sg.M,NONE,accusative
 miri1266-ya-rr-1pl-exclp-3a-indexing-marker,miri1266,indexing marker,-ya-rr 1pl.exclP (<3A),overt,person+number,kofod1978miriwung[181-212],AWM,NONE,NONE,1pl.excl_3pl;1pl.excl_3sg.F;1pl.excl_3sg.M,accusative
-miri1266-yan-1pl-incls-a-indexing-marker,miri1266,indexing marker,-yan 1pl.inclS/A,overt,person+number,kofod1978miriwung[181-212],AWM,1pl.incl_3sg.M,1pl.incl_3pl;1pl.incl_3sg.F,NONE,accusative
+miri1266-yan-1pl-incls-a-indexing-marker,miri1266,indexing marker,-yan 1pl.inclS/A,overt,person+number,kofod1978miriwung[181-212],AWM,1pl.incl,1pl.incl_3pl;1pl.incl_3sg.F,NONE,accusative
 miri1266-yi-1pl-exs-a-and-1p-in-some-scenarios-indexing-marker,miri1266,indexing marker,yi- 1pl.exS/A and 1P (in some scenarios),overt,person+number,kofod1978miriwung[181-212],AWM,1pl.excl,1pl.excl_2pl;1pl.excl_2sg;1pl.excl_3pl;1pl.excl_3sg.F;1pl.excl_3sg.M,1pl.excl_2pl;1pl.excl_2sg;1pl.incl_2pl;1pl.incl_2sg;1sg_2pl;1sg_2sg,neutral
 miri1266-yin-1pl-exs-a-and-1sgs-a-and-3sg-ms-a-indexing-marker,miri1266,indexing marker,-yin 1pl.exS/A and 1sgS/A and 3sg.mS/A,overt,person+number,kofod1978miriwung[181-212],AWM,1pl.excl;3sg.M,1pl.excl_2pl;1pl.excl_2sg;1pl.excl_3pl;1pl.excl_3sg.F;1pl.excl_3sg.M;3sg.M_1pl.excl;3sg.M_1pl.incl;3sg.M_1sg;3sg.M_2pl;3sg.M_2sg;3sg.M_3pl;3sg.M_3sg.F;3sg.M_3sg.M,NONE,accusative
 miri1266-yuwu-rr-yayi-1pl-inclp-3a-indexing-marker,miri1266,indexing marker,-yuwu-rr/yayi 1pl.inclP (<3A),overt,person+number,kofod1978miriwung[181-212],AWM,NONE,NONE,1pl.incl_3pl;1pl.incl_3sg.F;1pl.incl_3sg.M,accusative
@@ -1536,6 +1534,7 @@ movi1243-i-l-1-proclitic-indexing-marker,movi1243,indexing marker,(i)ɬ 1 procli
 movi1243-i-ne-3sg-f-flagging,movi1243,flagging,i'ne' 3sg.F,overt,,haude2011argument;haude2023pc,MV; DI,3sg.F.Pro-high;3sg.F.Pro-low,3sg.F.Pro-high_1pl.exclPro;3sg.F.Pro-high_1pl.inclPro;3sg.F.Pro-high_1sgPro;3sg.F.Pro-high_2plPro;3sg.F.Pro-high_2sgPro;3sg.F.Pro-high_3plPro-low;3sg.F.Pro-high_3sg.F.Pro-low;3sg.F.Pro-high_3sg.M.Pro-low;3sg.F.Pro-high_3sg.N.Pro-low;3sg.F.Pro-high_Noun-pl-low;3sg.F.Pro-high_Noun-sg-low;3sg.F.Pro-low_1pl.exclPro;3sg.F.Pro-low_1pl.inclPro;3sg.F.Pro-low_1sgPro;3sg.F.Pro-low_2plPro;3sg.F.Pro-low_2sgPro;3sg.F.Pro-low_3plPro-high;3sg.F.Pro-low_3sg.F.Pro-high;3sg.F.Pro-low_3sg.M.Pro-high;3sg.F.Pro-low_3sg.N.Pro-high;3sg.F.Pro-low_Noun-pl-high;3sg.F.Pro-low_Noun-sg-high,3sg.F.Pro-high_1pl.exclPro;3sg.F.Pro-high_1sgPro;3sg.F.Pro-high_2plPro;3sg.F.Pro-high_2sgPro;3sg.F.Pro-high_3plPro-low;3sg.F.Pro-high_3sg.F.Pro-low;3sg.F.Pro-high_3sg.M.Pro-low;3sg.F.Pro-high_3sg.N.Pro-low;3sg.F.Pro-high_Noun-pl-low;3sg.F.Pro-high_Noun-sg-low;3sg.F.Pro-low_1pl.exclPro;3sg.F.Pro-low_1sgPro;3sg.F.Pro-low_2plPro;3sg.F.Pro-low_2sgPro,neutral
 movi1243-i-s-2-proclitic-indexing-marker,movi1243,indexing marker,(i)s 2 proclitic,overt,person,haude2011argument;haude2023pc,MV; DI,2pl;2sg,NONE,NONE,horizontal
 movi1243-i-t-1excl-proclitic-indexing-marker,movi1243,indexing marker,(i)t 1excl proclitic,overt,person,haude2011argument;haude2023pc,MV; DI,1pl.excl;1sg,NONE,NONE,horizontal
+movi1243-null-marker,movi1243,indexing marker,NULL_MARKER,zero,person,haude2011argument;haude2023pc,DI,3-high;3-low,3-high_1pl.excl;3-high_1pl.incl;3-high_1sg;3-high_2pl;3-high_2sg;3-high_3-low;3-low_1pl.excl;3-low_1pl.incl;3-low_1sg;3-low_2pl;3-low_2sg;3-low_3-low,3-high_1pl.excl;3-high_1pl.incl;3-high_1sg;3-high_2pl;3-high_2sg;3-high_3-low;3-low_1pl.excl;3-low_1pl.incl;3-low_1sg;3-low_2pl;3-low_2sg;3-low_3-low,neutral
 movi1243-i-y-bi-2pl-flagging,movi1243,flagging,(i)y'bi 2pl,overt,,haude2011argument;haude2023pc,MV; DI,2plPro,2plPro_1pl.exclPro;2plPro_1sgPro,2plPro_1pl.exclPro;2plPro_1sgPro,neutral
 movi1243-i-y-li-1pl-excl-flagging,movi1243,flagging,(i)y'ɬi 1pl.excl,overt,,haude2011argument;haude2023pc,MV; DI,1pl.exclPro,1pl.exclPro,1pl.exclPro,neutral
 movi1243-ka-3sg-n-flagging,movi1243,flagging,ka' 3sg.N,overt,,haude2011argument;haude2023pc,MV; DI,NONE,NONE,3sg.N.Pro-high_1pl.inclPro;3sg.N.Pro-low_1pl.inclPro;3sg.N.Pro-low_3plPro-high;3sg.N.Pro-low_3sg.F.Pro-high;3sg.N.Pro-low_3sg.M.Pro-high;3sg.N.Pro-low_3sg.N.Pro-high;3sg.N.Pro-low_Noun-pl-high;3sg.N.Pro-low_Noun-sg-high,accusative
@@ -1635,7 +1634,7 @@ natc1249-s-a-marking-indexing-marker,natc1249,indexing marker,S/A marking,overt,
 nava1243-bi-yi-3obv-3prox-indexing-marker,nava1243,indexing marker,bi-/yi- 3obv>3prox,overt,person,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,NONE,NONE,3-high_3-low,accusative
 nava1243-ha-3prox-3obv-indexing-marker,nava1243,indexing marker,ha- 3prox>3obv,overt,person,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,NONE,NONE,3-low_3-high,accusative
 nava1243-ii-1nsgs-a-indexing-marker,nava1243,indexing marker,ii- 1nsgS/A,overt,person+number,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,1du;1pl,1du;1pl,NONE,accusative
-nava1243-ji-3obvs-a-indexing-marker,nava1243,indexing marker,ji- 3obvS/A,overt,person,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,3-low,3-low;3-low_3-high,NONE,accusative
+nava1243-ji-3obvs-a-indexing-marker,nava1243,indexing marker,ji- 3obvS/A,overt,person,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,3-low,3-low,NONE,accusative
 nava1243-ni-2sgp-indexing-marker,nava1243,indexing marker,ni- 2sgP,overt,person+number,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,NONE,NONE,2sg,accusative
 nava1243-ni-2sgs-a-indexing-marker,nava1243,indexing marker,ni- 2sgS/A,overt,person+number,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,2sg,2sg,NONE,accusative
 nava1243-nihi-1nsgp-2nsgp-indexing-marker,nava1243,indexing marker,"nihi- 1nsgP, 2nsgP",overt,person+number,"young1987navajo[112-117];willie2000navajo[64,74-75]",AN,NONE,NONE,1du;1pl;2du;2pl,accusative
@@ -1689,7 +1688,7 @@ ngar1284-ngan-1sgp-indexing-marker,ngar1284,indexing marker,ŋan- 1sgP,overt,per
 ngar1284-nj2-nja2-nju-nji-3fs-p-indexing-marker,ngar1284,indexing marker,nj2-/nja2-/nju-/nji- ‘3fS/P’,overt,person+number,"rumsey1978ungarinjin[111,114-115]",AWM,3sg.F,3sg.F_1pl.excl;3sg.F_1pl.incl;3sg.F_1sg;3sg.F_2pl;3sg.F_2sg;3sg.F_3pl;3sg.F_3sg.F;3sg.F_3sg.M;3sg.F_3sg.N1;3sg.F_3sg.N2,NONE,accusative
 ngar1284-nja-1-1excls-p-indexing-marker,ngar1284,indexing marker,nja(1)- ‘1exclS/P’,overt,person+number,"rumsey1978ungarinjin[111,114-115]",AWM,1pl.excl,NONE,1pl.excl_2pl;1pl.excl_2sg;1pl.excl_3pl;1pl.excl_3sg.F;1pl.excl_3sg.M;1pl.excl_3sg.N1;1pl.excl_3sg.N2,ergative
 ngar1284-njdja-2sga-indexing-marker,ngar1284,indexing marker,njdja- 2sgA,overt,person+number,"rumsey1978ungarinjin[111,114-115]",AWM,NONE,2sg_3pl;2sg_3sg.F;2sg_3sg.M;2sg_3sg.N1;2sg_3sg.N2,NONE,ergative
-ngar1284-njin-njun-2sgs-p-indexing-marker,ngar1284,indexing marker,njin-/njun- 2sgS/P,overt,person+number,"rumsey1978ungarinjin[111,114-115]",AWM,2sg_1sg,1sg_3pl,2sg_1pl.excl;2sg_1pl.incl;2sg_3pl;2sg_3sg.F;2sg_3sg.M;2sg_3sg.N1;2sg_3sg.N2,neutral
+ngar1284-njin-njun-2sgs-p-indexing-marker,ngar1284,indexing marker,njin-/njun- 2sgS/P,overt,person+number,"rumsey1978ungarinjin[111,114-115]",AWM,2sg,1sg_3pl,2sg_1pl.excl;2sg_1pl.incl;2sg_3pl;2sg_3sg.F;2sg_3sg.M;2sg_3sg.N1;2sg_3sg.N2,neutral
 ngar1284-no-flagging,ngar1284,flagging,NO_FLAGGING,zero,,"rumsey1978ungarinjin[44,83-104]",DI,any,any,any,neutral
 ngar1284-r-da-pl-indexing-marker,ngar1284,indexing marker,r-/da- 'pl',overt,number,"rumsey1978ungarinjin[111,114-115]",AWM,3pl,3pl_1pl.excl;3pl_1pl.incl;3pl_1sg;3pl_2pl;3pl_2sg;3pl_3pl;3pl_3sg.F;3pl_3sg.M;3pl_3sg.N1;3pl_3sg.N2,1pl.excl_2pl;1pl.excl_2sg;1pl.excl_3pl;1pl.excl_3sg.F;1pl.excl_3sg.M;1pl.excl_3sg.N1;1pl.excl_3sg.N2;1pl.incl_3pl;1pl.incl_3sg.F;1pl.incl_3sg.M;1pl.incl_3sg.N1;1pl.incl_3sg.N2;2pl_1pl.excl;2pl_1sg;2pl_3pl;2pl_3sg.F;2pl_3sg.M;2pl_3sg.N1;2pl_3sg.N2;3pl_1pl.excl;3pl_1pl.incl;3pl_1sg;3pl_2pl;3pl_2sg;3pl_3pl;3pl_3sg.F;3pl_3sg.M;3pl_3sg.N1;3pl_3sg.N2,neutral
 ngar1284-r-pl-indexing-marker,ngar1284,indexing marker,r- 'pl',overt,number,"rumsey1978ungarinjin[111,114-115]",AWM,1pl.excl;1pl.incl;2pl;3pl,1pl.excl_2pl;1pl.excl_2sg;1pl.excl_3pl;1pl.excl_3sg.F;1pl.excl_3sg.M;1pl.excl_3sg.N1;1pl.excl_3sg.N2;1pl.incl_3pl;1pl.incl_3sg.F;1pl.incl_3sg.M;1pl.incl_3sg.N1;1pl.incl_3sg.N2;2pl_1pl.excl;2pl_1sg,NONE,accusative
@@ -1784,8 +1783,7 @@ nucl1302-sf-t-pl-set-b-indexing-marker,nucl1302,indexing marker,sf. -t 'pl' (set
 nucl1302-v-1-set-a-indexing-marker,nucl1302,indexing marker,v- '1' (set A),overt,person,"gurevich2006constructional[81];hewitt1995georgian[217,242,258]",AWM,1pl;1sg,1pl_3pl;1pl_3sg;1sg_3pl;1sg_3sg,NONE,accusative
 nucl1327-no-flagging,nucl1327,flagging,NO_FLAGGING,zero,,harvey2001limilngan,HT;AWM,any,any,any,neutral
 nucl1622-no-flagging,nucl1622,flagging,NO_FLAGGING,zero,,"olsson2017coastal[295-297,79]",HT;AWM,any,any,any,neutral
-nucl1622-p-affix-indexing-marker,nucl1622,indexing marker,P affix,overt,person+number,"olsson2017coastal[213-228,259-272]",HT;AWM,any,NONE,NONE,horizontal
-nucl1622-p-affixes-indexing-marker,nucl1622,indexing marker,P affixes,overt,person+number,"olsson2017coastal[213-228,259-272]",HT;AWM,NONE,NONE,any,accusative
+nucl1622-p-affixes-indexing-marker,nucl1622,indexing marker,P affixes,overt,person+number,"olsson2017coastal[213-228,259-272]",HT;AWM,any,NONE,any,ergative
 nucl1622-s-a-prefix-1pl-nak-e-indexing-marker,nucl1622,indexing marker,S/A prefix 1pl nak-…(e-),overt,person+number,"olsson2017coastal[213-228,259-272]",HT;AWM,1pl,1pl,NONE,accusative
 nucl1622-s-a-prefix-1sg-no-nak-indexing-marker,nucl1622,indexing marker,S/A prefix 1sg no-/nak-,overt,person+number,"olsson2017coastal[213-228,259-272]",HT;AWM,1sg,1sg,NONE,accusative
 nucl1622-s-a-prefix-2pl-e-indexing-marker,nucl1622,indexing marker,S/A prefix 2pl e-,overt,person+number,"olsson2017coastal[213-228,259-272]",HT;AWM,2pl,2pl,NONE,accusative
@@ -1875,7 +1873,7 @@ nuuc1236-1sg-enclitic-indexing-marker,nuuc1236,indexing marker,1sg enclitic,over
 nuuc1236-2pl-enclitic-indexing-marker,nuuc1236,indexing marker,2pl enclitic,overt,person+number,emanatian1988nootka[267-277],DI,2pl,2pl,2pl_3pl-high;2pl_3pl-low;2pl_3sg-high;2pl_3sg-low,neutral
 nuuc1236-2sg-enclitic-indexing-marker,nuuc1236,indexing marker,2sg enclitic,overt,person+number,emanatian1988nootka[267-277],DI,2sg,2sg,2sg_3pl-high;2sg_3pl-low;2sg_3sg-high;2sg_3sg-low,neutral
 nuuc1236-3-enclitic-indexing-marker,nuuc1236,indexing marker,3 enclitic,overt,person,emanatian1988nootka[267-277],DI,3pl-high;3pl-low;3sg-high;3sg-low,3pl-high_3pl-low;3pl-high_3sg-low;3pl-low_3pl-high;3pl-low_3sg-high;3sg-high_3pl-low;3sg-high_3sg-low;3sg-low_3pl-high;3sg-low_3sg-high,NONE,accusative
-nuuc1236-3pl-enclitic-indexing-marker,nuuc1236,indexing marker,3pl enclitic,overt,person+number,emanatian1988nootka[267-277],DI,3pl-high;3pl-low,3pl-high;3pl-low,3pl-high;3pl-low,neutral
+nuuc1236-3pl-enclitic-indexing-marker,nuuc1236,indexing marker,3pl enclitic,overt,number,emanatian1988nootka[267-277],DI,3pl-high;3pl-low,3pl-high;3pl-low,3pl-high;3pl-low,neutral
 nuuc1236-acc-case-flagging,nuuc1236,flagging,ACC case,overt,,woo2007nuuchahnulth[178-180],AWM,NONE,NONE,any,accusative
 nuuc1236-no-flagging,nuuc1236,flagging,NO_FLAGGING,zero,,woo2007nuuchahnulth[178-180],AWM,any,any,any,neutral
 nuuc1236-null-marker,nuuc1236,indexing marker,NULL_MARKER,zero,person+number,emanatian1988nootka[267-277],DI,3pl-high;3pl-low,3pl-high;3pl-low,3pl-high;3pl-low,neutral
@@ -2061,6 +2059,7 @@ savo1255-s-a-enclitic-na-flagging,savo1255,flagging,S/A enclitic =na,overt,,wege
 savo1255-various-affixes-all-overt-indexing-marker,savo1255,indexing marker,"various affixes, all overt",overt,person+number,wegener2012grammar[131-135],MV,NONE,NONE,any,accusative
 seri1257-1sga-indexing-marker,seri1257,indexing marker,ʔ- 1sgA,overt,person+number,marlett1981seri[33-35],AWM,NONE,1sg_2pl;1sg_2sg;1sg_3pl;1sg_3sg,NONE,ergative
 seri1257-a-1pls-a-indexing-marker,seri1257,indexing marker,ʔa- 1plS/A,overt,person+number,marlett1981seri[33-35],AWM,1pl,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg,NONE,accusative
+seri1257-isi-1plp-indexing-marker,seri1257,indexing marker,ʔiši- 1plP,overt,person+number,marlett1981seri[33-35],AWM; DI,NONE,NONE,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg,accusative
 seri1257-i-3p-indexing-marker,seri1257,indexing marker,i- 3P,overt,person,marlett1981seri[33-35],AWM,NONE,NONE,3pl_3pl;3pl_3sg;3sg_3pl;3sg_3sg,accusative
 seri1257-im-1sgp-indexing-marker,seri1257,indexing marker,ʔim- 1sgP,overt,person+number,marlett1981seri[33-35],AWM,NONE,NONE,1sg_2pl;1sg_2sg;1sg_3pl;1sg_3sg,accusative
 seri1257-m-2sgs-a-indexing-marker,seri1257,indexing marker,m- 2sgS/A,overt,person+number,marlett1981seri[33-35],AWM,2sg,2sg_1pl;2sg_3pl;2sg_3sg,NONE,accusative
@@ -2301,12 +2300,11 @@ tido1248-rv-neutral-marking-flagging,tido1248,flagging,-rV NEUTRAL marking,overt
 tido1248-s-a-marking-indexing-marker,tido1248,indexing marker,S/A marking,overt,person+number,"vanstaden2000tidore[77,79-82,88,92]",HT,any,any,NONE,accusative
 tido1248-to-actor-marking-flagging,tido1248,flagging,-to ACTOR marking,overt,,"vanstaden2000tidore[221,77-78,82,92]",HT,1sg.F.Pro;1sg.M.Pro,1sg.F.Pro;1sg.M.Pro,NONE,accusative
 timu1245-bo-1pl-2pls-a-indexing-marker,timu1245,indexing marker,-bo 1pl/2plS/A,overt,person+number,granberry1993timucua[84-85],HT;AWM,1pl;2pl,1pl;2pl,NONE,accusative
-timu1245-chi-2p-indexing-marker,timu1245,indexing marker,chi- 2P,overt,person,granberry1993timucua[84-85],HT;AWM,NONE,NONE,2pl;2sg,accusative
-timu1245-chi-2s-a-indexing-marker,timu1245,indexing marker,chi- 2S/A,overt,person,granberry1993timucua[84-85],HT;AWM,2pl;2sg,2pl;2sg,NONE,accusative
+timu1245-chi-2s-a-p-indexing-marker,timu1245,indexing marker,chi- 2S/A/P,overt,person,granberry1993timucua[84-85],HT;AWM,2pl;2sg,2pl;2sg,2pl;2sg,neutral
 timu1245-ma-3pls-a-indexing-marker,timu1245,indexing marker,-ma 3plS/A,overt,person+number,granberry1993timucua[84-85],HT;AWM,3pl,3pl,NONE,accusative
-timu1245-ni-ho-1p-indexing-marker,timu1245,indexing marker,ni-/ho- 1P,overt,person,granberry1993timucua[84-85],HT;AWM,NONE,NONE,1pl;1sg,accusative
-timu1245-ni-ho-1s-a-indexing-marker,timu1245,indexing marker,ni-/ho- 1S/A,overt,person,granberry1993timucua[84-85],HT;AWM,1pl;1sg,1pl;1sg,NONE,accusative
+timu1245-ni-ho-1s-a-p-indexing-marker,timu1245,indexing marker,ni-/ho- 1S/A/P,overt,person,granberry1993timucua[84-85],HT;AWM,1pl;1sg,1pl;1sg,1pl;1sg,neutral
 timu1245-no-flagging,timu1245,flagging,NO_FLAGGING,zero,,"granberry1993timucua[107-110,83-84]",HT,any,any,any,neutral
+timu1245-null-marker,timu1245,indexing marker,NULL_MARKER,zero,person,granberry1993timucua[84-85],DI,3pl;3sg,3pl;3sg,3pl;3sg,neutral
 tiwi1244-ji-2sgs-a-indexing-marker,tiwi1244,indexing marker,ji- 2sgS/A,overt,person+number,lee1987tiwi[73];osborne1970tiwi[38],HT;AWM,2sg,2sg_1pl.excl;2sg_1sg;2sg_3pl,NONE,accusative
 tiwi1244-ji-3sg-fs-a-indexing-marker,tiwi1244,indexing marker,ji- 3sg.fS/A,overt,person+number,lee1987tiwi[73];osborne1970tiwi[38],HT;AWM,3sg_fem378,3sg_fem378_1du.incl;3sg_fem378_1pl.excl;3sg_fem378_1pl.incl;3sg_fem378_1sg;3sg_fem378_2pl;3sg_fem378_2sg;3sg_fem378_3pl,3sg_fem378_3sg_fem378;3sg_fem378_3sg_masc378,neutral
 tiwi1244-mani-1duincl-p-1pinclp-2plp-indexing-marker,tiwi1244,indexing marker,"mani- 1duINCL.P, 1pINCLP, 2plP",overt,person+number,lee1987tiwi[73];osborne1970tiwi[38],HT;AWM,NONE,NONE,1du.incl_3pl;1du.incl_3sg_fem378;1du.incl_3sg_masc378;1pl.incl_3pl;1pl.incl_3sg_fem378;1pl.incl_3sg_masc378;2pl_1pl.excl;2pl_1sg;2pl_3pl;2pl_3sg_fem378;2pl_3sg_masc378,accusative
@@ -2666,18 +2664,19 @@ yaki1237-pat-3pla-indexing-marker,yaki1237,indexing marker,=pat 3plA,overt,perso
 yana1271-acc-marking-flagging,yana1271,flagging,ACC marking,overt,,"sapir1922yana[11,167,231-232,55,6]",HT,NONE,NONE,3Pro;Noun,accusative
 yana1271-dja-4-1sgp-2sg-2pl-indexing-marker,yana1271,indexing marker,"-dja (4) 1sgP(<2sg, 2pl)",overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,1sg_2pl,accusative
 yana1271-gi-4-1plp-2sg-2pl-indexing-marker,yana1271,indexing marker,"-gi (4) 1plP(<2sg, 2pl)",overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,1pl_2pl;1pl_2sg,accusative
-yana1271-k-i-1-1pl-indexing-marker,yana1271,indexing marker,-kʻi (1) 1pl,overt,person+number,sapir1922yana[233],HT;AWM,1pl,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg,neutral
+yana1271-k-i-1-1pl-indexing-marker,yana1271,indexing marker,-kʻi (1) 1pl,overt,person+number,sapir1922yana[233],HT;AWM,1pl,1pl_2pl;1pl_2sg;1pl_3,1pl_2pl;1pl_2sg;1pl_3,neutral
 yana1271-ma-4-2sgp-1sg-1pl-indexing-marker,yana1271,indexing marker,"-’ma (4) 2sgP(<1sg, 1pl)",overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,2sg_1pl;2sg_1sg,accusative
 yana1271-mga-4-2plp-1sg-1pl-indexing-marker,yana1271,indexing marker,"-m’ga (4) 2plP(<1sg, 1pl)",overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,2pl_2pl;2pl_2sg,accusative
-yana1271-ndja-4-1sg-indexing-marker,yana1271,indexing marker,-ndja (4) 1sg,overt,person+number,sapir1922yana[233],HT;AWM,1sg,1sg_3pl;1sg_3sg,1sg_2sg;1sg_3sg,neutral
-yana1271-nigi-4-1pl-indexing-marker,yana1271,indexing marker,-’nigi (4) 1pl,overt,person+number,sapir1922yana[233],HT;AWM,1pl,1pl_3pl;1pl_3sg,NONE,accusative
+yana1271-ndja-4-1sg-indexing-marker,yana1271,indexing marker,-ndja (4) 1sg,overt,person+number,sapir1922yana[233],HT;AWM,1sg,1sg_3,1sg_3,neutral
+yana1271-nigi-4-1pl-indexing-marker,yana1271,indexing marker,-’nigi (4) 1pl,overt,person+number,sapir1922yana[233],HT;AWM,1pl,1pl_3,NONE,accusative
 yana1271-no-flagging,yana1271,flagging,NO_FLAGGING,zero,,"sapir1922yana[11,167,231-232,55,6]",HT,1plPro;1sgPro;2plPro;2sgPro;3Pro;Noun,1plPro;1sgPro;2plPro;2sgPro;3Pro;Noun,1plPro;1sgPro;2plPro;2sgPro,neutral
-yana1271-nuga-4-2pl-indexing-marker,yana1271,indexing marker,-nuga (4) 2pl,overt,person+number,sapir1922yana[233],HT;AWM,2pl,2pl_3pl;2pl_3sg,NONE,accusative
-yana1271-nuga-4-2plp-3-indexing-marker,yana1271,indexing marker,-’nuga (4) 2plP(<3),overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,2pl_3pl;2pl_3sg,accusative
-yana1271-numa-4-2sgp-3-indexing-marker,yana1271,indexing marker,-’numa (4) 2sgP(<3),overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,2sg_3pl;2sg_3sg,accusative
-yana1271-numa-4-2sgs-a-indexing-marker,yana1271,indexing marker,-numa (4) 2sgS/A,overt,person+number,sapir1922yana[233],HT;AWM,2sg,2sg_3pl;2sg_3sg,NONE,accusative
-yana1271-wa-1-2p-indexing-marker,yana1271,indexing marker,-wa 1/2P,overt,person,sapir1922yana[233],HT;AWM,NONE,NONE,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg;1sg_2pl;1sg_2sg;1sg_3pl;1sg_3sg;2pl_1pl;2pl_1sg;2pl_3pl;2pl_3sg;2sg_1pl;2sg_1sg;2sg_3pl;2sg_3sg,accusative
+yana1271-nuga-4-2pl-indexing-marker,yana1271,indexing marker,-nuga (4) 2pl,overt,person+number,sapir1922yana[233],HT;AWM,2pl,2pl_3,NONE,accusative
+yana1271-nuga-4-2plp-3-indexing-marker,yana1271,indexing marker,-’nuga (4) 2plP(<3),overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,2pl_3,accusative
+yana1271-numa-4-2sgp-3-indexing-marker,yana1271,indexing marker,-’numa (4) 2sgP(<3),overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,2sg_3,accusative
+yana1271-numa-4-2sgs-a-indexing-marker,yana1271,indexing marker,-numa (4) 2sgS/A,overt,person+number,sapir1922yana[233],HT;AWM,2sg,2sg_3,NONE,accusative
+yana1271-wa-1-2p-indexing-marker,yana1271,indexing marker,-wa 1/2P,overt,person,sapir1922yana[233],HT;AWM,NONE,NONE,1pl_2pl;1pl_2sg;1pl_3;1sg_2pl;1sg_2sg;1sg_3;2pl_1pl;2pl_1sg;2pl_3;2sg_1pl;2sg_1sg;2sg_3,accusative
 yana1271-wi-3-2pla-1sg-1pl-indexing-marker,yana1271,indexing marker,"-wi (3) 2plA(>1sg, 1pl)",overt,person+number,sapir1922yana[233],HT;AWM,NONE,2pl_1pl;2pl_1sg,NONE,ergative
+yana1271-null-marker,yana1271,indexing marker,NULL_MARKER,zero,person,sapir1922yana[233],DI,3,3,3,neutral
 yane1238-et-3pl-s-a-index-indexing-marker,yane1238,indexing marker,-et 3pl S/A index,overt,person+number,dufftripp1997yanesha[61-75],AWM,3pl,3pl,NONE,accusative
 yane1238-ne-1sg-s-a-index-indexing-marker,yane1238,indexing marker,ne- 1sg S/A index,overt,person+number,dufftripp1997yanesha[61-75],AWM,1sg,1sg,NONE,accusative
 yane1238-no-flagging,yane1238,flagging,NO_FLAGGING,zero,,dufftripp1997yanesha[61-75],AWM,any,any,any,neutral

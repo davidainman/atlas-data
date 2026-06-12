@@ -31,6 +31,8 @@ REF_SENS_P = "ref-sensitive"
 REF_SENS_LOC_P = "ref-sensitive-domain"
 COARG_SENS_F_P = "coargument-sensitivity flagging"
 COARG_SENS_I_P = "coargument-sensitivity indexing"
+S_NOT_A_FLAGGING = "S!=A flagging"
+S_NOT_A_INDEXING = "S!=A indexing"
 
 
 # keywords for the language-level attribute-value dictionary
@@ -158,7 +160,9 @@ def read_parameters_csv(param_loc):
         REF_SENS_P,
         REF_SENS_LOC_P,
         COARG_SENS_F_P,
-        COARG_SENS_I_P
+        COARG_SENS_I_P,
+        S_NOT_A_FLAGGING,
+        S_NOT_A_INDEXING
     ]
     param_dict = dict()
     for k in paramset:
@@ -166,11 +170,190 @@ def read_parameters_csv(param_loc):
     return param_dict
 
 
+# Parameters sub_references: a glottocode-filtered subset of the references.csv table
+#            domain: the domain being considered, by default indexation
+#            scenario: the scenario, by default non-local but possibly local
+# Output: s_marking a dict of [reftype] -> marking of S in sub_references
+#         a_marking a dict of [reftype][coarg] -> marking of A in sub_references
+#         p_marking a dict of [reftype][coarg] -> marking of P in sub_references
+def get_s_a_p_marking(sub_references, domain=INDEX, scenario="non-local"):
+    s_marking = dict()
+    a_marking = dict()
+    p_marking = dict()
+    domain_references = sub_references[sub_references.Domain == domain]
+    all_reftypes = set(sub_references.Referential_type.values)
+    for index, row in domain_references.iterrows():
+        reftype = row.Referential_type
+        possible_coargs = list_possible_coargs(sub_references, row, all_reftypes)
+        S_values = regularize_role(row.S, possible_coargs)
+        assert len(S_values) == 1
+        s_marking[reftype] = S_values[0]
+        A_values = regularize_role(row.A, possible_coargs)
+        P_values = regularize_role(row.P, possible_coargs)
+        if scenario == "non-local":
+            A_values = fix_not_local(A_values, reftype)
+            P_values = fix_not_local(P_values, reftype)
+            relevant_coargs = not_local_coargs(possible_coargs, reftype)
+        elif scenario == "local":
+            A_values = fix_local(A_values, reftype)
+            P_values = fix_local(P_values, reftype)
+            relevant_coargs = local_coargs(possible_coargs, reftype)
+        a_marking[reftype] = dict()
+        for a in A_values:
+            if "_coarg:" in a:
+                coarg_ref = a[a.index("_coarg:")+len("_coarg:"):]
+                a_marking[reftype][coarg_ref] = a[:a.index("_coarg:")]
+            else:
+                for cp in relevant_coargs:
+                    a_marking[reftype][cp] = a
+        p_marking[reftype] = dict()
+        for p in P_values:
+            if "_coarg:" in p:
+                coarg_ref = p[p.index("_coarg:")+len("_coarg:"):]
+                p_marking[reftype][coarg_ref] = p[:p.index("_coarg:")]
+            else:
+                for ca in relevant_coargs:
+                    p_marking[reftype][ca] = p
+    # add in zeros for types that are not listed
+    domain_reftypes = set(domain_references.Referential_type.values)
+    for dr in domain_reftypes:
+        for role_marking in [a_marking, p_marking]:
+            if dr not in role_marking:
+                role_marking[dr] = dict()
+                for coarg in listed_reftypes:
+                    if '3' in coarg or dr != coarg:
+                        role_marking[dr][coarg] = "INFERRED_NULL_zero"
+    return([s_marking, a_marking, p_marking])
+
+
+# Parameters sub_references: a glottocode-filtered subset of the references.csv table
+# Output: True if local scenarios are marked independently of one another, false otherwise
+def is_local_marked_independently(sub_references):
+    s_marking, a_marking, p_marking = get_s_a_p_marking(sub_references, scenario="local")
+    for reftype in a_marking.keys():
+        for coarg in a_marking[reftype].keys():
+            if coarg in p_marking:
+                if reftype in p_marking[coarg]:
+                    if a_marking[reftype][coarg] != p_marking[coarg][reftype] and \
+                      "_overt" in a_marking[reftype][coarg] and "_overt" in p_marking[coarg][reftype]:
+                        return True
+    return False
+
+
+# Parameters sub_references: a glottocode-filtered subset of the references.csv table
+# Output: all_tables
+def get_tables_for_subconditions(sub_references):
+    all_tables = []
+    for exemplar in set(sub_references.Exemplar.values):
+        exemplar_table = sub_references[(sub_references.Exemplar == "all")]
+        for tam in set(exemplar_table.TAM.values):
+            tam_table = exemplar_table[(exemplar_table.TAM == tam)]
+            for condition in set(tam_table.Condition.values):
+                condition_table = tam_table[(tam_table.Condition == condition)]
+                for monopred in set(condition_table.Monovalent_predicate_class.values):
+                    monopred_table = condition_table[(condition_table.Monovalent_predicate_class == monopred)]
+                    for bipred in set(monopred_table.Bivalent_predicate_class.values):
+                        bipred_table = monopred_table[(monopred_table.Bivalent_predicate_class == bipred)]
+                        all_tables.append(bipred_table)
+    return all_tables
+
+
+
+# Parameters sub_references: a glottocode-filtered subset of the references.csv table
+# Output: any_hierarchical a boolean that is True if any of the subsets of sub_referendes
+#             is a hierarchical system (defined as for every overt A, coarg P is null,
+#             and for every null A, coarg P is overt), computed over exemplar "all" and
+#             every possible value for tam, condition, monovalent predicate, bivalent predicate
+def is_any_hierarchical(sub_references):
+    any_hierarchical = False
+    # we only care about all alignments, i.e. with all 3rd persons
+    exemplar_table = sub_references[(sub_references.Exemplar == "all")]
+    for tam in set(exemplar_table.TAM.values):
+        tam_table = exemplar_table[(exemplar_table.TAM == tam)]
+        for condition in set(tam_table.Condition.values):
+            condition_table = tam_table[(tam_table.Condition == condition)]
+            for monopred in set(condition_table.Monovalent_predicate_class.values):
+                monopred_table = condition_table[(condition_table.Monovalent_predicate_class == monopred)]
+                for bipred in set(monopred_table.Bivalent_predicate_class.values):
+                    bipred_table = monopred_table[(monopred_table.Bivalent_predicate_class == bipred)]
+                    local_marked_independently = is_local_marked_independently(bipred_table)
+                    s_marking, a_marking, p_marking = get_s_a_p_marking(bipred_table)
+                    hierarchical = True
+                    coargs_present = False # you can only be hierarchical if there are coargs
+                    a_marked = False
+                    p_marked = False
+                    for reftype in set(bipred_table.Referential_type.values):
+                        if reftype in a_marking.keys() and reftype in p_marking.keys():
+                            if not a_marked:
+                                for a in a_marking[reftype]:
+                                    if "_overt" in a_marking[reftype][a]:
+                                        a_marked = True
+                            if not p_marked:
+                                for p in p_marking[reftype]:
+                                    if "_overt" in p_marking[reftype][p]:
+                                        p_marked = True
+                            if len(a_marking[reftype]) == 1 or len(p_marking[reftype]) == 1:
+                                if len(a_marking[reftype]) > 1 or len(p_marking[reftype]) > 1:
+                                    hierarchical = False
+                                    break
+                                continue
+                            coargs_present = True
+                            for coarg in a_marking[reftype].keys():
+                                if "_overt" in a_marking[reftype][coarg]:
+                                    if coarg in p_marking:
+                                        if reftype in p_marking[coarg]:
+                                            if "_overt" in p_marking[coarg][reftype]:
+                                                hierarchical = False
+                                elif "_zero" in a_marking[reftype][coarg]:
+                                    if "3" in reftype and "3" in coarg and not local_marked_independently:
+                                        continue
+                                    elif coarg not in p_marking:
+                                        hierarchical = False # assuming it's zero
+                                        break
+                                    else:
+                                        if reftype not in p_marking[coarg]:
+                                            hierarchical = False # assuming it's zero
+                                            break
+                                        else:
+                                            if "_zero" in p_marking[coarg][reftype]:
+                                                hierarchical = False
+                                                break
+                    if not coargs_present or not p_marked or not a_marked:
+                        hierarchical = False
+                        break
+                    if hierarchical:
+                        any_hierarchical = True
+                        break
+    return any_hierarchical
+
+
+# Parameters sub_references: a glottocode-filtered subset of the references.csv table
+#            is_hierarchical: a boolean of whether this glottocode is hierarchical (if we are looking at indexation)
+#            domain: the domain being considered
+# Output: True if S != A (for non-hierarchical reasons), False otherwise
+def check_s_not_a(sub_references, is_hierarchical, domain):
+    domain_references = sub_references[sub_references.Domain == domain]
+    for table in get_tables_for_subconditions(domain_references):
+        s_marking, a_marking, p_marking = get_s_a_p_marking(table, domain=domain)
+        for reftype in set(table.Referential_type.values):
+            s_value = s_marking[reftype]
+            for coarg in a_marking[reftype].keys():
+                a_value = a_marking[reftype][coarg]
+                if a_value != s_value:
+                    # if the language is hierarchical and S != A because A is null, it doesn't count
+                    if "_overt" not in a_value and is_hierarchical:
+                        continue
+                    else:
+                        return True
+    return False
+
+
 # Parameters ref_loc: The location of the references.csv
 # Output: ref_dict, a nested dictionary of reference frequencies, in the form of:
-#         glottocode -> [ PRO, NOUN, INDEX ] -> [ alignments ]    -> Frequency of alignment
-#                                            -> "Most'            -> Most frequent reference-based alignment
+#         glottocode -> [ PRO, NOUN, INDEX ] -> dict()            -> alignment:frequency (incl sensitive)
+#                                            -> "Most"            -> Most frequent reference-based alignment
 #                                            -> [ Coder, Source ] -> coder, source information
+#         glottocode -> [ S_NOT_A_FLAGGING, S_NOT_A_INDEXING ] -> bool presence of S!=A (including in sensitive alignments)
 def read_reference_aggregation(ref_loc):
     references = pd.read_csv(ref_loc, keep_default_na=False)
     ref_dict = dict()
@@ -178,7 +361,10 @@ def read_reference_aggregation(ref_loc):
     all_alignments = set(references.Alignment.values)
     for g in glottocodes:
         ref_dict[g] = dict()
+        all_flagging_alignments = set()
+        all_indexing_alignments = set()
         for l in [PRO, NOUN, INDEX]:
+            # calculate alignments (w/ sensitive) in all scenarios
             ref_dict[g][l] = dict()
             alignments = list(
                 references[(references.Glottocode == g) & (references.Domain == l)].Alignment.values
@@ -202,7 +388,7 @@ def read_reference_aggregation(ref_loc):
             if (best_alignment is not None):
                 best_alignment = ";".join(sorted(best_alignment.split(";")))
             ref_dict[g][l]["Most"] = best_alignment
-            #notlocal alignment
+            # calculate alignments (w/ sensitive) in non-local scenarios
             best_alignment_not_local = None
             max_alignment_not_local = 0
             for a in all_alignments:
@@ -219,21 +405,34 @@ def read_reference_aggregation(ref_loc):
             if (best_alignment_not_local is not None):
                 best_alignment_not_local = ";".join(sorted(best_alignment_not_local.split(";")))
             ref_dict[g][l]["Most_not_local"] = best_alignment_not_local
+            # calculate S != A (disregarding if due to hierarchicalness)
+            if l == INDEX:
+                sub_references = references[(references.Glottocode == g) & (references.Domain == l)]
+                is_hierarchical = is_any_hierarchical(sub_references)
+                ref_dict[g][l][S_NOT_A_INDEXING] = check_s_not_a(sub_references, is_hierarchical, INDEX)
+            else:
+                sub_references = references[(references.Glottocode == g) & \
+                                     ((references.Domain == NOUN) | (references.Domain == PRO))]
+                ref_dict[g][l][S_NOT_A_FLAGGING] = check_s_not_a(sub_references, False, l)
     return ref_dict
 
 
 # Parameters ref_dict: the reference dictionary, generated by the read_reference_aggregation function
 # Output lang_ref_dict: a dictionary of language-level aggregations about references
-def generate_reference_questions(ref_dict):
+def generate_reference_questions(ref_dict, lang_dict):
     lang_ref_dict = dict()
     for glot in ref_dict.keys():
         lang_ref_dict[glot] = dict()
         lang_ref_dict[glot][REF_N_FREQ_P] = ref_dict[glot][NOUN]["Most"] if ref_dict[glot][NOUN]["Most"] != None else "NA"
         lang_ref_dict[glot][REF_P_FREQ_P] = ref_dict[glot][PRO]["Most"] if ref_dict[glot][PRO]["Most"] != None else "NA"
-        lang_ref_dict[glot][REF_I_FREQ_P] = ref_dict[glot][INDEX]["Most"] if ref_dict[glot][INDEX]["Most"] != None else "NA"
+        lang_ref_dict[glot][REF_I_FREQ_P] = ref_dict[glot][INDEX]["Most"] if \
+          ref_dict[glot][INDEX]["Most"] != None and lang_dict[glot][INDEX_P][VALUE] == "True" else "NA"
         lang_ref_dict[glot][REF_N_NL_FREQ_P] = ref_dict[glot][NOUN]["Most_not_local"] if ref_dict[glot][NOUN]["Most_not_local"] != None else "NA"
         lang_ref_dict[glot][REF_P_NL_FREQ_P] = ref_dict[glot][PRO]["Most_not_local"] if ref_dict[glot][PRO]["Most_not_local"] != None else "NA"
-        lang_ref_dict[glot][REF_I_NL_FREQ_P] = ref_dict[glot][INDEX]["Most_not_local"] if ref_dict[glot][INDEX]["Most_not_local"] != None else "NA"
+        lang_ref_dict[glot][REF_I_NL_FREQ_P] = ref_dict[glot][INDEX]["Most_not_local"] if \
+          ref_dict[glot][INDEX]["Most_not_local"] != None and lang_dict[glot][INDEX_P][VALUE] == "True" else "NA"
+        lang_ref_dict[glot][S_NOT_A_FLAGGING] = ref_dict[glot][NOUN][S_NOT_A_FLAGGING] or ref_dict[glot][PRO][S_NOT_A_FLAGGING]
+        lang_ref_dict[glot][S_NOT_A_INDEXING] = ref_dict[glot][INDEX][S_NOT_A_INDEXING]
         lang_ref_dict[glot][REF_ERG_P] = (
             True
             if True in [ref_dict[glot][x]["ergative"] > 0 for x in ref_dict[glot].keys()]
@@ -360,6 +559,7 @@ def basic_language_level(contexts, selectors, languages, sensitive_lgs_flagging,
                     (selectors.Glottocode == g)
                     & (selectors.Selector_type == "indexing marker")
                     & (selectors.Marker_type == "overt")
+                    & (selectors.Features != "number")
                 ]
             ) > 0 or languages[languages.Glottocode == g]["sufficient_data_indexing"].values[0] == False
             else "False"
@@ -517,26 +717,7 @@ def dom_aggregation(contexts, selectors, references):
             continue
         # filter g_data only for contexts which mark case on P (this gets rid of P indexation rows)
         g_data = g_data[(g_data.Selector_ID.isin(case_P_selector_ID))]
-        # check if changing the P selectors changes alignment
         glot_refs = references[(references.Glottocode == g) & ((references.Domain == "Noun") | (references.Domain == "Pro"))]
-        p_to_alignment = dict()
-        for selectorid in case_P_selector_ID:
-            selector = selectors.Selector_label[selectors.ID == selectorid].values[0]
-            selector_alignments = set()
-            for index, row in glot_refs.iterrows():
-                if selector in row.S or selector in row.A or selector in row.P:
-                    to_add = row.Alignment
-                    if to_add == "overt neutral":
-                        to_add = "neutral"
-                    elif to_add == "no marking":
-                        to_add = "neutral"
-                    selector_alignments.add(to_add)
-            p_to_alignment[selector] = selector_alignments
-        some_different_alignment = False
-        for p in p_to_alignment.keys():
-            for q in set(p_to_alignment.keys()) - set([p]):
-                if p_to_alignment[p] != p_to_alignment[q]:
-                    some_different_alignment = True
         # if two P selectors appear in the same cell, there is coargument sensitive DOM
         coargument_dom = False
         for p_id in case_P_selector_ID:
@@ -547,8 +728,6 @@ def dom_aggregation(contexts, selectors, references):
                     row_selectors = set([re.sub("_overt.*|_zero.*", "", x).strip() for x in row.P.split(";")])
                     if p_sel in row_selectors and q_sel in row_selectors:
                         coargument_dom = True
-        if not some_different_alignment and not coargument_dom:
-            continue
         # Collect all columns in which different conditions appear which could be relevant for the DOM split
         dommable = [
             x
@@ -799,7 +978,7 @@ def write_values_csv(lang_dict, values_loc, dom_dict=None, ref_dict=None):
                     ]
                 )
         if ref_dict is not None:
-            lang_ref_dict = generate_reference_questions(ref_dict)
+            lang_ref_dict = generate_reference_questions(ref_dict, lang_dict)
             for glot in sorted(lang_ref_dict.keys()):
                 flagging_coder = lang_dict[glot][CASE_P][CODER]
                 flagging_source = lang_dict[glot][CASE_P][SOURCE]
@@ -887,6 +1066,26 @@ def write_values_csv(lang_dict, values_loc, dom_dict=None, ref_dict=None):
                             all_sources,
                         ]
                     )
+                writer.writerow(
+                    [
+                        glot + "-" + S_NOT_A_FLAGGING,
+                        glot,
+                        S_NOT_A_FLAGGING,
+                        lang_ref_dict[glot][S_NOT_A_FLAGGING],
+                        indexing_coder,
+                        indexing_source,
+                    ]
+                )
+                writer.writerow(
+                    [
+                        glot + "-" + S_NOT_A_INDEXING,
+                        glot,
+                        S_NOT_A_INDEXING,
+                        lang_ref_dict[glot][S_NOT_A_INDEXING],
+                        indexing_coder,
+                        indexing_source,
+                    ]
+                )
 
 
 # Parameters lang_dict: the set of all language-level aggregations, generated by the language_level function
@@ -916,8 +1115,8 @@ def write_human_readable_csv(lang_dict, out_loc, param_dict, dom_dict=None, ref_
                     out_row.append("False")
                     out_row.append("NA")
             if ref_dict is not None:
-                lang_ref_dict = generate_reference_questions(ref_dict)
-                for param in list(param_dict.keys())[7:-2]:
+                lang_ref_dict = generate_reference_questions(ref_dict, lang_dict)
+                for param in list(param_dict.keys())[7:-4]:
                     if glot in lang_ref_dict.keys():
                         out_row.append(lang_ref_dict[glot][param])
                     else:
@@ -926,6 +1125,10 @@ def write_human_readable_csv(lang_dict, out_loc, param_dict, dom_dict=None, ref_
                 out_row.append(lang_dict[glot][COARG_SENS_F_P][VALUE])
             if COARG_SENS_I_P in lang_dict[glot].keys():
                 out_row.append(lang_dict[glot][COARG_SENS_I_P][VALUE])
+            if S_NOT_A_FLAGGING in ref_dict[glot][NOUN].keys():
+                out_row.append(ref_dict[glot][NOUN][S_NOT_A_FLAGGING] or ref_dict[glot][PRO][S_NOT_A_FLAGGING])
+            if S_NOT_A_INDEXING in ref_dict[glot][INDEX].keys():
+                out_row.append(ref_dict[glot][INDEX][S_NOT_A_INDEXING])
             writer.writerow(out_row)
 
 
@@ -1113,7 +1316,8 @@ def fix_3(values_list):
 
 
 # Parameters values_list: a list of alignment values from the references.csv, with <else> removed
-# Output: the same values_list with all local scenarios removed
+#            ref_type: the referential type being considered
+# Output: the same values_list with only non-local scenarios
 def fix_not_local(values_list, reftype):
     if "3" in reftype:
         return values_list
@@ -1126,6 +1330,149 @@ def fix_not_local(values_list, reftype):
         return ret_val
 
 
+# Parameters values_list: a list of alignment values from the references.csv, with <else> removed
+#            ref_type: the referential type being considered
+# Output: the same values_list with only local scenarios
+def fix_local(values_list, reftype):
+    if "3" in reftype:
+        return []
+    else:
+        ret_val = [x for x in values_list if "coarg:" not in x or ("1" in re.sub(".*_coarg:","",x) or "2" in re.sub(".*_coarg:","",x) or "incl" in re.sub(".*_coarg:","",x))]
+        if all(["_zero_" in x for x in ret_val]):
+            return ["INFERRED_NULL_ZERO"]
+        if len(set([re.sub("_coarg:.*","",x) for x in ret_val])) == 1:
+            return [re.sub("(_slot:.*)?(_coarg:.*)?","",ret_val[0])]
+        return ret_val
+
+
+# Parameters possible_coargs: the list of all possible coarguments
+#            reftype: the referential type being considered
+# Output: the same possible_coargs list with local coarguments removed
+def not_local_coargs(possible_coargs, reftype):
+    if "3" in reftype:
+        return possible_coargs
+    else: # non-3rd, remove 1, 2, and incl
+        return [x for x in possible_coargs if "1" not in x and "incl" not in x and \
+                ("2" not in x or "2/3" in x)]
+
+
+# Parameters possible_coargs: the list of all possible coarguments
+#            reftype: the referential type being considered
+# Output: the same possible_coargs list with non-local coarguments removed
+def local_coargs(possible_coargs, reftype):
+    if "1" in reftype:
+        return [x for x in possible_coargs if "2" in x]
+    elif "2" in reftype:
+        return [x for x in possible_coargs if "1" in x]
+    return []
+
+
+# Parameters row: a row from the references.csv file
+#            listed_coargs: the list of coarguments given for this language and domain in the full references.csv file
+# Output: the possible coarguments that the referential type of this row could have
+def list_possible_coargs(references, row, listed_coargs):
+    reftype = row.Referential_type
+    possible_coargs = list(listed_coargs).copy()
+    if "1" in reftype or "2" in reftype or "incl" in reftype:
+        possible_coargs = [x for x in possible_coargs if "incl" not in x]
+    if "1" in reftype or "incl" in reftype:
+        possible_coargs = [x for x in possible_coargs if "1" not in x]
+    if "2" in reftype or "incl" in reftype:
+        possible_coargs = [x for x in possible_coargs if "2" not in x]
+    if "high" in reftype:
+        in_both_places = False
+        for index, r in references[(references.Glottocode == row.Glottocode) & \
+                                   (references.Domain == row.Domain)].iterrows():
+            if "high" in r.Referential_type:
+                if "high" in r.A or "high" in row.P:
+                    in_both_places = True
+                    break
+        if not in_both_places:
+            possible_coargs = [x for x in possible_coargs if "high" not in x]
+    if "low" in reftype:
+        in_both_places = False
+        for index, r in references[(references.Glottocode == row.Glottocode) & \
+                                   (references.Domain == row.Domain)].iterrows():
+            if "low" in r.Referential_type:
+                if "low" in r.A or "low" in row.P:
+                    in_both_places = True
+                    break
+        if not in_both_places:
+            possible_coargs = [x for x in possible_coargs if "low" not in x]
+    # if this is a pronoun and "Noun({-low|-high})" is a possible coargument, add it
+    if "Pro" in reftype:
+        noun_args = set(references[(references.Glottocode == row.Glottocode) & \
+                               (references.Domain == NOUN)].Referential_type)
+        additional_args = set()
+        for index, r in references[(references.Glottocode == row.Glottocode) & \
+                            (references.Domain == row.Domain)].iterrows():
+            for role in [r.A, r.S, r.P]:
+                for arg in noun_args:
+                    if bool(re.search("coarg:"+arg+"(?![-])",role)):
+                        additional_args.add(arg)
+        for arg in additional_args:
+            possible_coargs.append(arg)
+    return possible_coargs
+
+
+# Parameters role_string a string representing the values of a role
+#            possible_coargs a list of possible coarguments for this role
+# Output: a regularized list of role values
+def regularize_role(role_string, possible_coargs):
+    role_values = role_string.split(";")
+    role_values = [x.strip() for x in role_values]
+    # remove slots
+    role_values = [re.sub("_slot:(clitic )?[0-9-/\&]+","",x) for x in role_values]
+    role_values = [re.sub("_slot:(clitic )?[^_\&]*(?= &&|$)","",x) for x in role_values]
+    # remove meaningless && zeros
+    role_values = [re.sub("[^\&]*_zero(_coarg:[^&]+) \&\&(.*)","\\2:\\1",x) for x in role_values]
+    role_values = [re.sub(" ?\&\&[^\&]*zero[^\&]*(_coarg:[^ ]*)","\\1",x) for x in role_values]
+    role_values = [re.sub("[^\&]*_zero[^&]*\&\&|\&\&[^&]*zero[^&]*","",x) for x in role_values]
+    role_values = [x.strip() for x in role_values]
+    if (any([":else" in x for x in role_values])):
+        role_values = expand_else(role_values, possible_coargs)
+    # turn all zeros into "_zero"
+    role_values = [re.sub("ROLE_NOT_MARKED_zero|NULL_MARKER_zero|INFERRED_NULL_zero","_zero",x) for x in role_values]
+    return role_values
+
+
+# Parameters S_values a list of S values
+#            A_values a list of A values
+#            P_values a list of P values
+# Output: a set of alignments based
+def calculate_alignments(S_values, A_values, P_values):
+    all_alignments = set()
+    S_values = ["_zero" if "_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" and "&&" not in x else x for x in S_values]
+    A_values = ["_zero" if "_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" not in x and "&&" not in x else x for x in A_values]
+    P_values = ["_zero" if "_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" not in x and "&&" not in x else x for x in P_values]
+    # get rid of duplication
+    S_values = list(set(S_values))
+    A_values = list(set(A_values))
+    P_values = list(set(P_values))
+    if all(x == "NO_PRONOUN_zero" for x in S_values + A_values + P_values):
+        all_alignments.add("NA")
+    else:
+        for s in S_values:
+            for a in A_values:
+                a = re.sub("_coarg:[^\& ]*","",a)
+                for p in P_values:
+                    p = re.sub("_coarg:[^\& ]*","",p)
+                    if s == a == p:
+                        if "_zero" in s and not "_overt" in s:
+                            all_alignments.add("no marking")
+                        elif "_overt" in s:
+                            all_alignments.add("overt neutral")
+                    elif s == a != p:
+                        all_alignments.add("accusative")
+                    elif s == p != a:
+                        all_alignments.add("ergative")
+                    elif a == p != s:
+                        all_alignments.add("horizontal")
+                    elif s != a != p:
+                        all_alignments.add("tripartite")
+    return all_alignments
+
+
 # Parameters ref_loc: the location of the references.csv
 # Output: Writes to ref_loc additional alignments
 def other_alignments(ref_loc):
@@ -1136,78 +1483,18 @@ def other_alignments(ref_loc):
         glot    = row.Glottocode
         domain  = row.Domain
         reftype = row.Referential_type
-        possible_coargs = set(references[(references.Glottocode == glot) & (references.Domain == domain)].Referential_type.values)
-        if "1" in reftype or "2" in reftype or "incl" in reftype:
-            possible_coargs = [x for x in possible_coargs if "incl" not in x]
-        if "1" in reftype or "incl" in reftype:
-            possible_coargs = [x for x in possible_coargs if "1" not in x]
-        if "2" in reftype or "incl" in reftype:
-            possible_coargs = [x for x in possible_coargs if "2" not in x]
-        if "high" in reftype:
-            in_both_places = "high" in row.A or "high" in row.P
-            if not in_both_places:
-                possible_coargs = [x for x in possible_coargs if "high" not in x]
-        if "low" in reftype:
-            in_both_places = "low" in row.A or "high" in row.P
-            if not in_both_places:
-                possible_coargs = [x for x in possible_coargs if "low" not in x]
-        S_values = row.S.split(";")
-        S_values = [x.strip() for x in S_values]
-        S_values = [re.sub("_slot:[0-9-/\&]+","",x) for x in S_values]
-        S_values = [re.sub("_slot:[^_\&]+","",x) for x in S_values]
-        if (any([":else" in x for x in S_values])):
-            S_values = expand_else(S_values, possible_coargs)
-        A_values = row.A.split(";")
-        A_values = [x.strip() for x in A_values]
-        A_values = [re.sub("_slot:[0-9-/\&]+","",x) for x in A_values]
-        A_values = [re.sub("_slot:[^_\&]+","",x) for x in A_values]
-        if (any([":else" in x for x in A_values])):
-            A_values = expand_else(A_values, possible_coargs)
-        P_values = row.P.split(";")
-        P_values = [x.strip() for x in P_values]
-        P_values = [re.sub("_slot:[0-9-/\&]+","",x) for x in P_values]
-        P_values = [re.sub("_slot:[^_\&]+","",x) for x in P_values]
-        if (any([":else" in x for x in P_values])):
-            P_values = expand_else(P_values, possible_coargs)
-        # get rid of zeros that are coordinate with something overt
-        S_values = [re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",x) for x in S_values]
-        # remove meaningless && zeros
-        A_values = [re.sub("[^\&]*_zero(_coarg:[^&]+) \&\& (.*)","\\2:\\1",x) for x in A_values]
-        A_values = [re.sub("( )\&\&[^\&]*zero[^\&]*(_coarg:[^ ]*)","\\2",x) for x in A_values]
-        A_values = [re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",x) for x in A_values]
-        # remove meaningless && zeros
-        P_values = [re.sub("[^\&]*_zero(_coarg:[^&]+) \&\& (.*)","\\2:\\1",x) for x in P_values]
-        P_values = [re.sub("( )\&\&[^\&]*zero[^\&]*(_coarg:[^ ]*)","\\2",x) for x in P_values]
-        P_values = [re.sub("[^\&]*_zero[^&]*\&\&( )|( )\&\&[^&]*zero[^&]*","",x) for x in P_values]
-        # generate alignment with local scenarios removed
+        listed_coargs = set(references[(references.Glottocode == glot) & (references.Domain == domain)].Referential_type.values)
+        possible_coargs = list_possible_coargs(references, row, listed_coargs)
+        S_values = regularize_role(row.S, possible_coargs)
+        A_values = regularize_role(row.A, possible_coargs)
+        P_values = regularize_role(row.P, possible_coargs)
         A_values_not_local = fix_not_local(A_values, reftype)
         P_values_not_local = fix_not_local(P_values, reftype)
-        S_values = ["_zero" if "_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" else x for x in S_values]
-        A_values_not_local = ["_zero" if "_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" not in x else x for x in A_values_not_local]
-        P_values_not_local = ["_zero" if "_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" not in x else x for x in P_values_not_local]
-        # get rid of duplication
-        S_values = list(set(S_values))
-        A_values_not_local = list(set(A_values_not_local))
-        P_values_not_local = list(set(P_values_not_local))
-        if all(x == "NO_PRONOUN_zero" for x in S_values + A_values_not_local + P_values_not_local):
-            alignment_not_local = "NA"
-        elif all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" for x in S_values) and all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" for x in A_values_not_local) and all("_zero" in x and "_overt" not in x and x != "NO_PRONOUN_zero" for x in P_values_not_local):
-            alignment_not_local = "no marking"
-        elif any("coarg:" in x for x in S_values) or any("coarg:" in x for x in A_values_not_local) or any("coarg:" in x for x in P_values_not_local):
+        all_alignments = calculate_alignments(S_values, A_values_not_local, P_values_not_local)
+        if len(all_alignments) > 1:
             alignment_not_local = "sensitive"
-        elif S_values == A_values_not_local != P_values_not_local:
-            alignment_not_local = "accusative"
-        elif S_values == A_values_not_local == P_values_not_local:
-            if "_zero" in S_values[0] and not "_overt" in S_values[0]:
-                alignment_not_local = "no marking"
-            elif "_overt" in S_values[0]:
-                alignment_not_local = "overt neutral"
-        elif P_values_not_local == A_values_not_local != S_values:
-            alignment_not_local = "horizontal"
-        elif P_values_not_local == S_values != A_values_not_local:
-            alignment_not_local = "ergative"
-        elif P_values_not_local != A_values_not_local != S_values:
-            alignment_not_local = "tripartite"
+        else:
+            alignment_not_local = all_alignments.pop()
         row.Alignment_not_local = alignment_not_local
     references["ID"] = references["ID"].apply(slugify)
     references.to_csv(ref_loc, index=False)

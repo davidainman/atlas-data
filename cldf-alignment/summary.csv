@@ -1,42 +1,47 @@
 Level,Variable,Value,Count,Percentage
-Language,align-index,accusative,111,0.3546325878594249
-Language,align-index,accusative;no marking,6,0.019169329073482427
-Language,align-index,accusative;overt neutral,1,0.003194888178913738
-Language,align-index,accusative;sensitive,6,0.019169329073482427
-Language,align-index,accusative;tripartite,1,0.003194888178913738
-Language,align-index,ergative,11,0.03514376996805112
-Language,align-index,ergative;sensitive,1,0.003194888178913738
-Language,align-index,horizontal,3,0.009584664536741214
-Language,align-index,no marking,69,0.22044728434504793
-Language,align-index,no marking;overt neutral,2,0.006389776357827476
-Language,align-index,overt neutral,5,0.01597444089456869
-Language,align-index,sensitive,85,0.2715654952076677
-Language,align-index,sensitive;tripartite,1,0.003194888178913738
-Language,align-index,tripartite,11,0.03514376996805112
-Language,align-index-nl,accusative,143,0.45686900958466453
-Language,align-index-nl,accusative;ergative;sensitive,1,0.003194888178913738
-Language,align-index-nl,accusative;no marking,6,0.019169329073482427
-Language,align-index-nl,accusative;no marking;overt neutral,1,0.003194888178913738
-Language,align-index-nl,accusative;overt neutral,2,0.006389776357827476
-Language,align-index-nl,accusative;overt neutral;sensitive,1,0.003194888178913738
-Language,align-index-nl,accusative;sensitive,8,0.025559105431309903
-Language,align-index-nl,accusative;tripartite,1,0.003194888178913738
-Language,align-index-nl,ergative,16,0.051118210862619806
-Language,align-index-nl,ergative;sensitive,1,0.003194888178913738
-Language,align-index-nl,horizontal,4,0.012779552715654952
-Language,align-index-nl,no marking,70,0.22364217252396165
-Language,align-index-nl,no marking;overt neutral,2,0.006389776357827476
-Language,align-index-nl,overt neutral,11,0.03514376996805112
-Language,align-index-nl,overt neutral;sensitive,3,0.009584664536741214
-Language,align-index-nl,sensitive,25,0.07987220447284345
-Language,align-index-nl,sensitive;tripartite,2,0.006389776357827476
-Language,align-index-nl,tripartite,16,0.051118210862619806
-Language,align-noun,accusative,56,0.1723076923076923
+Language,S!=A flagging,False,262,0.8061538461538461
+Language,S!=A flagging,True,63,0.19384615384615383
+Language,S!=A indexing,False,190,0.5846153846153846
+Language,S!=A indexing,True,135,0.4153846153846154
+Language,align-index,accusative,122,0.48412698412698413
+Language,align-index,accusative;no marking,7,0.027777777777777776
+Language,align-index,accusative;no marking;sensitive,1,0.003968253968253968
+Language,align-index,accusative;overt neutral,1,0.003968253968253968
+Language,align-index,accusative;sensitive,5,0.01984126984126984
+Language,align-index,accusative;tripartite,1,0.003968253968253968
+Language,align-index,ergative,12,0.047619047619047616
+Language,align-index,ergative;no marking,1,0.003968253968253968
+Language,align-index,ergative;sensitive,1,0.003968253968253968
+Language,align-index,horizontal,3,0.011904761904761904
+Language,align-index,no marking,10,0.03968253968253968
+Language,align-index,no marking;overt neutral,2,0.007936507936507936
+Language,align-index,overt neutral,5,0.01984126984126984
+Language,align-index,sensitive,63,0.25
+Language,align-index,sensitive;tripartite,2,0.007936507936507936
+Language,align-index,tripartite,16,0.06349206349206349
+Language,align-index-nl,accusative,149,0.5912698412698413
+Language,align-index-nl,accusative;ergative;sensitive,1,0.003968253968253968
+Language,align-index-nl,accusative;no marking,6,0.023809523809523808
+Language,align-index-nl,accusative;no marking;overt neutral,1,0.003968253968253968
+Language,align-index-nl,accusative;overt neutral,1,0.003968253968253968
+Language,align-index-nl,accusative;overt neutral;sensitive,1,0.003968253968253968
+Language,align-index-nl,accusative;sensitive,5,0.01984126984126984
+Language,align-index-nl,accusative;tripartite,1,0.003968253968253968
+Language,align-index-nl,ergative,16,0.06349206349206349
+Language,align-index-nl,ergative;no marking,1,0.003968253968253968
+Language,align-index-nl,horizontal,4,0.015873015873015872
+Language,align-index-nl,no marking,11,0.04365079365079365
+Language,align-index-nl,no marking;overt neutral,2,0.007936507936507936
+Language,align-index-nl,overt neutral,13,0.051587301587301584
+Language,align-index-nl,overt neutral;sensitive,2,0.007936507936507936
+Language,align-index-nl,sensitive,18,0.07142857142857142
+Language,align-index-nl,sensitive;tripartite,1,0.003968253968253968
+Language,align-index-nl,tripartite,19,0.07539682539682539
+Language,align-noun,accusative,57,0.1753846153846154
 Language,align-noun,accusative;ergative,1,0.003076923076923077
 Language,align-noun,accusative;ergative;no marking,1,0.003076923076923077
 Language,align-noun,accusative;no marking,32,0.09846153846153846
 Language,align-noun,accusative;overt neutral,2,0.006153846153846154
-Language,align-noun,accusative;sensitive,1,0.003076923076923077
 Language,align-noun,ergative,26,0.08
 Language,align-noun,ergative;no marking,11,0.033846153846153845
 Language,align-noun,ergative;overt neutral,2,0.006153846153846154
@@ -55,11 +60,10 @@ Language,align-noun-nl,ergative;overt neutral,2,0.006153846153846154
 Language,align-noun-nl,no marking,187,0.5753846153846154
 Language,align-noun-nl,overt neutral,1,0.003076923076923077
 Language,align-noun-nl,sensitive,1,0.003076923076923077
-Language,align-pro,accusative,104,0.3291139240506329
+Language,align-pro,accusative,105,0.3322784810126582
 Language,align-pro,accusative;ergative,1,0.0031645569620253164
 Language,align-pro,accusative;ergative;no marking,1,0.0031645569620253164
 Language,align-pro,accusative;no marking,9,0.028481012658227847
-Language,align-pro,accusative;sensitive,1,0.0031645569620253164
 Language,align-pro,accusative;tripartite,1,0.0031645569620253164
 Language,align-pro,ergative,24,0.0759493670886076
 Language,align-pro,ergative;no marking,9,0.028481012658227847
@@ -82,76 +86,76 @@ Language,align-pro-nl,sensitive,1,0.0031645569620253164
 Language,align-pro-nl,tripartite,1,0.0031645569620253164
 Language,coargument-sensitivity flagging,no,312,0.96
 Language,coargument-sensitivity flagging,yes,13,0.04
-Language,coargument-sensitivity indexing,no,225,0.6923076923076923
-Language,coargument-sensitivity indexing,yes,100,0.3076923076923077
-Language,dom,No,269,0.8276923076923077
-Language,dom,Yes,56,0.1723076923076923
-Language,dom-trigger,Co-argument_reference,2,0.03571428571428571
-Language,dom-trigger,Co-argument_reference+Miscellaneous_condition,1,0.017857142857142856
-Language,dom-trigger,Co-argument_reference+Miscellaneous_condition+Reference,1,0.017857142857142856
-Language,dom-trigger,Co-argument_reference+Reference,1,0.017857142857142856
-Language,dom-trigger,Miscellaneous_condition,12,0.21428571428571427
-Language,dom-trigger,Miscellaneous_condition+Reference,4,0.07142857142857142
-Language,dom-trigger,Predicate_class,1,0.017857142857142856
-Language,dom-trigger,Reference,32,0.5714285714285714
-Language,dom-trigger,TAM,2,0.03571428571428571
+Language,coargument-sensitivity indexing,no,224,0.6892307692307692
+Language,coargument-sensitivity indexing,yes,101,0.31076923076923074
+Language,dom,No,268,0.8246153846153846
+Language,dom,Yes,57,0.1753846153846154
+Language,dom-trigger,Co-argument_reference,2,0.03508771929824561
+Language,dom-trigger,Co-argument_reference+Miscellaneous_condition,1,0.017543859649122806
+Language,dom-trigger,Co-argument_reference+Miscellaneous_condition+Reference,1,0.017543859649122806
+Language,dom-trigger,Co-argument_reference+Reference,1,0.017543859649122806
+Language,dom-trigger,Miscellaneous_condition,13,0.22807017543859648
+Language,dom-trigger,Miscellaneous_condition+Reference,4,0.07017543859649122
+Language,dom-trigger,Predicate_class,1,0.017543859649122806
+Language,dom-trigger,Reference,32,0.5614035087719298
+Language,dom-trigger,TAM,2,0.03508771929824561
 Language,flagging,False,152,0.4676923076923077
 Language,flagging,True,173,0.5323076923076923
-Language,indexing,False,61,0.18769230769230769
-Language,indexing,True,264,0.8123076923076923
-Language,indexing-features,?,9,0.03409090909090909
-Language,indexing-features,gender,2,0.007575757575757576
-Language,indexing-features,gender;number;person+number,1,0.003787878787878788
-Language,indexing-features,gender;person+number,2,0.007575757575757576
-Language,indexing-features,number,3,0.011363636363636364
-Language,indexing-features,number;number+gender;other;person+number,1,0.003787878787878788
-Language,indexing-features,number;other;person+number,1,0.003787878787878788
-Language,indexing-features,number;other;person;person+number,1,0.003787878787878788
-Language,indexing-features,number;person,1,0.003787878787878788
-Language,indexing-features,number;person+number,5,0.01893939393939394
-Language,indexing-features,number;person;person+number,19,0.07196969696969698
-Language,indexing-features,number;person;person+number;person+other,1,0.003787878787878788
-Language,indexing-features,other;person+number,1,0.003787878787878788
-Language,indexing-features,other;person;person+number,1,0.003787878787878788
-Language,indexing-features,other;person;person+number;person+other,1,0.003787878787878788
-Language,indexing-features,person,33,0.125
-Language,indexing-features,person+number,134,0.5075757575757576
-Language,indexing-features,person+number;person+other,1,0.003787878787878788
-Language,indexing-features,person;person+number,47,0.17803030303030304
-Language,ref-ergative,False,221,0.68
-Language,ref-ergative,True,104,0.32
-Language,ref-ergative-domain,Noun,7,0.0673076923076923
-Language,ref-ergative-domain,Noun;Pro,37,0.3557692307692308
-Language,ref-ergative-domain,Noun;Pro;Verb,7,0.0673076923076923
-Language,ref-ergative-domain,Noun;Verb,1,0.009615384615384616
-Language,ref-ergative-domain,Pro,5,0.04807692307692308
-Language,ref-ergative-domain,Pro;Verb,2,0.019230769230769232
-Language,ref-ergative-domain,Verb,45,0.4326923076923077
-Language,ref-horizontal,False,298,0.916923076923077
-Language,ref-horizontal,True,27,0.08307692307692308
-Language,ref-horizontal-domain,Noun,3,0.1111111111111111
-Language,ref-horizontal-domain,Noun;Pro,1,0.037037037037037035
-Language,ref-horizontal-domain,Pro,1,0.037037037037037035
-Language,ref-horizontal-domain,Pro;Verb,1,0.037037037037037035
-Language,ref-horizontal-domain,Verb,21,0.7777777777777778
-Language,ref-sensitive,False,207,0.6369230769230769
-Language,ref-sensitive,True,118,0.3630769230769231
-Language,ref-sensitive-domain,Noun,2,0.01694915254237288
-Language,ref-sensitive-domain,Noun;Pro,2,0.01694915254237288
-Language,ref-sensitive-domain,Noun;Pro;Verb,2,0.01694915254237288
-Language,ref-sensitive-domain,Noun;Verb,1,0.00847457627118644
-Language,ref-sensitive-domain,Pro,4,0.03389830508474576
-Language,ref-sensitive-domain,Pro;Verb,2,0.01694915254237288
-Language,ref-sensitive-domain,Verb,105,0.8898305084745762
-Language,ref-tripartite,False,282,0.8676923076923077
-Language,ref-tripartite,True,43,0.13230769230769232
-Language,ref-tripartite-domain,Noun,2,0.046511627906976744
-Language,ref-tripartite-domain,Noun;Pro,1,0.023255813953488372
-Language,ref-tripartite-domain,Pro,4,0.09302325581395349
-Language,ref-tripartite-domain,Verb,36,0.8372093023255814
+Language,indexing,False,64,0.19692307692307692
+Language,indexing,True,261,0.803076923076923
+Language,indexing-features,?,9,0.034482758620689655
+Language,indexing-features,gender,2,0.007662835249042145
+Language,indexing-features,gender;number;person+number,1,0.0038314176245210726
+Language,indexing-features,gender;person+number,2,0.007662835249042145
+Language,indexing-features,number;number+gender;other;person+number,1,0.0038314176245210726
+Language,indexing-features,number;other;person+number,1,0.0038314176245210726
+Language,indexing-features,number;other;person;person+number,1,0.0038314176245210726
+Language,indexing-features,number;person,1,0.0038314176245210726
+Language,indexing-features,number;person+number,5,0.019157088122605363
+Language,indexing-features,number;person;person+number,21,0.08045977011494253
+Language,indexing-features,number;person;person+number;person+other,1,0.0038314176245210726
+Language,indexing-features,other;person+number,1,0.0038314176245210726
+Language,indexing-features,other;person;person+number,1,0.0038314176245210726
+Language,indexing-features,other;person;person+number;person+other,1,0.0038314176245210726
+Language,indexing-features,person,33,0.12643678160919541
+Language,indexing-features,person+number,133,0.5095785440613027
+Language,indexing-features,person+number;person+other,1,0.0038314176245210726
+Language,indexing-features,person;person+number,46,0.17624521072796934
+Language,ref-ergative,False,214,0.6584615384615384
+Language,ref-ergative,True,111,0.3415384615384615
+Language,ref-ergative-domain,Noun,7,0.06306306306306306
+Language,ref-ergative-domain,Noun;Pro,36,0.32432432432432434
+Language,ref-ergative-domain,Noun;Pro;Verb,8,0.07207207207207207
+Language,ref-ergative-domain,Noun;Verb,1,0.009009009009009009
+Language,ref-ergative-domain,Pro,5,0.04504504504504504
+Language,ref-ergative-domain,Pro;Verb,2,0.018018018018018018
+Language,ref-ergative-domain,Verb,52,0.46846846846846846
+Language,ref-horizontal,False,299,0.92
+Language,ref-horizontal,True,26,0.08
+Language,ref-horizontal-domain,Noun,3,0.11538461538461539
+Language,ref-horizontal-domain,Noun;Pro,1,0.038461538461538464
+Language,ref-horizontal-domain,Pro,1,0.038461538461538464
+Language,ref-horizontal-domain,Pro;Verb,1,0.038461538461538464
+Language,ref-horizontal-domain,Verb,20,0.7692307692307693
+Language,ref-sensitive,False,212,0.6523076923076923
+Language,ref-sensitive,True,113,0.3476923076923077
+Language,ref-sensitive-domain,Noun,2,0.017699115044247787
+Language,ref-sensitive-domain,Noun;Pro,1,0.008849557522123894
+Language,ref-sensitive-domain,Noun;Pro;Verb,2,0.017699115044247787
+Language,ref-sensitive-domain,Noun;Verb,1,0.008849557522123894
+Language,ref-sensitive-domain,Pro,5,0.04424778761061947
+Language,ref-sensitive-domain,Pro;Verb,2,0.017699115044247787
+Language,ref-sensitive-domain,Verb,100,0.8849557522123894
+Language,ref-tripartite,False,269,0.8276923076923077
+Language,ref-tripartite,True,56,0.1723076923076923
+Language,ref-tripartite-domain,Noun,1,0.017857142857142856
+Language,ref-tripartite-domain,Noun;Pro,1,0.017857142857142856
+Language,ref-tripartite-domain,Noun;Verb,1,0.017857142857142856
+Language,ref-tripartite-domain,Pro,4,0.07142857142857142
+Language,ref-tripartite-domain,Verb,49,0.875
 Language,split-s,?,9,0.027692307692307693
-Language,split-s,False,260,0.8
-Language,split-s,True,56,0.1723076923076923
+Language,split-s,False,259,0.796923076923077
+Language,split-s,True,57,0.1753846153846154
 Language,tam-split,?,9,0.027692307692307693
 Language,tam-split,False,290,0.8923076923076924
 Language,tam-split,True,26,0.08
@@ -165,22 +169,22 @@ Selector (flagging),Alignment,accusative,197,0.6723549488054608
 Selector (flagging),Alignment,ergative,70,0.23890784982935154
 Selector (flagging),Alignment,horizontal,6,0.020477815699658702
 Selector (flagging),Alignment,neutral,20,0.06825938566552901
-Selector (indexing marker),S,False,800,0.40342914775592537
-Selector (indexing marker),S,True,1183,0.5965708522440747
-Selector (indexing marker),A,False,661,0.3333333333333333
-Selector (indexing marker),A,True,1322,0.6666666666666666
-Selector (indexing marker),P,False,917,0.46243066061522947
-Selector (indexing marker),P,True,1066,0.5375693393847706
-Selector (indexing marker),Alignment,accusative,1021,0.5148764498234998
-Selector (indexing marker),Alignment,ergative,349,0.17599596570852244
-Selector (indexing marker),Alignment,horizontal,318,0.16036308623298035
-Selector (indexing marker),Alignment,neutral,295,0.1487644982349975
-Reference,Zero indexing of 1,Role A,119,0.14354644149577805
-Reference,Zero indexing of 1,Role P,77,0.106353591160221
-Reference,Zero indexing of 1,Role S,29,0.03473053892215569
-Reference,Zero indexing of 2,Role A,119,0.1643646408839779
-Reference,Zero indexing of 2,Role P,100,0.16129032258064516
-Reference,Zero indexing of 2,Role S,25,0.03424657534246575
-Reference,Zero indexing of 3,Role A,283,0.3252873563218391
-Reference,Zero indexing of 3,Role P,339,0.4425587467362924
-Reference,Zero indexing of 3,Role S,155,0.1775486827033219
+Selector (indexing marker),S,False,794,0.4016186140617097
+Selector (indexing marker),S,True,1183,0.5983813859382904
+Selector (indexing marker),A,False,655,0.33131006575619626
+Selector (indexing marker),A,True,1322,0.6686899342438037
+Selector (indexing marker),P,False,911,0.46079919069296915
+Selector (indexing marker),P,True,1066,0.5392008093070308
+Selector (indexing marker),Alignment,accusative,1019,0.5154274152756702
+Selector (indexing marker),Alignment,ergative,347,0.17551846231664137
+Selector (indexing marker),Alignment,horizontal,314,0.1588265048052605
+Selector (indexing marker),Alignment,neutral,297,0.15022761760242792
+Reference,Zero indexing of 1,Role A,120,0.14492753623188406
+Reference,Zero indexing of 1,Role P,76,0.10511756569847856
+Reference,Zero indexing of 1,Role S,34,0.0407673860911271
+Reference,Zero indexing of 2,Role A,122,0.16920943134535368
+Reference,Zero indexing of 2,Role P,104,0.1685575364667747
+Reference,Zero indexing of 2,Role S,24,0.033012379642365884
+Reference,Zero indexing of 3,Role A,291,0.33797909407665505
+Reference,Zero indexing of 3,Role P,346,0.4576719576719577
+Reference,Zero indexing of 3,Role S,161,0.1863425925925926
