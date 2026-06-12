@@ -2664,17 +2664,17 @@ yaki1237-pat-3pla-indexing-marker,yaki1237,indexing marker,=pat 3plA,overt,perso
 yana1271-acc-marking-flagging,yana1271,flagging,ACC marking,overt,,"sapir1922yana[11,167,231-232,55,6]",HT,NONE,NONE,3Pro;Noun,accusative
 yana1271-dja-4-1sgp-2sg-2pl-indexing-marker,yana1271,indexing marker,"-dja (4) 1sgP(<2sg, 2pl)",overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,1sg_2pl,accusative
 yana1271-gi-4-1plp-2sg-2pl-indexing-marker,yana1271,indexing marker,"-gi (4) 1plP(<2sg, 2pl)",overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,1pl_2pl;1pl_2sg,accusative
-yana1271-k-i-1-1pl-indexing-marker,yana1271,indexing marker,-kʻi (1) 1pl,overt,person+number,sapir1922yana[233],HT;AWM,1pl,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg,neutral
+yana1271-k-i-1-1pl-indexing-marker,yana1271,indexing marker,-kʻi (1) 1pl,overt,person+number,sapir1922yana[233],HT;AWM,1pl,1pl_2pl;1pl_2sg;1pl_3,1pl_2pl;1pl_2sg;1pl_3,neutral
 yana1271-ma-4-2sgp-1sg-1pl-indexing-marker,yana1271,indexing marker,"-’ma (4) 2sgP(<1sg, 1pl)",overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,2sg_1pl;2sg_1sg,accusative
 yana1271-mga-4-2plp-1sg-1pl-indexing-marker,yana1271,indexing marker,"-m’ga (4) 2plP(<1sg, 1pl)",overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,2pl_2pl;2pl_2sg,accusative
-yana1271-ndja-4-1sg-indexing-marker,yana1271,indexing marker,-ndja (4) 1sg,overt,person+number,sapir1922yana[233],HT;AWM,1sg,1sg_3pl;1sg_3sg,1sg_2sg;1sg_3sg,neutral
-yana1271-nigi-4-1pl-indexing-marker,yana1271,indexing marker,-’nigi (4) 1pl,overt,person+number,sapir1922yana[233],HT;AWM,1pl,1pl_3pl;1pl_3sg,NONE,accusative
+yana1271-ndja-4-1sg-indexing-marker,yana1271,indexing marker,-ndja (4) 1sg,overt,person+number,sapir1922yana[233],HT;AWM,1sg,1sg_3,1sg_3,neutral
+yana1271-nigi-4-1pl-indexing-marker,yana1271,indexing marker,-’nigi (4) 1pl,overt,person+number,sapir1922yana[233],HT;AWM,1pl,1pl_3,NONE,accusative
 yana1271-no-flagging,yana1271,flagging,NO_FLAGGING,zero,,"sapir1922yana[11,167,231-232,55,6]",HT,1plPro;1sgPro;2plPro;2sgPro;3Pro;Noun,1plPro;1sgPro;2plPro;2sgPro;3Pro;Noun,1plPro;1sgPro;2plPro;2sgPro,neutral
-yana1271-nuga-4-2pl-indexing-marker,yana1271,indexing marker,-nuga (4) 2pl,overt,person+number,sapir1922yana[233],HT;AWM,2pl,2pl_3pl;2pl_3sg,NONE,accusative
-yana1271-nuga-4-2plp-3-indexing-marker,yana1271,indexing marker,-’nuga (4) 2plP(<3),overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,2pl_3pl;2pl_3sg,accusative
-yana1271-numa-4-2sgp-3-indexing-marker,yana1271,indexing marker,-’numa (4) 2sgP(<3),overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,2sg_3pl;2sg_3sg,accusative
-yana1271-numa-4-2sgs-a-indexing-marker,yana1271,indexing marker,-numa (4) 2sgS/A,overt,person+number,sapir1922yana[233],HT;AWM,2sg,2sg_3pl;2sg_3sg,NONE,accusative
-yana1271-wa-1-2p-indexing-marker,yana1271,indexing marker,-wa 1/2P,overt,person,sapir1922yana[233],HT;AWM,NONE,NONE,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg;1sg_2pl;1sg_2sg;1sg_3pl;1sg_3sg;2pl_1pl;2pl_1sg;2pl_3pl;2pl_3sg;2sg_1pl;2sg_1sg;2sg_3pl;2sg_3sg,accusative
+yana1271-nuga-4-2pl-indexing-marker,yana1271,indexing marker,-nuga (4) 2pl,overt,person+number,sapir1922yana[233],HT;AWM,2pl,2pl_3,NONE,accusative
+yana1271-nuga-4-2plp-3-indexing-marker,yana1271,indexing marker,-’nuga (4) 2plP(<3),overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,2pl_3,accusative
+yana1271-numa-4-2sgp-3-indexing-marker,yana1271,indexing marker,-’numa (4) 2sgP(<3),overt,person+number,sapir1922yana[233],HT;AWM,NONE,NONE,2sg_3,accusative
+yana1271-numa-4-2sgs-a-indexing-marker,yana1271,indexing marker,-numa (4) 2sgS/A,overt,person+number,sapir1922yana[233],HT;AWM,2sg,2sg_3,NONE,accusative
+yana1271-wa-1-2p-indexing-marker,yana1271,indexing marker,-wa 1/2P,overt,person,sapir1922yana[233],HT;AWM,NONE,NONE,1pl_2pl;1pl_2sg;1pl_3;1sg_2pl;1sg_2sg;1sg_3;2pl_1pl;2pl_1sg;2pl_3;2sg_1pl;2sg_1sg;2sg_3,accusative
 yana1271-wi-3-2pla-1sg-1pl-indexing-marker,yana1271,indexing marker,"-wi (3) 2plA(>1sg, 1pl)",overt,person+number,sapir1922yana[233],HT;AWM,NONE,2pl_1pl;2pl_1sg,NONE,ergative
 yana1271-null-marker,yana1271,indexing marker,NULL_MARKER,zero,person,sapir1922yana[233],DI,3,3,3,neutral
 yane1238-et-3pl-s-a-index-indexing-marker,yane1238,indexing marker,-et 3pl S/A index,overt,person+number,dufftripp1997yanesha[61-75],AWM,3pl,3pl,NONE,accusative

@@ -7841,7 +7841,7 @@ yana1271-align-pro,yana1271,align-pro,no marking,HT,"sapir1922yana[11,167,231-23
 yana1271-align-index,yana1271,align-index,sensitive,AWM;DI;HT,"sapir1922yana[11,167,231-232,55,6]"
 yana1271-align-noun-nl,yana1271,align-noun-nl,accusative,HT,"sapir1922yana[11,167,231-232,55,6]"
 yana1271-align-pro-nl,yana1271,align-pro-nl,no marking,HT,"sapir1922yana[11,167,231-232,55,6]"
-yana1271-align-index-nl,yana1271,align-index-nl,sensitive,AWM;DI;HT,"sapir1922yana[11,167,231-232,55,6]"
+yana1271-align-index-nl,yana1271,align-index-nl,accusative,AWM;DI;HT,"sapir1922yana[11,167,231-232,55,6]"
 yana1271-ref-ergative,yana1271,ref-ergative,False,AWM;DI;HT,"sapir1922yana[11,167,231-232,55,6]"
 yana1271-ref-ergative-domain,yana1271,ref-ergative-domain,NA,AWM;DI;HT,"sapir1922yana[11,167,231-232,55,6]"
 yana1271-ref-tripartite,yana1271,ref-tripartite,False,AWM;DI;HT,"sapir1922yana[11,167,231-232,55,6]"
@@ -7851,7 +7851,7 @@ yana1271-ref-horizontal-domain,yana1271,ref-horizontal-domain,NA,AWM;DI;HT,"sapi
 yana1271-ref-sensitive,yana1271,ref-sensitive,True,AWM;DI;HT,"sapir1922yana[11,167,231-232,55,6]"
 yana1271-ref-sensitive-domain,yana1271,ref-sensitive-domain,Verb,AWM;DI;HT,"sapir1922yana[11,167,231-232,55,6]"
 yana1271-S!=A flagging,yana1271,S!=A flagging,False,AWM;DI;HT,"sapir1922yana[11,167,231-232,55,6]"
-yana1271-S!=A indexing,yana1271,S!=A indexing,True,AWM;DI;HT,"sapir1922yana[11,167,231-232,55,6]"
+yana1271-S!=A indexing,yana1271,S!=A indexing,False,AWM;DI;HT,"sapir1922yana[11,167,231-232,55,6]"
 yane1238-align-noun,yane1238,align-noun,no marking,AWM,dufftripp1997yanesha[61-75]
 yane1238-align-pro,yane1238,align-pro,no marking,AWM,dufftripp1997yanesha[61-75]
 yane1238-align-index,yane1238,align-index,accusative,AWM,dufftripp1997yanesha[61-75]

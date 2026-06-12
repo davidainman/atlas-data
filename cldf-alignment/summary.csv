@@ -1,8 +1,8 @@
 Level,Variable,Value,Count,Percentage
 Language,S!=A flagging,False,262,0.8061538461538461
 Language,S!=A flagging,True,63,0.19384615384615383
-Language,S!=A indexing,False,189,0.5815384615384616
-Language,S!=A indexing,True,136,0.41846153846153844
+Language,S!=A indexing,False,190,0.5846153846153846
+Language,S!=A indexing,True,135,0.4153846153846154
 Language,align-index,accusative,122,0.48412698412698413
 Language,align-index,accusative;no marking,7,0.027777777777777776
 Language,align-index,accusative;no marking;sensitive,1,0.003968253968253968
@@ -19,7 +19,7 @@ Language,align-index,overt neutral,5,0.01984126984126984
 Language,align-index,sensitive,63,0.25
 Language,align-index,sensitive;tripartite,2,0.007936507936507936
 Language,align-index,tripartite,16,0.06349206349206349
-Language,align-index-nl,accusative,148,0.5873015873015873
+Language,align-index-nl,accusative,149,0.5912698412698413
 Language,align-index-nl,accusative;ergative;sensitive,1,0.003968253968253968
 Language,align-index-nl,accusative;no marking,6,0.023809523809523808
 Language,align-index-nl,accusative;no marking;overt neutral,1,0.003968253968253968
@@ -34,7 +34,7 @@ Language,align-index-nl,no marking,11,0.04365079365079365
 Language,align-index-nl,no marking;overt neutral,2,0.007936507936507936
 Language,align-index-nl,overt neutral,13,0.051587301587301584
 Language,align-index-nl,overt neutral;sensitive,2,0.007936507936507936
-Language,align-index-nl,sensitive,19,0.07539682539682539
+Language,align-index-nl,sensitive,18,0.07142857142857142
 Language,align-index-nl,sensitive;tripartite,1,0.003968253968253968
 Language,align-index-nl,tripartite,19,0.07539682539682539
 Language,align-noun,accusative,57,0.1753846153846154
@@ -179,11 +179,11 @@ Selector (indexing marker),Alignment,accusative,1019,0.5154274152756702
 Selector (indexing marker),Alignment,ergative,347,0.17551846231664137
 Selector (indexing marker),Alignment,horizontal,314,0.1588265048052605
 Selector (indexing marker),Alignment,neutral,297,0.15022761760242792
-Reference,Zero indexing of 1,Role A,121,0.1461352657004831
-Reference,Zero indexing of 1,Role P,78,0.1078838174273859
+Reference,Zero indexing of 1,Role A,120,0.14492753623188406
+Reference,Zero indexing of 1,Role P,76,0.10511756569847856
 Reference,Zero indexing of 1,Role S,34,0.0407673860911271
-Reference,Zero indexing of 2,Role A,123,0.17059639389736478
-Reference,Zero indexing of 2,Role P,106,0.17179902755267423
+Reference,Zero indexing of 2,Role A,122,0.16920943134535368
+Reference,Zero indexing of 2,Role P,104,0.1685575364667747
 Reference,Zero indexing of 2,Role S,24,0.033012379642365884
 Reference,Zero indexing of 3,Role A,291,0.33797909407665505
 Reference,Zero indexing of 3,Role P,346,0.4576719576719577

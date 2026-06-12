@@ -307,7 +307,7 @@ xava1240,False,True,True,False,other;person;person+number;person+other,False,NA,
 xinc1242,False,True,True,False,number;person;person+number,False,NA,no marking,no marking,tripartite,no marking,no marking,tripartite,True,Verb,True,Verb,False,NA,False,NA,no,no,False,True
 yagu1244,False,True,False,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 yaki1237,True,True,False,False,person;person+number,True,Co-argument_reference+Miscellaneous_condition+Reference,accusative,accusative,sensitive,accusative,accusative,overt neutral,True,Noun,True,Noun,False,NA,True,Noun;Verb,yes,yes,True,True
-yana1271,True,True,False,False,person;person+number,False,NA,accusative,no marking,sensitive,accusative,no marking,sensitive,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
+yana1271,True,True,False,False,person;person+number,False,NA,accusative,no marking,sensitive,accusative,no marking,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,False
 yane1238,False,True,False,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 yano1262,True,True,False,False,person+number,False,NA,ergative,ergative,ergative,ergative,ergative,ergative,True,Noun;Pro;Verb,False,NA,False,NA,True,Verb,no,yes,True,True
 yaqu1251,True,False,False,False,NA,True,Reference,accusative;no marking,accusative,NA,accusative;no marking,accusative,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
