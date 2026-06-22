@@ -27,14 +27,19 @@ agua1253-slot-f-u-humi-2pls-a-ncas-indexing-marker,agua1253,indexing marker,slot
 agua1253-slot-f-u-mi-2sgs-a-ncas-indexing-marker,agua1253,indexing marker,slot F -(u)mi̵ '2sgS/A' [NCAS],overt,person+number,overall2017aguaruna[233-272],MV; DI; AWM,2sg,2sg_1pl;2sg_1sg;2sg_3pl;2sg_3sg,NONE,accusative
 agua1253-slot-f-wa-3s-a-ncas-indexing-marker,agua1253,indexing marker,slot F -wa '3S/A' [NCAS],overt,person+number,overall2017aguaruna[233-272],MV; DI; AWM,3pl;3sg,3pl_1pl;3pl_1sg;3pl_2pl;3pl_2sg;3pl_3pl;3pl_3sg;3sg_1pl;3sg_1sg;3sg_2pl;3sg_2sg;3sg_3pl;3sg_3sg,NONE,accusative
 ainu1240-ci-1pa-indexing-indexing-marker,ainu1240,indexing marker,ci- '1pA' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,NONE,1pl_3,NONE,ergative
-ainu1240-e-2s-indexing-indexing-marker,ainu1240,indexing marker,e- '2s' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,2sg,2sg_3,2sg_3,neutral
-ainu1240-eci-2p-2sp-indexing-indexing-marker,ainu1240,indexing marker,eci- '2p/2sP' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,2pl,2pl_1pl;2pl_1sg;2pl_3,2pl_1pl;2pl_1sg;2pl_3;2sg_1pl;2sg_1sg,neutral
+ainu1240-e-2s-indexing-indexing-marker,ainu1240,indexing marker,e- '2s' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,2sg,2sg_3;2sg_3.indef,2sg_3;2sg_3.indef,neutral
+ainu1240-eci-2p-2sp-indexing-indexing-marker,ainu1240,indexing marker,eci- '2p/2sP' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,2pl,2pl_1pl;2pl_1sg;2pl_3;2pl_3.indef,2pl_1pl;2pl_1sg;2pl_3;2pl_3.indef;2sg_1pl;2sg_1sg,neutral
 ainu1240-en-1sp-indexing-indexing-marker,ainu1240,indexing marker,en- '1sP' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,NONE,NONE,1sg_2pl;1sg_2sg;1sg_3,accusative
 ainu1240-indexing-as-1ps-indexing-marker,ainu1240,indexing marker,indexing =as '1pS',overt,person+number,bugaeva2012southern[472-473],AN; AWM,1pl,NONE,NONE,horizontal
-ainu1240-ku-1s-indexing-indexing-marker,ainu1240,indexing marker,ku- '1s' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,1sg,1sg_3,NONE,accusative
+ainu1240-ku-1s-indexing-indexing-marker,ainu1240,indexing marker,ku- '1s' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,1sg,1sg_3;1sg_3.indef,NONE,accusative
 ainu1240-no-flagging,ainu1240,flagging,NO_FLAGGING,zero,,tamura2000ainu[25-92],AWM,any,any,any,neutral
 ainu1240-null-marker,ainu1240,indexing marker,NULL_MARKER,zero,person+number,bugaeva2012southern[472-473],AN; AWM,3,3,3,neutral
-ainu1240-un-1plp-indexing-indexing-marker,ainu1240,indexing marker,un- '1plP' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,NONE,NONE,1pl_2pl;1pl_2sg;1pl_3,accusative
+ainu1240-un-1plp-indexing-indexing-marker,ainu1240,indexing marker,un- '1plP' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,NONE,NONE,1pl_2pl;1pl_2sg;1pl_3;1pl_3.indef,accusative
+ainu1240-e-1sgp-indexing-indexing-marker,ainu1240,indexing marker,e= '1sgP' indexing,overt,person+number,bugaeva2012southern[472-473],DI,NONE,NONE,1sg_3.indef,accusative
+ainu1240-a-1pla-indexing-indexing-marker,ainu1240,indexing marker,a= '1plA' indexing,overt,person+number,bugaeva2012southern[472-473],DI,NONE,1pl_3.indef,NONE,ergative
+ainu1240-an-3indefs-indexing-indexing-marker,ainu1240,indexing marker,=an '3indefS' indexing,overt,person+number,bugaeva2012southern[472-473],DI,3.indef,NONE,NONE,horizontal
+ainu1240-a-3indefa-indexing-indexing-marker,ainu1240,indexing marker,a= '3indefA' indexing,overt,person+number,bugaeva2012southern[472-473],DI,NONE,3.indef,NONE,ergative
+ainu1240-i-3indefp-indexing-indexing-marker,ainu1240,indexing marker,i= '3indefP' indexing,overt,person+number,bugaeva2012southern[472-473],DI,NONE,NONE,3.indef,accusative
 akab1249-acc-case-flagging,akab1249,flagging,ACC case,overt,,zamponi2020akabea[166-170],AWM,NONE,NONE,Pro,accusative
 akab1249-no-flagging,akab1249,flagging,NO_FLAGGING,zero,,zamponi2020akabea[166-170],AWM,any,any,Noun,neutral
 akab1249-role-not-marked,akab1249,indexing trigger,ROLE_NOT_MARKED,zero,NA,zamponi2020akabea[166-171],MV; DI; AWM,NONE,NONE,NONE,NA

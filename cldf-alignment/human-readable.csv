@@ -4,7 +4,7 @@ abkh1244,False,True,False,False,person+number,False,NA,no marking,no marking,erg
 abun1252,False,False,False,False,NA,False,NA,no marking,no marking,NA,no marking,no marking,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 achu1247,True,True,False,False,person;person+number,False,NA,accusative;no marking,accusative;no marking,accusative,accusative;no marking,accusative;no marking,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
 agua1253,True,True,False,False,person+number,True,Co-argument_reference,sensitive,accusative,accusative,accusative,accusative,accusative,False,NA,False,NA,False,NA,True,Noun;Pro;Verb,yes,no,False,False
-ainu1240,False,True,False,False,person+number,False,NA,no marking,no marking,sensitive,no marking,no marking,overt neutral,False,NA,True,Verb,False,NA,True,Verb,no,yes,False,True
+ainu1240,False,True,False,False,person+number,False,NA,no marking,no marking,sensitive;tripartite,no marking,no marking,overt neutral;tripartite,False,NA,True,Verb,False,NA,True,Verb,no,yes,False,True
 akab1249,True,False,False,False,NA,False,NA,no marking,accusative,NA,no marking,accusative,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 alam1246,False,True,False,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 aleu1260,True,True,False,False,person+number,False,NA,ergative;overt neutral,no marking,accusative;sensitive,ergative;overt neutral,no marking,accusative,True,Noun,False,NA,False,NA,True,Verb,no,no,True,True
