@@ -64504,7 +64504,7 @@ Note that we have only considered SG/PL alternation in the present, although the
 "sant1432_WO-01f","sant1432","WO-01f","sov_WO-01f","SOV","1","derived","alderetes2001quichua[199]","NJM"
 "sant1432_WO-01g","sant1432","WO-01g","NA_WO-01g","NA","1","derived","alderetes2001quichua[199]","NJM"
 "sant1432_WO-01h","sant1432","WO-01h","NA_WO-01h","NA","1","derived","alderetes2001quichua[199]","NJM"
-"sant1432_WO-02","sant1432","WO-02","no-dominant-order_WO-02","no dominant order","1","It seems that Adj-N was the original order but it is not as strict anymore due to the heavy influence of Spanish (where it is N-Adj).","alderetes2001quichua[199,217-219]","NJM"
+"sant1432_WO-02","sant1432","WO-02","attr-n_WO-02","Attr-N","1","It seems that Adj-N was the original order but it is not as strict anymore due to the heavy influence of Spanish (where it is N-Adj).","alderetes2001quichua[199,217-219]","NJM;DI"
 "sant1432_WO-03","sant1432","WO-03","pssr-pssd_WO-03","PSSR-PSSD","1","","alderetes2001quichua[200]","NJM"
 "savo1255_Align-01","savo1255","Align-01","accusative_Align-01","accusative","1","accusative:any","wegener2012grammar[131-132]","AWM;MV"
 "savo1255_Align-01a","savo1255","Align-01a","accusative_Align-01a","accusative","1","accusative:1","wegener2012grammar[131-132]","AWM;MV"
