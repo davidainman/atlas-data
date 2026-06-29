@@ -302,33 +302,44 @@ agua1253-97,agua1253,agua1253-slot-f-u-mi-2sgs-a-ncas-indexing-marker,2,simple,A
 agua1253-98,agua1253,agua1253-slot-f-u-mi-2sgs-a-ncas-indexing-marker,2,simple,A,2sg,P,3pl,any,none,any,default,,overall2017aguaruna[233-272],,MV; DI; AWM
 agua1253-99,agua1253,agua1253-slot-f-u-mi-2sgs-a-ncas-indexing-marker,2,simple,A,2sg,P,3sg,any,none,any,default,,overall2017aguaruna[233-272],,MV; DI; AWM
 ainu1240-1,ainu1240,ainu1240-no-flagging,,simple,A,any,P,any,any,none,any,default,,tamura2000ainu[25-92],,AWM
-ainu1240-10,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1&-2,simple,A,2pl,P,1sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-11,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1&-2,simple,A,2pl,P,1pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-12,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1&-2,simple,P,2pl,A,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-13,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1&-2,simple,P,2pl,A,1sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-14,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1&-2,simple,P,2pl,A,1pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-15,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1&-2,simple,P,2sg,A,1pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-16,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1&-2,simple,P,2sg,A,1sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-10,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-2,simple,A,2pl,P,1sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-11,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-2,simple,A,2pl,P,1pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-12,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2pl,A,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-12b,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2pl,A,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
+ainu1240-13,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2pl,A,1sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-14,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2pl,A,1pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-15,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2sg,A,1pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-16,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2sg,A,1sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
 ainu1240-17,ainu1240,ainu1240-en-1sp-indexing-indexing-marker,-1,simple,P,1sg,A,2sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
 ainu1240-18,ainu1240,ainu1240-en-1sp-indexing-indexing-marker,-1,simple,P,1sg,A,2pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
 ainu1240-19,ainu1240,ainu1240-en-1sp-indexing-indexing-marker,-1,simple,P,1sg,A,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-19b,ainu1240,ainu1240-e-1sgp-indexing-indexing-marker,-1,simple,P,1sg,A,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
 ainu1240-2,ainu1240,ainu1240-no-flagging,,simple,P,any,A,any,any,none,any,default,,tamura2000ainu[25-92],,AWM
 ainu1240-20,ainu1240,ainu1240-indexing-as-1ps-indexing-marker,1,NA,S,1pl,NA,NA,any,NA,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-21,ainu1240,ainu1240-ku-1s-indexing-indexing-marker,-2,NA,S,1sg,NA,NA,any,NA,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-21,ainu1240,ainu1240-ku-1s-indexing-indexing-marker,-1&-2,NA,S,1sg,NA,NA,any,NA,any,default,,bugaeva2012southern[472-473],,AN; AWM
 ainu1240-22,ainu1240,ainu1240-ku-1s-indexing-indexing-marker,-2,simple,A,1sg,P,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-22,ainu1240,ainu1240-ku-1s-indexing-indexing-marker,-2,simple,A,1sg,P,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
 ainu1240-23,ainu1240,ainu1240-null-marker,NA,simple,S,3,NA,NA,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
 ainu1240-24,ainu1240,ainu1240-null-marker,NA,simple,A,3,P,any,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
 ainu1240-25,ainu1240,ainu1240-null-marker,NA,simple,P,3,A,any,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
 ainu1240-26,ainu1240,ainu1240-un-1plp-indexing-indexing-marker,-1,simple,P,1pl,A,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-26b,ainu1240,ainu1240-un-1plp-indexing-indexing-marker,-1,simple,P,1pl,A,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
 ainu1240-27,ainu1240,ainu1240-un-1plp-indexing-indexing-marker,-1,simple,P,1pl,A,2sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
 ainu1240-28,ainu1240,ainu1240-un-1plp-indexing-indexing-marker,-1,simple,P,1pl,A,2pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-29,ainu1240,ainu1240-a-1pla-indexing-indexing-marker,-2,simple,A,1pl,P,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
+ainu1240-30,ainu1240,ainu1240-an-3indefs-indexing-indexing-marker,1,simple,S,3.indef,NA,NA,any,none,any,default,,bugaeva2012southern[472-473],,DI
+ainu1240-31,ainu1240,ainu1240-a-3indefa-indexing-indexing-marker,-2,simple,A,3.indef,P,any,any,none,any,default,,bugaeva2012southern[472-473],,DI
+ainu1240-32,ainu1240,ainu1240-i-3indefp-indexing-indexing-marker,-1,simple,P,3.indef,A,any,any,none,any,default,,bugaeva2012southern[472-473],,DI
 ainu1240-3,ainu1240,ainu1240-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,tamura2000ainu[25-92],,AWM
 ainu1240-4,ainu1240,ainu1240-ci-1pa-indexing-indexing-marker,-2,simple,A,1pl,P,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-5,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-1&-2,NA,S,2sg,NA,NA,any,NA,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-6,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-1&-2,simple,A,2sg,P,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-7,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-1&-2,simple,P,2sg,A,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-5,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-1&-2,NA,S,2sg,NA,NA,any,NA,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-6,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-2,simple,A,2sg,P,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-6b,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-2,simple,A,2sg,P,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-7,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-1,simple,P,2sg,A,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-7b,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-1,simple,P,2sg,A,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
 ainu1240-8,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1&-2,NA,S,2pl,NA,NA,any,NA,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-9,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1&-2,simple,A,2pl,P,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-9,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-2,simple,A,2pl,P,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-9,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-2,simple,A,2pl,P,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
 akab1249-1,akab1249,akab1249-no-flagging,,simple,A,any,P,any,any,none,any,default,,zamponi2020akabea[166-170],,AWM
 akab1249-2,akab1249,akab1249-no-flagging,,simple,P,Noun,A,any,any,none,any,default,,zamponi2020akabea[166-170],Pronominal forms are different for various TAM but the alignment is the same (accusative).,AWM
 akab1249-3,akab1249,akab1249-acc-case-flagging,,simple,P,Pro,A,any,any,none,any,default,,zamponi2020akabea[166-170],Pronominal forms are different for various TAM but the alignment is the same (accusative).,AWM
@@ -2066,16 +2077,20 @@ chim1301-17,chim1301,chim1301-h-i-3s-a-p-set-iandii-indexing-marker,-1,NA,S,3sg,
 chim1301-18,chim1301,chim1301-m-i-2sgs-a-p-set-iandii-indexing-marker,-1,NA,S,2sg,NA,NA,any,NA,non-exemplar,stative,,jany2009chimariko;mithun2012core,,AWM
 chim1301-19,chim1301,chim1301-m-i-2sgs-a-p-set-iandii-indexing-marker,-1,NA,S,2sg,NA,NA,any,NA,any,active,,jany2009chimariko;mithun2012core,,AWM
 chim1301-2,chim1301,chim1301-no-flagging,,simple,A,any,P,any,any,none,any,default,default,jany2009chimariko;mithun2012core,,AWM
-chim1301-20,chim1301,chim1301-m-i-2sgs-a-p-set-iandii-indexing-marker,-1,simple,A,2sg,P,1sg,any,none,any,default,,jany2009chimariko;mithun2012core,,AWM
-chim1301-21,chim1301,chim1301-m-i-2sgs-a-p-set-iandii-indexing-marker,-1,simple,A,2sg,P,1pl,any,none,any,default,,jany2009chimariko;mithun2012core,,AWM
+chim1301-20,chim1301,chim1301-me-2sg-1-indexing-marker,-1,portmanteau,A,2sg,P,1sg,any,none,any,default,,jany2009chimariko[102],,DI;NCP
+chim1301-20b,chim1301,chim1301-me-2sg-1-indexing-marker,-1,portmanteau,P,1sg,A,2sg,any,none,any,default,,jany2009chimariko[102],,DI;NCP
+chim1301-21,chim1301,chim1301-me-2sg-1-indexing-marker,-1,portmanteau,A,2sg,P,1pl,any,none,any,default,,jany2009chimariko[102],,DI;NCP
+chim1301-21b,chim1301,chim1301-me-2sg-1-indexing-marker,-1,portmanteau,P,1pl,A,2sg,any,none,any,default,,jany2009chimariko[102],,DI;NCP
 chim1301-22,chim1301,chim1301-m-i-2sgs-a-p-set-iandii-indexing-marker,-1,simple,A,2sg,P,3sg,any,none,any,default,,jany2009chimariko;mithun2012core,,AWM
 chim1301-23,chim1301,chim1301-m-i-2sgs-a-p-set-iandii-indexing-marker,-1,simple,A,2sg,P,3pl,any,none,any,default,,jany2009chimariko;mithun2012core,,AWM
 chim1301-24,chim1301,chim1301-m-i-2sgs-a-p-set-iandii-indexing-marker,-1,simple,P,2sg,A,3pl,any,none,any,default,,jany2009chimariko;mithun2012core,,AWM
 chim1301-25,chim1301,chim1301-m-i-2sgs-a-p-set-iandii-indexing-marker,-1,simple,P,2sg,A,3sg,any,none,any,default,,jany2009chimariko;mithun2012core,,AWM
 chim1301-26,chim1301,chim1301-qha-2pls-a-p-set-iandii-indexing-marker,-1,NA,S,2pl,NA,NA,any,NA,non-exemplar,stative,,jany2009chimariko;mithun2012core,,AWM
 chim1301-27,chim1301,chim1301-qha-2pls-a-p-set-iandii-indexing-marker,-1,NA,S,2pl,NA,NA,any,NA,any,active,,jany2009chimariko;mithun2012core,,AWM
-chim1301-28,chim1301,chim1301-qha-2pls-a-p-set-iandii-indexing-marker,-1,simple,A,2pl,P,1sg,any,none,any,default,,jany2009chimariko;mithun2012core,,AWM
-chim1301-29,chim1301,chim1301-qha-2pls-a-p-set-iandii-indexing-marker,-1,simple,A,2pl,P,1pl,any,none,any,default,,jany2009chimariko;mithun2012core,,AWM
+chim1301-28,chim1301,chim1301-qho-2pl-1-indexing-marker,-1,portmanteau,A,2pl,P,1sg,any,none,any,default,,jany2009chimariko[102],,DI;NCP
+chim1301-28b,chim1301,chim1301-qho-2pl-1-indexing-marker,-1,portmanteau,P,1sg,A,2pl,any,none,any,default,,jany2009chimariko[102],,DI;NCP
+chim1301-29,chim1301,chim1301-qho-2pl-1-indexing-marker,-1,portmanteau,A,2pl,P,1pl,any,none,any,default,,jany2009chimariko[102],,DI;NCP
+chim1301-29b,chim1301,chim1301-qho-2pl-1-indexing-marker,-1,portmanteau,P,1pl,A,2pl,any,none,any,default,,jany2009chimariko[102],,DI;NCP
 chim1301-3,chim1301,chim1301-no-flagging,,simple,P,any,A,any,any,none,any,default,any,jany2009chimariko;mithun2012core,,AWM
 chim1301-30,chim1301,chim1301-qha-2pls-a-p-set-iandii-indexing-marker,-1,simple,A,2pl,P,3sg,any,none,any,default,,jany2009chimariko;mithun2012core,,AWM
 chim1301-31,chim1301,chim1301-qha-2pls-a-p-set-iandii-indexing-marker,-1,simple,A,2pl,P,3pl,any,none,any,default,,jany2009chimariko;mithun2012core,,AWM
@@ -14467,7 +14482,7 @@ xinc1242-24,xinc1242,xinc1242-mulhi-h-3pla-indexing-marker,-1,simple,A,3pl,P,any
 xinc1242-25,xinc1242,xinc1242-mulhik-2pl-hon-s-a-indexing-marker,-1,NA,S,2plHON,NA,NA,imperfective,NA,non-exemplar,default,,rogers2010xinkan[223-226],,AN
 xinc1242-26,xinc1242,xinc1242-mulhik-2pl-hon-s-a-indexing-marker,-1,simple,A,2plHON,P,any,imperfective,none,non-exemplar,default,,rogers2010xinkan[223-226],,AN
 xinc1242-27,xinc1242,xinc1242-mulhik-2pl-hon-s-a-indexing-marker,-1,NA,S,2plHON,NA,NA,perfective,NA,any,default,,rogers2010xinkan[223-226],,AN
-xinc1242-28,xinc1242,xinc1242-mulhik-2pl-hon-s-a-indexing-marker,-1,simple,A,2plHON,P,any,perfective,none,any,default,,rogers2010xinkan[223-226],,AN
+xinc1242-27,xinc1242,xinc1242-lhik-2pl-hon-a-indexing-marker,1,NA,A,2plHON,P,any,perfective,NA,any,default,,rogers2010xinkan[223-226],,DI;NCP
 xinc1242-29,xinc1242,xinc1242-mulhki-1pls-a-indexing-marker,-1,NA,S,1pl,NA,NA,imperfective,NA,non-exemplar,default,,rogers2010xinkan[223-226],,AN
 xinc1242-3,xinc1242,xinc1242-no-flagging,,simple,P,any,A,any,any,none,any,default,,"rogers2010xinkan[176,220]",,AN
 xinc1242-30,xinc1242,xinc1242-mulhki-1pls-a-indexing-marker,-1,simple,A,1pl,P,any,imperfective,none,non-exemplar,default,,rogers2010xinkan[223-226],,AN

@@ -16,8 +16,8 @@ Language,align-index,horizontal,3,0.011904761904761904
 Language,align-index,no marking,10,0.03968253968253968
 Language,align-index,no marking;overt neutral,2,0.007936507936507936
 Language,align-index,overt neutral,5,0.01984126984126984
-Language,align-index,sensitive,63,0.25
-Language,align-index,sensitive;tripartite,2,0.007936507936507936
+Language,align-index,sensitive,62,0.24603174603174602
+Language,align-index,sensitive;tripartite,3,0.011904761904761904
 Language,align-index,tripartite,16,0.06349206349206349
 Language,align-index-nl,accusative,149,0.5912698412698413
 Language,align-index-nl,accusative;ergative;sensitive,1,0.003968253968253968
@@ -32,8 +32,9 @@ Language,align-index-nl,ergative;no marking,1,0.003968253968253968
 Language,align-index-nl,horizontal,4,0.015873015873015872
 Language,align-index-nl,no marking,11,0.04365079365079365
 Language,align-index-nl,no marking;overt neutral,2,0.007936507936507936
-Language,align-index-nl,overt neutral,13,0.051587301587301584
+Language,align-index-nl,overt neutral,12,0.047619047619047616
 Language,align-index-nl,overt neutral;sensitive,2,0.007936507936507936
+Language,align-index-nl,overt neutral;tripartite,1,0.003968253968253968
 Language,align-index-nl,sensitive,18,0.07142857142857142
 Language,align-index-nl,sensitive;tripartite,1,0.003968253968253968
 Language,align-index-nl,tripartite,19,0.07539682539682539
@@ -169,22 +170,22 @@ Selector (flagging),Alignment,accusative,197,0.6723549488054608
 Selector (flagging),Alignment,ergative,70,0.23890784982935154
 Selector (flagging),Alignment,horizontal,6,0.020477815699658702
 Selector (flagging),Alignment,neutral,20,0.06825938566552901
-Selector (indexing marker),S,False,794,0.4016186140617097
-Selector (indexing marker),S,True,1183,0.5983813859382904
-Selector (indexing marker),A,False,655,0.33131006575619626
-Selector (indexing marker),A,True,1322,0.6686899342438037
-Selector (indexing marker),P,False,911,0.46079919069296915
-Selector (indexing marker),P,True,1066,0.5392008093070308
-Selector (indexing marker),Alignment,accusative,1019,0.5154274152756702
-Selector (indexing marker),Alignment,ergative,347,0.17551846231664137
-Selector (indexing marker),Alignment,horizontal,314,0.1588265048052605
-Selector (indexing marker),Alignment,neutral,297,0.15022761760242792
+Selector (indexing marker),S,False,801,0.4035264483627204
+Selector (indexing marker),S,True,1184,0.5964735516372796
+Selector (indexing marker),A,False,658,0.33148614609571786
+Selector (indexing marker),A,True,1327,0.6685138539042821
+Selector (indexing marker),P,False,915,0.4609571788413098
+Selector (indexing marker),P,True,1070,0.5390428211586902
+Selector (indexing marker),Alignment,accusative,1021,0.5143576826196473
+Selector (indexing marker),Alignment,ergative,350,0.17632241813602015
+Selector (indexing marker),Alignment,horizontal,317,0.1596977329974811
+Selector (indexing marker),Alignment,neutral,297,0.14962216624685137
 Reference,Zero indexing of 1,Role A,120,0.14492753623188406
-Reference,Zero indexing of 1,Role P,76,0.10511756569847856
+Reference,Zero indexing of 1,Role P,72,0.0995850622406639
 Reference,Zero indexing of 1,Role S,34,0.0407673860911271
 Reference,Zero indexing of 2,Role A,122,0.16920943134535368
 Reference,Zero indexing of 2,Role P,104,0.1685575364667747
 Reference,Zero indexing of 2,Role S,24,0.033012379642365884
-Reference,Zero indexing of 3,Role A,291,0.33797909407665505
-Reference,Zero indexing of 3,Role P,346,0.4576719576719577
-Reference,Zero indexing of 3,Role S,161,0.1863425925925926
+Reference,Zero indexing of 3,Role A,291,0.3375870069605568
+Reference,Zero indexing of 3,Role P,346,0.4570673712021136
+Reference,Zero indexing of 3,Role S,161,0.1861271676300578

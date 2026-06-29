@@ -27,14 +27,19 @@ agua1253-slot-f-u-humi-2pls-a-ncas-indexing-marker,agua1253,indexing marker,slot
 agua1253-slot-f-u-mi-2sgs-a-ncas-indexing-marker,agua1253,indexing marker,slot F -(u)mi̵ '2sgS/A' [NCAS],overt,person+number,overall2017aguaruna[233-272],MV; DI; AWM,2sg,2sg_1pl;2sg_1sg;2sg_3pl;2sg_3sg,NONE,accusative
 agua1253-slot-f-wa-3s-a-ncas-indexing-marker,agua1253,indexing marker,slot F -wa '3S/A' [NCAS],overt,person+number,overall2017aguaruna[233-272],MV; DI; AWM,3pl;3sg,3pl_1pl;3pl_1sg;3pl_2pl;3pl_2sg;3pl_3pl;3pl_3sg;3sg_1pl;3sg_1sg;3sg_2pl;3sg_2sg;3sg_3pl;3sg_3sg,NONE,accusative
 ainu1240-ci-1pa-indexing-indexing-marker,ainu1240,indexing marker,ci- '1pA' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,NONE,1pl_3,NONE,ergative
-ainu1240-e-2s-indexing-indexing-marker,ainu1240,indexing marker,e- '2s' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,2sg,2sg_3,2sg_3,neutral
-ainu1240-eci-2p-2sp-indexing-indexing-marker,ainu1240,indexing marker,eci- '2p/2sP' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,2pl,2pl_1pl;2pl_1sg;2pl_3,2pl_1pl;2pl_1sg;2pl_3;2sg_1pl;2sg_1sg,neutral
+ainu1240-e-2s-indexing-indexing-marker,ainu1240,indexing marker,e- '2s' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,2sg,2sg_3;2sg_3.indef,2sg_3;2sg_3.indef,neutral
+ainu1240-eci-2p-2sp-indexing-indexing-marker,ainu1240,indexing marker,eci- '2p/2sP' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,2pl,2pl_1pl;2pl_1sg;2pl_3;2pl_3.indef,2pl_1pl;2pl_1sg;2pl_3;2pl_3.indef;2sg_1pl;2sg_1sg,neutral
 ainu1240-en-1sp-indexing-indexing-marker,ainu1240,indexing marker,en- '1sP' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,NONE,NONE,1sg_2pl;1sg_2sg;1sg_3,accusative
 ainu1240-indexing-as-1ps-indexing-marker,ainu1240,indexing marker,indexing =as '1pS',overt,person+number,bugaeva2012southern[472-473],AN; AWM,1pl,NONE,NONE,horizontal
-ainu1240-ku-1s-indexing-indexing-marker,ainu1240,indexing marker,ku- '1s' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,1sg,1sg_3,NONE,accusative
+ainu1240-ku-1s-indexing-indexing-marker,ainu1240,indexing marker,ku- '1s' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,1sg,1sg_3;1sg_3.indef,NONE,accusative
 ainu1240-no-flagging,ainu1240,flagging,NO_FLAGGING,zero,,tamura2000ainu[25-92],AWM,any,any,any,neutral
 ainu1240-null-marker,ainu1240,indexing marker,NULL_MARKER,zero,person+number,bugaeva2012southern[472-473],AN; AWM,3,3,3,neutral
-ainu1240-un-1plp-indexing-indexing-marker,ainu1240,indexing marker,un- '1plP' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,NONE,NONE,1pl_2pl;1pl_2sg;1pl_3,accusative
+ainu1240-un-1plp-indexing-indexing-marker,ainu1240,indexing marker,un- '1plP' indexing,overt,person+number,bugaeva2012southern[472-473],AN; AWM,NONE,NONE,1pl_2pl;1pl_2sg;1pl_3;1pl_3.indef,accusative
+ainu1240-e-1sgp-indexing-indexing-marker,ainu1240,indexing marker,e= '1sgP' indexing,overt,person+number,bugaeva2012southern[472-473],DI,NONE,NONE,1sg_3.indef,accusative
+ainu1240-a-1pla-indexing-indexing-marker,ainu1240,indexing marker,a= '1plA' indexing,overt,person+number,bugaeva2012southern[472-473],DI,NONE,1pl_3.indef,NONE,ergative
+ainu1240-an-3indefs-indexing-indexing-marker,ainu1240,indexing marker,=an '3indefS' indexing,overt,person+number,bugaeva2012southern[472-473],DI,3.indef,NONE,NONE,horizontal
+ainu1240-a-3indefa-indexing-indexing-marker,ainu1240,indexing marker,a= '3indefA' indexing,overt,person+number,bugaeva2012southern[472-473],DI,NONE,3.indef,NONE,ergative
+ainu1240-i-3indefp-indexing-indexing-marker,ainu1240,indexing marker,i= '3indefP' indexing,overt,person+number,bugaeva2012southern[472-473],DI,NONE,NONE,3.indef,accusative
 akab1249-acc-case-flagging,akab1249,flagging,ACC case,overt,,zamponi2020akabea[166-170],AWM,NONE,NONE,Pro,accusative
 akab1249-no-flagging,akab1249,flagging,NO_FLAGGING,zero,,zamponi2020akabea[166-170],AWM,any,any,Noun,neutral
 akab1249-role-not-marked,akab1249,indexing trigger,ROLE_NOT_MARKED,zero,NA,zamponi2020akabea[166-171],MV; DI; AWM,NONE,NONE,NONE,NA
@@ -363,9 +368,11 @@ chim1301-cha-1plp-set-ii-indexing-marker,chim1301,indexing marker,čha-  1plP (
 chim1301-chu-1sgp-set-ii-indexing-marker,chim1301,indexing marker,čhu- 1sgP (Set II),overt,person+number,jany2009chimariko;mithun2012core,AWM,1sg,NONE,1sg_3pl;1sg_3sg,ergative
 chim1301-h-i-3s-a-p-set-iandii-indexing-marker,chim1301,indexing marker,h(i)- 3S/A/P (Set IandII),overt,person+number,jany2009chimariko;mithun2012core,AWM,3pl;3sg,3pl_3pl;3pl_3sg;3sg_3pl;3sg_3sg,NONE,accusative
 chim1301-i-y-1sgs-a-set-i-indexing-marker,chim1301,indexing marker,"ʔi-, y-  1sgS/A (Set I)",overt,person+number,jany2009chimariko;mithun2012core,AWM,1sg,1sg_2pl;1sg_2sg;1sg_3pl;1sg_3sg,NONE,accusative
-chim1301-m-i-2sgs-a-p-set-iandii-indexing-marker,chim1301,indexing marker,m(i)- 2sgS/A/P (Set IandII),overt,person+number,jany2009chimariko;mithun2012core,AWM,2sg,2sg_1pl;2sg_1sg;2sg_3pl;2sg_3sg,2sg_3pl;2sg_3sg,neutral
+chim1301-m-i-2sgs-a-p-set-iandii-indexing-marker,chim1301,indexing marker,m(i)- 2sgS/A/P (Set IandII),overt,person+number,jany2009chimariko;mithun2012core,AWM,2sg,2sg_3pl;2sg_3sg,2sg_3pl;2sg_3sg,neutral
+chim1301-me-2sg-1-indexing-marker,chim1301,indexing marker,me- 2sg>1,overt,person+number,jany2009chimariko[102],DI;NCP,NONE,2sg_1pl;2sg_1sg,1pl_2sg;1sg_2sg,horizontal
 chim1301-no-flagging,chim1301,flagging,NO_FLAGGING,zero,,jany2009chimariko;mithun2012core,AWM,any,any,any,neutral
-chim1301-qha-2pls-a-p-set-iandii-indexing-marker,chim1301,indexing marker,qha- 2plS/A/P (Set IandII),overt,person+number,jany2009chimariko;mithun2012core,AWM,2pl,2pl_1pl;2pl_1sg;2pl_3pl;2pl_3sg,2pl_3pl;2pl_3sg,neutral
+chim1301-qha-2pls-a-p-set-iandii-indexing-marker,chim1301,indexing marker,qha- 2plS/A/P (Set IandII),overt,person+number,jany2009chimariko;mithun2012core,AWM,2pl,2pl_3pl;2pl_3sg,2pl_3pl;2pl_3sg,neutral
+chim1301-qho-2pl-1-indexing-marker,chim1301,indexing marker,qho- 2pl>1,overt,person+number,jany2009chimariko[102],DI;NCP,NONE,2pl_1pl;2pl_1sg,1pl_2pl;1sg_2pl,horizontal
 chim1301-ya-1pls-a-set-i-indexing-marker,chim1301,indexing marker,ya- 1plS/A (Set I),overt,person+number,jany2009chimariko;mithun2012core,AWM,1pl,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg,NONE,accusative
 chim1309-1du-ngk-re-indexing-marker,chim1309,indexing marker,1du -ŋkˀre,overt,person+number,"trillos1996chimila[123-125,143,149-150,173]",DI,1du,1du,NONE,accusative
 chim1309-1du-pl-p-nu-ra-indexing-marker,chim1309,indexing marker,1du/pl P -nu-ˀra,overt,person+number,"trillos1996chimila[123-125,143,149-150,173]",DI,NONE,NONE,1du_3du-high;1du_3du-low;1du_3pl-high;1du_3pl-low;1du_3sg-high;1du_3sg-low;1pl_3du-high;1pl_3du-low;1pl_3pl-high;1pl_3pl-low;1pl_3sg-high;1pl_3sg-low,accusative
@@ -2624,6 +2631,7 @@ xinc1242-kan-2sg-hon-a-indexing-marker,xinc1242,indexing marker,-kan 2sg.hon.A,o
 xinc1242-lhi-h-3pla-indexing-marker,xinc1242,indexing marker,-lhi(h) 3plA,overt,person+number,rogers2010xinkan[223-226],AN,NONE,3pl,NONE,ergative
 xinc1242-lhik-1pla-indexing-marker,xinc1242,indexing marker,-lhik' 1plA,overt,person+number,rogers2010xinkan[223-226],AN,NONE,1pl,NONE,ergative
 xinc1242-lhik-pls-a-indexing-marker,xinc1242,indexing marker,lhik plS/A,overt,number,rogers2010xinkan[223-226],AN,3pl,2pl;2plHON,NONE,accusative
+xinc1242-lhik-2pl-hon-a-indexing-marker,xinc1242,indexing marker,lhik 2pl.hon.A,overt,person+number,rogers2010xinkan[223-226],DI;NCP,NONE,2plHON,NONE,ergative
 xinc1242-mu-3sga-indexing-marker,xinc1242,indexing marker,mü- 3sgA,overt,person+number,rogers2010xinkan[223-226],AN,NONE,3sg,NONE,ergative
 xinc1242-muk-2sg-hon-s-a-indexing-marker,xinc1242,indexing marker,mük- 2sg.hon.S/A,overt,person+number,rogers2010xinkan[223-226],AN,2sgHON,2sgHON,NONE,accusative
 xinc1242-mulhay-2pls-a-indexing-marker,xinc1242,indexing marker,mülhay- 2plS/A,overt,person+number,rogers2010xinkan[223-226],AN,2pl,2pl,NONE,accusative
