@@ -170,18 +170,18 @@ Selector (flagging),Alignment,accusative,197,0.6723549488054608
 Selector (flagging),Alignment,ergative,70,0.23890784982935154
 Selector (flagging),Alignment,horizontal,6,0.020477815699658702
 Selector (flagging),Alignment,neutral,20,0.06825938566552901
-Selector (indexing marker),S,False,799,0.40292486132123045
-Selector (indexing marker),S,True,1184,0.5970751386787695
-Selector (indexing marker),A,False,658,0.33182047402924864
-Selector (indexing marker),A,True,1325,0.6681795259707514
-Selector (indexing marker),P,False,915,0.46142208774583965
-Selector (indexing marker),P,True,1068,0.5385779122541604
-Selector (indexing marker),Alignment,accusative,1021,0.5148764498234998
-Selector (indexing marker),Alignment,ergative,350,0.17650025214321735
-Selector (indexing marker),Alignment,horizontal,315,0.1588502269288956
-Selector (indexing marker),Alignment,neutral,297,0.14977307110438728
+Selector (indexing marker),S,False,801,0.4035264483627204
+Selector (indexing marker),S,True,1184,0.5964735516372796
+Selector (indexing marker),A,False,658,0.33148614609571786
+Selector (indexing marker),A,True,1327,0.6685138539042821
+Selector (indexing marker),P,False,915,0.4609571788413098
+Selector (indexing marker),P,True,1070,0.5390428211586902
+Selector (indexing marker),Alignment,accusative,1021,0.5143576826196473
+Selector (indexing marker),Alignment,ergative,350,0.17632241813602015
+Selector (indexing marker),Alignment,horizontal,317,0.1596977329974811
+Selector (indexing marker),Alignment,neutral,297,0.14962216624685137
 Reference,Zero indexing of 1,Role A,120,0.14492753623188406
-Reference,Zero indexing of 1,Role P,76,0.10511756569847856
+Reference,Zero indexing of 1,Role P,72,0.0995850622406639
 Reference,Zero indexing of 1,Role S,34,0.0407673860911271
 Reference,Zero indexing of 2,Role A,122,0.16920943134535368
 Reference,Zero indexing of 2,Role P,104,0.1685575364667747

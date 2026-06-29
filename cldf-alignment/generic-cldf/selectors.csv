@@ -368,9 +368,11 @@ chim1301-cha-1plp-set-ii-indexing-marker,chim1301,indexing marker,čha-  1plP (
 chim1301-chu-1sgp-set-ii-indexing-marker,chim1301,indexing marker,čhu- 1sgP (Set II),overt,person+number,jany2009chimariko;mithun2012core,AWM,1sg,NONE,1sg_3pl;1sg_3sg,ergative
 chim1301-h-i-3s-a-p-set-iandii-indexing-marker,chim1301,indexing marker,h(i)- 3S/A/P (Set IandII),overt,person+number,jany2009chimariko;mithun2012core,AWM,3pl;3sg,3pl_3pl;3pl_3sg;3sg_3pl;3sg_3sg,NONE,accusative
 chim1301-i-y-1sgs-a-set-i-indexing-marker,chim1301,indexing marker,"ʔi-, y-  1sgS/A (Set I)",overt,person+number,jany2009chimariko;mithun2012core,AWM,1sg,1sg_2pl;1sg_2sg;1sg_3pl;1sg_3sg,NONE,accusative
-chim1301-m-i-2sgs-a-p-set-iandii-indexing-marker,chim1301,indexing marker,m(i)- 2sgS/A/P (Set IandII),overt,person+number,jany2009chimariko;mithun2012core,AWM,2sg,2sg_1pl;2sg_1sg;2sg_3pl;2sg_3sg,2sg_3pl;2sg_3sg,neutral
+chim1301-m-i-2sgs-a-p-set-iandii-indexing-marker,chim1301,indexing marker,m(i)- 2sgS/A/P (Set IandII),overt,person+number,jany2009chimariko;mithun2012core,AWM,2sg,2sg_3pl;2sg_3sg,2sg_3pl;2sg_3sg,neutral
+chim1301-me-2sg-1-indexing-marker,chim1301,indexing marker,me- 2sg>1,overt,person+number,jany2009chimariko[102],DI;NCP,NONE,2sg_1pl;2sg_1sg,1pl_2sg;1sg_2sg,horizontal
 chim1301-no-flagging,chim1301,flagging,NO_FLAGGING,zero,,jany2009chimariko;mithun2012core,AWM,any,any,any,neutral
-chim1301-qha-2pls-a-p-set-iandii-indexing-marker,chim1301,indexing marker,qha- 2plS/A/P (Set IandII),overt,person+number,jany2009chimariko;mithun2012core,AWM,2pl,2pl_1pl;2pl_1sg;2pl_3pl;2pl_3sg,2pl_3pl;2pl_3sg,neutral
+chim1301-qha-2pls-a-p-set-iandii-indexing-marker,chim1301,indexing marker,qha- 2plS/A/P (Set IandII),overt,person+number,jany2009chimariko;mithun2012core,AWM,2pl,2pl_3pl;2pl_3sg,2pl_3pl;2pl_3sg,neutral
+chim1301-qho-2pl-1-indexing-marker,chim1301,indexing marker,qho- 2pl>1,overt,person+number,jany2009chimariko[102],DI;NCP,NONE,2pl_1pl;2pl_1sg,1pl_2pl;1sg_2pl,horizontal
 chim1301-ya-1pls-a-set-i-indexing-marker,chim1301,indexing marker,ya- 1plS/A (Set I),overt,person+number,jany2009chimariko;mithun2012core,AWM,1pl,1pl_2pl;1pl_2sg;1pl_3pl;1pl_3sg,NONE,accusative
 chim1309-1du-ngk-re-indexing-marker,chim1309,indexing marker,1du -ŋkˀre,overt,person+number,"trillos1996chimila[123-125,143,149-150,173]",DI,1du,1du,NONE,accusative
 chim1309-1du-pl-p-nu-ra-indexing-marker,chim1309,indexing marker,1du/pl P -nu-ˀra,overt,person+number,"trillos1996chimila[123-125,143,149-150,173]",DI,NONE,NONE,1du_3du-high;1du_3du-low;1du_3pl-high;1du_3pl-low;1du_3sg-high;1du_3sg-low;1pl_3du-high;1pl_3du-low;1pl_3pl-high;1pl_3pl-low;1pl_3sg-high;1pl_3sg-low,accusative

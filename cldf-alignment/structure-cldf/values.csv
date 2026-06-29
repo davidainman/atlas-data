@@ -294,12 +294,12 @@ cher1273-split-s,cher1273,split-s,False,AN,"king1975grammar[46-47];montgomeryand
 cher1273-coargument-sensitivity flagging,cher1273,coargument-sensitivity flagging,no,AN,"king1975grammar[46-47];montgomeryanderson2008cherokee[168-203,403,477]"
 cher1273-coargument-sensitivity indexing,cher1273,coargument-sensitivity indexing,yes,AN,"king1975grammar[46-47];montgomeryanderson2008cherokee[168-203,403,477]"
 chim1301-flagging,chim1301,flagging,False,AWM,jany2009chimariko;mithun2012core
-chim1301-indexing,chim1301,indexing,True,AWM,jany2009chimariko;mithun2012core
-chim1301-indexing-features,chim1301,indexing-features,person+number,AWM,jany2009chimariko;mithun2012core
-chim1301-tam-split,chim1301,tam-split,False,AWM,jany2009chimariko;mithun2012core
-chim1301-split-s,chim1301,split-s,True,AWM,jany2009chimariko;mithun2012core
-chim1301-coargument-sensitivity flagging,chim1301,coargument-sensitivity flagging,no,AWM,jany2009chimariko;mithun2012core
-chim1301-coargument-sensitivity indexing,chim1301,coargument-sensitivity indexing,yes,AWM,jany2009chimariko;mithun2012core
+chim1301-indexing,chim1301,indexing,True,AWM;DI;NCP,jany2009chimariko;mithun2012core
+chim1301-indexing-features,chim1301,indexing-features,person+number,AWM;DI;NCP,jany2009chimariko;mithun2012core
+chim1301-tam-split,chim1301,tam-split,False,AWM;DI;NCP,jany2009chimariko[102];mithun2012core
+chim1301-split-s,chim1301,split-s,True,AWM;DI;NCP,jany2009chimariko[102];mithun2012core
+chim1301-coargument-sensitivity flagging,chim1301,coargument-sensitivity flagging,no,AWM;DI;NCP,jany2009chimariko[102];mithun2012core
+chim1301-coargument-sensitivity indexing,chim1301,coargument-sensitivity indexing,yes,AWM;DI;NCP,jany2009chimariko[102];mithun2012core
 chim1309-flagging,chim1309,flagging,True,DI,trillos1996chimila[106-110]
 chim1309-indexing,chim1309,indexing,True,DI,trillos1996chimila[106-110]
 chim1309-indexing-features,chim1309,indexing-features,person+number,DI,trillos1996chimila[106-110]
@@ -3598,20 +3598,20 @@ cher1273-S!=A flagging,cher1273,S!=A flagging,False,AN,"montgomeryanderson2008ch
 cher1273-S!=A indexing,cher1273,S!=A indexing,True,AN,"montgomeryanderson2008cherokee[403,477]"
 chim1301-align-noun,chim1301,align-noun,no marking,AWM,jany2009chimariko;mithun2012core
 chim1301-align-pro,chim1301,align-pro,no marking,AWM,jany2009chimariko;mithun2012core
-chim1301-align-index,chim1301,align-index,sensitive,AWM,jany2009chimariko;mithun2012core
+chim1301-align-index,chim1301,align-index,sensitive,AWM;DI;NCP,jany2009chimariko;mithun2012core
 chim1301-align-noun-nl,chim1301,align-noun-nl,no marking,AWM,jany2009chimariko;mithun2012core
 chim1301-align-pro-nl,chim1301,align-pro-nl,no marking,AWM,jany2009chimariko;mithun2012core
-chim1301-align-index-nl,chim1301,align-index-nl,overt neutral;sensitive,AWM,jany2009chimariko;mithun2012core
-chim1301-ref-ergative,chim1301,ref-ergative,False,AWM,jany2009chimariko;mithun2012core
-chim1301-ref-ergative-domain,chim1301,ref-ergative-domain,NA,AWM,jany2009chimariko;mithun2012core
-chim1301-ref-tripartite,chim1301,ref-tripartite,False,AWM,jany2009chimariko;mithun2012core
-chim1301-ref-tripartite-domain,chim1301,ref-tripartite-domain,NA,AWM,jany2009chimariko;mithun2012core
-chim1301-ref-horizontal,chim1301,ref-horizontal,False,AWM,jany2009chimariko;mithun2012core
-chim1301-ref-horizontal-domain,chim1301,ref-horizontal-domain,NA,AWM,jany2009chimariko;mithun2012core
-chim1301-ref-sensitive,chim1301,ref-sensitive,True,AWM,jany2009chimariko;mithun2012core
-chim1301-ref-sensitive-domain,chim1301,ref-sensitive-domain,Verb,AWM,jany2009chimariko;mithun2012core
-chim1301-S!=A flagging,chim1301,S!=A flagging,False,AWM,jany2009chimariko;mithun2012core
-chim1301-S!=A indexing,chim1301,S!=A indexing,True,AWM,jany2009chimariko;mithun2012core
+chim1301-align-index-nl,chim1301,align-index-nl,overt neutral;sensitive,AWM;DI;NCP,jany2009chimariko;mithun2012core
+chim1301-ref-ergative,chim1301,ref-ergative,False,AWM;DI;NCP,jany2009chimariko;mithun2012core
+chim1301-ref-ergative-domain,chim1301,ref-ergative-domain,NA,AWM;DI;NCP,jany2009chimariko;mithun2012core
+chim1301-ref-tripartite,chim1301,ref-tripartite,False,AWM;DI;NCP,jany2009chimariko;mithun2012core
+chim1301-ref-tripartite-domain,chim1301,ref-tripartite-domain,NA,AWM;DI;NCP,jany2009chimariko;mithun2012core
+chim1301-ref-horizontal,chim1301,ref-horizontal,False,AWM;DI;NCP,jany2009chimariko;mithun2012core
+chim1301-ref-horizontal-domain,chim1301,ref-horizontal-domain,NA,AWM;DI;NCP,jany2009chimariko;mithun2012core
+chim1301-ref-sensitive,chim1301,ref-sensitive,True,AWM;DI;NCP,jany2009chimariko;mithun2012core
+chim1301-ref-sensitive-domain,chim1301,ref-sensitive-domain,Verb,AWM;DI;NCP,jany2009chimariko;mithun2012core
+chim1301-S!=A flagging,chim1301,S!=A flagging,False,AWM;DI;NCP,jany2009chimariko;mithun2012core
+chim1301-S!=A indexing,chim1301,S!=A indexing,True,AWM;DI;NCP,jany2009chimariko;mithun2012core
 chim1309-align-noun,chim1309,align-noun,ergative,DI,trillos1996chimila[106-110]
 chim1309-align-pro,chim1309,align-pro,ergative,DI,trillos1996chimila[106-110]
 chim1309-align-index,chim1309,align-index,accusative,DI,trillos1996chimila[106-110]
