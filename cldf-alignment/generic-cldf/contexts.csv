@@ -13849,13 +13849,40 @@ uppe1439-80,uppe1439,uppe1439-null-marker,2,simple,A,3sg-high,P,any,completive,n
 uppe1439-81,uppe1439,uppe1439-null-marker,2,simple,A,3sg-low,P,any,completive,none,any,default,any,kinkade1963upperchehalis[58],,DI
 uppe1439-82,uppe1439,uppe1439-null-marker,2,simple,A,3pl,P,any,completive,none,any,default,unknown condition 1,kinkade1963upperchehalis[58],The 3sg can be used with 3pl subjects.,DI
 uppe1439-9,uppe1439,uppe1439-c-1sg-compl-p-indexing-marker,1,simple,P,1sg,A,3sg-high,completive,none,any,default,any,kinkade1963upperchehalis[85-91],"There are several P paradigms based on verb conjugation class, but they are always distinct from the S/A paradigms, and only Paradigm I has been encoded here.",DI
-urar1246-1,urar1246,urar1246-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,olawsky2006urarina[213-214],,HT
-urar1246-2,urar1246,urar1246-no-flagging,,simple,A,any,P,any,any,none,any,default,,olawsky2006urarina[213-214],,HT
-urar1246-3,urar1246,urar1246-no-flagging,,simple,P,any,A,any,any,none,any,default,,olawsky2006urarina[213-214],,HT
-urar1246-4,urar1246,urar1246-role-not-marked,NA,NA,P,any,A,any,any,none,any,default,default,"olawsky2006urarina[360-362,431-444]",,HT
-urar1246-5,urar1246,urar1246-p-plurality-marker-indexing-marker,1,simple,P,3pl,A,any,any,none,any,default,human referent and no object noun,"olawsky2006urarina[360-362,431-444]",,HT
-urar1246-6,urar1246,urar1246-s-a-marker-indexing-marker,2,NA,S,any,NA,NA,any,NA,any,default,any,"olawsky2006urarina[360-362,431-444]",,HT
-urar1246-7,urar1246,urar1246-s-a-marker-indexing-marker,2,simple,A,any,P,any,any,none,any,default,any,"olawsky2006urarina[360-362,431-444]",,HT
+urar1246-1,urar1246,urar1246-no-flagging,,NA,S,Noun,NA,NA,any,NA,any,default,,olawsky2006urarina[213-214],,HT
+urar1246-10,urar1246,urar1246-aka-3sg,,simple,S,3sgPro,NA,NA,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-11,urar1246,urar1246-kana-1pl-in,,simple,S,1pl.inclPro,NA,NA,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-12,urar1246,urar1246-kanakaana-1pl-ex,,simple,S,1pl.exclPro,NA,NA,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-13,urar1246,urar1246-naara-2pl,,simple,S,2plPro,NA,NA,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-14,urar1246,urar1246-akauru-3pl,,simple,S,3pl.humanPro,NA,NA,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-15,urar1246,urar1246-akauru-3pl,,simple,S,3pl.nonhumanPro,NA,NA,any,none,non-exemplar,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-16,urar1246,urar1246-kanu-1sg,,simple,A,1sgPro,P,any,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-17,urar1246,urar1246-ii-2sg,,simple,A,2sgPro,P,any,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-18,urar1246,urar1246-aka-3sg,,simple,A,3sgPro,P,any,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-19,urar1246,urar1246-kana-1pl-in,,simple,A,1pl.inclPro,P,any,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-2,urar1246,urar1246-no-flagging,,simple,A,Noun,P,any,any,none,any,default,,olawsky2006urarina[213-214],,HT
+urar1246-20,urar1246,urar1246-kanakaana-1pl-ex,,simple,A,1pl.exclPro,P,any,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-21,urar1246,urar1246-naara-2pl,,simple,A,2plPro,P,any,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-22,urar1246,urar1246-akauru-3pl,,simple,A,3pl.humanPro,P,any,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-23,urar1246,urar1246-akauru-3pl,,simple,A,3pl.nonhumanPro,P,any,any,none,non-exemplar,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-24,urar1246,urar1246-kanu-1sg,,simple,P,1sgPro,A,any,any,none,any,default,default,olawsky2006urarina[213-214],,DI;NCP
+urar1246-25,urar1246,urar1246-ii-2sg,,simple,P,2sgPro,A,any,any,none,any,default,default,olawsky2006urarina[213-214],,DI;NCP
+urar1246-26,urar1246,urar1246-aka-3sg,,simple,P,3sgPro,A,any,any,none,any,default,default,olawsky2006urarina[213-214],,DI;NCP
+urar1246-27,urar1246,urar1246-kana-1pl-in,,simple,P,1pl.inclPro,A,any,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-28,urar1246,urar1246-kanakaana-1pl-ex,,simple,P,1pl.exclPro,A,any,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-29,urar1246,urar1246-naara-2pl,,simple,P,2plPro,A,any,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-3,urar1246,urar1246-no-flagging,,simple,P,Noun,A,any,any,none,any,default,,olawsky2006urarina[213-214],,HT
+urar1246-30,urar1246,urar1246-akauru-3pl,,simple,P,3pl.humanPro,A,any,any,none,any,default,default,olawsky2006urarina[213-214],,DI;NCP
+urar1246-31,urar1246,urar1246-akauru-3pl,,simple,P,3pl.nonhumanPro,A,any,any,none,non-exemplar,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-32,urar1246,urar1246-ka-1sgp,clitic -1,simple,P,1sgPro,A,any,any,none,any,default,unknown condition,olawsky2006urarina[213-214],,DI;NCP
+urar1246-33,urar1246,urar1246-i-2sgp,clitic -1,simple,P,2sgPro,A,any,any,none,any,default,unknown condition,olawsky2006urarina[213-214],,DI;NCP
+urar1246-34,urar1246,urar1246-n-3sgp,clitic -1,simple,P,3sgPro,A,any,any,none,any,default,unknown condition,olawsky2006urarina[213-214],,DI;NCP
+urar1246-4,urar1246,urar1246-role-not-marked,NA,NA,P,any,A,any,any,none,any,default,,"olawsky2006urarina[360-362,431-444]",,HT
+urar1246-5,urar1246,urar1246-naha-3plp-human,1,simple,P,3pl.humanPro,A,any,any,none,any,default,unknown condition,"olawsky2006urarina[360-362,431-444]",,HT
+urar1246-6,urar1246,urar1246-s-a-marker-indexing-marker,2,NA,S,any,NA,NA,any,NA,any,default,,"olawsky2006urarina[360-362,431-444]",,HT
+urar1246-7,urar1246,urar1246-s-a-marker-indexing-marker,2,simple,A,any,P,any,any,none,any,default,,"olawsky2006urarina[360-362,431-444]",,HT
+urar1246-8,urar1246,urar1246-kanu-1sg,,simple,S,1sgPro,NA,NA,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
+urar1246-9,urar1246,urar1246-ii-2sg,,simple,S,2sgPro,NA,NA,any,none,any,default,any,olawsky2006urarina[213-214],,DI;NCP
 urni1239-1,urni1239,urni1239-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"campbell2006urningangk[36-37,45]",,AN
 urni1239-2,urni1239,urni1239-no-flagging,,simple,A,any,P,any,any,none,any,default,,"campbell2006urningangk[36-37,45]",,AN
 urni1239-3,urni1239,urni1239-no-flagging,,simple,P,any,A,any,any,none,any,default,,"campbell2006urningangk[36-37,45]",,AN

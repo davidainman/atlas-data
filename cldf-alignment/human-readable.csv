@@ -284,7 +284,7 @@ tupi1273,True,True,False,True,person;person+number,False,NA,no marking,no markin
 tusc1257,False,True,False,False,number;person;person+number,False,NA,no marking,no marking,sensitive,no marking,no marking,horizontal,True,Verb,False,NA,False,NA,True,Verb,no,yes,False,True
 tute1247,False,True,False,True,person;person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,True,Verb,False,NA,False,NA,False,NA,no,no,False,True
 uppe1439,False,True,True,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,yes,False,False
-urar1246,False,True,False,False,number;person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
+urar1246,True,True,False,False,person+number,False,NA,no marking,overt neutral,accusative,no marking,overt neutral,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 urni1239,False,True,?,?,?,False,NA,no marking,no marking,NA,no marking,no marking,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 wage1238,True,True,False,False,person+number,False,NA,ergative;no marking,ergative;no marking,sensitive,ergative;no marking,ergative;no marking,accusative,True,Noun;Pro,False,NA,False,NA,True,Verb,no,yes,True,False
 waim1253,False,True,False,False,person;person+number,False,NA,no marking,no marking,sensitive,no marking,no marking,accusative,False,NA,True,Verb,True,Verb,True,Verb,no,yes,False,True

@@ -1987,13 +1987,13 @@ uppe1439-tam-split,uppe1439,tam-split,True,DI,"kinkade1963upperchehalis[116-129,
 uppe1439-split-s,uppe1439,split-s,False,DI,"kinkade1963upperchehalis[116-129,58,85-91]"
 uppe1439-coargument-sensitivity flagging,uppe1439,coargument-sensitivity flagging,no,DI,"kinkade1963upperchehalis[116-129,58,85-91]"
 uppe1439-coargument-sensitivity indexing,uppe1439,coargument-sensitivity indexing,yes,DI,"kinkade1963upperchehalis[116-129,58,85-91]"
-urar1246-flagging,urar1246,flagging,False,HT,olawsky2006urarina[213-214]
-urar1246-indexing,urar1246,indexing,True,HT,olawsky2006urarina[213-214]
-urar1246-indexing-features,urar1246,indexing-features,number;person+number,HT,olawsky2006urarina[213-214]
-urar1246-tam-split,urar1246,tam-split,False,HT,"olawsky2006urarina[213-214,360-362,431-444]"
-urar1246-split-s,urar1246,split-s,False,HT,"olawsky2006urarina[213-214,360-362,431-444]"
-urar1246-coargument-sensitivity flagging,urar1246,coargument-sensitivity flagging,no,HT,"olawsky2006urarina[213-214,360-362,431-444]"
-urar1246-coargument-sensitivity indexing,urar1246,coargument-sensitivity indexing,no,HT,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-flagging,urar1246,flagging,True,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-indexing,urar1246,indexing,True,HT,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-indexing-features,urar1246,indexing-features,person+number,HT,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-tam-split,urar1246,tam-split,False,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-split-s,urar1246,split-s,False,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-coargument-sensitivity flagging,urar1246,coargument-sensitivity flagging,no,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-coargument-sensitivity indexing,urar1246,coargument-sensitivity indexing,no,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
 urni1239-flagging,urni1239,flagging,False,AN,"campbell2006urningangk[36-37,45]"
 urni1239-indexing,urni1239,indexing,True,auto,"campbell2006urningangk[36-37,45]"
 urni1239-indexing-features,urni1239,indexing-features,?,auto,"campbell2006urningangk[36-37,45]"
@@ -2736,8 +2736,8 @@ tute1247-dom,tute1247,dom,No,HT,"oliverio1996tutelo[148-150,170-171]"
 tute1247-dom-trigger,tute1247,dom-trigger,NA,HT,"oliverio1996tutelo[148-150,170-171]"
 uppe1439-dom,uppe1439,dom,No,DI,"kinkade1963upperchehalis[116-129,58]"
 uppe1439-dom-trigger,uppe1439,dom-trigger,NA,DI,"kinkade1963upperchehalis[116-129,58]"
-urar1246-dom,urar1246,dom,No,HT,olawsky2006urarina[213-214]
-urar1246-dom-trigger,urar1246,dom-trigger,NA,HT,olawsky2006urarina[213-214]
+urar1246-dom,urar1246,dom,No,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-dom-trigger,urar1246,dom-trigger,NA,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
 urni1239-dom,urni1239,dom,No,AN,"campbell2006urningangk[36-37,45]"
 urni1239-dom-trigger,urni1239,dom-trigger,NA,AN,"campbell2006urningangk[36-37,45]"
 wage1238-dom,wage1238,dom,No,HT,"cook1987wagiman[125-126,129-130,94-95]"
@@ -7468,22 +7468,22 @@ uppe1439-ref-sensitive,uppe1439,ref-sensitive,False,DI,"kinkade1963upperchehalis
 uppe1439-ref-sensitive-domain,uppe1439,ref-sensitive-domain,NA,DI,"kinkade1963upperchehalis[116-129,58]"
 uppe1439-S!=A flagging,uppe1439,S!=A flagging,False,DI,"kinkade1963upperchehalis[116-129,58]"
 uppe1439-S!=A indexing,uppe1439,S!=A indexing,False,DI,"kinkade1963upperchehalis[116-129,58]"
-urar1246-align-noun,urar1246,align-noun,no marking,HT,olawsky2006urarina[213-214]
-urar1246-align-pro,urar1246,align-pro,no marking,HT,olawsky2006urarina[213-214]
-urar1246-align-index,urar1246,align-index,accusative,HT,olawsky2006urarina[213-214]
-urar1246-align-noun-nl,urar1246,align-noun-nl,no marking,HT,olawsky2006urarina[213-214]
-urar1246-align-pro-nl,urar1246,align-pro-nl,no marking,HT,olawsky2006urarina[213-214]
-urar1246-align-index-nl,urar1246,align-index-nl,accusative,HT,olawsky2006urarina[213-214]
-urar1246-ref-ergative,urar1246,ref-ergative,False,HT,olawsky2006urarina[213-214]
-urar1246-ref-ergative-domain,urar1246,ref-ergative-domain,NA,HT,olawsky2006urarina[213-214]
-urar1246-ref-tripartite,urar1246,ref-tripartite,False,HT,olawsky2006urarina[213-214]
-urar1246-ref-tripartite-domain,urar1246,ref-tripartite-domain,NA,HT,olawsky2006urarina[213-214]
-urar1246-ref-horizontal,urar1246,ref-horizontal,False,HT,olawsky2006urarina[213-214]
-urar1246-ref-horizontal-domain,urar1246,ref-horizontal-domain,NA,HT,olawsky2006urarina[213-214]
-urar1246-ref-sensitive,urar1246,ref-sensitive,False,HT,olawsky2006urarina[213-214]
-urar1246-ref-sensitive-domain,urar1246,ref-sensitive-domain,NA,HT,olawsky2006urarina[213-214]
-urar1246-S!=A flagging,urar1246,S!=A flagging,False,HT,olawsky2006urarina[213-214]
-urar1246-S!=A indexing,urar1246,S!=A indexing,False,HT,olawsky2006urarina[213-214]
+urar1246-align-noun,urar1246,align-noun,no marking,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-align-pro,urar1246,align-pro,overt neutral,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-align-index,urar1246,align-index,accusative,HT,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-align-noun-nl,urar1246,align-noun-nl,no marking,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-align-pro-nl,urar1246,align-pro-nl,overt neutral,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-align-index-nl,urar1246,align-index-nl,accusative,HT,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-ergative,urar1246,ref-ergative,False,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-ergative-domain,urar1246,ref-ergative-domain,NA,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-tripartite,urar1246,ref-tripartite,False,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-tripartite-domain,urar1246,ref-tripartite-domain,NA,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-horizontal,urar1246,ref-horizontal,False,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-horizontal-domain,urar1246,ref-horizontal-domain,NA,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-sensitive,urar1246,ref-sensitive,False,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-sensitive-domain,urar1246,ref-sensitive-domain,NA,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-S!=A flagging,urar1246,S!=A flagging,False,HT,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-S!=A indexing,urar1246,S!=A indexing,False,HT,"olawsky2006urarina[213-214,360-362,431-444]"
 urni1239-align-noun,urni1239,align-noun,no marking,AN,"campbell2006urningangk[36-37,45]"
 urni1239-align-pro,urni1239,align-pro,no marking,AN,"campbell2006urningangk[36-37,45]"
 urni1239-align-index,urni1239,align-index,NA,auto,"campbell2006urningangk[36-37,45]"
