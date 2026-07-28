@@ -180,7 +180,7 @@ mose1249,False,True,False,False,gender;person+number,False,NA,no marking,no mark
 movi1243,True,True,False,False,person,False,NA,no marking,sensitive,no marking,no marking,sensitive,no marking,False,NA,False,NA,True,Pro;Verb,True,Pro,yes,yes,True,True
 mull1237,False,True,False,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 mund1330,True,True,True,True,person+number,False,NA,no marking,accusative,sensitive,no marking,accusative,accusative,True,Verb,True,Verb,False,NA,True,Verb,no,yes,False,True
-muni1258,True,True,False,False,person;person+number,False,NA,no marking,accusative,accusative,no marking,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
+muni1258,False,True,False,False,person;person+number,False,NA,no marking,no marking,overt neutral,no marking,no marking,overt neutral,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 murl1244,True,True,False,False,person+number,False,NA,accusative,accusative,accusative,accusative,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 murr1258,True,True,False,False,person+number,False,NA,accusative;no marking,accusative;no marking,accusative,accusative;no marking,accusative;no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 muru1274,True,True,False,False,person+number,True,Miscellaneous_condition,accusative;no marking,accusative;no marking,accusative,accusative;no marking,accusative;no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False

@@ -3,7 +3,7 @@ Language,S!=A flagging,False,262,0.8061538461538461
 Language,S!=A flagging,True,63,0.19384615384615383
 Language,S!=A indexing,False,190,0.5846153846153846
 Language,S!=A indexing,True,135,0.4153846153846154
-Language,align-index,accusative,122,0.48412698412698413
+Language,align-index,accusative,121,0.4801587301587302
 Language,align-index,accusative;no marking,7,0.027777777777777776
 Language,align-index,accusative;no marking;sensitive,1,0.003968253968253968
 Language,align-index,accusative;overt neutral,1,0.003968253968253968
@@ -15,11 +15,11 @@ Language,align-index,ergative;sensitive,1,0.003968253968253968
 Language,align-index,horizontal,3,0.011904761904761904
 Language,align-index,no marking,10,0.03968253968253968
 Language,align-index,no marking;overt neutral,2,0.007936507936507936
-Language,align-index,overt neutral,5,0.01984126984126984
+Language,align-index,overt neutral,6,0.023809523809523808
 Language,align-index,sensitive,62,0.24603174603174602
 Language,align-index,sensitive;tripartite,3,0.011904761904761904
 Language,align-index,tripartite,16,0.06349206349206349
-Language,align-index-nl,accusative,149,0.5912698412698413
+Language,align-index-nl,accusative,148,0.5873015873015873
 Language,align-index-nl,accusative;ergative;sensitive,1,0.003968253968253968
 Language,align-index-nl,accusative;no marking,6,0.023809523809523808
 Language,align-index-nl,accusative;no marking;overt neutral,1,0.003968253968253968
@@ -32,7 +32,7 @@ Language,align-index-nl,ergative;no marking,1,0.003968253968253968
 Language,align-index-nl,horizontal,4,0.015873015873015872
 Language,align-index-nl,no marking,11,0.04365079365079365
 Language,align-index-nl,no marking;overt neutral,2,0.007936507936507936
-Language,align-index-nl,overt neutral,12,0.047619047619047616
+Language,align-index-nl,overt neutral,13,0.051587301587301584
 Language,align-index-nl,overt neutral;sensitive,2,0.007936507936507936
 Language,align-index-nl,overt neutral;tripartite,1,0.003968253968253968
 Language,align-index-nl,sensitive,18,0.07142857142857142
@@ -61,7 +61,7 @@ Language,align-noun-nl,ergative;overt neutral,2,0.006153846153846154
 Language,align-noun-nl,no marking,187,0.5753846153846154
 Language,align-noun-nl,overt neutral,1,0.003076923076923077
 Language,align-noun-nl,sensitive,1,0.003076923076923077
-Language,align-pro,accusative,105,0.3322784810126582
+Language,align-pro,accusative,104,0.3291139240506329
 Language,align-pro,accusative;ergative,1,0.0031645569620253164
 Language,align-pro,accusative;ergative;no marking,1,0.0031645569620253164
 Language,align-pro,accusative;no marking,9,0.028481012658227847
@@ -70,10 +70,10 @@ Language,align-pro,ergative,24,0.0759493670886076
 Language,align-pro,ergative;no marking,9,0.028481012658227847
 Language,align-pro,ergative;overt neutral,1,0.0031645569620253164
 Language,align-pro,ergative;tripartite,1,0.0031645569620253164
-Language,align-pro,no marking,160,0.5063291139240507
+Language,align-pro,no marking,161,0.509493670886076
 Language,align-pro,sensitive,3,0.00949367088607595
 Language,align-pro,tripartite,1,0.0031645569620253164
-Language,align-pro-nl,accusative,105,0.3322784810126582
+Language,align-pro-nl,accusative,104,0.3291139240506329
 Language,align-pro-nl,accusative;ergative,1,0.0031645569620253164
 Language,align-pro-nl,accusative;ergative;no marking,1,0.0031645569620253164
 Language,align-pro-nl,accusative;no marking,9,0.028481012658227847
@@ -82,7 +82,7 @@ Language,align-pro-nl,ergative,24,0.0759493670886076
 Language,align-pro-nl,ergative;no marking,9,0.028481012658227847
 Language,align-pro-nl,ergative;overt neutral,1,0.0031645569620253164
 Language,align-pro-nl,ergative;tripartite,1,0.0031645569620253164
-Language,align-pro-nl,no marking,162,0.5126582278481012
+Language,align-pro-nl,no marking,163,0.5158227848101266
 Language,align-pro-nl,sensitive,1,0.0031645569620253164
 Language,align-pro-nl,tripartite,1,0.0031645569620253164
 Language,coargument-sensitivity flagging,no,312,0.96
@@ -100,8 +100,8 @@ Language,dom-trigger,Miscellaneous_condition+Reference,4,0.07017543859649122
 Language,dom-trigger,Predicate_class,1,0.017543859649122806
 Language,dom-trigger,Reference,32,0.5614035087719298
 Language,dom-trigger,TAM,2,0.03508771929824561
-Language,flagging,False,152,0.4676923076923077
-Language,flagging,True,173,0.5323076923076923
+Language,flagging,False,153,0.4707692307692308
+Language,flagging,True,172,0.5292307692307693
 Language,indexing,False,64,0.19692307692307692
 Language,indexing,True,261,0.803076923076923
 Language,indexing-features,?,9,0.034482758620689655
@@ -160,32 +160,32 @@ Language,split-s,True,57,0.1753846153846154
 Language,tam-split,?,9,0.027692307692307693
 Language,tam-split,False,290,0.8923076923076924
 Language,tam-split,True,26,0.08
-Selector (flagging),S,False,193,0.658703071672355
-Selector (flagging),S,True,100,0.3412969283276451
-Selector (flagging),A,False,149,0.5085324232081911
-Selector (flagging),A,True,144,0.49146757679180886
-Selector (flagging),P,False,122,0.41638225255972694
-Selector (flagging),P,True,171,0.5836177474402731
-Selector (flagging),Alignment,accusative,197,0.6723549488054608
-Selector (flagging),Alignment,ergative,70,0.23890784982935154
-Selector (flagging),Alignment,horizontal,6,0.020477815699658702
-Selector (flagging),Alignment,neutral,20,0.06825938566552901
+Selector (flagging),S,False,192,0.6597938144329897
+Selector (flagging),S,True,99,0.3402061855670103
+Selector (flagging),A,False,148,0.5085910652920962
+Selector (flagging),A,True,143,0.49140893470790376
+Selector (flagging),P,False,121,0.41580756013745707
+Selector (flagging),P,True,170,0.584192439862543
+Selector (flagging),Alignment,accusative,195,0.6701030927835051
+Selector (flagging),Alignment,ergative,70,0.24054982817869416
+Selector (flagging),Alignment,horizontal,6,0.020618556701030927
+Selector (flagging),Alignment,neutral,20,0.06872852233676977
 Selector (indexing marker),S,False,801,0.4035264483627204
 Selector (indexing marker),S,True,1184,0.5964735516372796
 Selector (indexing marker),A,False,658,0.33148614609571786
 Selector (indexing marker),A,True,1327,0.6685138539042821
-Selector (indexing marker),P,False,915,0.4609571788413098
-Selector (indexing marker),P,True,1070,0.5390428211586902
-Selector (indexing marker),Alignment,accusative,1021,0.5143576826196473
+Selector (indexing marker),P,False,910,0.45843828715365237
+Selector (indexing marker),P,True,1075,0.5415617128463476
+Selector (indexing marker),Alignment,accusative,1016,0.5118387909319899
 Selector (indexing marker),Alignment,ergative,350,0.17632241813602015
 Selector (indexing marker),Alignment,horizontal,317,0.1596977329974811
-Selector (indexing marker),Alignment,neutral,297,0.14962216624685137
+Selector (indexing marker),Alignment,neutral,302,0.15214105793450883
 Reference,Zero indexing of 1,Role A,120,0.14492753623188406
-Reference,Zero indexing of 1,Role P,72,0.0995850622406639
+Reference,Zero indexing of 1,Role P,72,0.0993103448275862
 Reference,Zero indexing of 1,Role S,34,0.0407673860911271
 Reference,Zero indexing of 2,Role A,122,0.16920943134535368
-Reference,Zero indexing of 2,Role P,104,0.1685575364667747
+Reference,Zero indexing of 2,Role P,104,0.1680129240710824
 Reference,Zero indexing of 2,Role S,24,0.033012379642365884
 Reference,Zero indexing of 3,Role A,291,0.3375870069605568
-Reference,Zero indexing of 3,Role P,346,0.4570673712021136
+Reference,Zero indexing of 3,Role P,346,0.45646437994722955
 Reference,Zero indexing of 3,Role S,161,0.1861271676300578

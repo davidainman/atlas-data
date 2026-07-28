@@ -1568,14 +1568,12 @@ mund1330-o-1ss-a-p-indexing-marker,mund1330,indexing marker,o 1sS/A/P,overt,pers
 mund1330-o-3s-a-indexing-marker,mund1330,indexing marker,o' 3S/A,overt,person+number,"gomes2006munduruku[47-52,61-62]",DI,3,3;3_3,NONE,accusative
 mund1330-oce-1excls-a-p-indexing-marker,mund1330,indexing marker,oce 1exclS/A/P,overt,person+number,"gomes2006munduruku[101,27,47-52,61-62]",DI,1excl,1excl;1excl_3,1excl_2pl;1excl_2sg;1excl_3,neutral
 mund1330-wuy-1incls-p-indexing-marker,mund1330,indexing marker,wuy 1inclS/P,overt,person+number,"gomes2006munduruku[101,27,47-52,61-62]",DI,1incl,NONE,1incl_2pl;1incl_2sg;1incl_3,ergative
-muni1258-di-indexing-marker,muni1258,indexing marker,-di,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-22],DI,2pl,2pl,NONE,accusative
-muni1258-free-pronoun-flagging,muni1258,flagging,free pronoun,overt,,"proyecto2009muniche[15,20,8-9]",DI,Pro,Pro,NONE,accusative
-muni1258-no-flagging,muni1258,flagging,NO_FLAGGING,zero,,proyecto2009muniche[8-9],DI,Noun,Noun,Noun,neutral
-muni1258-nw-indexing-marker,muni1258,indexing marker,-nɯ,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-16],DI,1sg,1sg,NONE,accusative
-muni1258-pronominal-suffix-flagging,muni1258,flagging,pronominal suffix,overt,,"proyecto2009muniche[15,20,8-9]",DI,NONE,NONE,Pro,accusative
-muni1258-pw-indexing-marker,muni1258,indexing marker,-pɯ,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-20],DI,2sg,2sg,NONE,accusative
-muni1258-ra-ta-ca-indexing-marker,muni1258,indexing marker,-ra/ta/ça,overt,person,gibson1996munichi[60-62];proyecto2009muniche[15-24],DI,3,3,NONE,accusative
-muni1258-ww-indexing-marker,muni1258,indexing marker,-wɯ,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-18],DI,1pl,1pl,NONE,accusative
+muni1258-di-indexing-marker,muni1258,indexing marker,-di,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-22],DI,2pl,2pl,2pl,neutral
+muni1258-no-flagging,muni1258,flagging,NO_FLAGGING,zero,,proyecto2009muniche[8-9];michaeletalNDmuniche,DI,any,any,any,neutral
+muni1258-nw-indexing-marker,muni1258,indexing marker,-nɯ,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-16],DI,1sg,1sg,1sg,neutral
+muni1258-pw-indexing-marker,muni1258,indexing marker,-pɯ,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-20],DI,2sg,2sg,2sg,neutral
+muni1258-ra-ta-ca-indexing-marker,muni1258,indexing marker,-ra/ta/ça,overt,person,gibson1996munichi[60-62];proyecto2009muniche[15-24],DI,3,3,3,neutral
+muni1258-ww-indexing-marker,muni1258,indexing marker,-wɯ,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-18],DI,1pl,1pl,1pl,neutral
 murl1244-acc-case-flagging,murl1244,flagging,ACC case,overt,,arensen1982murle[89-91],DI,NONE,NONE,Pro,accusative
 murl1244-no-flagging,murl1244,flagging,NO_FLAGGING,zero,,arensen1982murle[48-49],DI,NONE,NONE,Noun,accusative
 murl1244-nom-case-flagging,murl1244,flagging,NOM case,overt,,"arensen1982murle[48-49,89-91]",DI,Noun;Pro,Noun;Pro,NONE,accusative
