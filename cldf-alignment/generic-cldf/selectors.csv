@@ -1568,14 +1568,12 @@ mund1330-o-1ss-a-p-indexing-marker,mund1330,indexing marker,o 1sS/A/P,overt,pers
 mund1330-o-3s-a-indexing-marker,mund1330,indexing marker,o' 3S/A,overt,person+number,"gomes2006munduruku[47-52,61-62]",DI,3,3;3_3,NONE,accusative
 mund1330-oce-1excls-a-p-indexing-marker,mund1330,indexing marker,oce 1exclS/A/P,overt,person+number,"gomes2006munduruku[101,27,47-52,61-62]",DI,1excl,1excl;1excl_3,1excl_2pl;1excl_2sg;1excl_3,neutral
 mund1330-wuy-1incls-p-indexing-marker,mund1330,indexing marker,wuy 1inclS/P,overt,person+number,"gomes2006munduruku[101,27,47-52,61-62]",DI,1incl,NONE,1incl_2pl;1incl_2sg;1incl_3,ergative
-muni1258-di-indexing-marker,muni1258,indexing marker,-di,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-22],DI,2pl,2pl,NONE,accusative
-muni1258-free-pronoun-flagging,muni1258,flagging,free pronoun,overt,,"proyecto2009muniche[15,20,8-9]",DI,Pro,Pro,NONE,accusative
-muni1258-no-flagging,muni1258,flagging,NO_FLAGGING,zero,,proyecto2009muniche[8-9],DI,Noun,Noun,Noun,neutral
-muni1258-nw-indexing-marker,muni1258,indexing marker,-nɯ,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-16],DI,1sg,1sg,NONE,accusative
-muni1258-pronominal-suffix-flagging,muni1258,flagging,pronominal suffix,overt,,"proyecto2009muniche[15,20,8-9]",DI,NONE,NONE,Pro,accusative
-muni1258-pw-indexing-marker,muni1258,indexing marker,-pɯ,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-20],DI,2sg,2sg,NONE,accusative
-muni1258-ra-ta-ca-indexing-marker,muni1258,indexing marker,-ra/ta/ça,overt,person,gibson1996munichi[60-62];proyecto2009muniche[15-24],DI,3,3,NONE,accusative
-muni1258-ww-indexing-marker,muni1258,indexing marker,-wɯ,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-18],DI,1pl,1pl,NONE,accusative
+muni1258-di-indexing-marker,muni1258,indexing marker,-di,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-22],DI,2pl,2pl,2pl,neutral
+muni1258-no-flagging,muni1258,flagging,NO_FLAGGING,zero,,proyecto2009muniche[8-9];michaeletalNDmuniche,DI,any,any,any,neutral
+muni1258-nw-indexing-marker,muni1258,indexing marker,-nɯ,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-16],DI,1sg,1sg,1sg,neutral
+muni1258-pw-indexing-marker,muni1258,indexing marker,-pɯ,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-20],DI,2sg,2sg,2sg,neutral
+muni1258-ra-ta-ca-indexing-marker,muni1258,indexing marker,-ra/ta/ça,overt,person,gibson1996munichi[60-62];proyecto2009muniche[15-24],DI,3,3,3,neutral
+muni1258-ww-indexing-marker,muni1258,indexing marker,-wɯ,overt,person+number,gibson1996munichi[60-62];proyecto2009muniche[15-18],DI,1pl,1pl,1pl,neutral
 murl1244-acc-case-flagging,murl1244,flagging,ACC case,overt,,arensen1982murle[89-91],DI,NONE,NONE,Pro,accusative
 murl1244-no-flagging,murl1244,flagging,NO_FLAGGING,zero,,arensen1982murle[48-49],DI,NONE,NONE,Noun,accusative
 murl1244-nom-case-flagging,murl1244,flagging,NOM case,overt,,"arensen1982murle[48-49,89-91]",DI,Noun;Pro,Noun;Pro,NONE,accusative
@@ -2481,10 +2479,20 @@ uppe1439-t-3-cont-p-indexing-marker,uppe1439,indexing marker,-t 3 CONT P,overt,p
 uppe1439-tol-1pl-2pl-cont-p-indexing-marker,uppe1439,indexing marker,-tol 1pl/2pl CONT P,overt,person+number,kinkade1963upperchehalis[85-91],DI,NONE,NONE,1pl_2sg;1pl_3pl;1pl_3sg-high;1pl_3sg-low;2pl_1sg;2pl_3pl;2pl_3sg-high;2pl_3sg-low,accusative
 uppe1439-toll-1pl-2pl-compl-p-indexing-marker,uppe1439,indexing marker,-tołl 1pl/2pl COMPL P,overt,person+number,kinkade1963upperchehalis[85-91],DI,NONE,NONE,1pl_2sg;1pl_3pl;1pl_3sg-high;1pl_3sg-low;2pl_1sg;2pl_3pl;2pl_3sg-high;2pl_3sg-low,accusative
 uppe1439-yams-3pl-compl-s-a-indexing-marker,uppe1439,indexing marker,-yamš 3pl COMPL S/A,overt,person+number,kinkade1963upperchehalis[58],DI,3pl,3pl,NONE,accusative
-urar1246-no-flagging,urar1246,flagging,NO_FLAGGING,zero,,olawsky2006urarina[213-214],HT,any,any,any,neutral
-urar1246-p-plurality-marker-indexing-marker,urar1246,indexing marker,P plurality marker,overt,number,"olawsky2006urarina[360-362,431-444]",HT,NONE,NONE,3pl,accusative
+urar1246-no-flagging,urar1246,flagging,NO_FLAGGING,zero,,olawsky2006urarina[213-214],HT,Noun,Noun,Noun,neutral
+urar1246-naha-3plp-human,urar1246,flagging,naha_3plP_human,overt,person+number,"olawsky2006urarina[360-362,431-444]",HT;DI;NCP,NONE,NONE,3pl.humanPro,accusative
 urar1246-role-not-marked,urar1246,indexing trigger,ROLE_NOT_MARKED,zero,NA,"olawsky2006urarina[360-362,431-444]",HT,NONE,NONE,any,NA
 urar1246-s-a-marker-indexing-marker,urar1246,indexing marker,S/A marker,overt,person+number,"olawsky2006urarina[360-362,431-444]",HT,any,any,NONE,accusative
+urar1246-kanu-1sg,urar1246,flagging,kanʉ_1sg,overt,person+number,olawsky2006urarina[213-214],DI;NCP,1sgPro,1sgPro,1sgPro,neutral
+urar1246-ii-2sg,urar1246,flagging,ii_2sg,overt,person+number,olawsky2006urarina[213-214],DI;NCP,2sgPro,2sgPro,2sgPro,neutral
+urar1246-aka-3sg,urar1246,flagging,aka_3sg,overt,person+number,olawsky2006urarina[213-214],DI;NCP,3sgPro,3sgPro,3sgPro,neutral
+urar1246-kana-1pl-in,urar1246,flagging,kana_1pl.in,overt,person+number,olawsky2006urarina[213-214],DI;NCP,1pl.inclPro,1pl.inclPro,1pl.inclPro,neutral
+urar1246-kanakaana-1pl-ex,urar1246,flagging,kanakaana_1pl.ex,overt,person+number,olawsky2006urarina[213-214],DI;NCP,1pl.exclPro,1pl.exclPro,1pl.exclPro,neutral
+urar1246-naara-2pl,urar1246,flagging,ɲaara_2pl,overt,person+number,olawsky2006urarina[213-214],DI;NCP,2plPro,2plPro,2plPro,neutral
+urar1246-akauru-3pl,urar1246,flagging,akaʉrʉ_3pl,overt,person+number,olawsky2006urarina[213-214],DI;NCP,3pl.humanPro;3pl.nonhumanPro,3pl.humanPro;3pl.nonhumanPro,3pl.humanPro;3pl.nonhumanPro,neutral
+urar1246-ka-1sgp,urar1246,flagging,ka=_1sgP,overt,person+number,olawsky2006urarina[213-214],DI;NCP,NONE,NONE,1sgPro,accusative
+urar1246-i-2sgp,urar1246,flagging,i=_2sgP,overt,person+number,olawsky2006urarina[213-214],DI;NCP,NONE,NONE,2sgPro,accusative
+urar1246-n-3sgp,urar1246,flagging,n=_3sgP,overt,person+number,olawsky2006urarina[213-214],DI;NCP,NONE,NONE,3sgPro,accusative
 urni1239-no-flagging,urni1239,flagging,NO_FLAGGING,zero,,"campbell2006urningangk[36-37,45]",AN,any,any,any,neutral
 wage1238-ba-3pls-3pla-3plp-1sg-1pl-2sg-2pl-indexing-marker,wage1238,indexing marker,"ba- '3plS, 3plA, 3plP(<1sg, 1pl, 2sg, 2pl)'",overt,person+number,cook1987wagiman[165-166],HT;AWM,3pl,3pl_1pl;3pl_1sg;3pl_2pl;3pl_2sg;3pl_3pl;3pl_3sg,3pl_1pl;3pl_1sg;3pl_2pl;3pl_2sg,neutral
 wage1238-bunggu-3plp-3sg-3pl-indexing-marker,wage1238,indexing marker,"buŋgu- '3plP(<3sg, 3pl)",overt,person+number,cook1987wagiman[165-166],HT;AWM,NONE,NONE,3pl_3pl;3pl_3sg,accusative

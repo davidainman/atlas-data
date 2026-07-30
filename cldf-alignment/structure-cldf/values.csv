@@ -1259,13 +1259,13 @@ mund1330-tam-split,mund1330,tam-split,True,DI,"gomes2006munduruku[101,24,243,27,
 mund1330-split-s,mund1330,split-s,True,DI,"gomes2006munduruku[101,24,243,27,47-52,61-62,86]"
 mund1330-coargument-sensitivity flagging,mund1330,coargument-sensitivity flagging,no,DI,"gomes2006munduruku[101,24,243,27,47-52,61-62,86]"
 mund1330-coargument-sensitivity indexing,mund1330,coargument-sensitivity indexing,yes,DI,"gomes2006munduruku[101,24,243,27,47-52,61-62,86]"
-muni1258-flagging,muni1258,flagging,True,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-indexing,muni1258,indexing,True,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-indexing-features,muni1258,indexing-features,person;person+number,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-tam-split,muni1258,tam-split,False,DI,"gibson1996munichi[60-62];proyecto2009muniche[15-24,8-9]"
-muni1258-split-s,muni1258,split-s,False,DI,"gibson1996munichi[60-62];proyecto2009muniche[15-24,8-9]"
-muni1258-coargument-sensitivity flagging,muni1258,coargument-sensitivity flagging,no,DI,"gibson1996munichi[60-62];proyecto2009muniche[15-24,8-9]"
-muni1258-coargument-sensitivity indexing,muni1258,coargument-sensitivity indexing,no,DI,"gibson1996munichi[60-62];proyecto2009muniche[15-24,8-9]"
+muni1258-flagging,muni1258,flagging,False,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-indexing,muni1258,indexing,True,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-indexing-features,muni1258,indexing-features,person;person+number,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-tam-split,muni1258,tam-split,False,DI;NCP,"gibson1996munichi[60-62];michael2026pc;michaeletalNDmuniche;proyecto2009muniche[15-24,8-9]"
+muni1258-split-s,muni1258,split-s,False,DI;NCP,"gibson1996munichi[60-62];michael2026pc;michaeletalNDmuniche;proyecto2009muniche[15-24,8-9]"
+muni1258-coargument-sensitivity flagging,muni1258,coargument-sensitivity flagging,no,DI;NCP,"gibson1996munichi[60-62];michael2026pc;michaeletalNDmuniche;proyecto2009muniche[15-24,8-9]"
+muni1258-coargument-sensitivity indexing,muni1258,coargument-sensitivity indexing,no,DI;NCP,"gibson1996munichi[60-62];michael2026pc;michaeletalNDmuniche;proyecto2009muniche[15-24,8-9]"
 murl1244-flagging,murl1244,flagging,True,DI,"arensen1982murle[48-49,89-91]"
 murl1244-indexing,murl1244,indexing,True,DI,"arensen1982murle[48-49,89-91]"
 murl1244-indexing-features,murl1244,indexing-features,person+number,DI,"arensen1982murle[48-49,89-91]"
@@ -1987,13 +1987,13 @@ uppe1439-tam-split,uppe1439,tam-split,True,DI,"kinkade1963upperchehalis[116-129,
 uppe1439-split-s,uppe1439,split-s,False,DI,"kinkade1963upperchehalis[116-129,58,85-91]"
 uppe1439-coargument-sensitivity flagging,uppe1439,coargument-sensitivity flagging,no,DI,"kinkade1963upperchehalis[116-129,58,85-91]"
 uppe1439-coargument-sensitivity indexing,uppe1439,coargument-sensitivity indexing,yes,DI,"kinkade1963upperchehalis[116-129,58,85-91]"
-urar1246-flagging,urar1246,flagging,False,HT,olawsky2006urarina[213-214]
-urar1246-indexing,urar1246,indexing,True,HT,olawsky2006urarina[213-214]
-urar1246-indexing-features,urar1246,indexing-features,number;person+number,HT,olawsky2006urarina[213-214]
-urar1246-tam-split,urar1246,tam-split,False,HT,"olawsky2006urarina[213-214,360-362,431-444]"
-urar1246-split-s,urar1246,split-s,False,HT,"olawsky2006urarina[213-214,360-362,431-444]"
-urar1246-coargument-sensitivity flagging,urar1246,coargument-sensitivity flagging,no,HT,"olawsky2006urarina[213-214,360-362,431-444]"
-urar1246-coargument-sensitivity indexing,urar1246,coargument-sensitivity indexing,no,HT,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-flagging,urar1246,flagging,True,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-indexing,urar1246,indexing,True,HT,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-indexing-features,urar1246,indexing-features,person+number,HT,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-tam-split,urar1246,tam-split,False,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-split-s,urar1246,split-s,False,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-coargument-sensitivity flagging,urar1246,coargument-sensitivity flagging,no,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-coargument-sensitivity indexing,urar1246,coargument-sensitivity indexing,no,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
 urni1239-flagging,urni1239,flagging,False,AN,"campbell2006urningangk[36-37,45]"
 urni1239-indexing,urni1239,indexing,True,auto,"campbell2006urningangk[36-37,45]"
 urni1239-indexing-features,urni1239,indexing-features,?,auto,"campbell2006urningangk[36-37,45]"
@@ -2568,8 +2568,8 @@ mull1237-dom,mull1237,dom,No,HT,"cahir2006verb[25,27]"
 mull1237-dom-trigger,mull1237,dom-trigger,NA,HT,"cahir2006verb[25,27]"
 mund1330-dom,mund1330,dom,No,DI,"gomes2006munduruku[24,243,86]"
 mund1330-dom-trigger,mund1330,dom-trigger,NA,DI,"gomes2006munduruku[24,243,86]"
-muni1258-dom,muni1258,dom,No,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-dom-trigger,muni1258,dom-trigger,NA,DI,"proyecto2009muniche[15,20,8-9]"
+muni1258-dom,muni1258,dom,No,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-dom-trigger,muni1258,dom-trigger,NA,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
 murl1244-dom,murl1244,dom,No,DI,"arensen1982murle[48-49,89-91]"
 murl1244-dom-trigger,murl1244,dom-trigger,NA,DI,"arensen1982murle[48-49,89-91]"
 murr1258-dom,murr1258,dom,No,AN,mansfield2019murrinhpatha[181-183]
@@ -2736,8 +2736,8 @@ tute1247-dom,tute1247,dom,No,HT,"oliverio1996tutelo[148-150,170-171]"
 tute1247-dom-trigger,tute1247,dom-trigger,NA,HT,"oliverio1996tutelo[148-150,170-171]"
 uppe1439-dom,uppe1439,dom,No,DI,"kinkade1963upperchehalis[116-129,58]"
 uppe1439-dom-trigger,uppe1439,dom-trigger,NA,DI,"kinkade1963upperchehalis[116-129,58]"
-urar1246-dom,urar1246,dom,No,HT,olawsky2006urarina[213-214]
-urar1246-dom-trigger,urar1246,dom-trigger,NA,HT,olawsky2006urarina[213-214]
+urar1246-dom,urar1246,dom,No,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-dom-trigger,urar1246,dom-trigger,NA,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
 urni1239-dom,urni1239,dom,No,AN,"campbell2006urningangk[36-37,45]"
 urni1239-dom-trigger,urni1239,dom-trigger,NA,AN,"campbell2006urningangk[36-37,45]"
 wage1238-dom,wage1238,dom,No,HT,"cook1987wagiman[125-126,129-130,94-95]"
@@ -5804,22 +5804,22 @@ mund1330-ref-sensitive,mund1330,ref-sensitive,True,DI,"gomes2006munduruku[24,243
 mund1330-ref-sensitive-domain,mund1330,ref-sensitive-domain,Verb,DI,"gomes2006munduruku[24,243,86]"
 mund1330-S!=A flagging,mund1330,S!=A flagging,False,DI,"gomes2006munduruku[24,243,86]"
 mund1330-S!=A indexing,mund1330,S!=A indexing,True,DI,"gomes2006munduruku[24,243,86]"
-muni1258-align-noun,muni1258,align-noun,no marking,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-align-pro,muni1258,align-pro,accusative,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-align-index,muni1258,align-index,accusative,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-align-noun-nl,muni1258,align-noun-nl,no marking,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-align-pro-nl,muni1258,align-pro-nl,accusative,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-align-index-nl,muni1258,align-index-nl,accusative,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-ref-ergative,muni1258,ref-ergative,False,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-ref-ergative-domain,muni1258,ref-ergative-domain,NA,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-ref-tripartite,muni1258,ref-tripartite,False,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-ref-tripartite-domain,muni1258,ref-tripartite-domain,NA,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-ref-horizontal,muni1258,ref-horizontal,False,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-ref-horizontal-domain,muni1258,ref-horizontal-domain,NA,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-ref-sensitive,muni1258,ref-sensitive,False,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-ref-sensitive-domain,muni1258,ref-sensitive-domain,NA,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-S!=A flagging,muni1258,S!=A flagging,False,DI,"proyecto2009muniche[15,20,8-9]"
-muni1258-S!=A indexing,muni1258,S!=A indexing,False,DI,"proyecto2009muniche[15,20,8-9]"
+muni1258-align-noun,muni1258,align-noun,no marking,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-align-pro,muni1258,align-pro,no marking,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-align-index,muni1258,align-index,overt neutral,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-align-noun-nl,muni1258,align-noun-nl,no marking,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-align-pro-nl,muni1258,align-pro-nl,no marking,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-align-index-nl,muni1258,align-index-nl,overt neutral,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-ref-ergative,muni1258,ref-ergative,False,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-ref-ergative-domain,muni1258,ref-ergative-domain,NA,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-ref-tripartite,muni1258,ref-tripartite,False,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-ref-tripartite-domain,muni1258,ref-tripartite-domain,NA,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-ref-horizontal,muni1258,ref-horizontal,False,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-ref-horizontal-domain,muni1258,ref-horizontal-domain,NA,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-ref-sensitive,muni1258,ref-sensitive,False,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-ref-sensitive-domain,muni1258,ref-sensitive-domain,NA,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-S!=A flagging,muni1258,S!=A flagging,False,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
+muni1258-S!=A indexing,muni1258,S!=A indexing,False,DI,michaeletalNDmuniche;proyecto2009muniche[8-9]
 murl1244-align-noun,murl1244,align-noun,accusative,DI,"arensen1982murle[48-49,89-91]"
 murl1244-align-pro,murl1244,align-pro,accusative,DI,"arensen1982murle[48-49,89-91]"
 murl1244-align-index,murl1244,align-index,accusative,DI,"arensen1982murle[48-49,89-91]"
@@ -7468,22 +7468,22 @@ uppe1439-ref-sensitive,uppe1439,ref-sensitive,False,DI,"kinkade1963upperchehalis
 uppe1439-ref-sensitive-domain,uppe1439,ref-sensitive-domain,NA,DI,"kinkade1963upperchehalis[116-129,58]"
 uppe1439-S!=A flagging,uppe1439,S!=A flagging,False,DI,"kinkade1963upperchehalis[116-129,58]"
 uppe1439-S!=A indexing,uppe1439,S!=A indexing,False,DI,"kinkade1963upperchehalis[116-129,58]"
-urar1246-align-noun,urar1246,align-noun,no marking,HT,olawsky2006urarina[213-214]
-urar1246-align-pro,urar1246,align-pro,no marking,HT,olawsky2006urarina[213-214]
-urar1246-align-index,urar1246,align-index,accusative,HT,olawsky2006urarina[213-214]
-urar1246-align-noun-nl,urar1246,align-noun-nl,no marking,HT,olawsky2006urarina[213-214]
-urar1246-align-pro-nl,urar1246,align-pro-nl,no marking,HT,olawsky2006urarina[213-214]
-urar1246-align-index-nl,urar1246,align-index-nl,accusative,HT,olawsky2006urarina[213-214]
-urar1246-ref-ergative,urar1246,ref-ergative,False,HT,olawsky2006urarina[213-214]
-urar1246-ref-ergative-domain,urar1246,ref-ergative-domain,NA,HT,olawsky2006urarina[213-214]
-urar1246-ref-tripartite,urar1246,ref-tripartite,False,HT,olawsky2006urarina[213-214]
-urar1246-ref-tripartite-domain,urar1246,ref-tripartite-domain,NA,HT,olawsky2006urarina[213-214]
-urar1246-ref-horizontal,urar1246,ref-horizontal,False,HT,olawsky2006urarina[213-214]
-urar1246-ref-horizontal-domain,urar1246,ref-horizontal-domain,NA,HT,olawsky2006urarina[213-214]
-urar1246-ref-sensitive,urar1246,ref-sensitive,False,HT,olawsky2006urarina[213-214]
-urar1246-ref-sensitive-domain,urar1246,ref-sensitive-domain,NA,HT,olawsky2006urarina[213-214]
-urar1246-S!=A flagging,urar1246,S!=A flagging,False,HT,olawsky2006urarina[213-214]
-urar1246-S!=A indexing,urar1246,S!=A indexing,False,HT,olawsky2006urarina[213-214]
+urar1246-align-noun,urar1246,align-noun,no marking,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-align-pro,urar1246,align-pro,overt neutral,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-align-index,urar1246,align-index,accusative,HT,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-align-noun-nl,urar1246,align-noun-nl,no marking,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-align-pro-nl,urar1246,align-pro-nl,overt neutral,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-align-index-nl,urar1246,align-index-nl,accusative,HT,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-ergative,urar1246,ref-ergative,False,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-ergative-domain,urar1246,ref-ergative-domain,NA,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-tripartite,urar1246,ref-tripartite,False,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-tripartite-domain,urar1246,ref-tripartite-domain,NA,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-horizontal,urar1246,ref-horizontal,False,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-horizontal-domain,urar1246,ref-horizontal-domain,NA,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-sensitive,urar1246,ref-sensitive,False,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-ref-sensitive-domain,urar1246,ref-sensitive-domain,NA,DI;HT;NCP,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-S!=A flagging,urar1246,S!=A flagging,False,HT,"olawsky2006urarina[213-214,360-362,431-444]"
+urar1246-S!=A indexing,urar1246,S!=A indexing,False,HT,"olawsky2006urarina[213-214,360-362,431-444]"
 urni1239-align-noun,urni1239,align-noun,no marking,AN,"campbell2006urningangk[36-37,45]"
 urni1239-align-pro,urni1239,align-pro,no marking,AN,"campbell2006urningangk[36-37,45]"
 urni1239-align-index,urni1239,align-index,NA,auto,"campbell2006urningangk[36-37,45]"
