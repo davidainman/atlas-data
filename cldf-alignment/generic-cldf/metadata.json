@@ -302,10 +302,15 @@
                     },
                     {
                         "datatype": "string",
-                        "required": true,
                         "separator": ";",
                         "required": true,
                         "name": "Coder"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Comment"
                     }
                 ],
                  "foreignKeys": [
