@@ -302,44 +302,44 @@ agua1253-97,agua1253,agua1253-slot-f-u-mi-2sgs-a-ncas-indexing-marker,2,simple,A
 agua1253-98,agua1253,agua1253-slot-f-u-mi-2sgs-a-ncas-indexing-marker,2,simple,A,2sg,P,3pl,any,none,any,default,,overall2017aguaruna[233-272],,MV; DI; AWM
 agua1253-99,agua1253,agua1253-slot-f-u-mi-2sgs-a-ncas-indexing-marker,2,simple,A,2sg,P,3sg,any,none,any,default,,overall2017aguaruna[233-272],,MV; DI; AWM
 ainu1240-1,ainu1240,ainu1240-no-flagging,,simple,A,any,P,any,any,none,any,default,,tamura2000ainu[25-92],,AWM
-ainu1240-10,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-2,simple,A,2pl,P,1sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
-ainu1240-11,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-2,simple,A,2pl,P,1pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
-ainu1240-12,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2pl,A,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
-ainu1240-12b,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2pl,A,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
-ainu1240-13,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2pl,A,1sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
-ainu1240-14,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2pl,A,1pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
-ainu1240-15,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2sg,A,1pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
-ainu1240-16,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2sg,A,1sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
-ainu1240-17,ainu1240,ainu1240-en-1sp-indexing-indexing-marker,-1,simple,P,1sg,A,2sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-18,ainu1240,ainu1240-en-1sp-indexing-indexing-marker,-1,simple,P,1sg,A,2pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-19,ainu1240,ainu1240-en-1sp-indexing-indexing-marker,-1,simple,P,1sg,A,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-19b,ainu1240,ainu1240-e-1sgp-indexing-indexing-marker,-1,simple,P,1sg,A,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
+ainu1240-13,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-2,simple,A,2pl,P,1sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-14,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-2,simple,A,2pl,P,1pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-15,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2pl,A,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-16,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2pl,A,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
+ainu1240-17,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2pl,A,1sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-18,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2pl,A,1pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-19,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2sg,A,1pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-20,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1,simple,P,2sg,A,1sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-21,ainu1240,ainu1240-en-1sp-indexing-indexing-marker,-1,simple,P,1sg,A,2sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-22,ainu1240,ainu1240-en-1sp-indexing-indexing-marker,-1,simple,P,1sg,A,2pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-23,ainu1240,ainu1240-en-1sp-indexing-indexing-marker,-1,simple,P,1sg,A,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-24,ainu1240,ainu1240-e-1sgp-indexing-indexing-marker,-1,simple,P,1sg,A,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
 ainu1240-2,ainu1240,ainu1240-no-flagging,,simple,P,any,A,any,any,none,any,default,,tamura2000ainu[25-92],,AWM
-ainu1240-20,ainu1240,ainu1240-indexing-as-1ps-indexing-marker,1,NA,S,1pl,NA,NA,any,NA,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-21,ainu1240,ainu1240-ku-1s-indexing-indexing-marker,-1&-2,NA,S,1sg,NA,NA,any,NA,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-22,ainu1240,ainu1240-ku-1s-indexing-indexing-marker,-2,simple,A,1sg,P,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-22,ainu1240,ainu1240-ku-1s-indexing-indexing-marker,-2,simple,A,1sg,P,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
-ainu1240-23,ainu1240,ainu1240-null-marker,NA,simple,S,3,NA,NA,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-24,ainu1240,ainu1240-null-marker,NA,simple,A,3,P,any,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-25,ainu1240,ainu1240-null-marker,NA,simple,P,3,A,any,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-26,ainu1240,ainu1240-un-1plp-indexing-indexing-marker,-1,simple,P,1pl,A,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-26b,ainu1240,ainu1240-un-1plp-indexing-indexing-marker,-1,simple,P,1pl,A,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
-ainu1240-27,ainu1240,ainu1240-un-1plp-indexing-indexing-marker,-1,simple,P,1pl,A,2sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-28,ainu1240,ainu1240-un-1plp-indexing-indexing-marker,-1,simple,P,1pl,A,2pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-29,ainu1240,ainu1240-a-1pla-indexing-indexing-marker,-2,simple,A,1pl,P,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
+ainu1240-25,ainu1240,ainu1240-indexing-as-1ps-indexing-marker,1,NA,S,1pl,NA,NA,any,NA,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-26,ainu1240,ainu1240-ku-1s-indexing-indexing-marker,-1&-2,NA,S,1sg,NA,NA,any,NA,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-27,ainu1240,ainu1240-ku-1s-indexing-indexing-marker,-2,simple,A,1sg,P,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-28,ainu1240,ainu1240-ku-1s-indexing-indexing-marker,-2,simple,A,1sg,P,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
+ainu1240-29,ainu1240,ainu1240-null-marker,NA,simple,S,3,NA,NA,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-30,ainu1240,ainu1240-null-marker,NA,simple,A,3,P,any,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-31,ainu1240,ainu1240-null-marker,NA,simple,P,3,A,any,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-32,ainu1240,ainu1240-un-1plp-indexing-indexing-marker,-1,simple,P,1pl,A,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-33,ainu1240,ainu1240-un-1plp-indexing-indexing-marker,-1,simple,P,1pl,A,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
+ainu1240-34,ainu1240,ainu1240-un-1plp-indexing-indexing-marker,-1,simple,P,1pl,A,2sg,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-35,ainu1240,ainu1240-un-1plp-indexing-indexing-marker,-1,simple,P,1pl,A,2pl,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-36,ainu1240,ainu1240-a-1pla-indexing-indexing-marker,-2,simple,A,1pl,P,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
 ainu1240-3,ainu1240,ainu1240-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,tamura2000ainu[25-92],,AWM
-ainu1240-30,ainu1240,ainu1240-an-3indefs-indexing-indexing-marker,1,simple,S,3.indef,NA,NA,any,none,any,default,,bugaeva2012southern[472-473],,DI
-ainu1240-31,ainu1240,ainu1240-a-3indefa-indexing-indexing-marker,-2,simple,A,3.indef,P,any,any,none,any,default,,bugaeva2012southern[472-473],,DI
-ainu1240-32,ainu1240,ainu1240-i-3indefp-indexing-indexing-marker,-1,simple,P,3.indef,A,any,any,none,any,default,,bugaeva2012southern[472-473],,DI
+ainu1240-37,ainu1240,ainu1240-an-3indefs-indexing-indexing-marker,1,simple,S,3.indef,NA,NA,any,none,any,default,,bugaeva2012southern[472-473],,DI
+ainu1240-38,ainu1240,ainu1240-a-3indefa-indexing-indexing-marker,-2,simple,A,3.indef,P,any,any,none,any,default,,bugaeva2012southern[472-473],,DI
+ainu1240-39,ainu1240,ainu1240-i-3indefp-indexing-indexing-marker,-1,simple,P,3.indef,A,any,any,none,any,default,,bugaeva2012southern[472-473],,DI
 ainu1240-4,ainu1240,ainu1240-ci-1pa-indexing-indexing-marker,-2,simple,A,1pl,P,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM
 ainu1240-5,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-1&-2,NA,S,2sg,NA,NA,any,NA,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
 ainu1240-6,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-2,simple,A,2sg,P,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
-ainu1240-6b,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-2,simple,A,2sg,P,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
-ainu1240-7,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-1,simple,P,2sg,A,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
-ainu1240-7b,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-1,simple,P,2sg,A,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
-ainu1240-8,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1&-2,NA,S,2pl,NA,NA,any,NA,any,default,,bugaeva2012southern[472-473],,AN; AWM
-ainu1240-9,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-2,simple,A,2pl,P,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
-ainu1240-9,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-2,simple,A,2pl,P,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
+ainu1240-7,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-2,simple,A,2sg,P,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-8,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-1,simple,P,2sg,A,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-9,ainu1240,ainu1240-e-2s-indexing-indexing-marker,-1,simple,P,2sg,A,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
+ainu1240-10,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-1&-2,NA,S,2pl,NA,NA,any,NA,any,default,,bugaeva2012southern[472-473],,AN; AWM
+ainu1240-11,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-2,simple,A,2pl,P,3,any,none,any,default,,bugaeva2012southern[472-473],,AN; AWM; DI
+ainu1240-12,ainu1240,ainu1240-eci-2p-2sp-indexing-indexing-marker,-2,simple,A,2pl,P,3.indef,any,none,any,default,,bugaeva2012southern[472-473],,DI
 akab1249-1,akab1249,akab1249-no-flagging,,simple,A,any,P,any,any,none,any,default,,zamponi2020akabea[166-170],,AWM
 akab1249-2,akab1249,akab1249-no-flagging,,simple,P,Noun,A,any,any,none,any,default,,zamponi2020akabea[166-170],Pronominal forms are different for various TAM but the alignment is the same (accusative).,AWM
 akab1249-3,akab1249,akab1249-acc-case-flagging,,simple,P,Pro,A,any,any,none,any,default,,zamponi2020akabea[166-170],Pronominal forms are different for various TAM but the alignment is the same (accusative).,AWM
@@ -3625,176 +3625,87 @@ hueh1236-7,hueh1236,hueh1236-n-1nonsgp-2p-indexing-marker,1,simple,P,1pl.incl,A,
 hueh1236-8,hueh1236,hueh1236-n-1nonsgp-2p-indexing-marker,1,simple,P,2sg,A,1sg,any,none,any,default,,kung2007tepehua[174-214],,HT; DI
 hueh1236-9,hueh1236,hueh1236-n-1nonsgp-2p-indexing-marker,1,simple,P,2sg,A,3sg,any,none,any,default,,kung2007tepehua[174-214],,HT; DI
 hupa1239-1,hupa1239,hupa1239-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,goddard1905hupa[25-28],,AN
-hupa1239-10,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3pl-hum,P,3pl-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-100,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3pl-spec,P,3sg-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-101,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3pl-spec,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-102,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3sg-spec,P,1pl,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-103,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3sg-spec,P,1sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-104,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3sg-spec,P,2pl,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-105,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3sg-spec,P,2sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-106,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3sg-spec,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-107,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3sg-spec,P,3pl-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-108,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3sg-spec,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-109,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3sg-spec,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-11,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3pl-hum,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-110,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3sg-spec,P,3sg-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-111,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3sg-spec,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-112,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,NA,S,3pl-spec,NA,NA,any,NA,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-113,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3pl-spec,P,1pl,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-114,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3pl-spec,P,1sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-115,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3pl-spec,P,2pl,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-116,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3pl-spec,P,2sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-117,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3pl-spec,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-118,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3pl-spec,P,3pl-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-119,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3pl-spec,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-12,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3pl-hum,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-120,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3pl-spec,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-121,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3pl-spec,P,3sg-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-122,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3pl-spec,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-123,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,NA,S,3sg-spec,NA,NA,any,NA,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-124,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3sg-spec,P,1pl,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-125,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3sg-spec,P,1sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-126,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3sg-spec,P,2pl,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-127,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3sg-spec,P,2sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-128,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3sg-spec,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-129,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3sg-spec,P,3pl-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-13,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3pl-hum,P,3sg-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-130,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3sg-spec,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-131,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3sg-spec,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-132,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3sg-spec,P,3sg-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-133,hupa1239,hupa1239-kyi-3-specific-s-a-indexing-marker,-8,simple,A,3sg-spec,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-134,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3pl-hum,P,1pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-135,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3pl-hum,P,1sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-136,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3pl-hum,P,2pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-137,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3pl-hum,P,2sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-138,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3pl-hum,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-139,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3pl-hum,P,3pl-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-14,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3pl-hum,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-140,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3pl-hum,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-141,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3pl-hum,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-142,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3pl-hum,P,3sg-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-143,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3pl-hum,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-144,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3sg-hum,P,1pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-145,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3sg-hum,P,1sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-146,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3sg-hum,P,2pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-147,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3sg-hum,P,2sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-148,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3sg-hum,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-149,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3sg-hum,P,3pl-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-15,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,NA,S,3sg-hum,NA,NA,any,NA,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-150,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3sg-hum,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-151,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3sg-hum,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-152,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3sg-hum,P,3sg-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-153,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,A,3sg-hum,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-154,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,NA,S,3pl-generic,NA,NA,any,NA,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-155,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3pl-generic,P,1sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-156,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3pl-generic,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-157,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3pl-generic,P,1pl,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-158,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3pl-generic,P,3pl-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-159,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3pl-generic,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-16,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3sg-hum,P,1pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-160,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3pl-generic,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-161,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3pl-generic,P,3sg-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-162,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3pl-generic,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-163,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,NA,S,3sg-generic,NA,NA,any,NA,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-164,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3sg-generic,P,1pl,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-165,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3sg-generic,P,1sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-166,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3sg-generic,P,3pl-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-167,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3sg-generic,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-168,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3sg-generic,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-169,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3sg-generic,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-17,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3sg-hum,P,1sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-170,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3sg-generic,P,3sg-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-171,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3sg-generic,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-18,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3sg-hum,P,2pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-19,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3sg-hum,P,2sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
 hupa1239-2,hupa1239,hupa1239-no-flagging,,simple,A,any,P,any,any,none,any,default,,goddard1905hupa[25-28],,AN
-hupa1239-20,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3sg-hum,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-21,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3sg-hum,P,3pl-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-22,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3sg-hum,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-23,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3sg-hum,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-24,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3sg-hum,P,3sg-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-25,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3sg-hum,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-26,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,NA,S,1pl,NA,NA,any,NA,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-27,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,simple,A,1pl,P,2pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-28,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,simple,A,1pl,P,2sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-29,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,simple,A,1pl,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
 hupa1239-3,hupa1239,hupa1239-no-flagging,,simple,P,any,A,any,any,none,any,default,,goddard1905hupa[25-28],,AN
-hupa1239-30,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,simple,A,1pl,P,3pl-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-31,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,simple,A,1pl,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-32,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,simple,A,1pl,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-33,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,simple,A,1pl,P,3sg-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-34,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,simple,A,1pl,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-35,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,NA,S,2sg,NA,NA,any,NA,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-36,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,simple,A,2sg,P,1pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-37,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,simple,A,2sg,P,1sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-38,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,simple,A,2sg,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-39,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,simple,A,2sg,P,3pl-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-4,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,NA,S,3pl-hum,NA,NA,any,NA,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-40,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,simple,A,2sg,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-41,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,simple,A,2sg,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-42,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,simple,A,2sg,P,3sg-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-43,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,simple,A,2sg,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-44,hupa1239,hupa1239-indexing-ni-2sgp-indexing-marker,-9,simple,P,2sg,A,3pl-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-45,hupa1239,hupa1239-indexing-ni-2sgp-indexing-marker,-9,simple,P,2sg,A,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-46,hupa1239,hupa1239-indexing-ni-2sgp-indexing-marker,-9,simple,P,2sg,A,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-47,hupa1239,hupa1239-indexing-ni-2sgp-indexing-marker,-9,simple,P,2sg,A,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-48,hupa1239,hupa1239-indexing-ni-2sgp-indexing-marker,-9,simple,P,2sg,A,3sg-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-49,hupa1239,hupa1239-indexing-ni-2sgp-indexing-marker,-9,simple,P,2sg,A,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-5,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3pl-hum,P,1pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-50,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,1pl,P,2pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-51,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,1pl,P,2sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-52,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,1pl,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-53,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,1pl,P,3pl-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-54,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,1pl,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-55,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,1pl,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-56,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,1pl,P,3sg-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-57,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,1pl,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-58,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,2pl,P,1pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-59,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,2pl,P,1sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-6,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3pl-hum,P,1sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-60,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,2pl,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-61,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,2pl,P,3pl-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-62,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,2pl,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-63,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,2pl,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-64,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,2pl,P,3sg-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-65,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,A,2pl,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-66,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,NA,S,2pl,NA,NA,any,NA,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-67,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,simple,A,2pl,P,1pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-68,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,simple,A,2pl,P,1sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-69,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,simple,A,2pl,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-7,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3pl-hum,P,2pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-70,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,simple,A,2pl,P,3pl-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-71,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,simple,A,2pl,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-72,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,simple,A,2pl,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-73,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,simple,A,2pl,P,3sg-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-74,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,simple,A,2pl,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-75,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,NA,S,1sg,NA,NA,any,NA,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-76,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,simple,A,1sg,P,2pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-77,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,simple,A,1sg,P,2sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-78,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,simple,A,1sg,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-79,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,simple,A,1sg,P,3pl-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-8,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3pl-hum,P,2sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-80,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,simple,A,1sg,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-81,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,simple,A,1sg,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-82,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,simple,A,1sg,P,3sg-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-83,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,simple,A,1sg,P,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-84,hupa1239,hupa1239-indexing-wi-1sp-indexing-marker,-7,simple,P,1sg,A,2pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-85,hupa1239,hupa1239-indexing-wi-1sp-indexing-marker,-7,simple,P,1sg,A,2sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-86,hupa1239,hupa1239-indexing-wi-1sp-indexing-marker,-7,simple,P,1sg,A,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-87,hupa1239,hupa1239-indexing-wi-1sp-indexing-marker,-7,simple,P,1sg,A,3pl-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-88,hupa1239,hupa1239-indexing-wi-1sp-indexing-marker,-7,simple,P,1sg,A,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-89,hupa1239,hupa1239-indexing-wi-1sp-indexing-marker,-7,simple,P,1sg,A,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-9,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3pl-hum,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-90,hupa1239,hupa1239-indexing-wi-1sp-indexing-marker,-7,simple,P,1sg,A,3sg-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-91,hupa1239,hupa1239-indexing-wi-1sp-indexing-marker,-7,simple,P,1sg,A,3sg-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-92,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3pl-spec,P,1pl,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-93,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3pl-spec,P,1sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-94,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3pl-spec,P,2pl,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-95,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3pl-spec,P,2sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-96,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3pl-spec,P,3pl-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-97,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3pl-spec,P,3pl-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-98,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3pl-spec,P,3pl-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
-hupa1239-99,hupa1239,hupa1239-kyi-3-specific-p-indexing-marker,-7,simple,A,3pl-spec,P,3sg-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-4,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,NA,S,1sg,NA,NA,any,NA,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-5,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,simple,A,1sg,P,2pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-6,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,simple,A,1sg,P,2sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-7,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,simple,A,1sg,P,3-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-8,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,simple,A,1sg,P,3-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-9,hupa1239,hupa1239-indexing-w-1sgs-a-indexing-marker,-2,simple,A,1sg,P,3-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-10,hupa1239,hupa1239-indexing-wi-1sp-indexing-marker,-7,simple,P,1sg,A,2pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-11,hupa1239,hupa1239-indexing-wi-1sp-indexing-marker,-7,simple,P,1sg,A,2sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-12,hupa1239,hupa1239-indexing-wi-1sp-indexing-marker,-7,simple,P,1sg,A,3-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-13,hupa1239,hupa1239-indexing-wi-1sp-indexing-marker,-7,simple,P,1sg,A,3-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-14,hupa1239,hupa1239-indexing-wi-1sp-indexing-marker,-7,simple,P,1sg,A,3-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-15,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,NA,S,1pl,NA,NA,any,NA,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-16,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,simple,A,1pl,P,2pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-17,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,simple,A,1pl,P,2sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-18,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,simple,A,1pl,P,3-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-19,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,simple,A,1pl,P,3-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-20,hupa1239,hupa1239-indexing-di-y-1pls-a-indexing-marker,-2,simple,A,1pl,P,3-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-21,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,P,1pl,A,2pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-22,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,P,1pl,A,2sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-23,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,P,1pl,A,3-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-24,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,P,1pl,A,3-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-25,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,P,1pl,A,3-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-26,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,NA,S,2sg,NA,NA,any,NA,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-27,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,simple,A,2sg,P,1pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-28,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,simple,A,2sg,P,1sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-29,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,simple,A,2sg,P,3-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-30,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,simple,A,2sg,P,3-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-31,hupa1239,hupa1239-indexing-n-y-2sgs-a-indexing-marker,-2,simple,A,2sg,P,3-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-32,hupa1239,hupa1239-indexing-ni-2sgp-indexing-marker,-9,simple,P,2sg,A,1pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-33,hupa1239,hupa1239-indexing-ni-2sgp-indexing-marker,-9,simple,P,2sg,A,1sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-34,hupa1239,hupa1239-indexing-ni-2sgp-indexing-marker,-9,simple,P,2sg,A,3-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-35,hupa1239,hupa1239-indexing-ni-2sgp-indexing-marker,-9,simple,P,2sg,A,3-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-36,hupa1239,hupa1239-indexing-ni-2sgp-indexing-marker,-9,simple,P,2sg,A,3-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-37,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,NA,S,2pl,NA,NA,any,NA,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-38,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,simple,A,2pl,P,1pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-39,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,simple,A,2pl,P,1sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-40,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,simple,A,2pl,P,3-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-41,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,simple,A,2pl,P,3-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-42,hupa1239,hupa1239-indexing-oh-2pls-a-indexing-marker,-2,simple,A,2pl,P,3-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-43,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,P,2pl,A,1pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-44,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,P,2pl,A,1sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-45,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,P,2pl,A,3-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-46,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,P,2pl,A,3-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-47,hupa1239,hupa1239-indexing-noh-1-2pp-indexing-marker,-9,simple,P,2pl,A,3-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-48,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,NA,S,3-hum,NA,NA,any,NA,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-49,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3-hum,P,1pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-50,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3-hum,P,1sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-51,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3-hum,P,2pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-52,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3-hum,P,2sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-53,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3-hum,P,3-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-54,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3-hum,P,3-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-55,hupa1239,hupa1239-ci-3-human-s-a-indexing-marker,-8,simple,A,3-hum,P,3-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-56,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,P,3-hum,A,1pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-57,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,P,3-hum,A,1sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-58,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,P,3-hum,A,2pl,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-59,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,P,3-hum,A,2sg,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-60,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,P,3-hum,A,3-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-61,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,P,3-hum,A,3-hum,any,none,any,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-62,hupa1239,hupa1239-xwi-3-human-p-indexing-marker,-7,simple,P,3-hum,A,3-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-63,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-8,NA,S,3-spec,NA,NA,any,NA,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-64,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-8,simple,A,3-spec,P,1pl,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-65,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-8,simple,A,3-spec,P,1sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-66,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-8,simple,A,3-spec,P,2pl,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-67,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-8,simple,A,3-spec,P,2sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-68,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-8,simple,A,3-spec,P,3-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-69,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-8,simple,A,3-spec,P,3-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-70,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-8,simple,A,3-spec,P,3-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-71,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-7,simple,P,3-spec,A,1pl,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-72,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-7,simple,P,3-spec,A,1sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-73,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-7,simple,P,3-spec,A,2pl,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-74,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-7,simple,P,3-spec,A,2sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-75,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-7,simple,P,3-spec,A,3-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-76,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-7,simple,P,3-spec,A,3-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-77,hupa1239,hupa1239-kyi-3-specific-indexing-marker,-7,simple,P,3-spec,A,3-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-78,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,NA,S,3-generic,NA,NA,any,NA,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-79,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3-generic,P,1sg,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-80,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3-generic,P,3-generic,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-81,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3-generic,P,3-hum,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
+hupa1239-82,hupa1239,hupa1239-yi-3-generic-s-a-indexing-marker,-8,simple,A,3-generic,P,3-spec,any,none,non-exemplar,default,,golla1970hupa[97-113],,AN;AWM
 hupd1244-1,hupd1244,hupd1244-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"epps2008hup[159,166,170-172,176]",,HT
 hupd1244-2,hupd1244,hupd1244-acc-marking-flagging,,simple,P,Pro,A,any,any,none,any,default,,"epps2008hup[159,166,170-172,176]",,HT
 hupd1244-3,hupd1244,hupd1244-no-flagging,,simple,A,any,P,any,any,none,any,default,,"epps2008hup[159,166,170-172,176]",,HT
@@ -5673,31 +5584,89 @@ klam1254-6,klam1254,klam1254-no-flagging,,simple,P,Noun-low,A,any,any,none,any,d
 klam1254-7,klam1254,klam1254-no-flagging,,NA,S,Pro,NA,NA,any,NA,any,default,,"barker1964klamath[233-235,237-243,262,320,352]",,HT
 klam1254-8,klam1254,klam1254-no-flagging,,simple,A,Pro,P,any,any,none,any,default,,"barker1964klamath[233-235,237-243,262,320,352]",,HT
 klam1254-9,klam1254,klam1254-acc-marking-flagging,,simple,P,Pro,A,any,any,none,any,default,,"barker1964klamath[233-235,237-243,262,320,352]",,HT
-koas1236-1,koas1236,koas1236-marked-nom-flagging,,NA,S,any,NA,NA,any,NA,any,default,any,kimball1991koasati[389-394],in AUTOTYP,AWM
-koas1236-10,koas1236,koas1236-p-prefix-indexing-marker,-4,simple,P,1pl,A,any,any,none,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-11,koas1236,koas1236-p-prefix-indexing-marker,-4,simple,S,1pl,NA,NA,any,NA,non-exemplar,stative,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-12,koas1236,koas1236-p-prefix-indexing-marker,-4,simple,P,1sg,A,any,any,none,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-13,koas1236,koas1236-p-prefix-indexing-marker,-4,simple,S,1sg,NA,NA,any,NA,non-exemplar,stative,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-14,koas1236,koas1236-p-prefix-indexing-marker,-4,simple,P,2pl,A,any,any,none,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-15,koas1236,koas1236-p-prefix-indexing-marker,-4,simple,S,2pl,NA,NA,any,NA,non-exemplar,stative,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-16,koas1236,koas1236-p-prefix-indexing-marker,-4,simple,P,2sg,A,any,any,none,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-17,koas1236,koas1236-p-prefix-indexing-marker,-4,simple,S,2sg,NA,NA,any,NA,non-exemplar,stative,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-18,koas1236,koas1236-s-a-prefixes-primarily-indexing-marker,-1,simple,A,1pl,P,any,any,none,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-19,koas1236,koas1236-s-a-prefixes-primarily-indexing-marker,-1,simple,S,1pl,NA,NA,any,NA,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-2,koas1236,koas1236-marked-nom-flagging,,simple,A,any,P,any,any,none,any,default,any,kimball1991koasati[389-394],in AUTOTYP,AWM
-koas1236-20,koas1236,koas1236-s-a-prefixes-primarily-indexing-marker,-1,simple,A,1sg,P,any,any,none,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-21,koas1236,koas1236-s-a-prefixes-primarily-indexing-marker,-1,simple,S,1sg,NA,NA,any,NA,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-22,koas1236,koas1236-s-a-prefixes-primarily-indexing-marker,-1,simple,A,2pl,P,any,any,none,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-23,koas1236,koas1236-s-a-prefixes-primarily-indexing-marker,-1,simple,S,2pl,NA,NA,any,NA,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-24,koas1236,koas1236-s-a-prefixes-primarily-indexing-marker,-1,simple,A,2sg,P,any,any,none,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-25,koas1236,koas1236-s-a-prefixes-primarily-indexing-marker,-1,simple,S,2sg,NA,NA,any,NA,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-3,koas1236,koas1236-acc-flagging,,simple,P,any,A,any,any,none,any,default,default,kimball1991koasati[389-394],in AUTOTYP,AWM
-koas1236-4,koas1236,koas1236-no-flagging,,simple,P,any,A,any,any,none,any,default,PV order,kimball1991koasati[389-394],in AUTOTYP,AWM
-koas1236-5,koas1236,koas1236-null-marker,NA,simple,A,3pl,P,any,any,none,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-6,koas1236,koas1236-null-marker,NA,NA,S,3pl,NA,NA,any,NA,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-7,koas1236,koas1236-null-marker,NA,NA,S,3pl,NA,NA,any,NA,non-exemplar,stative,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-8,koas1236,koas1236-null-marker,NA,simple,A,3sg,P,any,any,none,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
-koas1236-9,koas1236,koas1236-null-marker,NA,NA,S,3sg,NA,NA,any,NA,any,default,,"kimball1991koasati[112-114,127,57-58]",,AWM
+koas1236-1,koas1236,koas1236-marked-nom-flagging,,NA,S,Noun,NA,NA,any,NA,any,any,any,kimball1991koasati[389-394],in AUTOTYP,AWM
+koas1236-2,koas1236,koas1236-marked-nom-flagging,,simple,A,Noun,P,any,any,none,any,any,any,kimball1991koasati[389-394],in AUTOTYP,AWM
+koas1236-3,koas1236,koas1236-acc-flagging,,simple,P,Noun,A,any,any,none,any,any,default,kimball1991koasati[389-394],in AUTOTYP,AWM
+koas1236-4,koas1236,koas1236-no-flagging,,simple,P,Noun,A,any,any,none,any,any,PV order,kimball1991koasati[389-394],in AUTOTYP,AWM
+koas1236-5,koas1236,koas1236-no-flagging,,simple,S,Pro,NA,NA,any,NA,any,any,,kimball1991koasati[417],,DI;NCP
+koas1236-6,koas1236,koas1236-no-flagging,,simple,A,Pro,P,any,any,none,any,any,,kimball1991koasati[417],,DI;NCP
+koas1236-7,koas1236,koas1236-no-flagging,,simple,P,Pro,A,any,any,none,any,any,,kimball1991koasati[417],,DI;NCP
+koas1236-8,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,1A transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-9,koas1236,koas1236-is-2sg-indexing-marker,-1,simple,A,2sg,P,any,any,none,any,1A transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-10,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,1A transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-11,koas1236,koas1236-il-1pl-indexing-marker,-1,simple,A,1pl,P,any,any,none,any,1A transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-12,koas1236,koas1236-has-2pl-indexing-marker,-1,simple,A,2pl,P,any,any,none,any,1A transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-13,koas1236,koas1236-li-1sg-indexing-marker,1,simple,S,1sg,NA,NA,any,NA,any,1A active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-14,koas1236,koas1236-is-2sg-indexing-marker,-1,simple,S,2sg,NA,NA,any,NA,any,1A active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-15,koas1236,koas1236-null-3-indexing-marker,1,simple,S,3,NA,NA,any,NA,any,1A active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-16,koas1236,koas1236-il-1pl-indexing-marker,-1,simple,S,1pl,NA,NA,any,NA,any,1A active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-17,koas1236,koas1236-has-2pl-indexing-marker,-1,simple,S,2pl,NA,NA,any,NA,any,1A active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-18,koas1236,koas1236-ca-1sg-indexing-marker,-1,simple,S,1sg,NA,NA,any,NA,non-exemplar,stative ca-,,kimball1991koasati[56-89],,DI;NCP
+koas1236-19,koas1236,koas1236-ci-2sg-indexing-marker,-1,simple,S,2sg,NA,NA,any,NA,non-exemplar,stative ca-,,kimball1991koasati[56-89],,DI;NCP
+koas1236-20,koas1236,koas1236-null-3-indexing-marker,-1,simple,S,3,NA,NA,any,NA,non-exemplar,stative ca-,,kimball1991koasati[56-89],,DI;NCP
+koas1236-21,koas1236,koas1236-ko-1pl-indexing-marker,-1,simple,S,1pl,NA,NA,any,NA,non-exemplar,stative ca-,,kimball1991koasati[56-89],,DI;NCP
+koas1236-22,koas1236,koas1236-haci-2pl-indexing-marker,-1,simple,S,2pl,NA,NA,any,NA,non-exemplar,stative ca-,,kimball1991koasati[56-89],,DI;NCP
+koas1236-23,koas1236,koas1236-ca-1sg-indexing-marker,-4,simple,P,1sg,A,any,any,none,any,any,,kimball1991koasati[56-89],,DI;NCP
+koas1236-24,koas1236,koas1236-ci-2sg-indexing-marker,-4,simple,P,2sg,A,any,any,none,any,any,,kimball1991koasati[56-89],,DI;NCP
+koas1236-25,koas1236,koas1236-null-3-indexing-marker,-4,simple,P,3,A,any,any,none,any,any,,kimball1991koasati[56-89],,DI;NCP
+koas1236-26,koas1236,koas1236-ko-1pl-indexing-marker,-4,simple,P,1pl,A,any,any,none,any,any,,kimball1991koasati[56-89],,DI;NCP
+koas1236-27,koas1236,koas1236-haci-2pl-indexing-marker,-4,simple,P,2pl,A,any,any,none,any,any,,kimball1991koasati[56-89],,DI;NCP
+koas1236-28,koas1236,koas1236-am-oblique-and-sp-stative-paradigm-indexing-marker,-1,simple,S,any,NA,NA,any,NA,non-exemplar,stative am-,,kimball1991koasati[56-89],,DI;NCP
+koas1236-29,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,1B transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-30,koas1236,koas1236-is-2sg-indexing-marker,0,simple,A,2sg,P,any,any,none,any,1B transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-31,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,1B transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-32,koas1236,koas1236-il-1pl-indexing-marker,0,simple,A,1pl,P,any,any,none,any,1B transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-33,koas1236,koas1236-has-2pl-indexing-marker,0,simple,A,2pl,P,any,any,none,any,1B transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-34,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-35,koas1236,koas1236-ci-2sg-indexing-marker,1,simple,A,2sg,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-36,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-37,koas1236,koas1236-hili-1pl-indexing-marker,1,simple,A,1pl,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-38,koas1236,koas1236-haci-2pl-indexing-marker,1,simple,A,2pl,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-39,koas1236,koas1236-li-1sg-indexing-marker,1,simple,S,1sg,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-40,koas1236,koas1236-ci-2sg-indexing-marker,1,simple,S,2sg,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-41,koas1236,koas1236-null-3-indexing-marker,1,simple,S,3,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-42,koas1236,koas1236-hili-1pl-indexing-marker,1,simple,S,1pl,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-43,koas1236,koas1236-haci-2pl-indexing-marker,1,simple,S,2pl,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-44,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,2C transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-45,koas1236,koas1236-ci-2sg-indexing-marker,0,simple,A,2sg,P,any,any,none,any,2C transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-46,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,2C transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-47,koas1236,koas1236-il-1pl-indexing-marker,0,simple,A,1pl,P,any,any,none,any,2C transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-48,koas1236,koas1236-haci-2pl-indexing-marker,0,simple,A,2pl,P,any,any,none,any,2C transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-49,koas1236,koas1236-li-1sg-indexing-marker,1,simple,S,1sg,NA,NA,any,NA,any,2C active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-50,koas1236,koas1236-ci-2sg-indexing-marker,0,simple,S,2sg,NA,NA,any,NA,any,2C active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-51,koas1236,koas1236-null-3-indexing-marker,1,simple,S,3,NA,NA,any,NA,any,2C active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-52,koas1236,koas1236-il-1pl-indexing-marker,0,simple,S,1pl,NA,NA,any,NA,any,2C active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-53,koas1236,koas1236-haci-2pl-indexing-marker,0,simple,S,2pl,NA,NA,any,NA,any,2C active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-54,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,3A transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-55,koas1236,koas1236-hiska-2sg-indexing-marker,1,simple,A,2sg,P,any,any,none,any,3A transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-56,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,3A transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-57,koas1236,koas1236-hilka-1pl-indexing-marker,1,simple,A,1pl,P,any,any,none,any,3A transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-58,koas1236,koas1236-haska-2pl-indexing-marker,1,simple,A,2pl,P,any,any,none,any,3A transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-59,koas1236,koas1236-li-1sg-indexing-marker,1,simple,S,1sg,NA,NA,any,NA,any,3A active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-60,koas1236,koas1236-hiska-2sg-indexing-marker,1,simple,S,2sg,NA,NA,any,NA,any,3A active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-61,koas1236,koas1236-null-3-indexing-marker,1,simple,S,3,NA,NA,any,NA,any,3A active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-62,koas1236,koas1236-hilka-1pl-indexing-marker,1,simple,S,1pl,NA,NA,any,NA,any,3A active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-63,koas1236,koas1236-haska-2pl-indexing-marker,1,simple,S,2pl,NA,NA,any,NA,any,3A active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-64,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,3B transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-65,koas1236,koas1236-iska-2sg-indexing-marker,1,simple,A,2sg,P,any,any,none,any,3B transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-66,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,3B transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-67,koas1236,koas1236-ilka-1pl-indexing-marker,1,simple,A,1pl,P,any,any,none,any,3B transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-68,koas1236,koas1236-aska-2pl-indexing-marker,1,simple,A,2pl,P,any,any,none,any,3B transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-69,koas1236,koas1236-li-1sg-indexing-marker,1,simple,S,1sg,NA,NA,any,NA,any,3B active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-70,koas1236,koas1236-iska-2sg-indexing-marker,1,simple,S,2sg,NA,NA,any,NA,any,3B active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-71,koas1236,koas1236-null-3-indexing-marker,1,simple,S,3,NA,NA,any,NA,any,3B active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-72,koas1236,koas1236-ilka-1pl-indexing-marker,1,simple,S,1pl,NA,NA,any,NA,any,3B active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-73,koas1236,koas1236-aska-2pl-indexing-marker,1,simple,S,2pl,NA,NA,any,NA,any,3B active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-74,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,3C transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-75,koas1236,koas1236-tiska-2sg-indexing-marker,1,simple,A,2sg,P,any,any,none,any,3C transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-76,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,3C transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-77,koas1236,koas1236-tilka-1pl-indexing-marker,1,simple,A,1pl,P,any,any,none,any,3C transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-78,koas1236,koas1236-taska-2pl-indexing-marker,1,simple,A,2pl,P,any,any,none,any,3C transitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-79,koas1236,koas1236-li-1sg-indexing-marker,1,simple,S,1sg,NA,NA,any,NA,any,3C active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-80,koas1236,koas1236-tiska-2sg-indexing-marker,1,simple,S,2sg,NA,NA,any,NA,any,3C active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-81,koas1236,koas1236-null-3-indexing-marker,1,simple,S,3,NA,NA,any,NA,any,3C active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-82,koas1236,koas1236-tilka-1pl-indexing-marker,1,simple,S,1pl,NA,NA,any,NA,any,3C active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-83,koas1236,koas1236-taska-2pl-indexing-marker,1,simple,S,2pl,NA,NA,any,NA,any,3C active intransitive,,kimball1991koasati[56-89],,DI;NCP
 koyr1242-1,koyr1242,koyr1242-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,condition 1,heath1999koyraboro[79],,AWM
 koyr1242-10,koyr1242,koyr1242-no-flagging,,NA,S,3sgPro,NA,NA,any,NA,any,default,condition 2 (uncommon SVO),heath1999koyraboro[79],,AWM
 koyr1242-11,koyr1242,koyr1242-no-flagging,,simple,A,3sgPro,P,any,any,none,any,default,condition 2 (uncommon SVO),heath1999koyraboro[79],,AWM
@@ -8826,30 +8795,30 @@ movi1243-313,movi1243,movi1243-role-not-marked,NA,NA,any,any,any,any,any,NA,any,
 movi1243-314,movi1243,movi1243-null-marker,clitic -1,simple,S,3-high,NA,NA,any,NA,any,default,condition1,haude2011argument;haude2023pc,,DI
 movi1243-315,movi1243,movi1243-null-marker,clitic -1,simple,S,3-low,NA,NA,any,NA,any,default,condition1,haude2011argument;haude2023pc,,DI
 movi1243-316,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,1sg,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-316,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,1sg,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-317,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,1pl.incl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-317,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,1pl.incl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-318,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,1pl.excl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-318,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,1pl.excl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-319,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,2sg,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-319,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,2sg,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-317,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,1sg,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-318,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,1pl.incl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-319,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,1pl.incl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-320,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,1pl.excl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-321,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,1pl.excl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-322,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,2sg,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-323,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,2sg,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
 movi1243-32,movi1243,movi1243-n-kwel-2pl-flagging,,simple,P,2plPro,A,Noun-pl-low,any,INV,any,default,,haude2011argument;haude2023pc,"The Movima system is not clearly pronominal nor clearly indexing, but something in between. We have coded the proclitic as indexing and the enclitic(s) as flagging, due to co-occurrence restraints on each. We have only encoded the presential 3rd persons, but absential forms exist.",MV; DI
-movi1243-320,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,2pl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-320,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,2pl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-321,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,3-low,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-321,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,3-low,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-322,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,1sg,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-322,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,1sg,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-323,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,1pl.incl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-323,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,1pl.incl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-324,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,1pl.excl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-324,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,1pl.excl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-325,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,2sg,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-325,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,2sg,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-326,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,2pl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-326,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,2pl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-327,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,3-low,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
-movi1243-327,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,3-low,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-324,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,2pl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-325,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,2pl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-326,movi1243,movi1243-null-marker,clitic -1,simple,A,3-high,P,3-low,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-327,movi1243,movi1243-null-marker,clitic -1,simple,P,3-high,A,3-low,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-328,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,1sg,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-329,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,1sg,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-330,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,1pl.incl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-331,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,1pl.incl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-332,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,1pl.excl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-333,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,1pl.excl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-334,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,2sg,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-335,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,2sg,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-336,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,2pl,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-337,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,2pl,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-338,movi1243,movi1243-null-marker,clitic -1,simple,A,3-low,P,3-low,any,INV,any,default,condition1,haude2011argument;haude2023pc,,DI
+movi1243-339,movi1243,movi1243-null-marker,clitic -1,simple,P,3-low,A,3-low,any,DIR,any,default,condition1,haude2011argument;haude2023pc,,DI
 movi1243-33,movi1243,movi1243-n-kwel-2pl-flagging,,simple,P,2plPro,A,Noun-pl-high,any,INV,any,default,,haude2011argument;haude2023pc,"The Movima system is not clearly pronominal nor clearly indexing, but something in between. We have coded the proclitic as indexing and the enclitic(s) as flagging, due to co-occurrence restraints on each. We have only encoded the presential 3rd persons, but absential forms exist.",MV; DI
 movi1243-34,movi1243,movi1243-i-y-bi-2pl-flagging,,simple,P,2plPro,A,1sgPro,any,DIR,any,default,,haude2011argument;haude2023pc,"The Movima system is not clearly pronominal nor clearly indexing, but something in between. We have coded the proclitic as indexing and the enclitic(s) as flagging, due to co-occurrence restraints on each. We have only encoded the presential 3rd persons, but absential forms exist.",MV; DI
 movi1243-35,movi1243,movi1243-i-y-bi-2pl-flagging,,simple,P,2plPro,A,1pl.exclPro,any,DIR,any,default,,haude2011argument;haude2023pc,"The Movima system is not clearly pronominal nor clearly indexing, but something in between. We have coded the proclitic as indexing and the enclitic(s) as flagging, due to co-occurrence restraints on each. We have only encoded the presential 3rd persons, but absential forms exist.",MV; DI
@@ -13749,24 +13718,94 @@ tusc1257-97,tusc1257,tusc1257-k-1-indexing-indexing-marker,-2,simple,A,1pl.excl,
 tusc1257-98,tusc1257,tusc1257-k-1-indexing-indexing-marker,-2,simple,P,1pl.excl,A,2du,any,none,any,default,,williams1974tuscarora[146158],,AWM;HT
 tusc1257-99,tusc1257,tusc1257-k-1-indexing-indexing-marker,-2,simple,P,1pl.excl,A,2pl,any,none,any,default,,williams1974tuscarora[146158],,AWM;HT
 tute1247-1,tute1247,tute1247-no-flagging,,simple,A,any,P,any,any,none,any,default,,"oliverio1996tutelo[148-150,170-171]",,HT
-tute1247-10,tute1247,tute1247-null-marker,-1,simple,P,3,A,any,any,none,any,default,,oliverio1996tutelo[63-78],,HT;AWM
-tute1247-11,tute1247,tute1247-null-marker,-1,NA,S,3,NA,NA,any,NA,any,default,,oliverio1996tutelo[63-78],,HT;AWM
-tute1247-12,tute1247,tute1247-null-marker,-1,simple,A,3,P,any,any,none,any,default,,oliverio1996tutelo[63-78],,HT;AWM
-tute1247-13,tute1247,tute1247-patient-marking-1sg-wi-indexing-marker,-1,NA,S,1sg,NA,NA,any,NA,non-exemplar,Sp class,,oliverio1996tutelo[63-78],,HT;AWM
-tute1247-14,tute1247,tute1247-patient-marking-1pl-wai-indexing-marker,-1,NA,S,1pl,NA,NA,any,NA,non-exemplar,Sp class,,oliverio1996tutelo[63-78],,HT;AWM
-tute1247-15,tute1247,tute1247-patient-marking-2-yi-hi-indexing-marker,-1,NA,S,2,NA,NA,any,NA,non-exemplar,Sp class,,oliverio1996tutelo[63-78],,HT;AWM
-tute1247-16,tute1247,tute1247-null-marker,-1,NA,S,3,NA,NA,any,NA,non-exemplar,Sp class,,oliverio1996tutelo[63-78],,HT;AWM
-tute1247-17,tute1247,tute1247-patient-marking-1pl-wai-indexing-marker,-1,simple,P,1pl,A,any,any,none,any,default,,oliverio1996tutelo[63-78],,HT;AWM
-tute1247-18,tute1247,tute1247-patient-marking-1sg-wi-indexing-marker,-1,simple,P,1sg,A,any,any,none,any,default,,oliverio1996tutelo[63-78],,HT;AWM
-tute1247-19,tute1247,tute1247-patient-marking-2-yi-hi-indexing-marker,-1,simple,P,2,A,any,any,none,any,default,,oliverio1996tutelo[63-78],,HT;AWM
 tute1247-2,tute1247,tute1247-no-flagging,,simple,P,any,A,any,any,none,any,default,,"oliverio1996tutelo[148-150,170-171]",,HT
 tute1247-3,tute1247,tute1247-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"oliverio1996tutelo[148-150,170-171]",,HT
-tute1247-4,tute1247,tute1247-actor-marking-1pl-wak-indexing-marker,-1,NA,S,1pl,NA,NA,any,NA,any,default,,oliverio1996tutelo[63-78],,HT;AWM
-tute1247-5,tute1247,tute1247-actor-marking-1pl-wak-indexing-marker,-1,simple,A,1pl,P,any,any,none,any,default,,oliverio1996tutelo[63-78],,HT;AWM
-tute1247-6,tute1247,tute1247-actor-marking-1sg-wa-indexing-marker,-1,NA,S,1sg,NA,NA,any,NA,any,default,,oliverio1996tutelo[63-78],,HT;AWM
-tute1247-7,tute1247,tute1247-actor-marking-1sg-wa-indexing-marker,-1,simple,A,1sg,P,any,any,none,any,default,,oliverio1996tutelo[63-78],,HT;AWM
-tute1247-8,tute1247,tute1247-actor-marking-2-ya-indexing-marker,-1,NA,S,2,NA,NA,any,NA,any,default,,oliverio1996tutelo[63-78],,HT;AWM
-tute1247-9,tute1247,tute1247-actor-marking-2-ya-indexing-marker,-1,simple,A,2,P,any,any,none,any,default,,oliverio1996tutelo[63-78],,HT;AWM
+tute1247-4,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,NA,S,3pl,NA,NA,any,NA,any,stative intransitive,no prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-5,tute1247,tute1247-i-3sg-s-p-indexing,-3,NA,S,3pl,NA,NA,any,NA,any,stative intransitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-6,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,NA,S,3pl,NA,NA,any,NA,any,stative intransitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-7,tute1247,tute1247-bo-po-2pl-s-a-p-indexing,2,NA,S,2pl,NA,NA,any,NA,any,stative intransitive,no prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-8,tute1247,tute1247-ti-yi-2sg-s-p-indexing,-4,NA,S,2pl,NA,NA,any,NA,any,stative intransitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-9,tute1247,tute1247-bo-po-2pl-s-a-p-indexing,2,NA,S,2pl,NA,NA,any,NA,any,stative intransitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-10,tute1247,tute1247-wa-wae-1pl-s-p-indexing,-7,NA,S,1pl,NA,NA,any,NA,any,stative intransitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-11,tute1247,tute1247-null-marker,-3,NA,S,3sg,NA,NA,any,NA,any,stative intransitive,no prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-12,tute1247,tute1247-i-3sg-s-p-indexing,-3,NA,S,3sg,NA,NA,any,NA,any,stative intransitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-13,tute1247,tute1247-ti-yi-2sg-s-p-indexing,-4,NA,S,2sg,NA,NA,any,NA,any,stative intransitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-14,tute1247,tute1247-mi-wi-1sg-s-p-indexing,-5,NA,S,1sg,NA,NA,any,NA,any,stative intransitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-15,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,NA,S,3pl,NA,NA,any,NA,any,active intransitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-16,tute1247,tute1247-bo-po-2pl-s-a-p-indexing,2,NA,S,2pl,NA,NA,any,NA,any,active intransitive,no prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-17,tute1247,tute1247-ya-2sg-s-a-indexing,-4,NA,S,2pl,NA,NA,any,NA,any,active intransitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-18,tute1247,tute1247-bo-po-2pl-s-a-p-indexing,2,NA,S,2pl,NA,NA,any,NA,any,active intransitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-19,tute1247,tute1247-ma-mae-1pl-s-a-indexing,-7,NA,S,1pl,NA,NA,any,NA,any,active intransitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-20,tute1247,tute1247-null-marker,-3,NA,S,3sg,NA,NA,any,NA,any,active intransitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-21,tute1247,tute1247-ya-2sg-s-a-indexing,-4,NA,S,2sg,NA,NA,any,NA,any,active intransitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-22,tute1247,tute1247-wa-ma-1sg-s-a-indexing,-5,NA,S,1sg,NA,NA,any,NA,any,active intransitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-23,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,portmanteau,A,3pl,P,3pl,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-24,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,A,3pl,P,3sg,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-25,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,A,3pl,P,2pl,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-26,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,A,3pl,P,2sg,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-27,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,A,3pl,P,1pl,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-28,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,A,3pl,P,1sg,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-29,tute1247,tute1247-bo-po-2pl-s-a-p-indexing,2,simple,A,2pl,P,any,any,NA,any,active transitive,no prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-30,tute1247,tute1247-ya-2sg-s-a-indexing,-4,simple,A,2pl,P,any,any,NA,any,active transitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-31,tute1247,tute1247-bo-po-2pl-s-a-p-indexing,2,simple,A,2pl,P,any,any,NA,any,active transitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-32,tute1247,tute1247-ma-mae-1pl-s-a-indexing,-7,simple,A,1pl,P,any,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-33,tute1247,tute1247-null-marker,-3,simple,A,3sg,P,any,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-34,tute1247,tute1247-ya-2sg-s-a-indexing,-4,simple,A,2sg,P,any,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-35,tute1247,tute1247-wa-ma-1sg-s-a-indexing,-5,simple,A,1sg,P,any,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-36,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,portmanteau,P,3pl,A,3pl,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-37,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,P,3pl,A,3sg,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-38,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,P,3pl,A,2pl,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-39,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,P,3pl,A,2sg,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-40,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,P,3pl,A,1pl,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-41,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,P,3pl,A,1sg,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-42,tute1247,tute1247-bo-po-2pl-s-a-p-indexing,2,simple,P,2pl,A,any,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-43,tute1247,tute1247-null-marker,-4,simple,P,2pl,A,any,any,NA,any,active transitive,no prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-44,tute1247,tute1247-ti-yi-2sg-s-p-indexing,-4,simple,P,2pl,A,any,any,NA,any,active transitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-45,tute1247,tute1247-wa-wae-1pl-s-p-indexing,-7,simple,P,1pl,A,any,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-46,tute1247,tute1247-null-marker,-3,simple,P,3sg,A,any,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-47,tute1247,tute1247-ti-yi-2sg-s-p-indexing,-4,simple,P,2sg,A,any,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-48,tute1247,tute1247-mi-wi-1sg-s-p-indexing,-5,simple,P,1sg,A,any,any,NA,any,active transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-49,tute1247,tute1247-null-marker,-3,simple,A,3pl,P,any,any,NA,any,stative transitive,no prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-50,tute1247,tute1247-i-3sg-s-p-indexing,-3,simple,A,3pl,P,any,any,NA,any,stative transitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-51,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,portmanteau,A,3pl,P,3pl,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-52,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,A,3pl,P,3sg,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-53,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,A,3pl,P,2pl,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-54,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,A,3pl,P,2sg,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-55,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,A,3pl,P,1pl,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-56,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,A,3pl,P,1sg,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-57,tute1247,tute1247-bo-po-2pl-s-a-p-indexing,2,simple,A,2pl,P,any,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-58,tute1247,tute1247-ya-2sg-s-a-indexing,-4,simple,A,2pl,P,1sg,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-59,tute1247,tute1247-ya-2sg-s-a-indexing,-4,simple,A,2pl,P,1pl,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-60,tute1247,tute1247-null-marker,-4,simple,A,2pl,P,3sg,any,NA,any,stative transitive,no prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-61,tute1247,tute1247-ti-yi-2sg-s-p-indexing,-4,simple,A,2pl,P,3sg,any,NA,any,stative transitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-62,tute1247,tute1247-null-marker,-4,simple,A,2pl,P,3pl,any,NA,any,stative transitive,no prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-63,tute1247,tute1247-ti-yi-2sg-s-p-indexing,-4,simple,A,2pl,P,3pl,any,NA,any,stative transitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-64,tute1247,tute1247-ma-mae-1pl-s-a-indexing,-7,simple,A,1pl,P,2sg,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-65,tute1247,tute1247-ma-mae-1pl-s-a-indexing,-7,simple,A,1pl,P,2pl,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-66,tute1247,tute1247-wa-wae-1pl-s-p-indexing,-7,simple,A,1pl,P,3sg,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-67,tute1247,tute1247-wa-wae-1pl-s-p-indexing,-7,simple,A,1pl,P,3pl,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-68,tute1247,tute1247-i-3sg-s-p-indexing,-3,simple,A,3sg,P,any,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-69,tute1247,tute1247-ya-2sg-s-a-indexing,-4,simple,A,2sg,P,1sg,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-70,tute1247,tute1247-ya-2sg-s-a-indexing,-4,simple,A,2sg,P,1pl,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-71,tute1247,tute1247-ti-yi-2sg-s-p-indexing,-4,simple,A,2sg,P,3sg,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-72,tute1247,tute1247-ti-yi-2sg-s-p-indexing,-4,simple,A,2sg,P,3pl,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-73,tute1247,tute1247-wa-ma-1sg-s-a-indexing,-5,simple,A,1sg,P,2sg,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-74,tute1247,tute1247-wa-ma-1sg-s-a-indexing,-5,simple,A,1sg,P,2pl,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-75,tute1247,tute1247-mi-wi-1sg-s-p-indexing,-5,simple,A,1sg,P,3sg,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-76,tute1247,tute1247-mi-wi-1sg-s-p-indexing,-5,simple,A,1sg,P,3pl,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-77,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,portmanteau,P,3pl,A,3pl,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-78,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,P,3pl,A,3sg,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-79,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,P,3pl,A,2pl,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-80,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,P,3pl,A,2sg,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-81,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,P,3pl,A,1pl,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-82,tute1247,tute1247-hana-hela-3pl-s-a-p-indexing,3,simple,P,3pl,A,1sg,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-83,tute1247,tute1247-bo-po-2pl-s-a-p-indexing,2,simple,P,2pl,A,any,any,NA,any,stative transitive,no prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-84,tute1247,tute1247-ti-yi-2sg-s-p-indexing,-4,simple,P,2pl,A,any,any,NA,any,stative transitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-85,tute1247,tute1247-bo-po-2pl-s-a-p-indexing,2,simple,P,2pl,A,any,any,NA,any,stative transitive,prefix,roberts2025tutelo[45-72],,NCP;DI
+tute1247-86,tute1247,tute1247-wa-wae-1pl-s-p-indexing,-7,simple,P,1pl,A,any,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-87,tute1247,tute1247-null-marker,-3,simple,P,3sg,A,any,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-88,tute1247,tute1247-ti-yi-2sg-s-p-indexing,-4,simple,P,2sg,A,any,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
+tute1247-89,tute1247,tute1247-mi-wi-1sg-s-p-indexing,-5,simple,P,1sg,A,any,any,NA,any,stative transitive,any,roberts2025tutelo[45-72],,NCP;DI
 uppe1439-1,uppe1439,uppe1439-no-flagging,,NA,S,any,NA,NA,any,none,any,default,,"kinkade1963upperchehalis[116-129,58]",,DI
 uppe1439-10,uppe1439,uppe1439-c-1sg-compl-p-indexing-marker,1,simple,P,1sg,A,3sg-low,completive,none,any,default,any,kinkade1963upperchehalis[85-91],"There are several P paradigms based on verb conjugation class, but they are always distinct from the S/A paradigms, and only Paradigm I has been encoded here.",DI
 uppe1439-11,uppe1439,uppe1439-c-1sg-compl-p-indexing-marker,1,simple,P,1sg,A,3pl,completive,none,any,default,any,kinkade1963upperchehalis[85-91],"There are several P paradigms based on verb conjugation class, but they are always distinct from the S/A paradigms, and only Paradigm I has been encoded here.",DI
@@ -14233,7 +14272,7 @@ wash1253-15,wash1253,wash1253-null-marker,multiple,simple,P,3,A,1,any,none,any,d
 wash1253-15a,wash1253,wash1253-null-marker,multiple,simple,P,3,A,2,any,none,any,default,any,jacobsen1964washo[449-462],,HT;AWM
 wash1253-15b,wash1253,wash1253-null-marker,multiple,simple,P,3,A,3,any,none,any,default,overt P,jacobsen1964washo[449-462],,HT;AWM
 wash1253-15c,wash1253,wash1253-k-ga-ge-3-3-indexing-marker,-1,portmanteau,P,3,A,3,any,none,any,default,nonovert P,jacobsen1964washo[449-462],,HT;AWM
-wash1253-15c,wash1253,wash1253-k-ga-ge-3-3-indexing-marker,-1,portmanteau,A,3,P,3,any,none,any,default,nonovert P,jacobsen1964washo[449-462],,HT;AWM
+wash1253-15d,wash1253,wash1253-k-ga-ge-3-3-indexing-marker,-1,portmanteau,A,3,P,3,any,none,any,default,nonovert P,jacobsen1964washo[449-462],,HT;AWM
 wash1253-16,wash1253,wash1253-l-le-3-1-indexing-marker,-1,portmanteau,P,1,A,3,any,none,any,default,any,jacobsen1964washo[449-462],,HT;AWM
 wash1253-16a,wash1253,wash1253-l-le-3-1-indexing-marker,-1,portmanteau,A,3,P,1,any,none,any,default,any,jacobsen1964washo[449-462],,HT;AWM
 wash1253-17,wash1253,wash1253-m-me-3-2-indexing-marker,-1,portmanteau,P,2,A,3,any,none,any,default,any,jacobsen1964washo[449-462],,HT;AWM
@@ -14511,7 +14550,7 @@ xinc1242-24,xinc1242,xinc1242-mulhi-h-3pla-indexing-marker,-1,simple,A,3pl,P,any
 xinc1242-25,xinc1242,xinc1242-mulhik-2pl-hon-s-a-indexing-marker,-1,NA,S,2plHON,NA,NA,imperfective,NA,non-exemplar,default,,rogers2010xinkan[223-226],,AN
 xinc1242-26,xinc1242,xinc1242-mulhik-2pl-hon-s-a-indexing-marker,-1,simple,A,2plHON,P,any,imperfective,none,non-exemplar,default,,rogers2010xinkan[223-226],,AN
 xinc1242-27,xinc1242,xinc1242-mulhik-2pl-hon-s-a-indexing-marker,-1,NA,S,2plHON,NA,NA,perfective,NA,any,default,,rogers2010xinkan[223-226],,AN
-xinc1242-27,xinc1242,xinc1242-lhik-2pl-hon-a-indexing-marker,1,NA,A,2plHON,P,any,perfective,NA,any,default,,rogers2010xinkan[223-226],,DI;NCP
+xinc1242-28,xinc1242,xinc1242-lhik-2pl-hon-a-indexing-marker,1,NA,A,2plHON,P,any,perfective,NA,any,default,,rogers2010xinkan[223-226],,DI;NCP
 xinc1242-29,xinc1242,xinc1242-mulhki-1pls-a-indexing-marker,-1,NA,S,1pl,NA,NA,imperfective,NA,non-exemplar,default,,rogers2010xinkan[223-226],,AN
 xinc1242-3,xinc1242,xinc1242-no-flagging,,simple,P,any,A,any,any,none,any,default,,"rogers2010xinkan[176,220]",,AN
 xinc1242-30,xinc1242,xinc1242-mulhki-1pls-a-indexing-marker,-1,simple,A,1pl,P,any,imperfective,none,non-exemplar,default,,rogers2010xinkan[223-226],,AN
