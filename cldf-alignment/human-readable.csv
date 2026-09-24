@@ -94,7 +94,7 @@ hopi1249,True,False,False,False,NA,False,NA,accusative,accusative,NA,accusative,
 hual1241,True,True,False,False,person,False,NA,accusative,accusative,sensitive,accusative,accusative,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
 huas1242,False,True,False,False,person;person+number,False,NA,no marking,no marking,sensitive;tripartite,no marking,no marking,tripartite,False,NA,True,Verb,False,NA,True,Verb,no,yes,False,True
 hueh1236,False,True,False,False,person;person+number,False,NA,no marking,no marking,sensitive,no marking,no marking,accusative,True,Verb,False,NA,False,NA,True,Verb,no,yes,False,True
-hupa1239,False,True,False,False,person+number;person+other,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
+hupa1239,False,True,False,False,person;person+number;person+other,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
 hupd1244,True,False,False,False,NA,True,Reference,accusative;no marking,accusative,NA,accusative;no marking,accusative,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 ikpe1245,False,True,False,True,person,False,NA,no marking,no marking,sensitive,no marking,no marking,accusative;sensitive,True,Verb,False,NA,False,NA,True,Verb,no,yes,False,True
 imba1240,True,True,False,False,person,False,NA,accusative,accusative,accusative,accusative,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False

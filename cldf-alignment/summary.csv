@@ -122,8 +122,8 @@ Language,indexing-features,other;person;person+number,1,0.0038314176245210726
 Language,indexing-features,other;person;person+number;person+other,1,0.0038314176245210726
 Language,indexing-features,person,33,0.12643678160919541
 Language,indexing-features,person+number,133,0.5095785440613027
-Language,indexing-features,person+number;person+other,1,0.0038314176245210726
 Language,indexing-features,person;person+number,47,0.18007662835249041
+Language,indexing-features,person;person+number;person+other,1,0.0038314176245210726
 Language,ref-ergative,False,214,0.6584615384615384
 Language,ref-ergative,True,111,0.3415384615384615
 Language,ref-ergative-domain,Noun,7,0.06306306306306306
@@ -182,12 +182,12 @@ Selector (indexing marker),Alignment,accusative,1030,0.5142286570144783
 Selector (indexing marker),Alignment,ergative,345,0.17224163754368446
 Selector (indexing marker),Alignment,horizontal,318,0.15876185721417874
 Selector (indexing marker),Alignment,neutral,310,0.15476784822765852
-Reference,Zero indexing of 1,Role A,120,0.12644889357218125
-Reference,Zero indexing of 1,Role P,71,0.08402366863905325
-Reference,Zero indexing of 1,Role S,34,0.0356020942408377
-Reference,Zero indexing of 2,Role A,124,0.14691943127962084
-Reference,Zero indexing of 2,Role P,104,0.14035087719298245
-Reference,Zero indexing of 2,Role S,24,0.02823529411764706
-Reference,Zero indexing of 3,Role A,300,0.3416856492027335
-Reference,Zero indexing of 3,Role P,352,0.45478036175710596
-Reference,Zero indexing of 3,Role S,164,0.18615209988649262
+Reference,Zero indexing of 1,Role A,120,0.12618296529968454
+Reference,Zero indexing of 1,Role P,71,0.08382526564344746
+Reference,Zero indexing of 1,Role S,34,0.035527690700104496
+Reference,Zero indexing of 2,Role A,124,0.14657210401891252
+Reference,Zero indexing of 2,Role P,104,0.13997308209959622
+Reference,Zero indexing of 2,Role S,24,0.028169014084507043
+Reference,Zero indexing of 3,Role A,301,0.3416572077185017
+Reference,Zero indexing of 3,Role P,353,0.4543114543114543
+Reference,Zero indexing of 3,Role S,165,0.18665158371040724

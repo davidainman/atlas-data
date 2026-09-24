@@ -658,12 +658,12 @@ hueh1236-split-s,hueh1236,split-s,False,DI;HT,"kung2007tepehua[174-214,395,397-3
 hueh1236-coargument-sensitivity flagging,hueh1236,coargument-sensitivity flagging,no,DI;HT,"kung2007tepehua[174-214,395,397-398]"
 hueh1236-coargument-sensitivity indexing,hueh1236,coargument-sensitivity indexing,yes,DI;HT,"kung2007tepehua[174-214,395,397-398]"
 hupa1239-flagging,hupa1239,flagging,False,AN,goddard1905hupa[25-28]
-hupa1239-indexing,hupa1239,indexing,True,AN;AWM,goddard1905hupa[25-28]
-hupa1239-indexing-features,hupa1239,indexing-features,person+number;person+other,AN;AWM,goddard1905hupa[25-28]
-hupa1239-tam-split,hupa1239,tam-split,False,AN;AWM,goddard1905hupa[25-28];golla1970hupa[97-113]
-hupa1239-split-s,hupa1239,split-s,False,AN;AWM,goddard1905hupa[25-28];golla1970hupa[97-113]
-hupa1239-coargument-sensitivity flagging,hupa1239,coargument-sensitivity flagging,no,AN;AWM,goddard1905hupa[25-28];golla1970hupa[97-113]
-hupa1239-coargument-sensitivity indexing,hupa1239,coargument-sensitivity indexing,yes,AN;AWM,goddard1905hupa[25-28];golla1970hupa[97-113]
+hupa1239-indexing,hupa1239,indexing,True,AN;AWM;DI;NCP,goddard1905hupa[25-28]
+hupa1239-indexing-features,hupa1239,indexing-features,person;person+number;person+other,AN;AWM;DI;NCP,goddard1905hupa[25-28]
+hupa1239-tam-split,hupa1239,tam-split,False,AN;AWM;DI;NCP,goddard1905hupa[25-28];golla1970hupa[97-113]
+hupa1239-split-s,hupa1239,split-s,False,AN;AWM;DI;NCP,goddard1905hupa[25-28];golla1970hupa[97-113]
+hupa1239-coargument-sensitivity flagging,hupa1239,coargument-sensitivity flagging,no,AN;AWM;DI;NCP,goddard1905hupa[25-28];golla1970hupa[97-113]
+hupa1239-coargument-sensitivity indexing,hupa1239,coargument-sensitivity indexing,yes,AN;AWM;DI;NCP,goddard1905hupa[25-28];golla1970hupa[97-113]
 hupd1244-flagging,hupd1244,flagging,True,HT,"epps2008hup[159,166,170-172,176]"
 hupd1244-indexing,hupd1244,indexing,False,HT,"epps2008hup[159,166,170-172,176]"
 hupd1244-indexing-features,hupd1244,indexing-features,NA,HT,"epps2008hup[159,166,170-172,176]"
@@ -4430,20 +4430,20 @@ hueh1236-S!=A flagging,hueh1236,S!=A flagging,False,DI;HT,"kung2007tepehua[174,3
 hueh1236-S!=A indexing,hueh1236,S!=A indexing,True,DI;HT,"kung2007tepehua[174,395,397-398]"
 hupa1239-align-noun,hupa1239,align-noun,no marking,AN,goddard1905hupa[25-28]
 hupa1239-align-pro,hupa1239,align-pro,no marking,AN,goddard1905hupa[25-28]
-hupa1239-align-index,hupa1239,align-index,accusative,AN;AWM,goddard1905hupa[25-28]
+hupa1239-align-index,hupa1239,align-index,accusative,AN;AWM;DI;NCP,goddard1905hupa[25-28]
 hupa1239-align-noun-nl,hupa1239,align-noun-nl,no marking,AN,goddard1905hupa[25-28]
 hupa1239-align-pro-nl,hupa1239,align-pro-nl,no marking,AN,goddard1905hupa[25-28]
-hupa1239-align-index-nl,hupa1239,align-index-nl,accusative,AN;AWM,goddard1905hupa[25-28]
-hupa1239-ref-ergative,hupa1239,ref-ergative,False,AN;AWM,goddard1905hupa[25-28]
-hupa1239-ref-ergative-domain,hupa1239,ref-ergative-domain,NA,AN;AWM,goddard1905hupa[25-28]
-hupa1239-ref-tripartite,hupa1239,ref-tripartite,False,AN;AWM,goddard1905hupa[25-28]
-hupa1239-ref-tripartite-domain,hupa1239,ref-tripartite-domain,NA,AN;AWM,goddard1905hupa[25-28]
-hupa1239-ref-horizontal,hupa1239,ref-horizontal,False,AN;AWM,goddard1905hupa[25-28]
-hupa1239-ref-horizontal-domain,hupa1239,ref-horizontal-domain,NA,AN;AWM,goddard1905hupa[25-28]
-hupa1239-ref-sensitive,hupa1239,ref-sensitive,True,AN;AWM,goddard1905hupa[25-28]
-hupa1239-ref-sensitive-domain,hupa1239,ref-sensitive-domain,Verb,AN;AWM,goddard1905hupa[25-28]
-hupa1239-S!=A flagging,hupa1239,S!=A flagging,False,AN;AWM,goddard1905hupa[25-28]
-hupa1239-S!=A indexing,hupa1239,S!=A indexing,True,AN;AWM,goddard1905hupa[25-28]
+hupa1239-align-index-nl,hupa1239,align-index-nl,accusative,AN;AWM;DI;NCP,goddard1905hupa[25-28]
+hupa1239-ref-ergative,hupa1239,ref-ergative,False,AN;AWM;DI;NCP,goddard1905hupa[25-28]
+hupa1239-ref-ergative-domain,hupa1239,ref-ergative-domain,NA,AN;AWM;DI;NCP,goddard1905hupa[25-28]
+hupa1239-ref-tripartite,hupa1239,ref-tripartite,False,AN;AWM;DI;NCP,goddard1905hupa[25-28]
+hupa1239-ref-tripartite-domain,hupa1239,ref-tripartite-domain,NA,AN;AWM;DI;NCP,goddard1905hupa[25-28]
+hupa1239-ref-horizontal,hupa1239,ref-horizontal,False,AN;AWM;DI;NCP,goddard1905hupa[25-28]
+hupa1239-ref-horizontal-domain,hupa1239,ref-horizontal-domain,NA,AN;AWM;DI;NCP,goddard1905hupa[25-28]
+hupa1239-ref-sensitive,hupa1239,ref-sensitive,True,AN;AWM;DI;NCP,goddard1905hupa[25-28]
+hupa1239-ref-sensitive-domain,hupa1239,ref-sensitive-domain,Verb,AN;AWM;DI;NCP,goddard1905hupa[25-28]
+hupa1239-S!=A flagging,hupa1239,S!=A flagging,False,AN;AWM;DI;NCP,goddard1905hupa[25-28]
+hupa1239-S!=A indexing,hupa1239,S!=A indexing,True,AN;AWM;DI;NCP,goddard1905hupa[25-28]
 hupd1244-align-noun,hupd1244,align-noun,accusative;no marking,HT,"epps2008hup[159,166,170-172,176]"
 hupd1244-align-pro,hupd1244,align-pro,accusative,HT,"epps2008hup[159,166,170-172,176]"
 hupd1244-align-index,hupd1244,align-index,NA,HT,"epps2008hup[159,166,170-172,176]"
