@@ -130,7 +130,7 @@ kich1262,False,True,False,False,person+number,False,NA,no marking,no marking,erg
 kiow1266,False,True,False,True,number;person;person+number,False,NA,no marking,no marking,no marking,no marking,no marking,no marking,True,Verb,True,Verb,False,NA,True,Verb,no,yes,False,True
 kitj1240,False,True,False,False,number;person;person+number,False,NA,no marking,no marking,tripartite,no marking,no marking,tripartite,False,NA,True,Verb,False,NA,True,Verb,no,yes,False,True
 klam1254,True,False,False,False,NA,True,Reference,accusative;no marking,accusative,NA,accusative;no marking,accusative,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
-koas1236,True,True,False,True,person;person+number,False,NA,accusative,no marking,tripartite,accusative,no marking,tripartite,True,Verb,True,Verb,True,Verb,False,NA,no,no,False,True
+koas1236,True,True,False,True,person;person+number,False,NA,accusative,no marking,overt neutral,accusative,no marking,overt neutral,True,Verb,True,Verb,True,Verb,False,NA,no,no,False,True
 koyr1242,True,False,False,False,NA,False,NA,no marking,no marking,NA,no marking,no marking,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 kren1239,False,False,False,False,NA,False,NA,no marking,no marking,NA,no marking,no marking,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 kron1241,False,True,False,False,number;person+number,False,NA,no marking,no marking,no marking,no marking,no marking,no marking,False,NA,False,NA,False,NA,False,NA,no,no,False,False

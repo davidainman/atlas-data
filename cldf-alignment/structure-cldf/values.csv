@@ -5006,10 +5006,10 @@ klam1254-S!=A flagging,klam1254,S!=A flagging,False,HT,"barker1964klamath[233-23
 klam1254-S!=A indexing,klam1254,S!=A indexing,False,HT,"barker1964klamath[233-235,237-243,262,320,352]"
 koas1236-align-noun,koas1236,align-noun,accusative,AWM,kimball1991koasati[389-394]
 koas1236-align-pro,koas1236,align-pro,no marking,AWM,kimball1991koasati[389-394]
-koas1236-align-index,koas1236,align-index,tripartite,DI;NCP,kimball1991koasati[389-394]
+koas1236-align-index,koas1236,align-index,overt neutral,DI;NCP,kimball1991koasati[389-394]
 koas1236-align-noun-nl,koas1236,align-noun-nl,accusative,AWM,kimball1991koasati[389-394]
 koas1236-align-pro-nl,koas1236,align-pro-nl,no marking,AWM,kimball1991koasati[389-394]
-koas1236-align-index-nl,koas1236,align-index-nl,tripartite,DI;NCP,kimball1991koasati[389-394]
+koas1236-align-index-nl,koas1236,align-index-nl,overt neutral,DI;NCP,kimball1991koasati[389-394]
 koas1236-ref-ergative,koas1236,ref-ergative,True,AWM;DI;NCP,kimball1991koasati[389-394]
 koas1236-ref-ergative-domain,koas1236,ref-ergative-domain,Verb,AWM;DI;NCP,kimball1991koasati[389-394]
 koas1236-ref-tripartite,koas1236,ref-tripartite,True,AWM;DI;NCP,kimball1991koasati[389-394]

@@ -5592,16 +5592,6 @@ koas1236-4,koas1236,koas1236-no-flagging,,simple,P,Noun,A,any,any,none,any,any,P
 koas1236-5,koas1236,koas1236-no-flagging,,simple,S,Pro,NA,NA,any,NA,any,any,,kimball1991koasati[417],,DI;NCP
 koas1236-6,koas1236,koas1236-no-flagging,,simple,A,Pro,P,any,any,none,any,any,,kimball1991koasati[417],,DI;NCP
 koas1236-7,koas1236,koas1236-no-flagging,,simple,P,Pro,A,any,any,none,any,any,,kimball1991koasati[417],,DI;NCP
-koas1236-8,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,1A transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-9,koas1236,koas1236-is-2sg-indexing-marker,-1,simple,A,2sg,P,any,any,none,any,1A transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-10,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,1A transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-11,koas1236,koas1236-il-1pl-indexing-marker,-1,simple,A,1pl,P,any,any,none,any,1A transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-12,koas1236,koas1236-has-2pl-indexing-marker,-1,simple,A,2pl,P,any,any,none,any,1A transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-13,koas1236,koas1236-li-1sg-indexing-marker,1,simple,S,1sg,NA,NA,any,NA,any,1A active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-14,koas1236,koas1236-is-2sg-indexing-marker,-1,simple,S,2sg,NA,NA,any,NA,any,1A active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-15,koas1236,koas1236-null-3-indexing-marker,1,simple,S,3,NA,NA,any,NA,any,1A active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-16,koas1236,koas1236-il-1pl-indexing-marker,-1,simple,S,1pl,NA,NA,any,NA,any,1A active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-17,koas1236,koas1236-has-2pl-indexing-marker,-1,simple,S,2pl,NA,NA,any,NA,any,1A active intransitive,,kimball1991koasati[56-89],,DI;NCP
 koas1236-18,koas1236,koas1236-ca-1sg-indexing-marker,-1,simple,S,1sg,NA,NA,any,NA,non-exemplar,stative ca-,,kimball1991koasati[56-89],,DI;NCP
 koas1236-19,koas1236,koas1236-ci-2sg-indexing-marker,-1,simple,S,2sg,NA,NA,any,NA,non-exemplar,stative ca-,,kimball1991koasati[56-89],,DI;NCP
 koas1236-20,koas1236,koas1236-null-3-indexing-marker,-1,simple,S,3,NA,NA,any,NA,non-exemplar,stative ca-,,kimball1991koasati[56-89],,DI;NCP
@@ -5613,61 +5603,16 @@ koas1236-25,koas1236,koas1236-null-3-indexing-marker,-4,simple,P,3,A,any,any,non
 koas1236-26,koas1236,koas1236-ko-1pl-indexing-marker,-4,simple,P,1pl,A,any,any,none,any,any,,kimball1991koasati[56-89],,DI;NCP
 koas1236-27,koas1236,koas1236-haci-2pl-indexing-marker,-4,simple,P,2pl,A,any,any,none,any,any,,kimball1991koasati[56-89],,DI;NCP
 koas1236-28,koas1236,koas1236-am-oblique-and-sp-stative-paradigm-indexing-marker,-1,simple,S,any,NA,NA,any,NA,non-exemplar,stative am-,,kimball1991koasati[56-89],,DI;NCP
-koas1236-29,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,1B transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-30,koas1236,koas1236-is-2sg-indexing-marker,0,simple,A,2sg,P,any,any,none,any,1B transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-31,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,1B transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-32,koas1236,koas1236-il-1pl-indexing-marker,0,simple,A,1pl,P,any,any,none,any,1B transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-33,koas1236,koas1236-has-2pl-indexing-marker,0,simple,A,2pl,P,any,any,none,any,1B transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-34,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-35,koas1236,koas1236-ci-2sg-indexing-marker,1,simple,A,2sg,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-36,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-37,koas1236,koas1236-hili-1pl-indexing-marker,1,simple,A,1pl,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-38,koas1236,koas1236-haci-2pl-indexing-marker,1,simple,A,2pl,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-39,koas1236,koas1236-li-1sg-indexing-marker,1,simple,S,1sg,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-40,koas1236,koas1236-ci-2sg-indexing-marker,1,simple,S,2sg,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-41,koas1236,koas1236-null-3-indexing-marker,1,simple,S,3,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-42,koas1236,koas1236-hili-1pl-indexing-marker,1,simple,S,1pl,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-43,koas1236,koas1236-haci-2pl-indexing-marker,1,simple,S,2pl,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-44,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,2C transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-45,koas1236,koas1236-ci-2sg-indexing-marker,0,simple,A,2sg,P,any,any,none,any,2C transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-46,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,2C transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-47,koas1236,koas1236-il-1pl-indexing-marker,0,simple,A,1pl,P,any,any,none,any,2C transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-48,koas1236,koas1236-haci-2pl-indexing-marker,0,simple,A,2pl,P,any,any,none,any,2C transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-49,koas1236,koas1236-li-1sg-indexing-marker,1,simple,S,1sg,NA,NA,any,NA,any,2C active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-50,koas1236,koas1236-ci-2sg-indexing-marker,0,simple,S,2sg,NA,NA,any,NA,any,2C active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-51,koas1236,koas1236-null-3-indexing-marker,1,simple,S,3,NA,NA,any,NA,any,2C active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-52,koas1236,koas1236-il-1pl-indexing-marker,0,simple,S,1pl,NA,NA,any,NA,any,2C active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-53,koas1236,koas1236-haci-2pl-indexing-marker,0,simple,S,2pl,NA,NA,any,NA,any,2C active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-54,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,3A transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-55,koas1236,koas1236-hiska-2sg-indexing-marker,1,simple,A,2sg,P,any,any,none,any,3A transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-56,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,3A transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-57,koas1236,koas1236-hilka-1pl-indexing-marker,1,simple,A,1pl,P,any,any,none,any,3A transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-58,koas1236,koas1236-haska-2pl-indexing-marker,1,simple,A,2pl,P,any,any,none,any,3A transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-59,koas1236,koas1236-li-1sg-indexing-marker,1,simple,S,1sg,NA,NA,any,NA,any,3A active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-60,koas1236,koas1236-hiska-2sg-indexing-marker,1,simple,S,2sg,NA,NA,any,NA,any,3A active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-61,koas1236,koas1236-null-3-indexing-marker,1,simple,S,3,NA,NA,any,NA,any,3A active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-62,koas1236,koas1236-hilka-1pl-indexing-marker,1,simple,S,1pl,NA,NA,any,NA,any,3A active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-63,koas1236,koas1236-haska-2pl-indexing-marker,1,simple,S,2pl,NA,NA,any,NA,any,3A active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-64,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,3B transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-65,koas1236,koas1236-iska-2sg-indexing-marker,1,simple,A,2sg,P,any,any,none,any,3B transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-66,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,3B transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-67,koas1236,koas1236-ilka-1pl-indexing-marker,1,simple,A,1pl,P,any,any,none,any,3B transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-68,koas1236,koas1236-aska-2pl-indexing-marker,1,simple,A,2pl,P,any,any,none,any,3B transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-69,koas1236,koas1236-li-1sg-indexing-marker,1,simple,S,1sg,NA,NA,any,NA,any,3B active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-70,koas1236,koas1236-iska-2sg-indexing-marker,1,simple,S,2sg,NA,NA,any,NA,any,3B active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-71,koas1236,koas1236-null-3-indexing-marker,1,simple,S,3,NA,NA,any,NA,any,3B active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-72,koas1236,koas1236-ilka-1pl-indexing-marker,1,simple,S,1pl,NA,NA,any,NA,any,3B active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-73,koas1236,koas1236-aska-2pl-indexing-marker,1,simple,S,2pl,NA,NA,any,NA,any,3B active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-74,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,3C transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-75,koas1236,koas1236-tiska-2sg-indexing-marker,1,simple,A,2sg,P,any,any,none,any,3C transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-76,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,3C transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-77,koas1236,koas1236-tilka-1pl-indexing-marker,1,simple,A,1pl,P,any,any,none,any,3C transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-78,koas1236,koas1236-taska-2pl-indexing-marker,1,simple,A,2pl,P,any,any,none,any,3C transitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-79,koas1236,koas1236-li-1sg-indexing-marker,1,simple,S,1sg,NA,NA,any,NA,any,3C active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-80,koas1236,koas1236-tiska-2sg-indexing-marker,1,simple,S,2sg,NA,NA,any,NA,any,3C active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-81,koas1236,koas1236-null-3-indexing-marker,1,simple,S,3,NA,NA,any,NA,any,3C active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-82,koas1236,koas1236-tilka-1pl-indexing-marker,1,simple,S,1pl,NA,NA,any,NA,any,3C active intransitive,,kimball1991koasati[56-89],,DI;NCP
-koas1236-83,koas1236,koas1236-taska-2pl-indexing-marker,1,simple,S,2pl,NA,NA,any,NA,any,3C active intransitive,,kimball1991koasati[56-89],,DI;NCP
+koas1236-34,koas1236,koas1236-li-1sg-indexing-marker,1,simple,A,1sg,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],"There are multiple verb classes that all contain both transitive and intransitive verbs. We have selected the largest class here which we call 2AB, since the alignment patterns across classes are largely the same. The 2AB class unites the 2Ai, 2Aii, and 2B classes of the grammar. Had we coded separately all these classes, we end up with alignment statements between ""mismatched"" active intransitive and transitive verbs (e.g. 2AB active intransitive with 2C transitive), which overcomplicate the picture.",DI;NCP
+koas1236-35,koas1236,koas1236-ci-2sg-indexing-marker,1,simple,A,2sg,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],"There are multiple verb classes that all contain both transitive and intransitive verbs. We have selected the largest class here which we call 2AB, since the alignment patterns across classes are largely the same. The 2AB class unites the 2Ai, 2Aii, and 2B classes of the grammar. Had we coded separately all these classes, we end up with alignment statements between ""mismatched"" active intransitive and transitive verbs (e.g. 2AB active intransitive with 2C transitive), which overcomplicate the picture.",DI;NCP
+koas1236-36,koas1236,koas1236-null-3-indexing-marker,1,simple,A,3,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],"There are multiple verb classes that all contain both transitive and intransitive verbs. We have selected the largest class here which we call 2AB, since the alignment patterns across classes are largely the same. The 2AB class unites the 2Ai, 2Aii, and 2B classes of the grammar. Had we coded separately all these classes, we end up with alignment statements between ""mismatched"" active intransitive and transitive verbs (e.g. 2AB active intransitive with 2C transitive), which overcomplicate the picture.",DI;NCP
+koas1236-37,koas1236,koas1236-hili-1pl-indexing-marker,1,simple,A,1pl,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],"There are multiple verb classes that all contain both transitive and intransitive verbs. We have selected the largest class here which we call 2AB, since the alignment patterns across classes are largely the same. The 2AB class unites the 2Ai, 2Aii, and 2B classes of the grammar. Had we coded separately all these classes, we end up with alignment statements between ""mismatched"" active intransitive and transitive verbs (e.g. 2AB active intransitive with 2C transitive), which overcomplicate the picture.",DI;NCP
+koas1236-38,koas1236,koas1236-haci-2pl-indexing-marker,1,simple,A,2pl,P,any,any,none,any,2AB transitive,,kimball1991koasati[56-89],"There are multiple verb classes that all contain both transitive and intransitive verbs. We have selected the largest class here which we call 2AB, since the alignment patterns across classes are largely the same. The 2AB class unites the 2Ai, 2Aii, and 2B classes of the grammar. Had we coded separately all these classes, we end up with alignment statements between ""mismatched"" active intransitive and transitive verbs (e.g. 2AB active intransitive with 2C transitive), which overcomplicate the picture.",DI;NCP
+koas1236-39,koas1236,koas1236-li-1sg-indexing-marker,1,simple,S,1sg,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],"There are multiple verb classes that all contain both transitive and intransitive verbs. We have selected the largest class here which we call 2AB, since the alignment patterns across classes are largely the same. The 2AB class unites the 2Ai, 2Aii, and 2B classes of the grammar. Had we coded separately all these classes, we end up with alignment statements between ""mismatched"" active intransitive and transitive verbs (e.g. 2AB active intransitive with 2C transitive), which overcomplicate the picture.",DI;NCP
+koas1236-40,koas1236,koas1236-ci-2sg-indexing-marker,1,simple,S,2sg,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],"There are multiple verb classes that all contain both transitive and intransitive verbs. We have selected the largest class here which we call 2AB, since the alignment patterns across classes are largely the same. The 2AB class unites the 2Ai, 2Aii, and 2B classes of the grammar. Had we coded separately all these classes, we end up with alignment statements between ""mismatched"" active intransitive and transitive verbs (e.g. 2AB active intransitive with 2C transitive), which overcomplicate the picture.",DI;NCP
+koas1236-41,koas1236,koas1236-null-3-indexing-marker,1,simple,S,3,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],"There are multiple verb classes that all contain both transitive and intransitive verbs. We have selected the largest class here which we call 2AB, since the alignment patterns across classes are largely the same. The 2AB class unites the 2Ai, 2Aii, and 2B classes of the grammar. Had we coded separately all these classes, we end up with alignment statements between ""mismatched"" active intransitive and transitive verbs (e.g. 2AB active intransitive with 2C transitive), which overcomplicate the picture.",DI;NCP
+koas1236-42,koas1236,koas1236-hili-1pl-indexing-marker,1,simple,S,1pl,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],"There are multiple verb classes that all contain both transitive and intransitive verbs. We have selected the largest class here which we call 2AB, since the alignment patterns across classes are largely the same. The 2AB class unites the 2Ai, 2Aii, and 2B classes of the grammar. Had we coded separately all these classes, we end up with alignment statements between ""mismatched"" active intransitive and transitive verbs (e.g. 2AB active intransitive with 2C transitive), which overcomplicate the picture.",DI;NCP
+koas1236-43,koas1236,koas1236-haci-2pl-indexing-marker,1,simple,S,2pl,NA,NA,any,NA,any,2AB active intransitive,,kimball1991koasati[56-89],"There are multiple verb classes that all contain both transitive and intransitive verbs. We have selected the largest class here which we call 2AB, since the alignment patterns across classes are largely the same. The 2AB class unites the 2Ai, 2Aii, and 2B classes of the grammar. Had we coded separately all these classes, we end up with alignment statements between ""mismatched"" active intransitive and transitive verbs (e.g. 2AB active intransitive with 2C transitive), which overcomplicate the picture.",DI;NCP
 koyr1242-1,koyr1242,koyr1242-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,condition 1,heath1999koyraboro[79],,AWM
 koyr1242-10,koyr1242,koyr1242-no-flagging,,NA,S,3sgPro,NA,NA,any,NA,any,default,condition 2 (uncommon SVO),heath1999koyraboro[79],,AWM
 koyr1242-11,koyr1242,koyr1242-no-flagging,,simple,A,3sgPro,P,any,any,none,any,default,condition 2 (uncommon SVO),heath1999koyraboro[79],,AWM
