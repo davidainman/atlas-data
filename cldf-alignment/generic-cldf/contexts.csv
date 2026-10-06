@@ -2888,35 +2888,70 @@ emer1243-7,emer1243,emer1243-no-flagging,,simple,A,2plPro,P,Noun,any,none,any,de
 emer1243-8,emer1243,emer1243-pen-flagging,,simple,A,2plPro,P,1sgPro,any,none,any,default,any,rose2011emerillon[72-74],,NCP;DI
 emer1243-9,emer1243,emer1243-no-flagging,,simple,P,Noun,A,any,any,none,any,default,any,rose2011emerillon[122-125],,NCP;DI
 enap1235-1,enap1235,enap1235-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"payne2013panare[205,238,288,88-89]",,HT
-enap1235-10,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-1,simple,A,2pl,P,3pl,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-11,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-1,NA,S,2sg,NA,NA,any,NA,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-12,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-1,simple,A,2sg,P,1sg,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-13,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-1,simple,A,2sg,P,1pl.excl,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-14,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-1,simple,A,2sg,P,3sg,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-15,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-1,simple,A,2sg,P,3pl,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-16,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-1,NA,S,1pl.excl,NA,NA,any,NA,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-17,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-1,simple,A,1pl.excl,P,2sg,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-18,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-1,simple,A,1pl.excl,P,2pl,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-19,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-1,simple,A,1pl.excl,P,3sg,any,none,any,default,,payne2013panare[196-203],,TH;AWM
 enap1235-2,enap1235,enap1235-no-flagging,,simple,A,any,P,any,any,none,any,default,,"payne2013panare[205,238,288,88-89]",,HT
-enap1235-20,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-1,simple,A,1pl.excl,P,3pl,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-21,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-1,NA,S,1pl.incl,NA,NA,any,NA,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-22,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-1,simple,A,1pl.incl,P,3sg,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-23,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-1,simple,A,1pl.incl,P,3pl,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-24,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-1,NA,S,3pl,NA,NA,any,NA,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-25,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-1,NA,S,3sg,NA,NA,any,NA,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-26,enap1235,enap1235-t-1sga-indexing-marker,-1,simple,A,1sg,P,3sg,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-27,enap1235,enap1235-t-1sga-indexing-marker,-1,simple,A,1sg,P,3pl,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-28,enap1235,enap1235-t-1sga-indexing-marker,-1,simple,A,1sg,P,2sg,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-29,enap1235,enap1235-t-1sga-indexing-marker,-1,simple,A,1sg,P,2pl,any,none,any,default,,payne2013panare[196-203],,TH;AWM
 enap1235-3,enap1235,enap1235-no-flagging,,simple,P,any,A,any,any,none,any,default,,"payne2013panare[205,238,288,88-89]",,HT
-enap1235-30,enap1235,enap1235-w-1sgs-indexing-marker,-1,NA,S,1sg,NA,NA,any,NA,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-4,enap1235,enap1235-a-2p-indexing-marker,-2,simple,P,2sg,A,3pl,any,INV,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-5,enap1235,enap1235-a-2p-indexing-marker,-2,simple,P,2sg,A,3sg,any,INV,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-6,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-1,NA,S,2pl,NA,NA,any,NA,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-7,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-1,simple,A,2pl,P,1sg,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-8,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-1,simple,A,2pl,P,1pl.excl,any,none,any,default,,payne2013panare[196-203],,TH;AWM
-enap1235-9,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-1,simple,A,2pl,P,3sg,any,none,any,default,,payne2013panare[196-203],,TH;AWM
+enap1235-4,enap1235,enap1235-w-0-1sgs-indexing-marker,-2,NA,S,1sg,NA,NA,past-perfective,NA,any,any,any,payne2013panare[196-203],,DI
+enap1235-5,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-2,NA,S,1pl.excl,NA,NA,past-perfective,NA,any,any,any,payne2013panare[196-203],,DI
+enap1235-6,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-2,NA,S,1pl.incl,NA,NA,past-perfective,NA,any,any,any,payne2013panare[196-203],,DI
+enap1235-7,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-2,NA,S,2,NA,NA,past-perfective,NA,any,any,any,payne2013panare[196-203],,DI
+enap1235-8,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-2,NA,S,3,NA,NA,past-perfective,NA,any,any,any,payne2013panare[196-203],,DI
+enap1235-9,enap1235,enap1235-y-0-1sgs-indexing-marker,-2,NA,S,1sg,NA,NA,non-past-perfective,NA,non-exemplar,stative,any,payne2013panare[196-203],,DI
+enap1235-10,enap1235,enap1235-ana-1excls-indexing-marker,-2,NA,S,1pl.excl,NA,NA,non-past-perfective,NA,non-exemplar,stative,any,payne2013panare[196-203],,DI
+enap1235-11,enap1235,enap1235-y-0-1sgs-indexing-marker,-2,NA,S,1pl.incl,NA,NA,non-past-perfective,NA,non-exemplar,stative,any,payne2013panare[196-203],,DI
+enap1235-12,enap1235,enap1235-ne-1incls-indexing-marker,1,NA,S,1pl.incl,NA,NA,non-past-perfective,NA,non-exemplar,stative,any,payne2013panare[196-203],,DI
+enap1235-13,enap1235,enap1235-ay-2s-indexing-marker,-2,NA,S,2,NA,NA,non-past-perfective,NA,non-exemplar,stative,any,payne2013panare[196-203],,DI
+enap1235-14,enap1235,enap1235-ty-yv-3s-indexing-marker,-2,NA,S,3,NA,NA,non-past-perfective,NA,non-exemplar,stative,any,payne2013panare[196-203],,DI
+enap1235-15,enap1235,enap1235-y-0-1sgs-indexing-marker,-2,NA,S,1sg,NA,NA,non-past-perfective,NA,non-exemplar,active,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-16,enap1235,enap1235-ana-1excls-indexing-marker,-2,NA,S,1pl.excl,NA,NA,non-past-perfective,NA,non-exemplar,active,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-17,enap1235,enap1235-y-0-1sgs-indexing-marker,-2,NA,S,1pl.incl,NA,NA,non-past-perfective,NA,non-exemplar,active,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-18,enap1235,enap1235-ne-1incls-indexing-marker,1,NA,S,1pl.incl,NA,NA,non-past-perfective,NA,non-exemplar,active,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-19,enap1235,enap1235-ay-2s-indexing-marker,-2,NA,S,2,NA,NA,non-past-perfective,NA,non-exemplar,active,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-20,enap1235,enap1235-y-0-3-indexing-marker,-2,NA,S,3,NA,NA,non-past-perfective,NA,non-exemplar,active,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-21,enap1235,enap1235-role-not-marked,NA,NA,S,1sg,NA,NA,non-past-perfective,NA,non-exemplar,active,pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-22,enap1235,enap1235-role-not-marked,NA,NA,S,1pl.excl,NA,NA,non-past-perfective,NA,non-exemplar,active,pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-23,enap1235,enap1235-role-not-marked,NA,NA,S,1pl.incl,NA,NA,non-past-perfective,NA,non-exemplar,active,pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-24,enap1235,enap1235-role-not-marked,NA,NA,S,2,NA,NA,non-past-perfective,NA,non-exemplar,active,pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-25,enap1235,enap1235-role-not-marked,NA,NA,S,3,NA,NA,non-past-perfective,NA,non-exemplar,active,pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-26,enap1235,enap1235-role-not-marked,NA,NA,S,1sg,NA,NA,imperfective,NA,non-exemplar,any,any,payne2013panare[196-203],,DI
+enap1235-27,enap1235,enap1235-role-not-marked,NA,NA,S,1pl.excl,NA,NA,imperfective,NA,non-exemplar,any,any,payne2013panare[196-203],,DI
+enap1235-28,enap1235,enap1235-role-not-marked,NA,NA,S,1pl.incl,NA,NA,imperfective,NA,non-exemplar,any,any,payne2013panare[196-203],,DI
+enap1235-29,enap1235,enap1235-role-not-marked,NA,NA,S,2,NA,NA,imperfective,NA,non-exemplar,any,any,payne2013panare[196-203],,DI
+enap1235-30,enap1235,enap1235-role-not-marked,NA,NA,S,3,NA,NA,imperfective,NA,non-exemplar,any,any,payne2013panare[196-203],,DI
+enap1235-31,enap1235,enap1235-k-1sg-2-indexing-marker,-2,portmanteau,A,1sg,P,2,past-perfective,none,any,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-32,enap1235,enap1235-k-1sg-2-indexing-marker,-2,portmanteau,P,2,A,1sg,past-perfective,none,any,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-33,enap1235,enap1235-t-1sga-indexing-marker,-2,simple,A,1sg,P,3,past-perfective,none,any,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-34,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-2,simple,A,1pl.excl,P,2,past-perfective,none,any,default,any,payne2013panare[196-203],"Note that 1excl>2 is actually not expressable without a pre-verbal P; we have chosen to encode this alignment as ""condition blind"" (which is plausibly correct in terms of alignment, but not in terms of what the possible word orders in the language are)",DI
+enap1235-35,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-2,simple,A,1pl.excl,P,3,past-perfective,none,any,default,any,payne2013panare[196-203],"Note that 1excl>3 is actually not expressable without a pre-verbal P; we have chosen to encode this alignment as ""condition blind"" (which is plausibly correct in terms of alignment, but not in terms of what the possible word orders in the language are)",DI
+enap1235-36,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-2,simple,A,1pl.incl,P,3,past-perfective,none,any,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-37,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-2,simple,A,2,P,1sg,past-perfective,none,any,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-38,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-2,simple,A,2,P,1pl.excl,past-perfective,none,any,default,any,payne2013panare[196-203],"Note that 2>1excl is actually not expressable without a pre-verbal P; we have chosen to encode this alignment as ""condition blind"" (which is plausibly correct in terms of alignment, but not in terms of what the possible word orders in the language are)",DI
+enap1235-39,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-2,simple,A,2,P,3,past-perfective,none,any,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-40,enap1235,enap1235-y-0-3-indexing-marker,-2,simple,A,3,P,1sg,past-perfective,none,any,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-41,enap1235,enap1235-y-0-3-indexing-marker,-2,simple,A,3,P,1pl.excl,past-perfective,none,any,default,any,payne2013panare[196-203],"Note that 3>1excl is actually not expressable without a pre-verbal P; we have chosen to encode this alignment as ""condition blind"" (which is plausibly correct in terms of alignment, but not in terms of what the possible word orders in the language are)",DI
+enap1235-42,enap1235,enap1235-y-0-3-indexing-marker,-2,simple,A,3,P,1pl.incl,past-perfective,none,any,default,any,payne2013panare[196-203],"Note that 3>1incl is inferred to be not expressable without a pre-verbal P (no examples present in grammar, and not discussed overtly); we have chosen to encode this alignment as ""condition blind"" (which is plausibly correct in terms of alignment, but not in terms of what the possible word orders in the language are)",DI
+enap1235-43,enap1235,enap1235-y-0-3-indexing-marker,-2,simple,A,3,P,2,past-perfective,none,any,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-44,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-2,simple,A,3,P,3,past-perfective,none,any,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-45,enap1235,enap1235-leftward-stress-shift-indexing-marker,-3,simple,P,1sg,A,any,past-perfective,none,any,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-46,enap1235,enap1235-a-2p-indexing-marker,-3,simple,P,2,A,3,past-perfective,none,any,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-47,enap1235,enap1235-t-1sga-indexing-marker,-2,simple,A,1sg,P,any,past-perfective,none,any,default,pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-48,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-2,simple,A,1pl.excl,P,any,past-perfective,none,any,default,pre-verbal S/P,payne2013panare[196-203],"Note that 1excl>2 is actually not expressable without a pre-verbal P; we have chosen to encode this alignment as ""condition blind"" (which is plausibly correct in terms of alignment, but not in terms of what the possible word orders in the language are)",DI
+enap1235-49,enap1235,enap1235-n-1excls-a-1incls-a-3s-3a-3p-indexing-marker,-2,simple,A,1pl.incl,P,any,past-perfective,none,any,default,pre-verbal S/P,payne2013panare[196-203],"Note that incl>2 is actually not expressable without a pre-verbal P; we have chosen to encode this alignment as ""condition blind"" (which is plausibly correct in terms of alignment, but not in terms of what the possible word orders in the language are)",DI
+enap1235-50,enap1235,enap1235-m-2s-2a-3p-2a-1p-indexing-marker,-2,simple,A,2,P,any,past-perfective,none,any,default,pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-51,enap1235,enap1235-y-0-3-indexing-marker,-2,simple,A,3,P,any,past-perfective,none,any,default,pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-53,enap1235,enap1235-leftward-stress-shift-indexing-marker,-3,simple,P,1sg,A,any,non-past-perfective,none,non-exemplar,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-54,enap1235,enap1235-y-0-1sgs-indexing-marker,-2,simple,P,1excl,A,any,non-past-perfective,none,non-exemplar,default,no pre-verbal S/P,payne2013panare[196-203],"Note that 1excl>any is actually not expressable without a pre-verbal P; we have chosen to encode this alignment as ""condition blind"" (which is plausibly correct in terms of alignment, but not in terms of what the possible word orders in the language are)",DI
+enap1235-55,enap1235,enap1235-y-0-1sgs-indexing-marker,-2,simple,P,1incl,A,any,non-past-perfective,none,non-exemplar,default,no pre-verbal S/P,payne2013panare[196-203],"Note that 1incl>any is actually not expressable without a pre-verbal P; we have chosen to encode this alignment as ""condition blind"" (which is plausibly correct in terms of alignment, but not in terms of what the possible word orders in the language are)",DI
+enap1235-56,enap1235,enap1235-a-2p-indexing-marker,-3,simple,P,2,A,any,non-past-perfective,none,non-exemplar,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-57,enap1235,enap1235-y-0-3-indexing-marker,-2,simple,P,3,A,any,non-past-perfective,none,non-exemplar,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-58,enap1235,enap1235-leftward-stress-shift-indexing-marker,-3,simple,P,1sg,A,any,imperfective,none,non-exemplar,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-59,enap1235,enap1235-y-0-1sgs-indexing-marker,-2,simple,P,1excl,A,any,imperfective,none,non-exemplar,default,no pre-verbal S/P,payne2013panare[196-203],"Note that 1excl>any is actually not expressable without a pre-verbal P; we have chosen to encode this alignment as ""condition blind"" (which is plausibly correct in terms of alignment, but not in terms of what the possible word orders in the language are)",DI
+enap1235-60,enap1235,enap1235-y-0-1sgs-indexing-marker,-2,simple,P,1incl,A,any,imperfective,none,non-exemplar,default,no pre-verbal S/P,payne2013panare[196-203],"Note that 1incl>any is actually not expressable without a pre-verbal P; we have chosen to encode this alignment as ""condition blind"" (which is plausibly correct in terms of alignment, but not in terms of what the possible word orders in the language are)",DI
+enap1235-61,enap1235,enap1235-a-2p-indexing-marker,-3,simple,P,2,A,any,imperfective,none,non-exemplar,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-62,enap1235,enap1235-y-0-3-indexing-marker,-2,simple,P,3,A,any,imperfective,none,non-exemplar,default,no pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-63,enap1235,enap1235-role-not-marked,NA,simple,P,any,A,any,non-past-perfective,none,non-exemplar,default,pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-64,enap1235,enap1235-role-not-marked,NA,simple,A,any,P,any,non-past-perfective,none,non-exemplar,default,pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-68,enap1235,enap1235-role-not-marked,NA,simple,A,any,P,any,imperfective,none,non-exemplar,default,pre-verbal S/P,payne2013panare[196-203],,DI
+enap1235-69,enap1235,enap1235-role-not-marked,NA,simple,P,any,A,any,imperfective,none,non-exemplar,default,pre-verbal S/P,payne2013panare[196-203],,DI
 esee1248-1,esee1248,esee1248-erg-case-flagging,,simple,A,any,P,any,non-progressive,none,any,default,,vuillermet2012eseejja[285-287],,AWM
 esee1248-10,esee1248,esee1248-a-1-and-2a-prs-indexing-marker,11,simple,A,2sg,P,any,present (non-progressive),none,non-exemplar,default,any,vuillermet2012eseejja[373],"The slot number is different (+2) from the grammar, but the grammar author (MV) has revised it.",MV;NCP
 esee1248-11,esee1248,esee1248-a-1-and-2a-prs-indexing-marker,11,simple,A,2pl,P,any,present (non-progressive),none,non-exemplar,default,any,vuillermet2012eseejja[373],"The slot number is different (+2) from the grammar, but the grammar author (MV) has revised it.",MV;NCP
