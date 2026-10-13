@@ -244,6 +244,7 @@ def is_local_marked_independently(sub_references):
 # Output: all_tables
 def get_tables_for_subconditions(sub_references):
     all_tables = []
+    same_predicate_classes = set(sub_references.Monovalent_predicate_class.values) == set(sub_references.Bivalent_predicate_class.values)
     for exemplar in set(sub_references.Exemplar.values):
         exemplar_table = sub_references[(sub_references.Exemplar == "all")]
         for tam in set(exemplar_table.TAM.values):
@@ -252,7 +253,11 @@ def get_tables_for_subconditions(sub_references):
                 condition_table = tam_table[(tam_table.Condition == condition)]
                 for monopred in set(condition_table.Monovalent_predicate_class.values):
                     monopred_table = condition_table[(condition_table.Monovalent_predicate_class == monopred)]
-                    for bipred in set(monopred_table.Bivalent_predicate_class.values):
+                    if same_predicate_classes: # compare the same pred classes across S/A/P
+                        bipred_classes = set([monopred])
+                    else: # compare all pred classes to all others
+                        bipred_classes = set(monopred_table.Bivalent_predicate_class.values)
+                    for bipred in bipred_classes:
                         bipred_table = monopred_table[(monopred_table.Bivalent_predicate_class == bipred)]
                         all_tables.append(bipred_table)
     return all_tables
@@ -266,6 +271,7 @@ def get_tables_for_subconditions(sub_references):
 #             every possible value for tam, condition, monovalent predicate, bivalent predicate
 def is_any_hierarchical(sub_references):
     any_hierarchical = False
+    same_predicate_classes = set(sub_references.Monovalent_predicate_class.values) == set(sub_references.Bivalent_predicate_class.values)
     # we only care about all alignments, i.e. with all 3rd persons
     exemplar_table = sub_references[(sub_references.Exemplar == "all")]
     for tam in set(exemplar_table.TAM.values):
@@ -274,7 +280,11 @@ def is_any_hierarchical(sub_references):
             condition_table = tam_table[(tam_table.Condition == condition)]
             for monopred in set(condition_table.Monovalent_predicate_class.values):
                 monopred_table = condition_table[(condition_table.Monovalent_predicate_class == monopred)]
-                for bipred in set(monopred_table.Bivalent_predicate_class.values):
+                if same_predicate_classes: # compare the same predicate clases across S/A/P
+                    bipred_classes = set([monopred])
+                else: # compare all predicate classes to all others
+                    bipred_classes = set(monopred_table.Bivalent_predicate_class.values)
+                for bipred in bipred_classes:
                     bipred_table = monopred_table[(monopred_table.Bivalent_predicate_class == bipred)]
                     local_marked_independently = is_local_marked_independently(bipred_table)
                     s_marking, a_marking, p_marking = get_s_a_p_marking(bipred_table)
