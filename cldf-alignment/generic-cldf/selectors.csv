@@ -2821,8 +2821,6 @@ yuki1243-acc-marking-flagging,yuki1243,flagging,ACC marking,overt,,"balodis2011y
 yuki1243-no-flagging,yuki1243,flagging,NO_FLAGGING,zero,,"balodis2011yuki[148,236-237,248-251,253,259-260,262,350,374]",HT,any,any,Noun-low;Pro-low,neutral,
 yuki1243-role-not-marked,yuki1243,indexing trigger,ROLE_NOT_MARKED,zero,NA,"balodis2011yuki[432-433,578]",HT,NONE,NONE,NONE,NA,
 yukp1241-no-flagging,yukp1241,flagging,NO_FLAGGING,zero,,nino1999yukpa[23-43],DI,any,any,any,neutral,
-yukp1241-role-not-marked,yukp1241,indexing trigger,ROLE_NOT_MARKED,zero,NA,nino1999yukpa[62-65],DI,any,any,NONE,NA,
-yukp1241-s-a-prefixes-indexing-marker,yukp1241,indexing marker,S/A prefixes,overt,person,nino1999yukpa[62-65],DI,any,any,NONE,accusative,
 yura1255-no-flagging,yura1255,flagging,NO_FLAGGING,zero,,"vangijn2006yurakare[116,93]",HT,any,any,any,neutral,
 yura1255-null-marker,yura1255,indexing marker,NULL_MARKER,zero,person+number,vangijn2006yurakare[143-147],HT;AWM,3sg_classI;3sg_classIII;3sg_classIV,3sg_classI;3sg_classIII;3sg_classIV,3sg_classI,neutral,
 yura1255-p-marker-ka-indexing-marker,yura1255,indexing marker,P marker ka-,overt,person+number,vangijn2006yurakare[143-147],HT;AWM,NONE,NONE,3sg_classIII;3sg_classIV,accusative,

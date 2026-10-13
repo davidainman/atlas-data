@@ -2240,12 +2240,12 @@ yuki1243-split-s,yuki1243,split-s,True,HT,"balodis2011yuki[148,236-237,248-251,2
 yuki1243-coargument-sensitivity flagging,yuki1243,coargument-sensitivity flagging,no,HT,"balodis2011yuki[148,236-237,248-251,253,259-260,262,350,374,432-433,578]"
 yuki1243-coargument-sensitivity indexing,yuki1243,coargument-sensitivity indexing,no,HT,"balodis2011yuki[148,236-237,248-251,253,259-260,262,350,374,432-433,578]"
 yukp1241-flagging,yukp1241,flagging,False,DI,nino1999yukpa[23-43]
-yukp1241-indexing,yukp1241,indexing,True,DI,nino1999yukpa[23-43]
-yukp1241-indexing-features,yukp1241,indexing-features,person,DI,nino1999yukpa[23-43]
-yukp1241-tam-split,yukp1241,tam-split,False,DI,"nino1999yukpa[23-43,62-65]"
-yukp1241-split-s,yukp1241,split-s,False,DI,"nino1999yukpa[23-43,62-65]"
-yukp1241-coargument-sensitivity flagging,yukp1241,coargument-sensitivity flagging,no,DI,"nino1999yukpa[23-43,62-65]"
-yukp1241-coargument-sensitivity indexing,yukp1241,coargument-sensitivity indexing,no,DI,"nino1999yukpa[23-43,62-65]"
+yukp1241-indexing,yukp1241,indexing,True,auto,nino1999yukpa[23-43]
+yukp1241-indexing-features,yukp1241,indexing-features,?,auto,nino1999yukpa[23-43]
+yukp1241-tam-split,yukp1241,tam-split,?,DI,nino1999yukpa[23-43]
+yukp1241-split-s,yukp1241,split-s,?,DI,nino1999yukpa[23-43]
+yukp1241-coargument-sensitivity flagging,yukp1241,coargument-sensitivity flagging,no,DI,nino1999yukpa[23-43]
+yukp1241-coargument-sensitivity indexing,yukp1241,coargument-sensitivity indexing,no,DI,nino1999yukpa[23-43]
 yura1255-flagging,yura1255,flagging,False,HT,"vangijn2006yurakare[116,93]"
 yura1255-indexing,yura1255,indexing,True,AWM;HT,"vangijn2006yurakare[116,93]"
 yura1255-indexing-features,yura1255,indexing-features,person+number,AWM;HT,"vangijn2006yurakare[116,93]"
@@ -8046,20 +8046,20 @@ yuki1243-S!=A flagging,yuki1243,S!=A flagging,True,HT,"balodis2011yuki[148,236-2
 yuki1243-S!=A indexing,yuki1243,S!=A indexing,False,HT,"balodis2011yuki[148,236-237,248-251,253,259-260,262,350,374]"
 yukp1241-align-noun,yukp1241,align-noun,no marking,DI,nino1999yukpa[23-43]
 yukp1241-align-pro,yukp1241,align-pro,no marking,DI,nino1999yukpa[23-43]
-yukp1241-align-index,yukp1241,align-index,accusative;no marking,DI,nino1999yukpa[23-43]
+yukp1241-align-index,yukp1241,align-index,NA,auto,nino1999yukpa[23-43]
 yukp1241-align-noun-nl,yukp1241,align-noun-nl,no marking,DI,nino1999yukpa[23-43]
 yukp1241-align-pro-nl,yukp1241,align-pro-nl,no marking,DI,nino1999yukpa[23-43]
-yukp1241-align-index-nl,yukp1241,align-index-nl,accusative;no marking,DI,nino1999yukpa[23-43]
-yukp1241-ref-ergative,yukp1241,ref-ergative,False,DI,nino1999yukpa[23-43]
-yukp1241-ref-ergative-domain,yukp1241,ref-ergative-domain,NA,DI,nino1999yukpa[23-43]
-yukp1241-ref-tripartite,yukp1241,ref-tripartite,False,DI,nino1999yukpa[23-43]
-yukp1241-ref-tripartite-domain,yukp1241,ref-tripartite-domain,NA,DI,nino1999yukpa[23-43]
-yukp1241-ref-horizontal,yukp1241,ref-horizontal,False,DI,nino1999yukpa[23-43]
-yukp1241-ref-horizontal-domain,yukp1241,ref-horizontal-domain,NA,DI,nino1999yukpa[23-43]
-yukp1241-ref-sensitive,yukp1241,ref-sensitive,False,DI,nino1999yukpa[23-43]
-yukp1241-ref-sensitive-domain,yukp1241,ref-sensitive-domain,NA,DI,nino1999yukpa[23-43]
-yukp1241-S!=A flagging,yukp1241,S!=A flagging,False,DI,nino1999yukpa[23-43]
-yukp1241-S!=A indexing,yukp1241,S!=A indexing,False,DI,nino1999yukpa[23-43]
+yukp1241-align-index-nl,yukp1241,align-index-nl,NA,auto,nino1999yukpa[23-43]
+yukp1241-ref-ergative,yukp1241,ref-ergative,False,DI;auto,nino1999yukpa[23-43]
+yukp1241-ref-ergative-domain,yukp1241,ref-ergative-domain,NA,DI;auto,nino1999yukpa[23-43]
+yukp1241-ref-tripartite,yukp1241,ref-tripartite,False,DI;auto,nino1999yukpa[23-43]
+yukp1241-ref-tripartite-domain,yukp1241,ref-tripartite-domain,NA,DI;auto,nino1999yukpa[23-43]
+yukp1241-ref-horizontal,yukp1241,ref-horizontal,False,DI;auto,nino1999yukpa[23-43]
+yukp1241-ref-horizontal-domain,yukp1241,ref-horizontal-domain,NA,DI;auto,nino1999yukpa[23-43]
+yukp1241-ref-sensitive,yukp1241,ref-sensitive,False,DI;auto,nino1999yukpa[23-43]
+yukp1241-ref-sensitive-domain,yukp1241,ref-sensitive-domain,NA,DI;auto,nino1999yukpa[23-43]
+yukp1241-S!=A flagging,yukp1241,S!=A flagging,False,auto,nino1999yukpa[23-43]
+yukp1241-S!=A indexing,yukp1241,S!=A indexing,False,auto,nino1999yukpa[23-43]
 yura1255-align-noun,yura1255,align-noun,no marking,HT,"vangijn2006yurakare[116,93]"
 yura1255-align-pro,yura1255,align-pro,no marking,HT,"vangijn2006yurakare[116,93]"
 yura1255-align-index,yura1255,align-index,accusative,AWM;HT,"vangijn2006yurakare[116,93]"
