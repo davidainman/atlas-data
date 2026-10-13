@@ -902,9 +902,9 @@ Co-argument sensitivity is predominantly found in indexing ([Align-15](../parame
 
 **Data collection**: [David Inman](Contributor#cldf:DI), [Alena Witzlack-Makarevich](Contributor#cldf:AWM), [Alexandra Nogina](Contributor#cldf:AN), [Natalia Chousou-Polydouri](Contributor#cldf:NCP), [Marine Vuillermet](Contributor#cldf:MV), [Tai Hong](Contributor#cldf:HT), [Anna Graff](Contributor#cldf:AG)
 
-**Validation*: [Pantelis Chatzoudis](Contributor#cldf:PC)
-
 **Supervision of data collection**: [David Inman](Contributor#cldf:DI), [Alena Witzlack-Makarevich](Contributor#cldf:AWM), [Natalia Chousou-Polydouri](Contributor#cldf:NCP)
+
+**Validation**: [Pantelis Chatzoudis](Contributor#cldf:PC)
 
 **Computer code**: [David Inman](Contributor#cldf:DI), [Melvin Steiger](Contributor#cldf:MS), [Natalia Chousou-Polydouri](Contributor#cldf:NCP)
 
