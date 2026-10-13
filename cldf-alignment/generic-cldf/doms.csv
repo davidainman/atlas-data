@@ -29,7 +29,7 @@ lake1258-1,lake1258,Co-argument_reference+Miscellaneous_condition,ACC marking,in
 leco1242-1,leco1242,Reference,-ki ACC/DAT,accusative,Noun-high,NO_FLAGGING,no marking,Noun-low,,,,,,,kerke2006object[175-187],MV;NCP
 maba1277-1,maba1277,Miscellaneous_condition+Reference,=nú=gù pl P,accusative,unknown condition+Noun-pl-def,NO_FLAGGING,no marking,default+Noun-pl-def;default+Noun-pl-indef;default+Noun-sg-def;default+Noun-sg-indef;unknown condition+Noun-pl-indef;unknown condition+Noun-sg-def;unknown condition+Noun-sg-indef,,,,,,,"weiss2009maba[130-131,174-179]",AN;NCP;DI
 manc1252-1,manc1252,Reference,ACC marking,accusative,Noun-high,NO_FLAGGING,no marking,Noun-low,,,,,,,"gorelova2002manchu[163-168,216]",HT; AWM
-meny1245-1,meny1245,Reference,ACC case,accusative,Noun-high,NO_FLAGGING,no marking,Noun-low,,,,,,,whitehead2004reference[23-24],AWM
+meny1245-1,meny1245,Reference,ACC case,accusative,Noun-human,NO_FLAGGING,no marking,Noun-non.human,,,,,,,whitehead2004reference[23-24],AWM;NCP
 miya1260-1,miya1260,Miscellaneous_condition,NO_FLAGGING,no marking,"non-default, related to topicalization and inclusive marking",accusative u/a,accusative,default,,,,,,,pellard2010ogami[129-144],HT;AWM
 mola1238-1,mola1238,Reference,ACC marking,accusative,Noun-animate,NO_FLAGGING,no marking,Noun-inanimate,,,,,,,pharris2006molalla[197-200],AN;AWM
 muru1274-1,muru1274,Miscellaneous_condition,ACC marking,accusative,topicalized core agruments,NO_FLAGGING,no marking,default,,,,,,,"wojtylak2017murui[154-155,159,273-274,278,282]",HT
