@@ -7333,21 +7333,21 @@ maya1285-7,maya1285,maya1285-role-not-marked,NA,NA,P,any,A,any,any,none,any,defa
 maya1285-8,maya1285,maya1285-s-a-suffixes-indexing-marker,1,NA,S,any,NA,NA,any,NA,any,default,,norwood1997mayangna[33-34],,DI
 maya1285-9,maya1285,maya1285-s-a-suffixes-indexing-marker,1,simple,A,any,P,any,any,none,any,default,,norwood1997mayangna[33-34],,DI
 meny1245-1,meny1245,meny1245-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,whitehead2004reference[23-24],"Pronouns unmarked, ""Noun phrases referring to humans (and non-humans that play a prominent role in a text) generally conclude with a demonstrative,” and these demonstrative pronouns are marked with a clitic in object position (Whitehead 2004:23).",AWM
-meny1245-10,meny1245,meny1245-a-2p-3p-s-a-indexing-indexing-marker,1,NA,S,3pl-high,NA,NA,any,NA,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
-meny1245-11,meny1245,meny1245-a-2p-3p-s-a-indexing-indexing-marker,1,simple,A,3pl-high,P,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
+meny1245-10,meny1245,meny1245-a-2p-3p-s-a-indexing-indexing-marker,1,NA,S,3pl-human,NA,NA,any,NA,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
+meny1245-11,meny1245,meny1245-a-2p-3p-s-a-indexing-indexing-marker,1,simple,A,3pl-human,P,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
 meny1245-12,meny1245,meny1245-a-2p-3p-s-a-indexing-indexing-marker,1,simple,A,3pl-low,P,any,any,none,non-exemplar,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
 meny1245-13,meny1245,meny1245-a-2p-3p-s-a-indexing-indexing-marker,1,NA,S,3pl-low,NA,NA,any,NA,non-exemplar,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
-meny1245-14,meny1245,meny1245-i-3s-s-a-indexing-indexing-marker,1,NA,S,3sg-high,NA,NA,any,NA,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
-meny1245-15,meny1245,meny1245-i-3s-s-a-indexing-indexing-marker,1,simple,A,3sg-high,P,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
+meny1245-14,meny1245,meny1245-i-3s-s-a-indexing-indexing-marker,1,NA,S,3sg-human,NA,NA,any,NA,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
+meny1245-15,meny1245,meny1245-i-3s-s-a-indexing-indexing-marker,1,simple,A,3sg-human,P,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
 meny1245-16,meny1245,meny1245-i-3s-s-a-indexing-indexing-marker,1,simple,A,3sg-low,P,any,any,none,non-exemplar,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
 meny1245-17,meny1245,meny1245-i-3s-s-a-indexing-indexing-marker,1,NA,S,3sg-low,NA,NA,any,NA,non-exemplar,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
 meny1245-18,meny1245,meny1245-iny-2d-3d-s-a-indexing-indexing-marker,1,NA,S,2du,NA,NA,any,NA,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
 meny1245-19,meny1245,meny1245-iny-2d-3d-s-a-indexing-indexing-marker,1,simple,A,2du,P,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
 meny1245-2,meny1245,meny1245-no-flagging,,simple,A,any,P,any,any,none,any,default,,whitehead2004reference[23-24],,AWM
-meny1245-20,meny1245,meny1245-iny-2d-3d-s-a-indexing-indexing-marker,1,NA,S,3du-high,NA,NA,any,NA,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
-meny1245-21,meny1245,meny1245-iny-2d-3d-s-a-indexing-indexing-marker,1,simple,A,3du-high,P,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
-meny1245-22,meny1245,meny1245-iny-2d-3d-s-a-indexing-indexing-marker,1,simple,A,3du-low,P,any,any,none,non-exemplar,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
-meny1245-23,meny1245,meny1245-iny-2d-3d-s-a-indexing-indexing-marker,1,NA,S,3du-low,NA,NA,any,NA,non-exemplar,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
+meny1245-20,meny1245,meny1245-iny-2d-3d-s-a-indexing-indexing-marker,1,NA,S,3du-human,NA,NA,any,NA,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
+meny1245-21,meny1245,meny1245-iny-2d-3d-s-a-indexing-indexing-marker,1,simple,A,3du-human,P,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
+meny1245-22,meny1245,meny1245-iny-2d-3d-s-a-indexing-indexing-marker,1,simple,A,3du-non.human,P,any,any,none,non-exemplar,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
+meny1245-23,meny1245,meny1245-iny-2d-3d-s-a-indexing-indexing-marker,1,NA,S,3du-non.human,NA,NA,any,NA,non-exemplar,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
 meny1245-24,meny1245,meny1245-n-2s-s-a-indexing-indexing-marker,1,NA,S,2sg,NA,NA,any,NA,any,default,,"whitehead2004reference[103,94]",,AWM
 meny1245-25,meny1245,meny1245-n-2s-s-a-indexing-indexing-marker,1,simple,A,2sg,P,any,any,none,any,default,,"whitehead2004reference[103,94]",,AWM
 meny1245-26,meny1245,meny1245-u-1p-s-a-indexing-indexing-marker,1,NA,S,1pl,NA,NA,any,NA,any,default,,"whitehead2004reference[103,94]",,AWM
@@ -7359,16 +7359,16 @@ meny1245-30,meny1245,meny1245-e-2pl-p-indexing-indexing-marker,-1,simple,P,2pl,A
 meny1245-31,meny1245,meny1245-k-2sg-p-indexing-indexing-marker,-1,simple,P,2sg,A,any,any,none,any,default,,"whitehead2004reference[103,94]",,AWM
 meny1245-32,meny1245,meny1245-n-1sg-p-indexing-indexing-marker,-1,simple,P,1sg,A,any,any,none,any,default,,"whitehead2004reference[103,94]",,AWM
 meny1245-33,meny1245,meny1245-na-1pl-p-indexing-indexing-marker,-1,simple,P,1pl,A,any,any,none,any,default,,"whitehead2004reference[103,94]",,AWM
-meny1245-34,meny1245,meny1245-null-marker,NA,simple,P,3du-low,A,any,any,none,non-exemplar,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
-meny1245-35,meny1245,meny1245-null-marker,NA,simple,P,3pl-low,A,any,any,none,non-exemplar,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
-meny1245-36,meny1245,meny1245-null-marker,NA,simple,P,3sg-low,A,any,any,none,non-exemplar,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
-meny1245-37,meny1245,meny1245-qe-2du-p-indexing-indexing-marker,-1,simple,P,2du,A,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
-meny1245-38,meny1245,meny1245-w-3sg-pl-du-p-indexing-indexing-marker,-1,simple,P,3du-high,A,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
-meny1245-39,meny1245,meny1245-w-3sg-pl-du-p-indexing-indexing-marker,-1,simple,P,3pl-high,A,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
-meny1245-4,meny1245,meny1245-no-flagging,,simple,P,Noun-low,A,any,any,none,non-exemplar,default,,whitehead2004reference[23-24],,AWM
-meny1245-40,meny1245,meny1245-w-3sg-pl-du-p-indexing-indexing-marker,-1,simple,P,3sg-high,A,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
+meny1245-34,meny1245,meny1245-null-marker,NA,simple,P,3du-non.human,A,any,any,none,non-exemplar,default,,"whitehead2004reference[103,94]",High are all humans and prominent non-humans.,AWM;NCP
+meny1245-35,meny1245,meny1245-null-marker,NA,simple,P,3pl-non.human,A,any,any,none,non-exemplar,default,,"whitehead2004reference[103,94]",High are all humans and prominent non-humans.,AWM;NCP
+meny1245-36,meny1245,meny1245-null-marker,NA,simple,P,3sg-non.human,A,any,any,none,non-exemplar,default,,"whitehead2004reference[103,94]",High are all humans and prominent non-humans.,AWM;NCP
+meny1245-37,meny1245,meny1245-qe-2du-p-indexing-indexing-marker,-1,simple,P,2du,A,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and prominent non-humans.,AWM;NCP
+meny1245-38,meny1245,meny1245-w-3sg-pl-du-p-indexing-indexing-marker,-1,simple,P,3du-human,A,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and prominent non-humans.,AWM;NCP
+meny1245-39,meny1245,meny1245-w-3sg-pl-du-p-indexing-indexing-marker,-1,simple,P,3pl-human,A,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and prominent non-humans.,AWM;NCP
+meny1245-4,meny1245,meny1245-no-flagging,,simple,P,Noun-non.human,A,any,any,none,non-exemplar,default,,whitehead2004reference[23-24],,AWM;NCP
+meny1245-40,meny1245,meny1245-w-3sg-pl-du-p-indexing-indexing-marker,-1,simple,P,3sg-human,A,any,any,none,any,default,,"whitehead2004reference[103,94]",High are all humans and definite non-humans.,AWM
 meny1245-41,meny1245,meny1245-ya-1du-p-indexing-indexing-marker,-1,simple,P,1du,A,any,any,none,any,default,,"whitehead2004reference[103,94]",,AWM
-meny1245-5,meny1245,meny1245-acc-case-flagging,,simple,P,Noun-high,A,any,any,none,any,default,,whitehead2004reference[23-24],Humans (and prominent non-humans) are marked with ACC.,AWM
+meny1245-5,meny1245,meny1245-acc-case-flagging,,simple,P,Noun-human,A,any,any,none,any,default,,whitehead2004reference[23-24],Humans (and prominent non-humans) are marked with ACC.,AWM;NCP
 meny1245-6,meny1245,meny1245-a-1s-s-a-indexing-indexing-marker,1,NA,S,1sg,NA,NA,any,NA,any,default,,"whitehead2004reference[103,94]",,AWM
 meny1245-7,meny1245,meny1245-a-1s-s-a-indexing-indexing-marker,1,simple,A,1sg,P,any,any,none,any,default,,"whitehead2004reference[103,94]",,AWM
 meny1245-8,meny1245,meny1245-a-2p-3p-s-a-indexing-indexing-marker,1,NA,S,2pl,NA,NA,any,NA,any,default,,"whitehead2004reference[103,94]",,AWM

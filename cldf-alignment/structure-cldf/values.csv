@@ -1171,10 +1171,10 @@ maya1285-coargument-sensitivity indexing,maya1285,coargument-sensitivity indexin
 meny1245-flagging,meny1245,flagging,True,AWM,whitehead2004reference[23-24]
 meny1245-indexing,meny1245,indexing,True,AWM,whitehead2004reference[23-24]
 meny1245-indexing-features,meny1245,indexing-features,person;person+number,AWM,whitehead2004reference[23-24]
-meny1245-tam-split,meny1245,tam-split,False,AWM,"whitehead2004reference[103,23-24,94]"
-meny1245-split-s,meny1245,split-s,False,AWM,"whitehead2004reference[103,23-24,94]"
-meny1245-coargument-sensitivity flagging,meny1245,coargument-sensitivity flagging,no,AWM,"whitehead2004reference[103,23-24,94]"
-meny1245-coargument-sensitivity indexing,meny1245,coargument-sensitivity indexing,no,AWM,"whitehead2004reference[103,23-24,94]"
+meny1245-tam-split,meny1245,tam-split,False,AWM;NCP,"whitehead2004reference[103,23-24,94]"
+meny1245-split-s,meny1245,split-s,False,AWM;NCP,"whitehead2004reference[103,23-24,94]"
+meny1245-coargument-sensitivity flagging,meny1245,coargument-sensitivity flagging,no,AWM;NCP,"whitehead2004reference[103,23-24,94]"
+meny1245-coargument-sensitivity indexing,meny1245,coargument-sensitivity indexing,no,AWM;NCP,"whitehead2004reference[103,23-24,94]"
 mezo1235-flagging,mezo1235,flagging,False,DI,"veermanleichsenring1991metzontla[332,379]"
 mezo1235-indexing,mezo1235,indexing,True,DI,"veermanleichsenring1991metzontla[332,379]"
 mezo1235-indexing-features,mezo1235,indexing-features,person,DI,"veermanleichsenring1991metzontla[332,379]"
@@ -2870,8 +2870,8 @@ maba1277-dom,maba1277,dom,Yes,AN;NCP;DI,"weiss2009maba[130-131,174-179]"
 maba1277-dom-trigger,maba1277,dom-trigger,Miscellaneous_condition+Reference,AN;NCP;DI,"weiss2009maba[130-131,174-179]"
 manc1252-dom,manc1252,dom,Yes,HT; AWM,"gorelova2002manchu[163-168,216]"
 manc1252-dom-trigger,manc1252,dom-trigger,Reference,HT; AWM,"gorelova2002manchu[163-168,216]"
-meny1245-dom,meny1245,dom,Yes,AWM,whitehead2004reference[23-24]
-meny1245-dom-trigger,meny1245,dom-trigger,Reference,AWM,whitehead2004reference[23-24]
+meny1245-dom,meny1245,dom,Yes,AWM;NCP,whitehead2004reference[23-24]
+meny1245-dom-trigger,meny1245,dom-trigger,Reference,AWM;NCP,whitehead2004reference[23-24]
 miya1260-dom,miya1260,dom,Yes,HT;AWM,pellard2010ogami[129-144]
 miya1260-dom-trigger,miya1260,dom-trigger,Miscellaneous_condition,HT;AWM,pellard2010ogami[129-144]
 mola1238-dom,mola1238,dom,Yes,AN;AWM,pharris2006molalla[197-200]
