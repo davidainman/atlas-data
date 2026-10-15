@@ -1,6 +1,6 @@
 **Authors**: [David Inman](Contributor#cldf:DI), [Alena Witzlack-Makarevich](Contributor#cldf:AWM), [Natalia Chousou-Polydouri](Contributor#cldf:NCP), [Marine Vuillermet](Contributor#cldf:MV), [Balthasar Bickel](Contributor#cldf:BB)
 
-**Acknowledgments**: [Alexandra Nogina](Contributor#cldf:AN), [Tai Hong](Contributor#cldf:HT), [Anna Graff](Contributor#cldf:AG), [Melvin Steiger](Contributor#cldf:MS)
+**Acknowledgments**: [Alexandra Nogina](Contributor#cldf:AN), [Tai Hong](Contributor#cldf:HT), [Anna Graff](Contributor#cldf:AG), [Melvin Steiger](Contributor#cldf:MS), [Pantelis Chatzoudis](Contributor#cldf:PC)
 
 [TOC]
 
@@ -903,6 +903,8 @@ Co-argument sensitivity is predominantly found in indexing ([Align-15](../parame
 **Data collection**: [David Inman](Contributor#cldf:DI), [Alena Witzlack-Makarevich](Contributor#cldf:AWM), [Alexandra Nogina](Contributor#cldf:AN), [Natalia Chousou-Polydouri](Contributor#cldf:NCP), [Marine Vuillermet](Contributor#cldf:MV), [Tai Hong](Contributor#cldf:HT), [Anna Graff](Contributor#cldf:AG)
 
 **Supervision of data collection**: [David Inman](Contributor#cldf:DI), [Alena Witzlack-Makarevich](Contributor#cldf:AWM), [Natalia Chousou-Polydouri](Contributor#cldf:NCP)
+
+**Validation**: [Pantelis Chatzoudis](Contributor#cldf:PC)
 
 **Computer code**: [David Inman](Contributor#cldf:DI), [Melvin Steiger](Contributor#cldf:MS), [Natalia Chousou-Polydouri](Contributor#cldf:NCP)
 

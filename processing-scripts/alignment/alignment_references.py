@@ -371,6 +371,10 @@ def sub_select_rows(
             # if there are no bi_preds, i.e. A and P are never indexed (but S is), hallucinate a default class
             if len(bi_preds) == 0:
                 bi_preds = set(["default"])
+            # if the mono_preds and bi_preds are the same, compare the same pred classes across S/A/P
+            same_preds = mono_preds == bi_preds
+            non_stative_mono_preds = set([x for x in mono_preds if "stative" not in x])
+            same_preds_minus_stative = non_stative_mono_preds == bi_preds
             # for each mono_pred, bi_pred, tam, and misc condition, subselect rows and yield for
             # for creation of intermediate rows
             for mono_pred in mono_preds:
@@ -378,7 +382,11 @@ def sub_select_rows(
                     row for row in birch_rows if ((row[E_PRED] == mono_pred or row[E_PRED] == "any") and row[E_ROLE] == "S") or
                                                  (row[E_ROLE] != "S")
                 ]
-                for bi_pred in bi_preds:
+                if same_preds or (same_preds_minus_stative and "stative" not in mono_pred): # only compare the same pred classes across S/A/P
+                    bi_preds_to_compare = set([mono_pred])
+                else: # compare every class to every other class
+                    bi_preds_to_compare = bi_preds
+                for bi_pred in bi_preds_to_compare:
                     bi_pred_rows = [
                         row for row in mono_pred_rows if ((row[E_PRED] == bi_pred or row[E_PRED] == "any") and row[E_ROLE] != "S") or
                                                          (row[E_ROLE] == "S")

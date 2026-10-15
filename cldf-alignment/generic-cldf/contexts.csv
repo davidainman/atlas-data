@@ -12763,100 +12763,100 @@ tari1256-7,tari1256,tari1256-acc-case-flagging,,simple,P,3plPro-high,A,any,any,n
 tari1256-8,tari1256,tari1256-acc-case-flagging,,simple,P,1sgPro,A,any,any,none,any,default,,aikhenvald2003tarianagrammar[139-140],,AWM
 tari1256-9,tari1256,tari1256-acc-case-flagging,,simple,P,1plPro,A,any,any,none,any,default,,aikhenvald2003tarianagrammar[139-140],,AWM
 tehu1242-1,tehu1242,tehu1242-no-flagging,,simple,P,any,A,any,any,none,any,any,,"garay1998tehuelche[119-120,180-199,313-315]",,DI; AWM
-tehu1242-10,tehu1242,tehu1242-3sg-n-p-1-indexing-marker,-1,simple,P,3sg.N,A,any,any,none,non-exemplar,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-2,tehu1242,tehu1242-no-flagging,,NA,S,any,NA,NA,any,NA,any,group 2,,"garay1998tehuelche[119-120,180-199,313-315]",,DI; AWM
+tehu1242-3,tehu1242,tehu1242-functional-postposition-s-flagging,,simple,A,any,P,any,any,none,any,any,,"garay1998tehuelche[119-120,180-199,313-315]",,DI; AWM
+tehu1242-4,tehu1242,tehu1242-functional-postposition-s-flagging,,NA,S,any,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[119-120,180-199,313-315]",,DI; AWM
+tehu1242-5,tehu1242,tehu1242-3sg-n-p-1-indexing-marker,-1&-4,NA,S,3du.N,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-6,tehu1242,tehu1242-3sg-n-p-1-indexing-marker,-1&-4,NA,S,3pl.N,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-7,tehu1242,tehu1242-3sg-n-p-1-indexing-marker,-1&-4,NA,S,3sg.N,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-8,tehu1242,tehu1242-3sg-n-p-1-indexing-marker,-1,simple,P,3du.N,A,any,any,none,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",Humans can only be masculine or feminine.,DI; AWM
+tehu1242-9,tehu1242,tehu1242-3sg-n-p-1-indexing-marker,-1,simple,P,3pl.N,A,any,any,none,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-10,tehu1242,tehu1242-3sg-n-p-1-indexing-marker,-1,simple,P,3sg.N,A,any,any,none,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-11,tehu1242,tehu1242-e-1sg-6-3-indexing-marker,-6,simple,A,1sg,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-12,tehu1242,tehu1242-e-1sg-6-3-indexing-marker,-3,simple,P,1sg,A,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-13,tehu1242,tehu1242-e-1sg-6-3-indexing-marker,-3,NA,S,1sg,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-14,tehu1242,tehu1242-e-1sg-6-3-indexing-marker,-3,NA,S,1sg,NA,NA,any,NA,any,default,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-15,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,NA,S,1du,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-16,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,NA,S,1pl,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-17,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,NA,S,1sg,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-18,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,NA,S,2du,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-19,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,NA,S,2pl,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-2,tehu1242,tehu1242-no-flagging,,NA,S,any,NA,NA,any,NA,any,intransitive group 2,,"garay1998tehuelche[119-120,180-199,313-315]",,DI; AWM
-tehu1242-20,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,NA,S,2sg,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-21,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,NA,S,3du.M/F,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-22,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,NA,S,3pl.M/F,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-23,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,NA,S,3sg.M/F,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-24,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,simple,P,3du.M/F,A,any,any,none,any,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-25,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,simple,P,3pl.M/F,A,any,any,none,any,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-26,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,simple,P,3sg.M/F,A,any,any,none,any,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-13,tehu1242,tehu1242-e-1sg-6-3-indexing-marker,-3&-6,NA,S,1sg,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-14,tehu1242,tehu1242-e-1sg-6-3-indexing-marker,-3&-6,NA,S,1sg,NA,NA,any,NA,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-15,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1&-4,NA,S,1du,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-16,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1&-4,NA,S,1pl,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-17,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1&-4,NA,S,1sg,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-18,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1&-4,NA,S,2du,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-19,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1&-4,NA,S,2pl,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-20,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1&-4,NA,S,2sg,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-21,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1&-4,NA,S,3du.M/F,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-22,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1&-4,NA,S,3pl.M/F,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-23,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1&-4,NA,S,3sg.M/F,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-24,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,simple,P,3du.M/F,A,any,any,none,any,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-25,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,simple,P,3pl.M/F,A,any,any,none,any,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-26,tehu1242,tehu1242-k-3sg-m-f-p-1-indexing-marker,-1,simple,P,3sg.M/F,A,any,any,none,any,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-27,tehu1242,tehu1242-k-du-5-2-indexing-marker,-5,simple,A,1du,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-28,tehu1242,tehu1242-k-du-5-2-indexing-marker,-5,simple,A,2du,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-29,tehu1242,tehu1242-k-du-5-2-indexing-marker,-5,simple,A,3du.M/F,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-3,tehu1242,tehu1242-functional-postposition-s-flagging,,simple,A,any,P,any,any,none,any,any,,"garay1998tehuelche[119-120,180-199,313-315]",,DI; AWM
 tehu1242-30,tehu1242,tehu1242-k-du-5-2-indexing-marker,-5,simple,A,3du.N,P,any,any,none,non-exemplar,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-31,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2,simple,P,1du,A,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-32,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2,simple,P,2du,A,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-33,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2,NA,S,1du,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-34,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2,NA,S,2du,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-35,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2,NA,S,3du.M/F,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-36,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2,NA,S,1du,NA,NA,any,NA,any,default,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-37,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2,NA,S,2du,NA,NA,any,NA,any,default,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-38,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2,simple,P,3du.M/F,A,any,any,none,any,transitive group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-39,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2,simple,P,3du.N,A,any,any,none,any,transitive group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-4,tehu1242,tehu1242-functional-postposition-s-flagging,,NA,S,any,NA,NA,any,NA,non-exemplar,intransitive group 1,,"garay1998tehuelche[119-120,180-199,313-315]",,DI; AWM
-tehu1242-40,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-4,simple,A,2du,P,any,any,none,any,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-33,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2&-5,NA,S,1du,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-34,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2&-5,NA,S,2du,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-35,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2&-5,NA,S,3du.M/F,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-36,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2&-5,NA,S,1du,NA,NA,any,NA,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-37,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2&-5,NA,S,2du,NA,NA,any,NA,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-38,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2,simple,P,3du.M/F,A,any,any,none,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-39,tehu1242,tehu1242-k-du-5-2-indexing-marker,-2,simple,P,3du.N,A,any,any,none,non-exemplar,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-40,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-4,simple,A,2du,P,any,any,none,any,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-41,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-6,simple,A,2du,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-42,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-4,simple,A,2pl,P,any,any,none,any,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-42,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-4,simple,A,2pl,P,any,any,none,any,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-43,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-6,simple,A,2pl,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-44,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-6,simple,A,2sg,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-45,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-1,simple,P,2du,A,any,any,none,any,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-45,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-1,simple,P,2du,A,any,any,none,any,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-46,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3,simple,P,2du,A,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-47,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-1,simple,P,2pl,A,any,any,none,any,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-47,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-1,simple,P,2pl,A,any,any,none,any,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-48,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3,simple,P,2pl,A,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-49,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3,simple,P,2sg,A,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-5,tehu1242,tehu1242-3sg-n-p-1-indexing-marker,-1,NA,S,3du.N,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-50,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3,NA,S,2du,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-51,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3,NA,S,2pl,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-52,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3,NA,S,2sg,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-53,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3,NA,S,2du,NA,NA,any,NA,any,default,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-54,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3,NA,S,2pl,NA,NA,any,NA,any,default,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-55,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3,NA,S,2sg,NA,NA,any,NA,any,default,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-50,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3&-6,NA,S,2du,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-51,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3&-6,NA,S,2pl,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-52,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3&-6,NA,S,2sg,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-53,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3&-6,NA,S,2du,NA,NA,any,NA,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-54,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3&-6,NA,S,2pl,NA,NA,any,NA,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-55,tehu1242,tehu1242-m-2-6-4-3-1-indexing-marker,-3&-6,NA,S,2sg,NA,NA,any,NA,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-56,tehu1242,tehu1242-o-1nsg-6-3-indexing-marker,-6,simple,A,1du,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-57,tehu1242,tehu1242-o-1nsg-6-3-indexing-marker,-6,simple,A,1pl,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-58,tehu1242,tehu1242-o-1nsg-6-3-indexing-marker,-3,simple,P,1du,A,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-59,tehu1242,tehu1242-o-1nsg-6-3-indexing-marker,-3,simple,P,1pl,A,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-6,tehu1242,tehu1242-3sg-n-p-1-indexing-marker,-1,NA,S,3pl.N,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-60,tehu1242,tehu1242-o-1nsg-6-3-indexing-marker,-3,NA,S,1du,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-61,tehu1242,tehu1242-o-1nsg-6-3-indexing-marker,-3,NA,S,1pl,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-62,tehu1242,tehu1242-o-1nsg-6-3-indexing-marker,-3,NA,S,1du,NA,NA,any,NA,any,default,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-63,tehu1242,tehu1242-o-1nsg-6-3-indexing-marker,-3,NA,S,1pl,NA,NA,any,NA,any,default,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-60,tehu1242,tehu1242-o-1nsg-6-3-indexing-marker,-3&-6,NA,S,1du,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-61,tehu1242,tehu1242-o-1nsg-6-3-indexing-marker,-3&-6,NA,S,1pl,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-62,tehu1242,tehu1242-o-1nsg-6-3-indexing-marker,-3&-6,NA,S,1du,NA,NA,any,NA,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-63,tehu1242,tehu1242-o-1nsg-6-3-indexing-marker,-3&-6,NA,S,1pl,NA,NA,any,NA,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-64,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-5,simple,A,1pl,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-65,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-5,simple,A,2pl,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-66,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-5,simple,A,3pl.M/F,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-67,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-5,simple,A,3pl.N,P,any,any,none,non-exemplar,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-68,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-2,simple,P,1pl,A,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-69,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-2,simple,P,2pl,A,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-7,tehu1242,tehu1242-3sg-n-p-1-indexing-marker,-1,NA,S,3sg.N,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-70,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-2,NA,S,1pl,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-71,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-2,NA,S,2pl,NA,NA,any,NA,non-exemplar,attributive intr,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-72,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-2,NA,S,1pl,NA,NA,any,NA,any,default,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-73,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-2,NA,S,2pl,NA,NA,any,NA,any,default,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-74,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-2,simple,P,3pl.M/F,A,any,any,none,any,transitive group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-75,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-2,simple,P,3pl.N,A,any,any,none,any,transitive group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-76,tehu1242,tehu1242-t-3-4-3-1-indexing-marker,-4,simple,A,3du.M/F,P,any,any,none,any,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-77,tehu1242,tehu1242-t-3-4-3-1-indexing-marker,-4,simple,A,3du.N,P,any,any,none,non-exemplar,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-78,tehu1242,tehu1242-t-3-4-3-1-indexing-marker,-4,simple,A,3pl.M/F,P,any,any,none,any,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-79,tehu1242,tehu1242-t-3-4-3-1-indexing-marker,-4,simple,A,3pl.N,P,any,any,none,non-exemplar,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-8,tehu1242,tehu1242-3sg-n-p-1-indexing-marker,-1,simple,P,3du.N,A,any,any,none,non-exemplar,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",Humans can only be masculine or feminine.,DI; AWM
-tehu1242-80,tehu1242,tehu1242-t-3-4-3-1-indexing-marker,-3,simple,P,3sg.M/F,A,any,any,none,any,transitive group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-81,tehu1242,tehu1242-t-3-4-3-1-indexing-marker,-3,simple,P,3sg.N,A,any,any,none,non-exemplar,transitive group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-82,tehu1242,tehu1242-t-3-4-3-1-indexing-marker,-3,simple,P,3du.M/F,A,any,any,none,any,transitive group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-83,tehu1242,tehu1242-t-3-4-3-1-indexing-marker,-3,simple,P,3du.N,A,any,any,none,any,transitive group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-84,tehu1242,tehu1242-t-3-4-3-1-indexing-marker,-3,simple,P,3pl.M/F,A,any,any,none,any,transitive group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-85,tehu1242,tehu1242-t-3-4-3-1-indexing-marker,-3,simple,P,3pl.N,A,any,any,none,any,transitive group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-70,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-2&-5,NA,S,1pl,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-71,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-2&-5,NA,S,2pl,NA,NA,any,NA,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-72,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-2&-5,NA,S,1pl,NA,NA,any,NA,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-73,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-2&-5,NA,S,2pl,NA,NA,any,NA,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-74,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-2,simple,P,3pl.M/F,A,any,any,none,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-75,tehu1242,tehu1242-s-pl-5-2-indexing-marker,-2,simple,P,3pl.N,A,any,any,none,non-exemplar,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-76,tehu1242,tehu1242-t-3-non-sg-4-indexing-marker,-4,simple,A,3du.M/F,P,any,any,none,any,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-77,tehu1242,tehu1242-t-3-non-sg-4-indexing-marker,-4,simple,A,3du.N,P,any,any,none,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-78,tehu1242,tehu1242-t-3-non-sg-4-indexing-marker,-4,simple,A,3pl.M/F,P,any,any,none,any,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-79,tehu1242,tehu1242-t-3-non-sg-4-indexing-marker,-4,simple,A,3pl.N,P,any,any,none,non-exemplar,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-80,tehu1242,tehu1242-t-3-6-3-indexing-marker,-3,simple,P,3sg.M/F,A,any,any,none,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-81,tehu1242,tehu1242-t-3-6-3-indexing-marker,-3,simple,P,3sg.N,A,any,any,none,non-exemplar,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-82,tehu1242,tehu1242-t-3-6-3-indexing-marker,-3,simple,P,3du.M/F,A,any,any,none,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-83,tehu1242,tehu1242-t-3-6-3-indexing-marker,-3,simple,P,3du.N,A,any,any,none,non-exemplar,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-84,tehu1242,tehu1242-t-3-6-3-indexing-marker,-3,simple,P,3pl.M/F,A,any,any,none,any,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-85,tehu1242,tehu1242-t-3-6-3-indexing-marker,-3,simple,P,3pl.N,A,any,any,none,non-exemplar,group 2,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-86,tehu1242,tehu1242-t-3-6-3-indexing-marker,-6,simple,A,3du.M/F,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-87,tehu1242,tehu1242-t-3-6-3-indexing-marker,-6,simple,A,3du.N,P,any,any,none,non-exemplar,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-88,tehu1242,tehu1242-t-3-6-3-indexing-marker,-6,simple,A,3pl.M/F,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-89,tehu1242,tehu1242-t-3-6-3-indexing-marker,-6,simple,A,3pl.N,P,any,any,none,non-exemplar,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-9,tehu1242,tehu1242-3sg-n-p-1-indexing-marker,-1,simple,P,3pl.N,A,any,any,none,non-exemplar,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-90,tehu1242,tehu1242-t-3-6-3-indexing-marker,-6,simple,A,3sg.M/F,P,any,any,none,any,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 tehu1242-91,tehu1242,tehu1242-t-3-6-3-indexing-marker,-6,simple,A,3sg.N,P,any,any,none,non-exemplar,any,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-92,tehu1242,tehu1242-w-1nsg-4-1-indexing-marker,-4,simple,A,1du,P,any,any,none,any,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-93,tehu1242,tehu1242-w-1nsg-4-1-indexing-marker,-4,simple,A,1pl,P,any,any,none,any,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-94,tehu1242,tehu1242-w-1nsg-4-1-indexing-marker,1,simple,P,1du,A,any,any,none,any,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
-tehu1242-95,tehu1242,tehu1242-w-1nsg-4-1-indexing-marker,1,simple,P,1pl,A,any,any,none,any,transitive group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-92,tehu1242,tehu1242-w-1nsg-4-1-indexing-marker,-4,simple,A,1du,P,any,any,none,any,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-93,tehu1242,tehu1242-w-1nsg-4-1-indexing-marker,-4,simple,A,1pl,P,any,any,none,any,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-94,tehu1242,tehu1242-w-1nsg-4-1-indexing-marker,1,simple,P,1du,A,any,any,none,any,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
+tehu1242-95,tehu1242,tehu1242-w-1nsg-4-1-indexing-marker,1,simple,P,1pl,A,any,any,none,any,group 1,,"garay1998tehuelche[205-211,261-268,340-355]",,DI; AWM
 teri1250-1,teri1250,teri1250-no-flagging,,simple,A,Noun,P,Noun,any,none,any,default,,quesada2000teribe,,HT;AWM
 teri1250-2,teri1250,teri1250-obv-marking-flagging,,simple,A,Noun,P,Pro,any,INV,any,default,,quesada2000teribe,,HT;AWM
 teri1250-3,teri1250,teri1250-s-a-marking-flagging,,simple,A,Pro,P,any,any,none,any,default,,quesada2000teribe,,HT;AWM
