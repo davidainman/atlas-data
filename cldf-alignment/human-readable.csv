@@ -261,7 +261,7 @@ tabo1241,True,True,False,False,person+number,True,Miscellaneous_condition,ergati
 taia1239,True,True,False,False,person+number,False,NA,ergative;no marking,ergative;no marking,accusative,ergative;no marking,ergative;no marking,accusative,True,Noun;Pro,False,NA,False,NA,False,NA,no,no,True,False
 take1257,False,True,False,True,person;person+number,False,NA,no marking,no marking,tripartite,no marking,no marking,tripartite,False,NA,True,Verb,True,Verb,True,Verb,no,yes,False,True
 tari1256,True,True,False,True,person+number,True,Reference,accusative;no marking,accusative,accusative,accusative;no marking,accusative,accusative,True,Verb,False,NA,False,NA,False,NA,no,no,False,True
-tehu1242,True,True,False,True,number;person;person+number,False,NA,ergative,ergative,tripartite,ergative,ergative,tripartite,True,Noun;Pro;Verb,True,Verb,True,Verb,False,NA,no,no,True,True
+tehu1242,True,True,False,True,number;person;person+number,False,NA,ergative,ergative,horizontal,ergative,ergative,horizontal,True,Noun;Pro;Verb,True,Verb,True,Verb,False,NA,no,no,True,True
 teri1250,True,False,False,False,NA,False,NA,sensitive,accusative,NA,sensitive,accusative,NA,False,NA,False,NA,False,NA,True,Noun,yes,no,True,False
 tete1251,False,True,False,False,person;person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,False
 thay1249,True,False,False,False,NA,False,NA,accusative;no marking,accusative,NA,accusative;no marking,accusative,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False

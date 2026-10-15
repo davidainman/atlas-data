@@ -7102,10 +7102,10 @@ tari1256-S!=A flagging,tari1256,S!=A flagging,False,DI;HT,aikhenvald2003tarianag
 tari1256-S!=A indexing,tari1256,S!=A indexing,True,DI;HT,aikhenvald2003tarianagrammar[139-140]
 tehu1242-align-noun,tehu1242,align-noun,ergative,AWM;DI,"garay1998tehuelche[119-120,180-199,313-315]"
 tehu1242-align-pro,tehu1242,align-pro,ergative,AWM;DI,"garay1998tehuelche[119-120,180-199,313-315]"
-tehu1242-align-index,tehu1242,align-index,tripartite,AWM;DI,"garay1998tehuelche[119-120,180-199,313-315]"
+tehu1242-align-index,tehu1242,align-index,horizontal,AWM;DI,"garay1998tehuelche[119-120,180-199,313-315]"
 tehu1242-align-noun-nl,tehu1242,align-noun-nl,ergative,AWM;DI,"garay1998tehuelche[119-120,180-199,313-315]"
 tehu1242-align-pro-nl,tehu1242,align-pro-nl,ergative,AWM;DI,"garay1998tehuelche[119-120,180-199,313-315]"
-tehu1242-align-index-nl,tehu1242,align-index-nl,tripartite,AWM;DI,"garay1998tehuelche[119-120,180-199,313-315]"
+tehu1242-align-index-nl,tehu1242,align-index-nl,horizontal,AWM;DI,"garay1998tehuelche[119-120,180-199,313-315]"
 tehu1242-ref-ergative,tehu1242,ref-ergative,True,AWM;DI,"garay1998tehuelche[119-120,180-199,313-315]"
 tehu1242-ref-ergative-domain,tehu1242,ref-ergative-domain,Noun;Pro;Verb,AWM;DI,"garay1998tehuelche[119-120,180-199,313-315]"
 tehu1242-ref-tripartite,tehu1242,ref-tripartite,True,AWM;DI,"garay1998tehuelche[119-120,180-199,313-315]"
