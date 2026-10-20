@@ -146,11 +146,18 @@ Table 2: Semantic ontology relating the different semantic categories. DD stands
     <td class="tg-0lax" colspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">DD_default</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="2" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">body</span></td>
+    <td class="tg-0lax" rowspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">part</span></td>
+    <td class="tg-0lax" rowspan="2">body</td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">body_internal</span></td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">DD_body_external</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">plant_part</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">DD_other_part</span></td>
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">kin</span></td>
@@ -166,13 +173,6 @@ Table 2: Semantic ontology relating the different semantic categories. DD stands
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">non_blood_kin</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" colspan="2" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">part</span></td>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">plant_part</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">DD_other_part</span></td>
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">nature</span></td>
