@@ -314,13 +314,17 @@ def is_any_hierarchical(sub_references):
                                 if len(a_marking[reftype]) > 1 or len(p_marking[reftype]) > 1:
                                     hierarchical = False
                                     break
-                                continue
+                                else:
+                                # both roles are marked with 1 selector, which could be overt or null
+                                # this reftype cannot tell us if the language is hierarchical or not
+                                    continue
                             coargs_present = True
                             for coarg in a_marking[reftype].keys():
                                 if "_overt" in a_marking[reftype][coarg]:
                                     if coarg in p_marking:
                                         if reftype in p_marking[coarg]:
                                             if "_overt" in p_marking[coarg][reftype]:
+                                            # e.g. A[1sg][coarg 2sg] is overt and P[2sg][coarg 1sg] is overt
                                                 hierarchical = False
                                 elif "_zero" in a_marking[reftype][coarg]:
                                     if "3" in reftype and "3" in coarg and not local_marked_independently:
