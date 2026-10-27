@@ -190,7 +190,7 @@ nama1264,True,True,False,False,person+number,False,NA,accusative;overt neutral,a
 nant1250,False,True,False,False,person,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 nara1262,False,True,False,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 natc1249,True,True,False,True,person;person+number,False,NA,ergative,NA,accusative,ergative,NA,accusative,True,Noun;Verb,True,Verb,False,NA,False,NA,no,no,True,True
-nava1243,False,True,False,False,person;person+number,False,NA,no marking,accusative,accusative,no marking,accusative,accusative,False,NA,False,NA,False,NA,True,Verb,no,no,False,False
+nava1243,False,True,False,False,person;person+number,False,NA,no marking,accusative,accusative,no marking,accusative,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,False
 negi1245,True,True,True,False,person+number,False,NA,accusative,accusative,accusative,accusative,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 nene1249,True,True,False,False,person+number,False,NA,accusative,accusative,sensitive,accusative,accusative,sensitive,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
 ngar1284,False,True,False,False,number;person+number,False,NA,no marking,no marking,ergative,no marking,no marking,ergative,True,Verb,False,NA,True,Verb,True,Verb,no,yes,False,True

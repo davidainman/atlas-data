@@ -87,8 +87,8 @@ Language,align-pro-nl,sensitive,1,0.0031645569620253164
 Language,align-pro-nl,tripartite,1,0.0031645569620253164
 Language,coargument-sensitivity flagging,no,312,0.96
 Language,coargument-sensitivity flagging,yes,13,0.04
-Language,coargument-sensitivity indexing,no,223,0.6861538461538461
-Language,coargument-sensitivity indexing,yes,102,0.31384615384615383
+Language,coargument-sensitivity indexing,no,222,0.683076923076923
+Language,coargument-sensitivity indexing,yes,103,0.3169230769230769
 Language,dom,No,268,0.8246153846153846
 Language,dom,Yes,57,0.1753846153846154
 Language,dom-trigger,Co-argument_reference,2,0.03508771929824561
@@ -180,12 +180,12 @@ Selector (indexing marker),Alignment,accusative,1043,0.519163763066202
 Selector (indexing marker),Alignment,ergative,336,0.1672473867595819
 Selector (indexing marker),Alignment,horizontal,318,0.15828770532603284
 Selector (indexing marker),Alignment,neutral,312,0.15530114484818316
-Reference,Zero indexing of 1,Role A,119,0.1408284023668639
-Reference,Zero indexing of 1,Role P,76,0.10106382978723404
-Reference,Zero indexing of 1,Role S,42,0.04838709677419355
-Reference,Zero indexing of 2,Role A,123,0.1673469387755102
-Reference,Zero indexing of 2,Role P,103,0.1627172195892575
-Reference,Zero indexing of 2,Role S,24,0.03225806451612903
-Reference,Zero indexing of 3,Role A,268,0.3379571248423707
-Reference,Zero indexing of 3,Role P,348,0.5036179450072359
-Reference,Zero indexing of 3,Role S,134,0.1677096370463079
+Reference,Zero indexing of 1,Role A,119,0.1403301886792453
+Reference,Zero indexing of 1,Role P,76,0.10066225165562914
+Reference,Zero indexing of 1,Role S,42,0.04822043628013777
+Reference,Zero indexing of 2,Role A,123,0.16666666666666666
+Reference,Zero indexing of 2,Role P,103,0.1619496855345912
+Reference,Zero indexing of 2,Role S,24,0.0321285140562249
+Reference,Zero indexing of 3,Role A,268,0.33753148614609574
+Reference,Zero indexing of 3,Role P,349,0.5043352601156069
+Reference,Zero indexing of 3,Role S,134,0.1675
