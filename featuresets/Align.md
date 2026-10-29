@@ -1,6 +1,6 @@
 **Authors**: [David Inman](Contributor#cldf:DI), [Alena Witzlack-Makarevich](Contributor#cldf:AWM), [Natalia Chousou-Polydouri](Contributor#cldf:NCP), [Marine Vuillermet](Contributor#cldf:MV), [Balthasar Bickel](Contributor#cldf:BB)
 
-**Acknowledgments**: [Alexandra Nogina](Contributor#cldf:AN), [Tai Hong](Contributor#cldf:HT), [Anna Graff](Contributor#cldf:AG), [Melvin Steiger](Contributor#cldf:MS)
+**Acknowledgments**: [Alexandra Nogina](Contributor#cldf:AN), [Tai Hong](Contributor#cldf:HT), [Anna Graff](Contributor#cldf:AG), [Melvin Steiger](Contributor#cldf:MS), [Pantelis Chatzoudis](Contributor#cldf:PC)
 
 [TOC]
 
@@ -574,7 +574,7 @@ Siuslaw pronouns are split between accusative and tripartite alignments (see [ab
 ### [](ParameterTable#cldf:Align-10)
 &emsp;**{ NA | yes | no }**
 
-As in Align-09, we consider only cases where S differs from A in the indexing of non-local scenarios. Other alignments may arise in scenarios of 1>2 and 2>1 due to other intersubjective factors such as politeness. In addition, we do not count languages in which S differs from A strictly due to a hierarchical effect: that is, we do not count cases in which A is present in some scenarios and absent in others (because P is marked instead of A).
+As in Align-09, we consider only cases where S differs from A in the indexing of non-local scenarios. Other alignments may arise in scenarios of 1>2 and 2>1 due to other intersubjective factors such as politeness. In addition, we do not count languages in which S differs from A due to A being zero because of a hierarchical effect: that is, we do not count cases in which ergativity arises solely because A is marked in some scenarios and unmarked in others because P is marked instead.
 
 #### NA: Bulo Stieng \[bulo1242\] (Austroasiatic; Cambodia, Viet Nam)
 Bulo Stieng does not have indexing.
@@ -903,6 +903,8 @@ Co-argument sensitivity is predominantly found in indexing ([Align-15](../parame
 **Data collection**: [David Inman](Contributor#cldf:DI), [Alena Witzlack-Makarevich](Contributor#cldf:AWM), [Alexandra Nogina](Contributor#cldf:AN), [Natalia Chousou-Polydouri](Contributor#cldf:NCP), [Marine Vuillermet](Contributor#cldf:MV), [Tai Hong](Contributor#cldf:HT), [Anna Graff](Contributor#cldf:AG)
 
 **Supervision of data collection**: [David Inman](Contributor#cldf:DI), [Alena Witzlack-Makarevich](Contributor#cldf:AWM), [Natalia Chousou-Polydouri](Contributor#cldf:NCP)
+
+**Validation**: [Pantelis Chatzoudis](Contributor#cldf:PC)
 
 **Computer code**: [David Inman](Contributor#cldf:DI), [Melvin Steiger](Contributor#cldf:MS), [Natalia Chousou-Polydouri](Contributor#cldf:NCP)
 

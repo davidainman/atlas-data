@@ -244,6 +244,11 @@ def is_local_marked_independently(sub_references):
 # Output: all_tables
 def get_tables_for_subconditions(sub_references):
     all_tables = []
+    mono_pred_classes = set(sub_references.Monovalent_predicate_class.values)
+    non_stative_mono_pred_classes = set([x for x in mono_pred_classes if "stative" not in x])
+    bi_pred_classes = set(sub_references.Bivalent_predicate_class.values)
+    same_predicate_classes = mono_pred_classes == bi_pred_classes
+    same_predicate_classes_minus_stative = non_stative_mono_pred_classes == bi_pred_classes
     for exemplar in set(sub_references.Exemplar.values):
         exemplar_table = sub_references[(sub_references.Exemplar == "all")]
         for tam in set(exemplar_table.TAM.values):
@@ -252,7 +257,11 @@ def get_tables_for_subconditions(sub_references):
                 condition_table = tam_table[(tam_table.Condition == condition)]
                 for monopred in set(condition_table.Monovalent_predicate_class.values):
                     monopred_table = condition_table[(condition_table.Monovalent_predicate_class == monopred)]
-                    for bipred in set(monopred_table.Bivalent_predicate_class.values):
+                    if same_predicate_classes or (same_predicate_classes_minus_stative and "stative" not in monopred): # compare the same pred classes across S/A/P
+                        bipred_classes = set([monopred])
+                    else: # compare all pred classes to all others
+                        bipred_classes = set(monopred_table.Bivalent_predicate_class.values)
+                    for bipred in bipred_classes:
                         bipred_table = monopred_table[(monopred_table.Bivalent_predicate_class == bipred)]
                         all_tables.append(bipred_table)
     return all_tables
@@ -266,6 +275,11 @@ def get_tables_for_subconditions(sub_references):
 #             every possible value for tam, condition, monovalent predicate, bivalent predicate
 def is_any_hierarchical(sub_references):
     any_hierarchical = False
+    mono_pred_classes = set(sub_references.Monovalent_predicate_class.values)
+    non_stative_mono_pred_classes = set([x for x in mono_pred_classes if "stative" not in x])
+    bi_pred_classes = set(sub_references.Bivalent_predicate_class.values)
+    same_predicate_classes = mono_pred_classes == bi_pred_classes
+    same_predicate_classes_minus_stative = non_stative_mono_pred_classes == bi_pred_classes
     # we only care about all alignments, i.e. with all 3rd persons
     exemplar_table = sub_references[(sub_references.Exemplar == "all")]
     for tam in set(exemplar_table.TAM.values):
@@ -274,7 +288,11 @@ def is_any_hierarchical(sub_references):
             condition_table = tam_table[(tam_table.Condition == condition)]
             for monopred in set(condition_table.Monovalent_predicate_class.values):
                 monopred_table = condition_table[(condition_table.Monovalent_predicate_class == monopred)]
-                for bipred in set(monopred_table.Bivalent_predicate_class.values):
+                if same_predicate_classes or (same_predicate_classes_minus_stative and "stative" not in monopred): # compare the same predicate clases across S/A/P
+                    bipred_classes = set([monopred])
+                else: # compare all predicate classes to all others
+                    bipred_classes = set(monopred_table.Bivalent_predicate_class.values)
+                for bipred in bipred_classes:
                     bipred_table = monopred_table[(monopred_table.Bivalent_predicate_class == bipred)]
                     local_marked_independently = is_local_marked_independently(bipred_table)
                     s_marking, a_marking, p_marking = get_s_a_p_marking(bipred_table)
@@ -296,13 +314,17 @@ def is_any_hierarchical(sub_references):
                                 if len(a_marking[reftype]) > 1 or len(p_marking[reftype]) > 1:
                                     hierarchical = False
                                     break
-                                continue
+                                else:
+                                # both roles are marked with 1 selector, which could be overt or null
+                                # this reftype cannot tell us if the language is hierarchical or not
+                                    continue
                             coargs_present = True
                             for coarg in a_marking[reftype].keys():
                                 if "_overt" in a_marking[reftype][coarg]:
                                     if coarg in p_marking:
                                         if reftype in p_marking[coarg]:
                                             if "_overt" in p_marking[coarg][reftype]:
+                                            # e.g. A[1sg][coarg 2sg] is overt and P[2sg][coarg 1sg] is overt
                                                 hierarchical = False
                                 elif "_zero" in a_marking[reftype][coarg]:
                                     if "3" in reftype and "3" in coarg and not local_marked_independently:
