@@ -1588,9 +1588,9 @@ cavi1250-145,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 2,simple,P,2p
 cavi1250-146,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3sg,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-147,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3du,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-148,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3pl,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-149,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3sg.prox,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-150,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3du.prox,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-151,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3pl.prox,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
+cavi1250-149,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3sg.prox,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],prox stands for proximal,MV; DI
+cavi1250-150,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3du.prox,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],prox stands for proximal,MV; DI
+cavi1250-151,cavi1250,cavi1250-abs-enclitic-indexing-marker,clitic 1,simple,P,3pl.prox,A,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],prox stands for proximal,MV; DI
 cavi1250-2,cavi1250,cavi1250-no-flagging,,simple,P,any,A,any,any,none,any,default,,"guillaume2008cavinena[16,571,66,78]","Singular pronouns have an additional -ke in the absolutive, but this could be analyzed for all persons except 3sg proximate as a phonological requirement for bisyllabicity.",AWM
 cavi1250-260,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,1sg,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-261,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,1du,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
@@ -1625,9 +1625,9 @@ cavi1250-289,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 1,simple,A,2p
 cavi1250-290,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3sg,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-291,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3du,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-292,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3pl,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-293,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3sg.prox,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-294,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3du.prox,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
-cavi1250-295,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3pl.prox,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],,MV; DI
+cavi1250-293,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3sg.prox,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],prox stands for proximal,MV; DI
+cavi1250-294,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3du.prox,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],prox stands for proximal,MV; DI
+cavi1250-295,cavi1250,cavi1250-erg-enclitic-indexing-marker,clitic 2,simple,A,3pl.prox,P,any,any,none,any,default,all indexing,guillaume2010ergative[99-106],prox stands for proximal,MV; DI
 cavi1250-296,cavi1250,cavi1250-role-not-marked,NA,NA,S,any,NA,NA,any,NA,any,default,no indexing,guillaume2010ergative[99-106],,MV; DI
 cavi1250-3,cavi1250,cavi1250-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"guillaume2008cavinena[16,571,66,78]","Singular pronouns have an additional -ke in the absolutive, but this could be analyzed for all persons except 3sg proximate as a phonological requirement for bisyllabicity.",AWM
 cavi1250-303,cavi1250,cavi1250-role-not-marked,NA,NA,P,any,A,any,any,none,any,default,no indexing,guillaume2010ergative[99-106],,MV; DI
@@ -3536,24 +3536,28 @@ hopi1249-2,hopi1249,hopi1249-no-flagging,,simple,A,any,P,any,any,none,any,defaul
 hopi1249-3,hopi1249,hopi1249-obl-marking-flagging,,simple,P,any,A,any,any,none,any,default,any,"jeanne1978hopi[101,106,109,76,93]",,HT
 hopi1249-4,hopi1249,hopi1249-role-not-marked,NA,NA,any,any,any,any,any,NA,any,default,,"jeanne1978hopi[85-88,93-97]",There is monoexponential plurality in this language.,HT;AWM;DI;MV
 hual1241-1,hual1241,hual1241-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,weber1989huallagagrammar[178-179],,DI
-hual1241-10,hual1241,hual1241-1st-p-marker-ma-indexing-marker,1,simple,P,1incl,A,any,any,none,any,default,,"weber1989huallagagrammar[70,79,96-111]",1st person P is always marked with -ma- in every paradigm.,MV; DI; AWM
-hual1241-11,hual1241,hual1241-1st-s-a-marker-indexing-marker,1&2,NA,S,1,NA,NA,any,NA,any,default,,"weber1989huallagagrammar[70,79,96-111]","Person marking is entwined with tense and subordination. Different paradigms may have different syncretisms (e.g., 1=>3 and 3=>3 may be the same in some, or in others 1=>2 and 1=>3 may be the same). This is an abstraction that shows all cells that are possibly distinguished.",MV; DI; AWM
-hual1241-12,hual1241,hual1241-1st-s-a-marker-indexing-marker,2,simple,A,1,P,3,any,none,any,default,,"weber1989huallagagrammar[70,79,96-111]","Person marking is entwined with tense and subordination. Different paradigms may have different syncretisms (e.g., 1=>3 and 3=>3 may be the same in some, or in others 1=>2 and 1=>3 may be the same). This is an abstraction that shows all cells that are possibly distinguished.",MV; DI; AWM
-hual1241-13,hual1241,hual1241-2nd-marker-indexing-marker,1&2,NA,S,2,NA,NA,any,NA,any,default,,"weber1989huallagagrammar[70,79,96-111]","Person marking is entwined with tense and subordination. Different paradigms may have different syncretisms (e.g., 1=>3 and 3=>3 may be the same in some, or in others 1=>2 and 1=>3 may be the same). This is an abstraction that shows all cells that are possibly distinguished.",MV; DI; AWM
-hual1241-14,hual1241,hual1241-2nd-marker-indexing-marker,2,simple,A,2,P,any,any,none,any,default,,"weber1989huallagagrammar[70,79,96-111]","Person marking is entwined with tense and subordination. Different paradigms may have different syncretisms (e.g., 1=>3 and 3=>3 may be the same in some, or in others 1=>2 and 1=>3 may be the same). This is an abstraction that shows all cells that are possibly distinguished.",MV; DI; AWM
-hual1241-15,hual1241,hual1241-2nd-marker-indexing-marker,2,simple,P,2,A,3,any,none,any,default,,"weber1989huallagagrammar[70,79,96-111]","Person marking is entwined with tense and subordination. Different paradigms may have different syncretisms (e.g., 1=>3 and 3=>3 may be the same in some, or in others 1=>2 and 1=>3 may be the same). This is an abstraction that shows all cells that are possibly distinguished.",MV; DI; AWM
-hual1241-16,hual1241,hual1241-3-2-marker-indexing-marker,1,portmanteau,A,3,P,2,any,none,any,default,,"weber1989huallagagrammar[70,79,96-111]","Person marking is entwined with tense and subordination. Different paradigms may have different syncretisms (e.g., 1=>3 and 3=>3 may be the same in some, or in others 1=>2 and 1=>3 may be the same). This is an abstraction that shows all cells that are possibly distinguished.",MV; DI; AWM
-hual1241-17,hual1241,hual1241-3rd-s-a-marker-indexing-marker,1&2,NA,S,3,NA,NA,any,NA,any,default,,"weber1989huallagagrammar[70,79,96-111]","Person marking is entwined with tense and subordination. Different paradigms may have different syncretisms (e.g., 1=>3 and 3=>3 may be the same in some, or in others 1=>2 and 1=>3 may be the same). This is an abstraction that shows all cells that are possibly distinguished.",MV; DI; AWM
-hual1241-18,hual1241,hual1241-3rd-s-a-marker-indexing-marker,2,simple,A,3,P,1,any,none,any,default,,"weber1989huallagagrammar[70,79,96-111]","Person marking is entwined with tense and subordination. Different paradigms may have different syncretisms (e.g., 1=>3 and 3=>3 may be the same in some, or in others 1=>2 and 1=>3 may be the same). This is an abstraction that shows all cells that are possibly distinguished.",MV; DI; AWM
-hual1241-19,hual1241,hual1241-3rd-s-a-marker-indexing-marker,2,simple,A,3,P,3,any,none,any,default,,"weber1989huallagagrammar[70,79,96-111]","Person marking is entwined with tense and subordination. Different paradigms may have different syncretisms (e.g., 1=>3 and 3=>3 may be the same in some, or in others 1=>2 and 1=>3 may be the same). This is an abstraction that shows all cells that are possibly distinguished.",MV; DI; AWM
 hual1241-2,hual1241,hual1241-no-flagging,,simple,A,any,P,any,any,none,any,default,,weber1989huallagagrammar[178-179],,DI
 hual1241-3,hual1241,hual1241-acc-ta-flagging,,simple,P,any,A,any,any,none,any,default,,weber1989huallagagrammar[178-179],,DI
-hual1241-4,hual1241,hual1241-1-2-marker-indexing-marker,1&2,portmanteau,A,1,P,2,any,none,any,default,,"weber1989huallagagrammar[70,79,96-111]","Person marking is entwined with tense and subordination. Different paradigms may have different syncretisms (e.g., 1=>3 and 3=>3 may be the same in some, or in others 1=>2 and 1=>3 may be the same). This is an abstraction that shows all cells that are possibly distinguished.",MV; DI; AWM
-hual1241-5,hual1241,hual1241-1-2-marker-indexing-marker,1&2,portmanteau,P,2,A,1,any,none,any,default,,"weber1989huallagagrammar[70,79,96-111]","Person marking is entwined with tense and subordination. Different paradigms may have different syncretisms (e.g., 1=>3 and 3=>3 may be the same in some, or in others 1=>2 and 1=>3 may be the same). This is an abstraction that shows all cells that are possibly distinguished.",MV; DI; AWM
-hual1241-6,hual1241,hual1241-1incl-marker-indexing-marker,1&2,NA,S,1incl,NA,NA,any,NA,any,default,,"weber1989huallagagrammar[70,79,96-111]","Person marking is entwined with tense and subordination. Different paradigms may have different syncretisms (e.g., 1=>3 and 3=>3 may be the same in some, or in others 1=>2 and 1=>3 may be the same). This is an abstraction that shows all cells that are possibly distinguished.",MV; DI; AWM
-hual1241-7,hual1241,hual1241-1incl-marker-indexing-marker,2,simple,A,1incl,P,any,any,none,any,default,,"weber1989huallagagrammar[70,79,96-111]","Person marking is entwined with tense and subordination. Different paradigms may have different syncretisms (e.g., 1=>3 and 3=>3 may be the same in some, or in others 1=>2 and 1=>3 may be the same). This is an abstraction that shows all cells that are possibly distinguished.",MV; DI; AWM
-hual1241-8,hual1241,hual1241-1incl-marker-indexing-marker,2,simple,P,1incl,A,3,any,none,any,default,,"weber1989huallagagrammar[70,79,96-111]","Person marking is entwined with tense and subordination. Different paradigms may have different syncretisms (e.g., 1=>3 and 3=>3 may be the same in some, or in others 1=>2 and 1=>3 may be the same). This is an abstraction that shows all cells that are possibly distinguished.",MV; DI; AWM
-hual1241-9,hual1241,hual1241-1st-p-marker-ma-indexing-marker,1,simple,P,1,A,any,any,none,any,default,,"weber1989huallagagrammar[70,79,96-111]",1st person P is always marked with -ma- in every paradigm.,MV; DI; AWM
+hual1241-4,hual1241,hual1241-1-2-marker-indexing-marker,1,portmanteau,A,1,P,2,future,none,non-exemplar,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-5,hual1241,hual1241-1-2-marker-indexing-marker,1,portmanteau,P,2,A,1,future,none,non-exemplar,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-6,hual1241,hual1241-1st-s-a-marker-indexing-marker,1&2,NA,S,1,NA,NA,any,NA,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-7,hual1241,hual1241-1st-s-a-marker-indexing-marker,2,simple,A,1,P,2,past,none,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-8,hual1241,hual1241-1st-s-a-marker-indexing-marker,2,simple,A,1,P,2,present,none,non-exemplar,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-9,hual1241,hual1241-1st-s-a-marker-indexing-marker,2,simple,A,1,P,3,any,none,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-10,hual1241,hual1241-1incl-marker-indexing-marker,1&2,NA,S,1incl,NA,NA,any,NA,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-11,hual1241,hual1241-1incl-marker-indexing-marker,2,simple,A,1incl,P,any,any,none,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-12,hual1241,hual1241-1incl-marker-indexing-marker,2,simple,P,1incl,A,3,any,none,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-13,hual1241,hual1241-1st-p-marker-ma-indexing-marker,1,simple,P,1,A,any,any,none,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-14,hual1241,hual1241-1st-p-marker-ma-indexing-marker,1,simple,P,1incl,A,any,past,none,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-15,hual1241,hual1241-1st-p-marker-ma-indexing-marker,1,simple,P,1incl,A,any,present,none,non-exemplar,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-16,hual1241,hual1241-1st-p-marker-maa-indexing-marker,1,simple,P,1incl,A,any,future,none,non-exemplar,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-17,hual1241,hual1241-2nd-marker-indexing-marker,1&2,NA,S,2,NA,NA,any,NA,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-18,hual1241,hual1241-2nd-marker-indexing-marker,2,simple,A,2,P,any,any,none,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-19,hual1241,hual1241-2nd-marker-indexing-marker,2,simple,P,2,A,3,any,none,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-20,hual1241,hual1241-2nd-shu-marker-indexing-marker,1,portmanteau,P,2,A,3,any,none,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-21,hual1241,hual1241-3rd-s-a-marker-indexing-marker,1&2,NA,S,3,NA,NA,any,NA,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-22,hual1241,hual1241-3rd-s-a-marker-indexing-marker,2,simple,A,3,P,1,any,none,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
+hual1241-23,hual1241,hual1241-3rd-s-a-marker-indexing-marker,2,simple,A,3,P,3,any,none,any,default,,"weber1996huallaga[128,147-151,472]",,MV; DI; AWM; NCP
 huas1242-1,huas1242,huas1242-no-flagging,,simple,A,any,P,any,any,none,any,default,,edmonson1988huastec,,HT;AWM
 huas1242-10,huas1242,huas1242-ti-3a-2p-indexing-marker,clitic -1,portmanteau,A,3sg,P,2sg,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
 huas1242-11,huas1242,huas1242-ti-3a-2p-indexing-marker,clitic -1,portmanteau,A,3sg,P,2pl,any,none,any,default,,edmonson1988huastec[114-115],,MV; DI; AWM
@@ -4141,101 +4145,86 @@ kain1272-4,kain1272,kain1272-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,unkn
 kain1272-5,kain1272,kain1272-no-flagging,,simple,A,any,P,any,any,none,any,default,unknown,"silva2011kaingang[22-23,95-101];wiesemann1972kaingang[103ff]","Dropping of the overt nominative appears to be rare, and despite giving an example, Silva says in his summary that the nominative is obligatory.",DI
 kain1272-6,kain1272,kain1272-role-not-marked,NA,NA,any,any,any,any,any,NA,any,default,,silva2011kaingang,,DI
 kala1399-1,kala1399,kala1399-no-flagging,,NA,S,1sgPro,NA,NA,any,NA,any,default,,fortescue1984kalaallisut[253-258],,DI
+kala1399-2,kala1399,kala1399-no-flagging,,simple,A,1sgPro,P,any,any,none,any,default,,fortescue1984kalaallisut[253-258],,DI
+kala1399-3,kala1399,kala1399-no-flagging,,simple,P,1sgPro,A,any,any,none,any,default,,fortescue1984kalaallisut[253-258],,DI
+kala1399-4,kala1399,kala1399-no-flagging,,NA,S,1plPro,NA,NA,any,NA,any,default,,fortescue1984kalaallisut[253-258],,DI
+kala1399-5,kala1399,kala1399-no-flagging,,simple,A,1plPro,P,any,any,none,any,default,,fortescue1984kalaallisut[253-258],,DI
+kala1399-6,kala1399,kala1399-no-flagging,,simple,P,1plPro,A,any,any,none,any,default,,fortescue1984kalaallisut[253-258],,DI
+kala1399-7,kala1399,kala1399-no-flagging,,NA,S,2sgPro,NA,NA,any,NA,any,default,,fortescue1984kalaallisut[253-258],,DI
+kala1399-8,kala1399,kala1399-no-flagging,,simple,A,2sgPro,P,any,any,none,any,default,,fortescue1984kalaallisut[253-258],,DI
+kala1399-9,kala1399,kala1399-no-flagging,,simple,P,2sgPro,A,any,any,none,any,default,,fortescue1984kalaallisut[253-258],,DI
 kala1399-10,kala1399,kala1399-no-flagging,,NA,S,2plPro,NA,NA,any,NA,any,default,,fortescue1984kalaallisut[253-258],,DI
 kala1399-11,kala1399,kala1399-no-flagging,,simple,A,2plPro,P,any,any,none,any,default,,fortescue1984kalaallisut[253-258],,DI
 kala1399-12,kala1399,kala1399-no-flagging,,simple,P,2plPro,A,any,any,none,any,default,,fortescue1984kalaallisut[253-258],,DI
-kala1399-13,kala1399,kala1399-no-flagging,,NA,S,3Pro.prox,NA,NA,any,NA,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-14,kala1399,kala1399-relative-flagging,,simple,A,3Pro.prox,P,any,any,none,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-15,kala1399,kala1399-no-flagging,,simple,P,3Pro.prox,A,any,any,none,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-16,kala1399,kala1399-no-flagging,,NA,S,3Pro.vert,NA,NA,any,NA,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-17,kala1399,kala1399-relative-flagging,,simple,A,3Pro.vert,P,any,any,none,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-18,kala1399,kala1399-no-flagging,,simple,P,3Pro.vert,A,any,any,none,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-19,kala1399,kala1399-no-flagging,,NA,S,3Pro.int/ext,NA,NA,any,NA,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-2,kala1399,kala1399-no-flagging,,simple,A,1sgPro,P,any,any,none,any,default,,fortescue1984kalaallisut[253-258],,DI
-kala1399-20,kala1399,kala1399-relative-flagging,,simple,A,3Pro.int/ext,P,any,any,none,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-21,kala1399,kala1399-no-flagging,,simple,P,3Pro.int/ext,A,any,any,none,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-22,kala1399,kala1399-no-flagging,,NA,S,3Pro.coast,NA,NA,any,NA,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-23,kala1399,kala1399-relative-flagging,,simple,A,3Pro.coast,P,any,any,none,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-24,kala1399,kala1399-no-flagging,,simple,P,3Pro.coast,A,any,any,none,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-25,kala1399,kala1399-no-flagging,,NA,S,3Pro.vis,NA,NA,any,NA,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-26,kala1399,kala1399-relative-flagging,,simple,A,3Pro.vis,P,any,any,none,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-27,kala1399,kala1399-no-flagging,,simple,P,3Pro.vis,A,any,any,none,any,default,,fortescue1984kalaallisut[261-263],,DI
-kala1399-28,kala1399,kala1399-no-flagging,,NA,S,Noun-def,NA,NA,any,NA,any,default,,"fortescue1984kalaallisut[206,210-211]",,DI
-kala1399-29,kala1399,kala1399-no-flagging,,NA,S,Noun-indef,NA,NA,any,NA,non-exemplar,default,,"fortescue1984kalaallisut[206,210-211]",,DI
-kala1399-3,kala1399,kala1399-no-flagging,,simple,P,1sgPro,A,any,any,none,any,default,,fortescue1984kalaallisut[253-258],,DI
-kala1399-30,kala1399,kala1399-relative-flagging,,simple,A,Noun-def,P,any,any,none,any,default,,"fortescue1984kalaallisut[206,210-211]",,DI
-kala1399-31,kala1399,kala1399-relative-flagging,,simple,A,Noun-indef,P,any,any,none,non-exemplar,default,,"fortescue1984kalaallisut[206,210-211]",,DI
-kala1399-32,kala1399,kala1399-no-flagging,,simple,P,Noun-def,A,any,any,none,any,default,,"fortescue1984kalaallisut[206,210-211]",,DI
-kala1399-33,kala1399,kala1399-instrumental-flagging,,simple,P,Noun-indef,A,any,any,none,non-exemplar,default,,"fortescue1984kalaallisut[206,210-211]",,DI
-kala1399-34,kala1399,kala1399-a-2pl-1sg-indexing-indexing-marker,1,portmanteau,P,1sg,A,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-35,kala1399,kala1399-a-2pl-1sg-indexing-indexing-marker,1,portmanteau,A,2pl,P,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-36,kala1399,kala1399-ga-1sg-3sg-indexing-indexing-marker,1&2,portmanteau,A,1sg,P,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-37,kala1399,kala1399-ga-1sg-3sg-indexing-indexing-marker,1&2,portmanteau,P,3sg,A,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-38,kala1399,kala1399-gut-1pls-p-indexing-indexing-marker,2,NA,S,1pl,NA,NA,any,NA,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-39,kala1399,kala1399-gut-1pls-p-indexing-indexing-marker,2,simple,P,1pl,A,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-4,kala1399,kala1399-no-flagging,,NA,S,1plPro,NA,NA,any,NA,any,default,,fortescue1984kalaallisut[253-258],,DI
-kala1399-40,kala1399,kala1399-gut-1pls-p-indexing-indexing-marker,2,simple,P,1pl,A,2sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-41,kala1399,kala1399-gut-1pls-p-indexing-indexing-marker,2,simple,P,1pl,A,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-42,kala1399,kala1399-gut-1pls-p-indexing-indexing-marker,2,simple,P,1pl,A,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-43,kala1399,kala1399-it-2sgp-indexing-indexing-marker,2,simple,P,2sg,A,1pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-44,kala1399,kala1399-it-2sgp-indexing-indexing-marker,2,simple,P,2sg,A,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-45,kala1399,kala1399-it-2sgp-indexing-indexing-marker,2,simple,P,2sg,A,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-46,kala1399,kala1399-it-2sgp-indexing-indexing-marker,2,simple,P,2sg,A,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-47,kala1399,kala1399-kk-1sga-2sgp-indexing-indexing-marker,1,portmanteau,A,1sg,P,2sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-48,kala1399,kala1399-kk-1sga-2sgp-indexing-indexing-marker,1,portmanteau,P,2sg,A,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-49,kala1399,kala1399-kka-1sg-3pl-indexing-indexing-marker,1&2,portmanteau,A,1sg,P,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-5,kala1399,kala1399-no-flagging,,simple,A,1plPro,P,any,any,none,any,default,,fortescue1984kalaallisut[253-258],,DI
-kala1399-50,kala1399,kala1399-kka-1sg-3pl-indexing-indexing-marker,1&2,portmanteau,P,3pl,A,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-51,kala1399,kala1399-nga-1sgs-p-indexing-indexing-marker,2,NA,S,1sg,NA,NA,any,NA,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-52,kala1399,kala1399-nga-1sgs-p-indexing-indexing-marker,2,simple,A,1sg,P,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-53,kala1399,kala1399-nga-1sgs-p-indexing-indexing-marker,2,simple,A,1sg,P,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-54,kala1399,kala1399-nga-1sgs-p-indexing-indexing-marker,2,simple,A,1sg,P,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-55,kala1399,kala1399-rma-2sg-1sg-indexing-indexing-marker,1,portmanteau,P,1sg,A,2sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-56,kala1399,kala1399-rma-2sg-1sg-indexing-indexing-marker,1,portmanteau,A,2sg,P,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-57,kala1399,kala1399-rput-1pla-3sgp-indexing-indexing-marker,1,portmanteau,A,1pl,P,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-58,kala1399,kala1399-rput-1pla-3sgp-indexing-indexing-marker,1,portmanteau,P,3sg,A,1pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-59,kala1399,kala1399-s-1-2pl-indexing-indexing-marker,1,portmanteau,A,1pl,P,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-6,kala1399,kala1399-no-flagging,,simple,P,1plPro,A,any,any,none,any,default,,fortescue1984kalaallisut[253-258],,DI
-kala1399-60,kala1399,kala1399-s-1-2pl-indexing-indexing-marker,1,portmanteau,A,1sg,P,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-61,kala1399,kala1399-s-1-2pl-indexing-indexing-marker,1,portmanteau,P,2pl,A,1pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-62,kala1399,kala1399-s-1-2pl-indexing-indexing-marker,1,portmanteau,P,2pl,A,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-63,kala1399,kala1399-si-2pls-a-p-indexing-indexing-marker,2,NA,S,2pl,NA,NA,any,NA,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-64,kala1399,kala1399-si-2pls-a-p-indexing-indexing-marker,2,simple,A,2pl,P,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-65,kala1399,kala1399-si-2pls-a-p-indexing-indexing-marker,2,simple,A,2pl,P,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-66,kala1399,kala1399-si-2pls-a-p-indexing-indexing-marker,2,simple,P,2pl,A,1pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-67,kala1399,kala1399-si-2pls-a-p-indexing-indexing-marker,2,simple,P,2pl,A,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-68,kala1399,kala1399-si-2pls-a-p-indexing-indexing-marker,2,simple,P,2pl,A,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-69,kala1399,kala1399-si-2pls-a-p-indexing-indexing-marker,2,simple,P,2pl,A,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-7,kala1399,kala1399-no-flagging,,NA,S,2sgPro,NA,NA,any,NA,any,default,,fortescue1984kalaallisut[253-258],,DI
-kala1399-70,kala1399,kala1399-t-2sg-3sg-indexing-indexing-marker,1,portmanteau,A,2sg,P,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-71,kala1399,kala1399-t-2sg-3sg-indexing-indexing-marker,1,portmanteau,P,3sg,A,2sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-72,kala1399,kala1399-tit-2sgs-a-indexing-indexing-marker,1,NA,S,2sg,NA,NA,any,NA,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-73,kala1399,kala1399-tit-2sgs-a-indexing-indexing-marker,1,simple,A,2sg,P,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-74,kala1399,kala1399-tsi-2sg-1pl-indexing-indexing-marker,1,portmanteau,P,1pl,A,2sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-75,kala1399,kala1399-tsi-2sg-1pl-indexing-indexing-marker,1,portmanteau,A,2sg,P,1pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-76,kala1399,kala1399-tsig-1pla-2sgp-indexing-indexing-marker,1,portmanteau,A,1pl,P,2sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-77,kala1399,kala1399-tsig-1pla-2sgp-indexing-indexing-marker,1,portmanteau,P,2sg,A,1pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-78,kala1399,kala1399-vut-1pla-3plp-indexing-indexing-marker,1,portmanteau,A,1pl,P,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-79,kala1399,kala1399-vut-1pla-3plp-indexing-indexing-marker,1,portmanteau,P,3pl,A,1pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-8,kala1399,kala1399-no-flagging,,simple,A,2sgPro,P,any,any,none,any,default,,fortescue1984kalaallisut[253-258],,DI
-kala1399-80,kala1399,kala1399-indexing-a-3a-p-indexing-marker,2,simple,A,3pl,P,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-81,kala1399,kala1399-indexing-a-3a-p-indexing-marker,2,simple,A,3sg,P,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-82,kala1399,kala1399-indexing-a-3a-p-indexing-marker,2,simple,A,3sg,P,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-83,kala1399,kala1399-indexing-at-3pla-indexing-marker,2,simple,A,3pl,P,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-84,kala1399,kala1399-indexing-at-3pla-indexing-marker,2,simple,A,3pl,P,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-85,kala1399,kala1399-indexing-at-3pla-indexing-marker,2,simple,A,3pl,P,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-86,kala1399,kala1399-indexing-at-1-3sga-2sgp-indexing-marker,1,portmanteau,P,2sg,A,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-87,kala1399,kala1399-indexing-at-1-3sga-2sgp-indexing-marker,1,portmanteau,A,3sg,P,2sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-88,kala1399,kala1399-indexing-ati-1plp-indexing-marker,1,simple,P,1pl,A,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-89,kala1399,kala1399-indexing-ati-1plp-indexing-marker,1,simple,P,1pl,A,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-9,kala1399,kala1399-no-flagging,,simple,P,2sgPro,A,any,any,none,any,default,,fortescue1984kalaallisut[253-258],,DI
-kala1399-90,kala1399,kala1399-indexing-ati-1plp-indexing-marker,1,simple,P,1pl,A,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-91,kala1399,kala1399-indexing-i-3sg-3pl-indexing-marker,2,portmanteau,P,3pl,A,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-92,kala1399,kala1399-indexing-i-3sg-3pl-indexing-marker,2,portmanteau,A,3sg,P,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-93,kala1399,kala1399-indexing-q-3sgs-indexing-marker,1&2,NA,S,3sg,NA,NA,any,NA,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-94,kala1399,kala1399-indexing-ssi-3sgs-1sgp-indexing-marker,1,portmanteau,P,1sg,A,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-95,kala1399,kala1399-indexing-ssi-3sgs-1sgp-indexing-marker,1,portmanteau,A,3sg,P,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
-kala1399-96,kala1399,kala1399-indexing-t-3pls-indexing-marker,2,NA,S,3pl,NA,NA,any,NA,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-13,kala1399,kala1399-no-flagging,,NA,S,Noun-def,NA,NA,any,NA,any,default,,"fortescue1984kalaallisut[206,210-211]",,DI
+kala1399-14,kala1399,kala1399-no-flagging,,NA,S,Noun-indef,NA,NA,any,NA,non-exemplar,default,,"fortescue1984kalaallisut[206,210-211]",,DI
+kala1399-15,kala1399,kala1399-relative-flagging,,simple,A,Noun-def,P,any,any,none,any,default,,"fortescue1984kalaallisut[206,210-211]",,DI
+kala1399-16,kala1399,kala1399-relative-flagging,,simple,A,Noun-indef,P,any,any,none,non-exemplar,default,,"fortescue1984kalaallisut[206,210-211]",,DI
+kala1399-17,kala1399,kala1399-no-flagging,,simple,P,Noun-def,A,any,any,none,any,default,,"fortescue1984kalaallisut[206,210-211]",,DI
+kala1399-18,kala1399,kala1399-instrumental-flagging,,simple,P,Noun-indef,A,any,any,none,non-exemplar,default,,"fortescue1984kalaallisut[206,210-211]",,DI
+kala1399-19,kala1399,kala1399-a-2pl-1sg-indexing-indexing-marker,1,portmanteau,P,1sg,A,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-20,kala1399,kala1399-a-2pl-1sg-indexing-indexing-marker,1,portmanteau,A,2pl,P,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-21,kala1399,kala1399-ga-1sg-3sg-indexing-indexing-marker,1&2,portmanteau,A,1sg,P,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-22,kala1399,kala1399-ga-1sg-3sg-indexing-indexing-marker,1&2,portmanteau,P,3sg,A,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-23,kala1399,kala1399-gut-1pls-p-indexing-indexing-marker,2,NA,S,1pl,NA,NA,any,NA,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-24,kala1399,kala1399-gut-1pls-p-indexing-indexing-marker,2,simple,P,1pl,A,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-25,kala1399,kala1399-gut-1pls-p-indexing-indexing-marker,2,simple,P,1pl,A,2sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-26,kala1399,kala1399-gut-1pls-p-indexing-indexing-marker,2,simple,P,1pl,A,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-27,kala1399,kala1399-gut-1pls-p-indexing-indexing-marker,2,simple,P,1pl,A,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-28,kala1399,kala1399-it-2sgp-indexing-indexing-marker,2,simple,P,2sg,A,1pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-29,kala1399,kala1399-it-2sgp-indexing-indexing-marker,2,simple,P,2sg,A,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-30,kala1399,kala1399-it-2sgp-indexing-indexing-marker,2,simple,P,2sg,A,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-31,kala1399,kala1399-it-2sgp-indexing-indexing-marker,2,simple,P,2sg,A,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-32,kala1399,kala1399-kk-1sga-2sgp-indexing-indexing-marker,1,portmanteau,A,1sg,P,2sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-33,kala1399,kala1399-kk-1sga-2sgp-indexing-indexing-marker,1,portmanteau,P,2sg,A,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-34,kala1399,kala1399-kka-1sg-3pl-indexing-indexing-marker,1&2,portmanteau,A,1sg,P,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-35,kala1399,kala1399-kka-1sg-3pl-indexing-indexing-marker,1&2,portmanteau,P,3pl,A,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-36,kala1399,kala1399-nga-1sgs-p-indexing-indexing-marker,2,NA,S,1sg,NA,NA,any,NA,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-37,kala1399,kala1399-nga-1sgs-p-indexing-indexing-marker,2,simple,A,1sg,P,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-38,kala1399,kala1399-nga-1sgs-p-indexing-indexing-marker,2,simple,A,1sg,P,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-39,kala1399,kala1399-nga-1sgs-p-indexing-indexing-marker,2,simple,A,1sg,P,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-40,kala1399,kala1399-rma-2sg-1sg-indexing-indexing-marker,1,portmanteau,P,1sg,A,2sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-41,kala1399,kala1399-rma-2sg-1sg-indexing-indexing-marker,1,portmanteau,A,2sg,P,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-42,kala1399,kala1399-rput-1pla-3sgp-indexing-indexing-marker,1,portmanteau,A,1pl,P,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-43,kala1399,kala1399-rput-1pla-3sgp-indexing-indexing-marker,1,portmanteau,P,3sg,A,1pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-44,kala1399,kala1399-s-1-2pl-indexing-indexing-marker,1,portmanteau,A,1pl,P,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-45,kala1399,kala1399-s-1-2pl-indexing-indexing-marker,1,portmanteau,A,1sg,P,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-46,kala1399,kala1399-s-1-2pl-indexing-indexing-marker,1,portmanteau,P,2pl,A,1pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-47,kala1399,kala1399-s-1-2pl-indexing-indexing-marker,1,portmanteau,P,2pl,A,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-48,kala1399,kala1399-si-2pls-a-p-indexing-indexing-marker,2,NA,S,2pl,NA,NA,any,NA,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-49,kala1399,kala1399-si-2pls-a-p-indexing-indexing-marker,2,simple,A,2pl,P,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-50,kala1399,kala1399-si-2pls-a-p-indexing-indexing-marker,2,simple,A,2pl,P,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-51,kala1399,kala1399-si-2pls-a-p-indexing-indexing-marker,2,simple,P,2pl,A,1pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-52,kala1399,kala1399-si-2pls-a-p-indexing-indexing-marker,2,simple,P,2pl,A,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-53,kala1399,kala1399-si-2pls-a-p-indexing-indexing-marker,2,simple,P,2pl,A,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-54,kala1399,kala1399-si-2pls-a-p-indexing-indexing-marker,2,simple,P,2pl,A,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-55,kala1399,kala1399-t-2sg-3sg-indexing-indexing-marker,1,portmanteau,A,2sg,P,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-56,kala1399,kala1399-t-2sg-3sg-indexing-indexing-marker,1,portmanteau,P,3sg,A,2sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-57,kala1399,kala1399-tit-2sgs-a-indexing-indexing-marker,1,NA,S,2sg,NA,NA,any,NA,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-58,kala1399,kala1399-tit-2sgs-a-indexing-indexing-marker,1,simple,A,2sg,P,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-59,kala1399,kala1399-tsi-2sg-1pl-indexing-indexing-marker,1,portmanteau,P,1pl,A,2sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-60,kala1399,kala1399-tsi-2sg-1pl-indexing-indexing-marker,1,portmanteau,A,2sg,P,1pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-61,kala1399,kala1399-tsig-1pla-2sgp-indexing-indexing-marker,1,portmanteau,A,1pl,P,2sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-62,kala1399,kala1399-tsig-1pla-2sgp-indexing-indexing-marker,1,portmanteau,P,2sg,A,1pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-63,kala1399,kala1399-vut-1pla-3plp-indexing-indexing-marker,1,portmanteau,A,1pl,P,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-64,kala1399,kala1399-vut-1pla-3plp-indexing-indexing-marker,1,portmanteau,P,3pl,A,1pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-65,kala1399,kala1399-indexing-a-3a-p-indexing-marker,2,simple,A,3pl,P,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-66,kala1399,kala1399-indexing-a-3a-p-indexing-marker,2,simple,A,3sg,P,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-67,kala1399,kala1399-indexing-a-3a-p-indexing-marker,2,simple,A,3sg,P,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-68,kala1399,kala1399-indexing-at-3pla-indexing-marker,2,simple,A,3pl,P,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-69,kala1399,kala1399-indexing-at-3pla-indexing-marker,2,simple,A,3pl,P,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-70,kala1399,kala1399-indexing-at-3pla-indexing-marker,2,simple,A,3pl,P,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-71,kala1399,kala1399-indexing-at-1-3sga-2sgp-indexing-marker,1,portmanteau,P,2sg,A,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-72,kala1399,kala1399-indexing-at-1-3sga-2sgp-indexing-marker,1,portmanteau,A,3sg,P,2sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-73,kala1399,kala1399-indexing-ati-1plp-indexing-marker,1,simple,P,1pl,A,2pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-74,kala1399,kala1399-indexing-ati-1plp-indexing-marker,1,simple,P,1pl,A,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-75,kala1399,kala1399-indexing-ati-1plp-indexing-marker,1,simple,P,1pl,A,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-76,kala1399,kala1399-indexing-i-3sg-3pl-indexing-marker,2,portmanteau,P,3pl,A,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-77,kala1399,kala1399-indexing-i-3sg-3pl-indexing-marker,2,portmanteau,A,3sg,P,3pl,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-78,kala1399,kala1399-indexing-q-3sgs-indexing-marker,1&2,NA,S,3sg,NA,NA,any,NA,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-79,kala1399,kala1399-indexing-ssi-3sgs-1sgp-indexing-marker,1,portmanteau,P,1sg,A,3sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-80,kala1399,kala1399-indexing-ssi-3sgs-1sgp-indexing-marker,1,portmanteau,A,3sg,P,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
+kala1399-81,kala1399,kala1399-indexing-t-3pls-indexing-marker,2,NA,S,3pl,NA,NA,any,NA,any,default,,sadock2003kalaallisut[64],,DI;AWM
 kala1400-1,kala1400,kala1400-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,banks2007kalapuya[10-13],"Though there is no case flagging for core arguments, there is a generalized oblique marker du-",MV;DI
 kala1400-10,kala1400,kala1400-c-sap-subject-indexing-marker,-11,simple,S,1sg,NA,NA,nonpast-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-11,kala1400,kala1400-c-sap-subject-indexing-marker,-11,simple,S,1pl,NA,NA,nonpast-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
@@ -9448,104 +9437,24 @@ negi1245-7,negi1245,negi1245-lti-1pl-incl-s-a-indexing-marker,4,simple,A,1pl.inc
 negi1245-8,negi1245,negi1245-m-1sgs-a-indexing-marker,4,NA,S,1sg,NA,NA,non-future,NA,non-exemplar,default,,pakendorf2020northerntungusic[295],,AN
 negi1245-9,negi1245,negi1245-m-1sgs-a-indexing-marker,4,simple,A,1sg,P,any,non-future,none,non-exemplar,default,,pakendorf2020northerntungusic[295],,AN
 nene1249-1,nene1249,nene1249-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"nikolaeva2014nenets[194-195,202,420]",,HT
-nene1249-10,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,simple,A,2du,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-100,nene1249,nene1249-naq-1pla-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3du-high,A,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-101,nene1249,nene1249-naq-1pla-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,1pl,P,3pl-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-102,nene1249,nene1249-naq-1pla-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3pl-high,A,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-103,nene1249,nene1249-q-3pls-a-indexing-marker,2,NA,S,3pl-high,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-104,nene1249,nene1249-q-3pls-a-indexing-marker,2,NA,S,3pl-low,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-105,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-106,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-107,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-108,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-109,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-11,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,2du,P,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-110,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-111,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-112,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-113,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-114,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-115,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-116,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-117,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-118,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-119,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-12,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3du-high,A,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-120,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-121,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-122,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-123,nene1249,nene1249-r-ih-2du-3sg-hp-indexing-marker,2,portmanteau,A,2du,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-124,nene1249,nene1249-r-ih-2du-3sg-hp-indexing-marker,2,portmanteau,P,3sg-high,A,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-125,nene1249,nene1249-rdeg-2sg-3sg-hp-indexing-marker,2,simple,A,2sg,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-126,nene1249,nene1249-rdeg-2sg-3sg-hp-indexing-marker,2,portmanteau,P,3sg-high,A,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-127,nene1249,nene1249-wdeg-1sga-3sg-hp-indexing-marker,2,portmanteau,A,1sg,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-128,nene1249,nene1249-wdeg-1sga-3sg-hp-indexing-marker,2,portmanteau,P,3sg-high,A,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-129,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,NA,S,1pl,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-13,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,2du,P,3pl-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-130,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,simple,A,1pl,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-131,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,simple,A,1pl,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-132,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,simple,A,1pl,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-133,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,simple,A,1pl,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-134,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,simple,A,1pl,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-135,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,simple,A,1pl,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-136,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,portmanteau,A,1pl,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-137,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,portmanteau,P,3sg-high,A,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-138,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,NA,S,3du-high,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-139,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,NA,S,3du-low,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-14,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3pl-high,A,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-140,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-141,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-142,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-143,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-144,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-145,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-146,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-147,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-148,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-149,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-15,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,3du-high,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-150,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-151,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-152,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-153,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-154,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-155,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-156,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-157,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-158,nene1249,nene1249-null-marker,2,simple,P,1sg,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-159,nene1249,nene1249-null-marker,2,simple,P,1du,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-16,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3sg-high,A,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-160,nene1249,nene1249-null-marker,2,simple,P,1pl,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-161,nene1249,nene1249-null-marker,2,simple,P,2sg,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-162,nene1249,nene1249-null-marker,2,simple,P,2du,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-163,nene1249,nene1249-null-marker,2,simple,P,2pl,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-164,nene1249,nene1249-null-marker,2,simple,S,3sg-high,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-165,nene1249,nene1249-null-marker,2,simple,S,3sg-low,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-166,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-167,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-168,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-169,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-17,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,3du-low,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-170,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-171,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-172,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-173,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-174,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-175,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-176,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-177,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-178,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-179,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-18,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3sg-high,A,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-180,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-181,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-182,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-183,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-184,nene1249,nene1249-null-marker,2,simple,P,3sg-low,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]","High-low distinction depends on the topicality, definiteness and specificity.",HT;AWM
-nene1249-185,nene1249,nene1249-null-marker,2,simple,P,3du-low,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]","High-low distinction depends on the topicality, definiteness and specificity.",HT;AWM
-nene1249-186,nene1249,nene1249-null-marker,2,simple,P,3pl-low,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]","High-low distinction depends on the topicality, definiteness and specificity.",HT;AWM
-nene1249-19,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,3du-high,P,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-2,nene1249,nene1249-no-flagging,,simple,A,any,P,any,any,none,any,default,,"nikolaeva2014nenets[194-195,202,420]",,HT
+nene1249-3,nene1249,nene1249-acc-marking-flagging,,simple,P,any,A,any,any,none,any,default,,"nikolaeva2014nenets[194-195,202,420]",,HT
+nene1249-4,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,NA,S,2du,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-5,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,simple,A,2du,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-6,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,simple,A,2du,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-7,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,simple,A,2du,P,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-8,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,simple,A,2du,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-9,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,simple,A,2du,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-10,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,simple,A,2du,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-11,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,2du,P,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-12,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3du-high,A,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-13,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,2du,P,3pl-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-14,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3pl-high,A,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-15,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,3du-high,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-16,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3sg-high,A,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-17,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,3du-low,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-18,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3sg-high,A,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-19,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,3du-high,P,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-20,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3du-high,A,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-21,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,3du-low,P,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-22,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3du-high,A,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
@@ -9556,7 +9465,6 @@ nene1249-26,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-
 nene1249-27,nene1249,nene1249-ddeg-2sgs-a-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,2sg,P,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-28,nene1249,nene1249-ddeg-2sgs-a-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3du-high,A,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-29,nene1249,nene1249-ddeg-2sgs-a-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,2sg,P,3pl-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-3,nene1249,nene1249-acc-marking-flagging,,simple,P,any,A,any,any,none,any,default,,"nikolaeva2014nenets[194-195,202,420]",,HT
 nene1249-30,nene1249,nene1249-ddeg-2sgs-a-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3pl-high,A,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-31,nene1249,nene1249-ddegm-1sgs-a-indexing-marker,2,NA,S,1sg,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-32,nene1249,nene1249-ddegm-1sgs-a-indexing-marker,2,simple,A,1sg,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
@@ -9567,7 +9475,6 @@ nene1249-36,nene1249,nene1249-ddegm-1sgs-a-indexing-marker,2,simple,A,1sg,P,3du-
 nene1249-37,nene1249,nene1249-ddegm-1sgs-a-indexing-marker,2,simple,A,1sg,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-38,nene1249,nene1249-da-3sga-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,3sg-high,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-39,nene1249,nene1249-da-3sga-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3sg-high,A,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-4,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,NA,S,2du,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-40,nene1249,nene1249-da-3sga-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,3sg-low,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-41,nene1249,nene1249-da-3sga-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3sg-high,A,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-42,nene1249,nene1249-da-3sga-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,3sg-high,P,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
@@ -9578,7 +9485,6 @@ nene1249-46,nene1249,nene1249-da-3sga-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,por
 nene1249-47,nene1249,nene1249-da-3sga-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3pl-high,A,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-48,nene1249,nene1249-da-3sga-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,3sg-low,P,3pl-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-49,nene1249,nene1249-da-3sga-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3pl-high,A,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-5,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,simple,A,2du,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-50,nene1249,nene1249-daq-2pls-a-2pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,NA,S,2pl,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-51,nene1249,nene1249-daq-2pls-a-2pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,simple,A,2pl,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-52,nene1249,nene1249-daq-2pls-a-2pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,simple,A,2pl,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
@@ -9589,7 +9495,6 @@ nene1249-56,nene1249,nene1249-daq-2pls-a-2pla-3sg-hp-3du-hp-3pl-hp-indexing-mark
 nene1249-57,nene1249,nene1249-daq-2pls-a-2pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,2pl,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-58,nene1249,nene1249-daq-2pls-a-2pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3sg-high,A,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-59,nene1249,nene1249-daq-2pls-a-2pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,2pl,P,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-6,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,simple,A,2du,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-60,nene1249,nene1249-daq-2pls-a-2pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3du-high,A,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-61,nene1249,nene1249-daq-2pls-a-2pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,2pl,P,3pl-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-62,nene1249,nene1249-daq-2pls-a-2pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3pl-high,A,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
@@ -9600,7 +9505,6 @@ nene1249-66,nene1249,nene1249-doh-3pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,po
 nene1249-67,nene1249,nene1249-doh-3pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,3pl-high,P,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-68,nene1249,nene1249-doh-3pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3du-high,A,3pl-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-69,nene1249,nene1249-doh-3pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,3pl-low,P,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-7,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,simple,A,2du,P,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-70,nene1249,nene1249-doh-3pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3du-high,A,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-71,nene1249,nene1249-doh-3pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,3pl-high,P,3pl-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-72,nene1249,nene1249-doh-3pla-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3pl-high,A,3pl-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
@@ -9611,7 +9515,6 @@ nene1249-76,nene1249,nene1249-m-ih-1dua-3sg-hp-indexing-marker,2,portmanteau,P,3
 nene1249-77,nene1249,nene1249-n-ih-1dus-a-1dua-3du-hp-3pl-hp-indexing-marker,2,NA,S,1du,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-78,nene1249,nene1249-n-ih-1dus-a-1dua-3du-hp-3pl-hp-indexing-marker,2,simple,A,1du,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-79,nene1249,nene1249-n-ih-1dus-a-1dua-3du-hp-3pl-hp-indexing-marker,2,simple,A,1du,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-8,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,simple,A,2du,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-80,nene1249,nene1249-n-ih-1dus-a-1dua-3du-hp-3pl-hp-indexing-marker,2,simple,A,1du,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-81,nene1249,nene1249-n-ih-1dus-a-1dua-3du-hp-3pl-hp-indexing-marker,2,simple,A,1du,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-82,nene1249,nene1249-n-ih-1dus-a-1dua-3du-hp-3pl-hp-indexing-marker,2,simple,A,1du,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
@@ -9622,7 +9525,6 @@ nene1249-86,nene1249,nene1249-n-ih-1dus-a-1dua-3du-hp-3pl-hp-indexing-marker,2,p
 nene1249-87,nene1249,nene1249-n-ih-1dus-a-1dua-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3pl-high,A,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-88,nene1249,nene1249-ndeg-2sgs-a-1sga-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,1sg,P,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-89,nene1249,nene1249-ndeg-2sgs-a-1sga-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3du-high,A,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
-nene1249-9,nene1249,nene1249-d-ih-2dus-a-2dua-3du-hp-3pl-hp-3dua-3sg-hp-3du-hp-3pl-hp-indexing-marker,2,simple,A,2du,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-90,nene1249,nene1249-ndeg-2sgs-a-1sga-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,1sg,P,3pl-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-91,nene1249,nene1249-ndeg-2sgs-a-1sga-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3pl-high,A,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-92,nene1249,nene1249-ndeg-2sgs-a-1sga-3du-hp-3pl-hp-indexing-marker,2,NA,S,2sg,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
@@ -9633,6 +9535,93 @@ nene1249-96,nene1249,nene1249-ndeg-2sgs-a-1sga-3du-hp-3pl-hp-indexing-marker,2,s
 nene1249-97,nene1249,nene1249-ndeg-2sgs-a-1sga-3du-hp-3pl-hp-indexing-marker,2,simple,A,2sg,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-98,nene1249,nene1249-ndeg-2sgs-a-1sga-3du-hp-3pl-hp-indexing-marker,2,simple,A,2sg,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
 nene1249-99,nene1249,nene1249-naq-1pla-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,1pl,P,3du-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-100,nene1249,nene1249-naq-1pla-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3du-high,A,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-101,nene1249,nene1249-naq-1pla-3du-hp-3pl-hp-indexing-marker,2,portmanteau,A,1pl,P,3pl-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-102,nene1249,nene1249-naq-1pla-3du-hp-3pl-hp-indexing-marker,2,portmanteau,P,3pl-high,A,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-103,nene1249,nene1249-q-3pls-a-indexing-marker,2,NA,S,3pl-high,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-104,nene1249,nene1249-q-3pls-a-indexing-marker,2,NA,S,3pl-low,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-105,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-106,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-107,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-108,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-109,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-110,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-111,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-112,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-113,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-114,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-115,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-116,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-117,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-118,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-119,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-120,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-121,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-high,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-122,nene1249,nene1249-q-3pls-a-indexing-marker,2,simple,A,3pl-low,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-123,nene1249,nene1249-r-ih-2du-3sg-hp-indexing-marker,2,portmanteau,A,2du,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-124,nene1249,nene1249-r-ih-2du-3sg-hp-indexing-marker,2,portmanteau,P,3sg-high,A,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-125,nene1249,nene1249-rdeg-2sg-3sg-hp-indexing-marker,2,simple,A,2sg,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-126,nene1249,nene1249-rdeg-2sg-3sg-hp-indexing-marker,2,portmanteau,P,3sg-high,A,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-127,nene1249,nene1249-wdeg-1sga-3sg-hp-indexing-marker,2,portmanteau,A,1sg,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-128,nene1249,nene1249-wdeg-1sga-3sg-hp-indexing-marker,2,portmanteau,P,3sg-high,A,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-129,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,NA,S,1pl,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-130,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,simple,A,1pl,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-131,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,simple,A,1pl,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-132,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,simple,A,1pl,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-133,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,simple,A,1pl,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-134,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,simple,A,1pl,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-135,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,simple,A,1pl,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-136,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,portmanteau,A,1pl,P,3sg-high,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-137,nene1249,nene1249-waq-1pls-a-1pla-3sg-hp-indexing-marker,2,portmanteau,P,3sg-high,A,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-138,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,NA,S,3du-high,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-139,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,NA,S,3du-low,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-140,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-141,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-142,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-143,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-144,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-145,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-146,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-147,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-148,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-149,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-150,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-151,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-152,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-153,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-154,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-155,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-156,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-high,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-157,nene1249,nene1249-xdegh-3dus-a-indexing-marker,2,simple,A,3du-low,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-158,nene1249,nene1249-null-marker,2,simple,P,1sg,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-159,nene1249,nene1249-null-marker,2,simple,P,1du,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-160,nene1249,nene1249-null-marker,2,simple,P,1pl,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-161,nene1249,nene1249-null-marker,2,simple,P,2sg,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-162,nene1249,nene1249-null-marker,2,simple,P,2du,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-163,nene1249,nene1249-null-marker,2,simple,P,2pl,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-164,nene1249,nene1249-null-marker,2,simple,S,3sg-high,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-165,nene1249,nene1249-null-marker,2,simple,S,3sg-low,NA,NA,any,NA,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-166,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-167,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,1sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-168,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-169,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,1du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-170,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-171,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,1pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-172,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-173,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,2sg,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-174,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-175,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,2du,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-176,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-177,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,2pl,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-178,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-179,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,3sg-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-180,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-181,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,3du-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-182,nene1249,nene1249-null-marker,2,simple,A,3sg-high,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-183,nene1249,nene1249-null-marker,2,simple,A,3sg-low,P,3pl-low,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]",,HT;AWM
+nene1249-184,nene1249,nene1249-null-marker,2,simple,P,3sg-low,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]","High-low distinction depends on the topicality, definiteness and specificity.",HT;AWM
+nene1249-185,nene1249,nene1249-null-marker,2,simple,P,3du-low,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]","High-low distinction depends on the topicality, definiteness and specificity.",HT;AWM
+nene1249-186,nene1249,nene1249-null-marker,2,simple,P,3pl-low,A,any,any,none,any,default,any,"nikolaeva2014nenets[202-210,78-80]","High-low distinction depends on the topicality, definiteness and specificity.",HT;AWM
 ngar1284-1,ngar1284,ngar1284-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"rumsey1978ungarinjin[44,83-102]",,DI
 ngar1284-10,ngar1284,ngar1284-a-i-an-3sm-s-p-indexing-marker,-3,simple,P,3sg.M,A,1sg,any,none,any,default,,"rumsey1978ungarinjin[111,114-115]",,AWM
 ngar1284-100,ngar1284,ngar1284-r-pl-indexing-marker,-1,simple,A,1pl.excl,P,3sg.F,any,none,any,default,,"rumsey1978ungarinjin[111,114-115]",,AWM
@@ -11941,6 +11930,14 @@ sout2750-77,sout2750,sout2750-s-a-met-2pl-indexing-marker,2,simple,A,2pl,P,any,a
 sout2750-8,sout2750,sout2750-acc-flagging,,simple,P,1sgPro,A,2sgPro,any,none,any,default,,maslova2003kolyma[80-89],,AWM
 sout2750-9,sout2750,sout2750-acc-flagging,,simple,P,2sgPro,A,1plPro,any,none,any,default,,maslova2003kolyma[80-89],,AWM
 sout2956-1,sout2956,sout2956-no-flagging,,NA,S,Noun,NA,NA,any,NA,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
+sout2956-2,sout2956,sout2956-no-flagging,,simple,A,Noun,P,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
+sout2956-3,sout2956,sout2956-no-flagging,,simple,P,Noun,A,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
+sout2956-4,sout2956,sout2956-no-flagging,,NA,S,1sgPro,NA,NA,any,NA,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
+sout2956-5,sout2956,sout2956-acc-form-flagging,,NA,S,1sgPro,NA,NA,any,NA,non-exemplar,stative,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
+sout2956-6,sout2956,sout2956-no-flagging,,simple,A,1sgPro,P,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
+sout2956-7,sout2956,sout2956-acc-form-flagging,,simple,P,1sgPro,A,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
+sout2956-8,sout2956,sout2956-no-flagging,,NA,S,1plPro,NA,NA,any,NA,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
+sout2956-9,sout2956,sout2956-acc-form-flagging,,NA,S,1plPro,NA,NA,any,NA,non-exemplar,stative,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
 sout2956-10,sout2956,sout2956-no-flagging,,simple,A,1plPro,P,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
 sout2956-11,sout2956,sout2956-acc-form-flagging,,simple,P,1plPro,A,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
 sout2956-12,sout2956,sout2956-no-flagging,,NA,S,2sgPro,NA,NA,any,NA,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
@@ -11951,25 +11948,22 @@ sout2956-16,sout2956,sout2956-no-flagging,,NA,S,2plPro,NA,NA,any,NA,any,any,,"en
 sout2956-17,sout2956,sout2956-no-flagging,,simple,A,2plPro,P,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
 sout2956-18,sout2956,sout2956-no-flagging,,simple,P,2plPro,A,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
 sout2956-19,sout2956,sout2956-no-flagging,,NA,S,3Pro-high,NA,NA,any,NA,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
-sout2956-2,sout2956,sout2956-no-flagging,,simple,A,Noun,P,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
 sout2956-20,sout2956,sout2956-acc-form-flagging,,NA,S,3Pro-high,NA,NA,any,NA,non-exemplar,stative,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
 sout2956-21,sout2956,sout2956-no-flagging,,simple,A,3Pro-high,P,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
 sout2956-22,sout2956,sout2956-acc-form-flagging,,simple,P,3Pro-high,A,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
-sout2956-23,sout2956,sout2956-no-pronoun,,NA,S,3Pro-prox-low,NA,NA,any,NA,any,any,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
-sout2956-24,sout2956,sout2956-no-pronoun,,simple,A,3Pro-prox-low,P,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
-sout2956-25,sout2956,sout2956-no-pronoun,,simple,P,3Pro-prox-low,A,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
-sout2956-26,sout2956,sout2956-no-pronoun,,NA,S,3Pro-obv-low,NA,NA,any,NA,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
-sout2956-27,sout2956,sout2956-acc-form-flagging,,NA,S,3Pro-obv-low,NA,NA,any,NA,non-exemplar,stative,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
-sout2956-28,sout2956,sout2956-no-pronoun,,simple,A,3Pro-obv-low,P,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
-sout2956-29,sout2956,sout2956-acc-form-flagging,,simple,P,3Pro-obv-low,A,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
-sout2956-3,sout2956,sout2956-no-flagging,,simple,P,Noun,A,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
-sout2956-30,sout2956,sout2956-role-not-marked,NA,NA,any,any,any,any,any,NA,any,default,,enrico2003haida[74],,HT
-sout2956-4,sout2956,sout2956-no-flagging,,NA,S,1sgPro,NA,NA,any,NA,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
-sout2956-5,sout2956,sout2956-acc-form-flagging,,NA,S,1sgPro,NA,NA,any,NA,non-exemplar,stative,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
-sout2956-6,sout2956,sout2956-no-flagging,,simple,A,1sgPro,P,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
-sout2956-7,sout2956,sout2956-acc-form-flagging,,simple,P,1sgPro,A,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
-sout2956-8,sout2956,sout2956-no-flagging,,NA,S,1plPro,NA,NA,any,NA,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
-sout2956-9,sout2956,sout2956-acc-form-flagging,,NA,S,1plPro,NA,NA,any,NA,non-exemplar,stative,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",,HT
+sout2956-23,sout2956,sout2956-no-pronoun,,NA,S,3Pro-low,NA,NA,any,NA,any,any,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
+sout2956-24,sout2956,sout2956-no-pronoun,,simple,A,3Pro-low,P,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
+sout2956-25,sout2956,sout2956-no-pronoun,,simple,P,3Pro-low,A,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
+sout2956-26,sout2956,sout2956-no-pronoun,,NA,S,3Pro-lowest,NA,NA,any,NA,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
+sout2956-27,sout2956,sout2956-acc-form-flagging,,NA,S,3Pro-lowest,NA,NA,any,NA,non-exemplar,stative,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
+sout2956-28,sout2956,sout2956-no-pronoun,,simple,A,3Pro-lowest,P,any,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",No pronouns used for 3sg Pro-prox-low S/A/P at all. 3Pro-obv-low lacks pronouns under certain conditions only. The distinction between high and low is related to topicality of 3 person.,HT
+sout2956-29,sout2956,sout2956-acc-form-flagging,,simple,P,3Pro-lowest,A,3Pro-low,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]",3Pro-lowest is in fact only marked uniquely in this scenario.,HT;DI
+sout2956-30,sout2956,sout2956-no-pronoun,,simple,P,3Pro-lowest,A,3Pro-high,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]","In all scenarios in which some role other than 3pro-low acts on 3pro-lowest, the ""3pro-lowest"" is in fact treated as if it is 3pro-low",HT;DI
+sout2956-31,sout2956,sout2956-no-pronoun,,simple,P,3Pro-lowest,A,2plPro,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]","In all scenarios in which some role other than 3pro-low acts on 3pro-lowest, the ""3pro-lowest"" is in fact treated as if it is 3pro-low",HT;DI
+sout2956-32,sout2956,sout2956-no-pronoun,,simple,P,3Pro-lowest,A,2sgPro,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]","In all scenarios in which some role other than 3pro-low acts on 3pro-lowest, the ""3pro-lowest"" is in fact treated as if it is 3pro-low",HT;DI
+sout2956-33,sout2956,sout2956-no-pronoun,,simple,P,3Pro-lowest,A,1plPro,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]","In all scenarios in which some role other than 3pro-low acts on 3pro-lowest, the ""3pro-lowest"" is in fact treated as if it is 3pro-low",HT;DI
+sout2956-34,sout2956,sout2956-no-pronoun,,simple,P,3Pro-lowest,A,1sgPro,any,none,any,default,,"enrico2003haida[112,388,400,405-406,419,92-93,99]","In all scenarios in which some role other than 3pro-low acts on 3pro-lowest, the ""3pro-lowest"" is in fact treated as if it is 3pro-low",HT;DI
+sout2956-35,sout2956,sout2956-role-not-marked,NA,NA,any,any,any,any,any,NA,any,default,,enrico2003haida[74],,HT
 sout2982-1,sout2982,sout2982-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,moshinsky1974pomo[94-98],,AWM
 sout2982-2,sout2982,sout2982-no-flagging,,simple,A,any,P,any,any,none,any,default,,moshinsky1974pomo[94-98],,AWM
 sout2982-3,sout2982,sout2982-acc-case-flagging,,simple,P,any,A,any,any,none,any,default,,moshinsky1974pomo[94-98],,AWM
@@ -13315,19 +13309,24 @@ tonk1249-7,tonk1249,tonk1249-nes-a-dus-a-indexing-marker,3,simple,A,1du,P,any,an
 tonk1249-8,tonk1249,tonk1249-1s-a-indexing-marker,5,NA,S,1du,NA,NA,any,NA,any,default,"There is an additional intransitive class that takes P agreement, but it is psychological verbs and verbs of possession.","wier2016tonkawa[16-18,24,36]",There are some intransitive verbs that can pattern with the psychological verbs under certain interpretations of the event - fluid S system.,HT;AWM
 tonk1249-9,tonk1249,tonk1249-1s-a-indexing-marker,5,simple,A,1du,P,any,any,none,any,default,,"wier2016tonkawa[16-18,24,36]",,HT;AWM
 toto1305-1,toto1305,toto1305-no-flagging,,NA,S,Noun,NA,NA,any,NA,any,default,,guzman2012totontepecmixe[112-113],,DI
+toto1305-2,toto1305,toto1305-no-flagging,,simple,A,Noun,P,any,any,none,any,default,,guzman2012totontepecmixe[112-113],,DI
+toto1305-3,toto1305,toto1305-no-flagging,,simple,P,Noun,A,any,any,none,any,default,,guzman2012totontepecmixe[112-113],,DI
+toto1305-4,toto1305,toto1305-no-flagging,,NA,S,1.exclPro,NA,NA,any,NA,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],This is used for both 1sg + 1excl.pro (minimal-no-augmented),DI
+toto1305-5,toto1305,toto1305-no-flagging,,simple,A,1.exclPro,P,any,any,none,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],This is used for both 1sg + 1excl.pro (minimal-no-augmented),DI
+toto1305-6,toto1305,toto1305-no-flagging,,simple,P,1.exclPro,A,any,any,none,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],This is used for both 1sg + 1excl.pro (minimal-no-augmented),DI
+toto1305-7,toto1305,toto1305-no-flagging,,NA,S,1.inclPro,NA,NA,any,NA,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],This is used for both 1sg + 1excl.pro (minimal-no-augmented),DI
+toto1305-8,toto1305,toto1305-no-flagging,,simple,A,1.inclPro,P,any,any,none,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],This is used for both 1sg + 1excl.pro (minimal-no-augmented),DI
+toto1305-9,toto1305,toto1305-no-flagging,,simple,P,1.inclPro,A,any,any,none,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],This is used for both 1sg + 1excl.pro (minimal-no-augmented),DI
 toto1305-10,toto1305,toto1305-no-flagging,,NA,S,2Pro,NA,NA,any,NA,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],,DI
 toto1305-11,toto1305,toto1305-no-flagging,,simple,A,2Pro,P,any,any,none,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],,DI
 toto1305-12,toto1305,toto1305-no-flagging,,simple,P,2Pro,A,any,any,none,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],,DI
 toto1305-13,toto1305,toto1305-im-1incl-indexing-marker,1,simple,A,1pl.incl,P,any,any,none,any,default,any,guzman2012totontepecmixe[104-105],,DI
 toto1305-14,toto1305,toto1305-im-1incl-indexing-marker,1,simple,P,1pl.incl,A,any,any,none,any,default,any,guzman2012totontepecmixe[104-105],,DI
 toto1305-15,toto1305,toto1305-im-1incl-indexing-marker,1,NA,S,1pl.incl,NA,NA,any,NA,any,default,any,guzman2012totontepecmixe[104-105],,DI
-toto1305-16,toto1305,toto1305-im-1incl-indexing-marker,1,NA,S,1pl.incl,NA,NA,any,NA,non-exemplar,experiencer,any,guzman2012totontepecmixe[104-105],"This set of verbs has a -p suffix indicating their class, which is plausibly a valence-reducing morpheme, or historically derived from one.",DI
 toto1305-17,toto1305,toto1305-ta-pl-indexing-marker,2,simple,A,3pl-high,P,3sg-low,any,none,any,default,unknown,guzman2012totontepecmixe[105-107],The high low distinction here has to do with discourse.,DI
 toto1305-18,toto1305,toto1305-ta-pl-indexing-marker,2,simple,A,3pl-high,P,3pl-low,any,none,any,default,unknown,guzman2012totontepecmixe[105-107],,DI
 toto1305-19,toto1305,toto1305-ta-pl-indexing-marker,2,simple,A,3sg-high,P,3pl-low,any,none,any,default,unknown,guzman2012totontepecmixe[105-107],,DI
-toto1305-2,toto1305,toto1305-no-flagging,,simple,A,Noun,P,any,any,none,any,default,,guzman2012totontepecmixe[112-113],,DI
 toto1305-20,toto1305,toto1305-ta-pl-indexing-marker,2,NA,S,3pl-high,NA,NA,any,NA,any,default,unknown,guzman2012totontepecmixe[105-107],,DI
-toto1305-21,toto1305,toto1305-ta-pl-indexing-marker,2,NA,S,3pl-high,NA,NA,any,INV,non-exemplar,experiencer,unknown,guzman2012totontepecmixe[105-107],"This set of verbs has a -p suffix indicating their class, which is plausibly a valence-reducing morpheme, or historically derived from one.",DI
 toto1305-22,toto1305,toto1305-ta-pl-indexing-marker,2,simple,A,1pl.incl,P,any,any,none,any,default,any,guzman2012totontepecmixe[105-107],,DI
 toto1305-23,toto1305,toto1305-ta-pl-indexing-marker,2,simple,A,2pl,P,3sg-high,any,none,any,default,any,guzman2012totontepecmixe[105-107],,DI
 toto1305-24,toto1305,toto1305-ta-pl-indexing-marker,2,simple,A,2pl,P,3pl-high,any,none,any,default,any,guzman2012totontepecmixe[105-107],,DI
@@ -13336,18 +13335,13 @@ toto1305-26,toto1305,toto1305-ta-pl-indexing-marker,2,simple,A,2pl,P,3pl-low,any
 toto1305-27,toto1305,toto1305-ta-pl-indexing-marker,2,simple,P,1pl.incl,A,any,any,none,any,default,any,guzman2012totontepecmixe[105-107],,DI
 toto1305-28,toto1305,toto1305-ta-pl-indexing-marker,2,simple,P,2pl,A,3sg-high,any,INV,any,default,any,guzman2012totontepecmixe[105-107],,DI
 toto1305-29,toto1305,toto1305-ta-pl-indexing-marker,2,simple,P,2pl,A,3sg-low,any,INV,any,default,any,guzman2012totontepecmixe[105-107],,DI
-toto1305-3,toto1305,toto1305-no-flagging,,simple,P,Noun,A,any,any,none,any,default,,guzman2012totontepecmixe[112-113],,DI
 toto1305-30,toto1305,toto1305-ta-pl-indexing-marker,2,simple,P,2pl,A,3pl-low,any,INV,any,default,any,guzman2012totontepecmixe[105-107],,DI
 toto1305-31,toto1305,toto1305-ta-pl-indexing-marker,2,simple,P,2pl,A,3pl-high,any,INV,any,default,any,guzman2012totontepecmixe[105-107],,DI
 toto1305-32,toto1305,toto1305-ta-pl-indexing-marker,2,NA,S,1pl.incl,NA,NA,any,NA,any,default,any,guzman2012totontepecmixe[105-107],,DI
-toto1305-33,toto1305,toto1305-ta-pl-indexing-marker,2,NA,S,1pl.incl,NA,NA,any,NA,non-exemplar,experiencer,any,guzman2012totontepecmixe[105-107],"This set of verbs has a -p suffix indicating their class, which is plausibly a valence-reducing morpheme, or historically derived from one.",DI
 toto1305-34,toto1305,toto1305-ta-pl-indexing-marker,2,NA,S,2pl,NA,NA,any,NA,any,default,any,guzman2012totontepecmixe[105-107],,DI
-toto1305-35,toto1305,toto1305-ta-pl-indexing-marker,2,NA,S,2pl,NA,NA,any,INV,non-exemplar,experiencer,any,guzman2012totontepecmixe[105-107],"This set of verbs has a -p suffix indicating their class, which is plausibly a valence-reducing morpheme, or historically derived from one.",DI
 toto1305-36,toto1305,toto1305-ta-pl-indexing-marker,2,NA,S,3pl-low,NA,NA,any,NA,any,default,unknown,guzman2012totontepecmixe[105-107],,DI
-toto1305-37,toto1305,toto1305-ta-pl-indexing-marker,2,NA,S,3pl-low,NA,NA,any,INV,non-exemplar,experiencer,unknown,guzman2012totontepecmixe[105-107],"This set of verbs has a -p suffix indicating their class, which is plausibly a valence-reducing morpheme, or historically derived from one.",DI
 toto1305-38,toto1305,toto1305-m-2-indexing-marker,-1,simple,A,2pl,P,3sg-high,any,none,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-39,toto1305,toto1305-m-2-indexing-marker,-1,simple,A,2pl,P,3pl-high,any,none,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
-toto1305-4,toto1305,toto1305-no-flagging,,NA,S,1.exclPro,NA,NA,any,NA,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],This is used for both 1sg + 1excl.pro (minimal-no-augmented),DI
 toto1305-40,toto1305,toto1305-m-2-indexing-marker,-1,simple,A,2pl,P,3sg-low,any,none,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-41,toto1305,toto1305-m-2-indexing-marker,-1,simple,A,2pl,P,3pl-low,any,none,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-42,toto1305,toto1305-m-2-indexing-marker,-1,simple,A,2sg,P,3sg-high,any,none,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
@@ -13358,43 +13352,29 @@ toto1305-46,toto1305,toto1305-m-2-indexing-marker,-1,simple,P,2pl,A,3sg-high,any
 toto1305-47,toto1305,toto1305-m-2-indexing-marker,-1,simple,P,2pl,A,3sg-low,any,INV,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-48,toto1305,toto1305-m-2-indexing-marker,-1,simple,P,2pl,A,3pl-low,any,INV,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-49,toto1305,toto1305-m-2-indexing-marker,-1,simple,P,2pl,A,3pl-high,any,INV,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
-toto1305-5,toto1305,toto1305-no-flagging,,simple,A,1.exclPro,P,any,any,none,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],This is used for both 1sg + 1excl.pro (minimal-no-augmented),DI
 toto1305-50,toto1305,toto1305-m-2-indexing-marker,-1,simple,P,2sg,A,3sg-high,any,INV,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-51,toto1305,toto1305-m-2-indexing-marker,-1,simple,P,2sg,A,3pl-high,any,INV,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-52,toto1305,toto1305-m-2-indexing-marker,-1,simple,P,2sg,A,3sg-low,any,INV,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-53,toto1305,toto1305-m-2-indexing-marker,-1,simple,P,2sg,A,3pl-low,any,INV,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-54,toto1305,toto1305-m-2-indexing-marker,-1,NA,S,2pl,NA,NA,any,NA,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
-toto1305-55,toto1305,toto1305-m-2-indexing-marker,-1,NA,S,2pl,NA,NA,any,NA,non-exemplar,experiencer,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]","This set of verbs has a -p suffix indicating their class, which is plausibly a valence-reducing morpheme, or historically derived from one.",DI
 toto1305-56,toto1305,toto1305-m-2-indexing-marker,-1,NA,S,2sg,NA,NA,any,NA,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
-toto1305-57,toto1305,toto1305-m-2-indexing-marker,-1,NA,S,2sg,NA,NA,any,INV,non-exemplar,experiencer,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]","This set of verbs has a -p suffix indicating their class, which is plausibly a valence-reducing morpheme, or historically derived from one.",DI
 toto1305-58,toto1305,toto1305-n-1-indexing-marker,-1,simple,A,1pl.excl,P,any,any,none,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-59,toto1305,toto1305-n-1-indexing-marker,-1,simple,A,1pl.incl,P,any,any,none,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
-toto1305-6,toto1305,toto1305-no-flagging,,simple,P,1.exclPro,A,any,any,none,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],This is used for both 1sg + 1excl.pro (minimal-no-augmented),DI
 toto1305-60,toto1305,toto1305-n-1-indexing-marker,-1,simple,A,1sg,P,any,any,none,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-61,toto1305,toto1305-null-marker,-1,NA,S,1pl.excl,NA,NA,any,NA,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
-toto1305-62,toto1305,toto1305-null-marker,-1,NA,S,1pl.excl,NA,NA,any,INV,non-exemplar,experiencer,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]","This set of verbs has a -p suffix indicating their class, which is plausibly a valence-reducing morpheme, or historically derived from one. Though the label is ""experiencer"" it includes stative concepts, including ""have a fever"", ""shiver"", ""be burned"", ""be cold"" as well as more traditional experiencers like ""get mad"".",DI
 toto1305-63,toto1305,toto1305-null-marker,-1,NA,S,1pl.incl,NA,NA,any,NA,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
-toto1305-64,toto1305,toto1305-null-marker,-1,NA,S,1pl.incl,NA,NA,any,INV,non-exemplar,experiencer,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]","This set of verbs has a -p suffix indicating their class, which is plausibly a valence-reducing morpheme, or historically derived from one. Though the label is ""experiencer"" it includes stative concepts, including ""have a fever"", ""shiver"", ""be burned"", ""be cold"" as well as more traditional experiencers like ""get mad"".",DI
 toto1305-65,toto1305,toto1305-null-marker,-1,NA,S,1sg,NA,NA,any,NA,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
-toto1305-66,toto1305,toto1305-null-marker,-1,NA,S,1sg,NA,NA,any,NA,non-exemplar,experiencer,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]","This set of verbs has a -p suffix indicating their class, which is plausibly a valence-reducing morpheme, or historically derived from one. Though the label is ""experiencer"" it includes stative concepts, including ""have a fever"", ""shiver"", ""be burned"", ""be cold"" as well as more traditional experiencers like ""get mad"".",DI
 toto1305-67,toto1305,toto1305-null-marker,-1,NA,S,3sg-high,NA,NA,any,NA,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
-toto1305-68,toto1305,toto1305-null-marker,-1,NA,S,3sg-high,NA,NA,any,INV,non-exemplar,experiencer,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]","This set of verbs has a -p suffix indicating their class, which is plausibly a valence-reducing morpheme, or historically derived from one. Though the label is ""experiencer"" it includes stative concepts, including ""have a fever"", ""shiver"", ""be burned"", ""be cold"" as well as more traditional experiencers like ""get mad"".",DI
 toto1305-69,toto1305,toto1305-null-marker,-1,NA,S,3pl-high,NA,NA,any,NA,any,default,default,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
-toto1305-7,toto1305,toto1305-no-flagging,,NA,S,1.inclPro,NA,NA,any,NA,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],This is used for both 1sg + 1excl.pro (minimal-no-augmented),DI
-toto1305-70,toto1305,toto1305-null-marker,-1,NA,S,3pl-high,NA,NA,any,INV,non-exemplar,experiencer,default,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]","This set of verbs has a -p suffix indicating their class, which is plausibly a valence-reducing morpheme, or historically derived from one. Though the label is ""experiencer"" it includes stative concepts, including ""have a fever"", ""shiver"", ""be burned"", ""be cold"" as well as more traditional experiencers like ""get mad"".",DI
 toto1305-71,toto1305,toto1305-null-marker,-1,NA,S,3sg-low,NA,NA,any,NA,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
-toto1305-72,toto1305,toto1305-null-marker,-1,NA,S,3sg-low,NA,NA,any,INV,non-exemplar,experiencer,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]","This set of verbs has a -p suffix indicating their class, which is plausibly a valence-reducing morpheme, or historically derived from one. Though the label is ""experiencer"" it includes stative concepts, including ""have a fever"", ""shiver"", ""be burned"", ""be cold"" as well as more traditional experiencers like ""get mad"".",DI
 toto1305-73,toto1305,toto1305-null-marker,-1,NA,S,3pl-low,NA,NA,any,NA,any,default,default,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
-toto1305-74,toto1305,toto1305-null-marker,-1,NA,S,3pl-low,NA,NA,any,INV,non-exemplar,experiencer,default,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]","This set of verbs has a -p suffix indicating their class, which is plausibly a valence-reducing morpheme, or historically derived from one. Though the label is ""experiencer"" it includes stative concepts, including ""have a fever"", ""shiver"", ""be burned"", ""be cold"" as well as more traditional experiencers like ""get mad"".",DI
 toto1305-75,toto1305,toto1305-x-1-indexing-marker,-1,simple,P,1pl.excl,A,any,any,none,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-76,toto1305,toto1305-x-1-indexing-marker,-1,simple,P,1pl.incl,A,any,any,none,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-77,toto1305,toto1305-x-1-indexing-marker,-1,simple,P,1sg,A,any,any,none,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-78,toto1305,toto1305-y-3-indexing-marker,-1,simple,A,3pl-high,P,3pl-low,any,none,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-79,toto1305,toto1305-y-3-indexing-marker,-1,simple,A,3sg-high,P,3sg-low,any,none,any,default,any,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
-toto1305-8,toto1305,toto1305-no-flagging,,simple,A,1.inclPro,P,any,any,none,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],This is used for both 1sg + 1excl.pro (minimal-no-augmented),DI
 toto1305-80,toto1305,toto1305-y-3-indexing-marker,-1,simple,A,3pl-high,P,3sg-low,any,none,any,default,default,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
 toto1305-81,toto1305,toto1305-y-3-indexing-marker,-1,simple,A,3sg-high,P,3pl-low,any,none,any,default,default,"guzman2012totontepecmixe[102-103,35-37,53-59,61-66]",,DI
-toto1305-9,toto1305,toto1305-no-flagging,,simple,P,1.inclPro,A,any,any,none,any,default,,guzman2012totontepecmixe[72];suslak2003totontepecmixe[49],This is used for both 1sg + 1excl.pro (minimal-no-augmented),DI
 trin1274-1,trin1274,trin1274-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"rose2015sketch[71,90]",,DI
 trin1274-2,trin1274,trin1274-no-flagging,,simple,A,any,P,any,any,none,any,default,,"rose2015sketch[71,90]",,DI
 trin1274-3,trin1274,trin1274-no-flagging,,simple,P,any,A,any,any,none,any,default,,"rose2015sketch[71,90]",,DI
@@ -14071,18 +14051,51 @@ waim1253-7,waim1253,waim1253-a-1plexcl-indexing-indexing-marker,-1,simple,P,1pl.
 waim1253-8,waim1253,waim1253-aa-1sgp-indexing-indexing-marker,-1,simple,P,1sg,A,2sg,any,none,any,default,,"bruno2003waimiriatroari[117-118,121-122,87]",,AWM;HT
 waim1253-9,waim1253,waim1253-aa-1sgp-indexing-indexing-marker,-1,simple,P,1sg,A,2pl,any,none,any,default,,"bruno2003waimiriatroari[117-118,121-122,87]",,AWM;HT
 wang1291-1,wang1291,wang1291-no-flagging,,NA,S,Noun,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
-wang1291-10,wang1291,wang1291-no-flagging,,NA,S,3Pro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
-wang1291-11,wang1291,wang1291-erg-form-flagging,,simple,A,3Pro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
-wang1291-12,wang1291,wang1291-no-flagging,,simple,P,3Pro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
-wang1291-13,wang1291,wang1291-role-not-marked,NA,NA,any,any,any,any,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",No agreement,AWM
 wang1291-2,wang1291,wang1291-erg-marking-flagging,,simple,A,Noun,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
 wang1291-3,wang1291,wang1291-no-flagging,,simple,P,Noun,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
-wang1291-4,wang1291,wang1291-nom-form-flagging,,NA,S,1Pro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
-wang1291-5,wang1291,wang1291-nom-form-flagging,,simple,A,1Pro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
-wang1291-6,wang1291,wang1291-acc-form-flagging,,simple,P,1Pro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
-wang1291-7,wang1291,wang1291-nom-form-flagging,,NA,S,2Pro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
-wang1291-8,wang1291,wang1291-nom-form-flagging,,simple,A,2Pro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
-wang1291-9,wang1291,wang1291-acc-form-flagging,,simple,P,2Pro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-4,wang1291,wang1291-nom-form-flagging,,NA,S,1sgPro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-5,wang1291,wang1291-nom-form-flagging,,simple,A,1sgPro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-6,wang1291,wang1291-acc-form-flagging,,simple,P,1sgPro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-7,wang1291,wang1291-nom-form-flagging,,NA,S,1du.inclPro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-8,wang1291,wang1291-nom-form-flagging,,simple,A,1du.inclPro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-9,wang1291,wang1291-acc-form-flagging,,simple,P,1du.inclPro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-10,wang1291,wang1291-nom-form-flagging,,NA,S,1pl.inclPro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-11,wang1291,wang1291-nom-form-flagging,,simple,A,1pl.inclPro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-12,wang1291,wang1291-acc-form-flagging,,simple,P,1pl.inclPro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-13,wang1291,wang1291-nom-form-flagging,,NA,S,1du.exclPro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-14,wang1291,wang1291-nom-form-flagging,,simple,A,1du.exclPro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-15,wang1291,wang1291-acc-form-flagging,,simple,P,1du.exclPro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-16,wang1291,wang1291-nom-form-flagging,,NA,S,1pl.exclPro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-17,wang1291,wang1291-nom-form-flagging,,simple,A,1pl.exclPro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-18,wang1291,wang1291-acc-form-flagging,,simple,P,1pl.exclPro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-19,wang1291,wang1291-nom-form-flagging,,NA,S,2sgPro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-20,wang1291,wang1291-nom-form-flagging,,simple,A,2sgPro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-21,wang1291,wang1291-acc-form-flagging,,simple,P,2sgPro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-22,wang1291,wang1291-nom-form-flagging,,NA,S,2duPro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-23,wang1291,wang1291-nom-form-flagging,,simple,A,2duPro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-24,wang1291,wang1291-acc-form-flagging,,simple,P,2duPro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-25,wang1291,wang1291-nom-form-flagging,,NA,S,2plPro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-26,wang1291,wang1291-nom-form-flagging,,simple,A,2plPro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-27,wang1291,wang1291-acc-form-flagging,,simple,P,2plPro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-28,wang1291,wang1291-no-flagging,,NA,S,3sg.otherPro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",3sg other refers to any referent that is not visible to the speaker.,HT
+wang1291-29,wang1291,wang1291-erg-form-flagging,,simple,A,3sg.otherPro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",3sg other refers to any referent that is not visible to the speaker.,HT
+wang1291-30,wang1291,wang1291-no-flagging,,simple,P,3sg.otherPro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",3sg other refers to any referent that is not visible to the speaker.,HT
+wang1291-31,wang1291,wang1291-no-flagging,,NA,S,3du.otherPro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",3sg other refers to any referent that is not visible to the speaker.,HT
+wang1291-32,wang1291,wang1291-erg-form-flagging,,simple,A,3du.otherPro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",3sg other refers to any referent that is not visible to the speaker.,HT
+wang1291-33,wang1291,wang1291-no-flagging,,simple,P,3du.otherPro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",3sg other refers to any referent that is not visible to the speaker.,HT
+wang1291-34,wang1291,wang1291-no-flagging,,NA,S,3pl.otherPro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",3sg other refers to any referent that is not visible to the speaker.,HT
+wang1291-35,wang1291,wang1291-erg-form-flagging,,simple,A,3pl.otherPro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",3sg other refers to any referent that is not visible to the speaker.,HT
+wang1291-36,wang1291,wang1291-no-flagging,,simple,P,3pl.otherPro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",3sg other refers to any referent that is not visible to the speaker.,HT
+wang1291-37,wang1291,wang1291-no-flagging,,NA,S,3sg.visPro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-38,wang1291,wang1291-erg-form-flagging,,simple,A,3sg.visPro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-39,wang1291,wang1291-no-flagging,,simple,P,3sg.visPro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-40,wang1291,wang1291-no-flagging,,NA,S,3du.visPro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-41,wang1291,wang1291-erg-form-flagging,,simple,A,3du.visPro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-42,wang1291,wang1291-no-flagging,,simple,P,3du.visPro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-43,wang1291,wang1291-no-flagging,,NA,S,3pl.visPro,NA,NA,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-44,wang1291,wang1291-erg-form-flagging,,simple,A,3pl.visPro,P,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-45,wang1291,wang1291-no-flagging,,simple,P,3pl.visPro,A,any,any,none,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",,HT
+wang1291-46,wang1291,wang1291-role-not-marked,NA,NA,any,any,any,any,any,NA,any,default,,"donaldson1980ngiyambaa[120-127,81-83]",No agreement,AWM
 wapi1253-1,wapi1253,wapi1253-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,"ati2000scholar[168,172];gomes2006wapixana[185-186,224]",,HT
 wapi1253-2,wapi1253,wapi1253-no-flagging,,simple,A,any,P,any,any,none,any,default,,"ati2000scholar[168,172];gomes2006wapixana[185-186,224]",,HT
 wapi1253-3,wapi1253,wapi1253-no-flagging,,simple,P,any,A,any,any,none,any,default,,"ati2000scholar[168,172];gomes2006wapixana[185-186,224]",,HT

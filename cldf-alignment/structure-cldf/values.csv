@@ -637,12 +637,12 @@ hopi1249-split-s,hopi1249,split-s,False,AWM;DI;HT;MV,"jeanne1978hopi[101,106,109
 hopi1249-coargument-sensitivity flagging,hopi1249,coargument-sensitivity flagging,no,AWM;DI;HT;MV,"jeanne1978hopi[101,106,109,76,85-88,93-97]"
 hopi1249-coargument-sensitivity indexing,hopi1249,coargument-sensitivity indexing,no,AWM;DI;HT;MV,"jeanne1978hopi[101,106,109,76,85-88,93-97]"
 hual1241-flagging,hual1241,flagging,True,DI,weber1989huallagagrammar[178-179]
-hual1241-indexing,hual1241,indexing,True,AWM;DI;MV,weber1989huallagagrammar[178-179]
-hual1241-indexing-features,hual1241,indexing-features,person,AWM;DI;MV,weber1989huallagagrammar[178-179]
-hual1241-tam-split,hual1241,tam-split,False,AWM;DI;MV,"weber1989huallagagrammar[178-179,70,79,96-111]"
-hual1241-split-s,hual1241,split-s,False,AWM;DI;MV,"weber1989huallagagrammar[178-179,70,79,96-111]"
-hual1241-coargument-sensitivity flagging,hual1241,coargument-sensitivity flagging,no,AWM;DI;MV,"weber1989huallagagrammar[178-179,70,79,96-111]"
-hual1241-coargument-sensitivity indexing,hual1241,coargument-sensitivity indexing,yes,AWM;DI;MV,"weber1989huallagagrammar[178-179,70,79,96-111]"
+hual1241-indexing,hual1241,indexing,True,AWM;DI;MV;NCP,weber1989huallagagrammar[178-179]
+hual1241-indexing-features,hual1241,indexing-features,person,AWM;DI;MV;NCP,weber1989huallagagrammar[178-179]
+hual1241-tam-split,hual1241,tam-split,True,AWM;DI;MV;NCP,"weber1989huallagagrammar[178-179];weber1996huallaga[128,147-151,472]"
+hual1241-split-s,hual1241,split-s,False,AWM;DI;MV;NCP,"weber1989huallagagrammar[178-179];weber1996huallaga[128,147-151,472]"
+hual1241-coargument-sensitivity flagging,hual1241,coargument-sensitivity flagging,no,AWM;DI;MV;NCP,"weber1989huallagagrammar[178-179];weber1996huallaga[128,147-151,472]"
+hual1241-coargument-sensitivity indexing,hual1241,coargument-sensitivity indexing,yes,AWM;DI;MV;NCP,"weber1989huallagagrammar[178-179];weber1996huallaga[128,147-151,472]"
 huas1242-flagging,huas1242,flagging,False,AWM;HT,edmonson1988huastec
 huas1242-indexing,huas1242,indexing,True,AWM;DI;MV,edmonson1988huastec
 huas1242-indexing-features,huas1242,indexing-features,person;person+number,AWM;DI;MV,edmonson1988huastec
@@ -779,10 +779,10 @@ kain1272-coargument-sensitivity indexing,kain1272,coargument-sensitivity indexin
 kala1399-flagging,kala1399,flagging,True,DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
 kala1399-indexing,kala1399,indexing,True,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
 kala1399-indexing-features,kala1399,indexing-features,person;person+number,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
-kala1399-tam-split,kala1399,tam-split,False,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263];sadock2003kalaallisut[64]"
-kala1399-split-s,kala1399,split-s,False,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263];sadock2003kalaallisut[64]"
-kala1399-coargument-sensitivity flagging,kala1399,coargument-sensitivity flagging,no,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263];sadock2003kalaallisut[64]"
-kala1399-coargument-sensitivity indexing,kala1399,coargument-sensitivity indexing,yes,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263];sadock2003kalaallisut[64]"
+kala1399-tam-split,kala1399,tam-split,False,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258];sadock2003kalaallisut[64]"
+kala1399-split-s,kala1399,split-s,False,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258];sadock2003kalaallisut[64]"
+kala1399-coargument-sensitivity flagging,kala1399,coargument-sensitivity flagging,no,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258];sadock2003kalaallisut[64]"
+kala1399-coargument-sensitivity indexing,kala1399,coargument-sensitivity indexing,yes,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258];sadock2003kalaallisut[64]"
 kala1400-flagging,kala1400,flagging,False,DI;MV,banks2007kalapuya[10-13]
 kala1400-indexing,kala1400,indexing,True,DI;MV,banks2007kalapuya[10-13]
 kala1400-indexing-features,kala1400,indexing-features,person;person+number,DI;MV,banks2007kalapuya[10-13]
@@ -1752,10 +1752,10 @@ sout2750-coargument-sensitivity indexing,sout2750,coargument-sensitivity indexin
 sout2956-flagging,sout2956,flagging,True,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
 sout2956-indexing,sout2956,indexing,False,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
 sout2956-indexing-features,sout2956,indexing-features,NA,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
-sout2956-tam-split,sout2956,tam-split,False,HT,"enrico2003haida[112,388,400,405-406,419,74,92-93,99]"
-sout2956-split-s,sout2956,split-s,True,HT,"enrico2003haida[112,388,400,405-406,419,74,92-93,99]"
-sout2956-coargument-sensitivity flagging,sout2956,coargument-sensitivity flagging,no,HT,"enrico2003haida[112,388,400,405-406,419,74,92-93,99]"
-sout2956-coargument-sensitivity indexing,sout2956,coargument-sensitivity indexing,no,HT,"enrico2003haida[112,388,400,405-406,419,74,92-93,99]"
+sout2956-tam-split,sout2956,tam-split,False,DI;HT,"enrico2003haida[112,388,400,405-406,419,74,92-93,99]"
+sout2956-split-s,sout2956,split-s,True,DI;HT,"enrico2003haida[112,388,400,405-406,419,74,92-93,99]"
+sout2956-coargument-sensitivity flagging,sout2956,coargument-sensitivity flagging,yes,DI;HT,"enrico2003haida[112,388,400,405-406,419,74,92-93,99]"
+sout2956-coargument-sensitivity indexing,sout2956,coargument-sensitivity indexing,no,DI;HT,"enrico2003haida[112,388,400,405-406,419,74,92-93,99]"
 sout2982-flagging,sout2982,flagging,True,AWM,moshinsky1974pomo[94-98]
 sout2982-indexing,sout2982,indexing,False,AWM,moshinsky1974pomo[94-98]
 sout2982-indexing-features,sout2982,indexing-features,NA,AWM,moshinsky1974pomo[94-98]
@@ -1921,7 +1921,7 @@ toto1305-flagging,toto1305,flagging,False,DI,"guzman2012totontepecmixe[112-113,7
 toto1305-indexing,toto1305,indexing,True,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
 toto1305-indexing-features,toto1305,indexing-features,number;person;person+number,DI,"guzman2012totontepecmixe[112-113,72];suslak2003totontepecmixe[49]"
 toto1305-tam-split,toto1305,tam-split,False,DI,"guzman2012totontepecmixe[102-107,112-113,35-37,53-59,61-66,72];suslak2003totontepecmixe[49]"
-toto1305-split-s,toto1305,split-s,True,DI,"guzman2012totontepecmixe[102-107,112-113,35-37,53-59,61-66,72];suslak2003totontepecmixe[49]"
+toto1305-split-s,toto1305,split-s,False,DI,"guzman2012totontepecmixe[102-107,112-113,35-37,53-59,61-66,72];suslak2003totontepecmixe[49]"
 toto1305-coargument-sensitivity flagging,toto1305,coargument-sensitivity flagging,no,DI,"guzman2012totontepecmixe[102-107,112-113,35-37,53-59,61-66,72];suslak2003totontepecmixe[49]"
 toto1305-coargument-sensitivity indexing,toto1305,coargument-sensitivity indexing,yes,DI,"guzman2012totontepecmixe[102-107,112-113,35-37,53-59,61-66,72];suslak2003totontepecmixe[49]"
 trin1274-flagging,trin1274,flagging,False,DI,"rose2015sketch[71,90]"
@@ -4382,20 +4382,20 @@ hopi1249-S!=A flagging,hopi1249,S!=A flagging,False,AWM;DI;HT;MV,"jeanne1978hopi
 hopi1249-S!=A indexing,hopi1249,S!=A indexing,False,AWM;DI;HT;MV,"jeanne1978hopi[101,106,109,76,93]"
 hual1241-align-noun,hual1241,align-noun,accusative,DI,weber1989huallagagrammar[178-179]
 hual1241-align-pro,hual1241,align-pro,accusative,DI,weber1989huallagagrammar[178-179]
-hual1241-align-index,hual1241,align-index,sensitive,AWM;DI;MV,weber1989huallagagrammar[178-179]
+hual1241-align-index,hual1241,align-index,accusative,AWM;DI;MV;NCP,weber1989huallagagrammar[178-179]
 hual1241-align-noun-nl,hual1241,align-noun-nl,accusative,DI,weber1989huallagagrammar[178-179]
 hual1241-align-pro-nl,hual1241,align-pro-nl,accusative,DI,weber1989huallagagrammar[178-179]
-hual1241-align-index-nl,hual1241,align-index-nl,accusative,AWM;DI;MV,weber1989huallagagrammar[178-179]
-hual1241-ref-ergative,hual1241,ref-ergative,False,AWM;DI;MV,weber1989huallagagrammar[178-179]
-hual1241-ref-ergative-domain,hual1241,ref-ergative-domain,NA,AWM;DI;MV,weber1989huallagagrammar[178-179]
-hual1241-ref-tripartite,hual1241,ref-tripartite,False,AWM;DI;MV,weber1989huallagagrammar[178-179]
-hual1241-ref-tripartite-domain,hual1241,ref-tripartite-domain,NA,AWM;DI;MV,weber1989huallagagrammar[178-179]
-hual1241-ref-horizontal,hual1241,ref-horizontal,False,AWM;DI;MV,weber1989huallagagrammar[178-179]
-hual1241-ref-horizontal-domain,hual1241,ref-horizontal-domain,NA,AWM;DI;MV,weber1989huallagagrammar[178-179]
-hual1241-ref-sensitive,hual1241,ref-sensitive,True,AWM;DI;MV,weber1989huallagagrammar[178-179]
-hual1241-ref-sensitive-domain,hual1241,ref-sensitive-domain,Verb,AWM;DI;MV,weber1989huallagagrammar[178-179]
-hual1241-S!=A flagging,hual1241,S!=A flagging,False,AWM;DI;MV,weber1989huallagagrammar[178-179]
-hual1241-S!=A indexing,hual1241,S!=A indexing,True,AWM;DI;MV,weber1989huallagagrammar[178-179]
+hual1241-align-index-nl,hual1241,align-index-nl,accusative,AWM;DI;MV;NCP,weber1989huallagagrammar[178-179]
+hual1241-ref-ergative,hual1241,ref-ergative,False,AWM;DI;MV;NCP,weber1989huallagagrammar[178-179]
+hual1241-ref-ergative-domain,hual1241,ref-ergative-domain,NA,AWM;DI;MV;NCP,weber1989huallagagrammar[178-179]
+hual1241-ref-tripartite,hual1241,ref-tripartite,False,AWM;DI;MV;NCP,weber1989huallagagrammar[178-179]
+hual1241-ref-tripartite-domain,hual1241,ref-tripartite-domain,NA,AWM;DI;MV;NCP,weber1989huallagagrammar[178-179]
+hual1241-ref-horizontal,hual1241,ref-horizontal,False,AWM;DI;MV;NCP,weber1989huallagagrammar[178-179]
+hual1241-ref-horizontal-domain,hual1241,ref-horizontal-domain,NA,AWM;DI;MV;NCP,weber1989huallagagrammar[178-179]
+hual1241-ref-sensitive,hual1241,ref-sensitive,True,AWM;DI;MV;NCP,weber1989huallagagrammar[178-179]
+hual1241-ref-sensitive-domain,hual1241,ref-sensitive-domain,Verb,AWM;DI;MV;NCP,weber1989huallagagrammar[178-179]
+hual1241-S!=A flagging,hual1241,S!=A flagging,False,AWM;DI;MV;NCP,weber1989huallagagrammar[178-179]
+hual1241-S!=A indexing,hual1241,S!=A indexing,True,AWM;DI;MV;NCP,weber1989huallagagrammar[178-179]
 huas1242-align-noun,huas1242,align-noun,no marking,AWM;HT,edmonson1988huastec
 huas1242-align-pro,huas1242,align-pro,no marking,AWM;HT,edmonson1988huastec
 huas1242-align-index,huas1242,align-index,sensitive;tripartite,AWM;DI;MV,edmonson1988huastec
@@ -4701,13 +4701,13 @@ kain1272-ref-sensitive-domain,kain1272,ref-sensitive-domain,NA,DI,"silva2011kain
 kain1272-S!=A flagging,kain1272,S!=A flagging,False,DI,"silva2011kaingang[22-23,95-101];wiesemann1972kaingang[103ff]"
 kain1272-S!=A indexing,kain1272,S!=A indexing,False,DI,"silva2011kaingang[22-23,95-101];wiesemann1972kaingang[103ff]"
 kala1399-align-noun,kala1399,align-noun,ergative,DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
-kala1399-align-pro,kala1399,align-pro,ergative,DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
+kala1399-align-pro,kala1399,align-pro,no marking,DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
 kala1399-align-index,kala1399,align-index,sensitive,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
 kala1399-align-noun-nl,kala1399,align-noun-nl,ergative,DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
-kala1399-align-pro-nl,kala1399,align-pro-nl,ergative,DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
+kala1399-align-pro-nl,kala1399,align-pro-nl,no marking,DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
 kala1399-align-index-nl,kala1399,align-index-nl,sensitive,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
 kala1399-ref-ergative,kala1399,ref-ergative,True,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
-kala1399-ref-ergative-domain,kala1399,ref-ergative-domain,Noun;Pro,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
+kala1399-ref-ergative-domain,kala1399,ref-ergative-domain,Noun,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
 kala1399-ref-tripartite,kala1399,ref-tripartite,True,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
 kala1399-ref-tripartite-domain,kala1399,ref-tripartite-domain,Noun;Verb,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
 kala1399-ref-horizontal,kala1399,ref-horizontal,False,AWM;DI,"fortescue1984kalaallisut[206,210-211,253-258,261-263]"
@@ -6936,8 +6936,8 @@ sout2956-ref-tripartite,sout2956,ref-tripartite,False,HT,"enrico2003haida[112,38
 sout2956-ref-tripartite-domain,sout2956,ref-tripartite-domain,NA,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
 sout2956-ref-horizontal,sout2956,ref-horizontal,False,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
 sout2956-ref-horizontal-domain,sout2956,ref-horizontal-domain,NA,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
-sout2956-ref-sensitive,sout2956,ref-sensitive,False,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
-sout2956-ref-sensitive-domain,sout2956,ref-sensitive-domain,NA,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
+sout2956-ref-sensitive,sout2956,ref-sensitive,True,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
+sout2956-ref-sensitive-domain,sout2956,ref-sensitive-domain,Pro,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
 sout2956-S!=A flagging,sout2956,S!=A flagging,True,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
 sout2956-S!=A indexing,sout2956,S!=A indexing,False,HT,"enrico2003haida[112,388,400,405-406,419,92-93,99]"
 sout2982-align-noun,sout2982,align-noun,accusative,AWM,moshinsky1974pomo[94-98]

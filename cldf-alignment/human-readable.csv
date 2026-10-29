@@ -91,7 +91,7 @@ high1242,False,True,False,False,person+number,False,NA,no marking,no marking,acc
 high1276,False,True,False,False,person,False,NA,no marking,no marking,sensitive,no marking,no marking,ergative,True,Verb,False,NA,False,NA,True,Verb,no,yes,False,True
 hixk1239,False,True,False,False,person;person+number,False,NA,no marking,no marking,sensitive,no marking,no marking,accusative;ergative;sensitive,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
 hopi1249,True,False,False,False,NA,False,NA,accusative,accusative,NA,accusative,accusative,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
-hual1241,True,True,False,False,person,False,NA,accusative,accusative,sensitive,accusative,accusative,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
+hual1241,True,True,True,False,person,False,NA,accusative,accusative,accusative,accusative,accusative,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
 huas1242,False,True,False,False,person;person+number,False,NA,no marking,no marking,sensitive;tripartite,no marking,no marking,tripartite,False,NA,True,Verb,False,NA,True,Verb,no,yes,False,True
 hueh1236,False,True,False,False,person;person+number,False,NA,no marking,no marking,sensitive,no marking,no marking,accusative,True,Verb,False,NA,False,NA,True,Verb,no,yes,False,True
 hupa1239,False,True,False,False,person;person+number;person+other,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
@@ -111,7 +111,7 @@ jaqa1244,True,True,False,False,person,False,NA,accusative,accusative,sensitive,a
 juho1239,False,False,False,False,NA,False,NA,no marking,no marking,NA,no marking,no marking,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 juru1256,True,True,False,False,person+number,True,Miscellaneous_condition,accusative;no marking,accusative,accusative,accusative;no marking,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 kain1272,True,False,False,False,NA,False,NA,accusative;no marking,accusative;no marking,NA,accusative;no marking,accusative;no marking,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
-kala1399,True,True,False,False,person;person+number,True,Reference,ergative,ergative,sensitive,ergative,ergative,sensitive,True,Noun;Pro,True,Noun;Verb,False,NA,True,Verb,no,yes,True,True
+kala1399,True,True,False,False,person;person+number,True,Reference,ergative,no marking,sensitive,ergative,no marking,sensitive,True,Noun,True,Noun;Verb,False,NA,True,Verb,no,yes,True,True
 kala1400,False,True,True,False,person;person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,yes,False,False
 kamb1316,True,True,False,False,person+number,True,Miscellaneous_condition+Reference,accusative,accusative,accusative,accusative,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 kamu1258,True,True,False,False,person+number,False,NA,ergative;no marking,ergative;no marking,accusative,ergative;no marking,ergative;no marking,accusative,True,Noun;Pro,False,NA,False,NA,False,NA,no,no,True,False
@@ -250,7 +250,7 @@ siks1238,False,True,False,False,other;person;person+number,False,NA,no marking,N
 sion1247,True,True,False,False,person+number,True,Reference,accusative;no marking,accusative,accusative,accusative;no marking,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 sius1254,True,True,False,False,person;person+number,False,NA,no marking,accusative;tripartite,accusative,no marking,accusative;tripartite,accusative,False,NA,True,Pro,False,NA,True,Verb,no,yes,True,True
 sout2750,True,True,False,False,person+number,True,Co-argument_reference+Reference,sensitive,accusative,tripartite,accusative,accusative,tripartite,False,NA,True,Verb,True,Verb,True,Noun;Pro,yes,no,False,True
-sout2956,True,False,False,True,NA,False,NA,no marking,accusative,NA,no marking,accusative,NA,True,Pro,False,NA,False,NA,False,NA,no,no,True,False
+sout2956,True,False,False,True,NA,False,NA,no marking,accusative,NA,no marking,accusative,NA,True,Pro,False,NA,False,NA,True,Pro,yes,no,True,False
 sout2982,True,False,False,False,NA,False,NA,accusative,accusative,NA,accusative,accusative,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 sout2985,True,True,False,False,person+number,False,NA,accusative,accusative,accusative,accusative,accusative,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,False
 sout2996,True,True,False,False,number;person;person+number,False,NA,accusative,accusative,sensitive,accusative,accusative,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
@@ -274,7 +274,7 @@ toho1245,False,True,False,False,person+number,False,NA,no marking,no marking,acc
 toll1241,True,True,True,True,person+number,True,Reference,accusative;no marking,accusative,accusative,accusative;no marking,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 tomm1242,True,True,False,False,person+number,True,Reference,accusative;no marking,accusative,accusative,accusative;no marking,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 tonk1249,True,True,False,False,person+number,False,NA,accusative,accusative,horizontal,accusative,accusative,horizontal,True,Verb,True,Verb,True,Verb,False,NA,no,no,False,True
-toto1305,False,True,False,True,number;person;person+number,False,NA,no marking,no marking,sensitive,no marking,no marking,tripartite,False,NA,True,Verb,False,NA,True,Verb,no,yes,False,True
+toto1305,False,True,False,False,number;person;person+number,False,NA,no marking,no marking,sensitive,no marking,no marking,tripartite,False,NA,True,Verb,False,NA,True,Verb,no,yes,False,True
 trin1274,False,True,False,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 trio1238,False,True,False,True,person,False,NA,no marking,no marking,sensitive,no marking,no marking,accusative,True,Verb,False,NA,False,NA,True,Verb,no,yes,False,True
 trum1247,True,False,False,False,NA,False,NA,ergative,ergative,NA,ergative,ergative,NA,True,Noun;Pro,False,NA,False,NA,False,NA,no,no,True,False
