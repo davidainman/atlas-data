@@ -192,7 +192,7 @@ nara1262,False,True,False,False,person+number,False,NA,no marking,no marking,acc
 natc1249,True,True,False,True,person;person+number,False,NA,ergative,NA,accusative,ergative,NA,accusative,True,Noun;Verb,True,Verb,False,NA,False,NA,no,no,True,True
 nava1243,False,True,False,False,person;person+number,False,NA,no marking,accusative,accusative,no marking,accusative,accusative,False,NA,False,NA,False,NA,True,Verb,no,yes,False,False
 negi1245,True,True,True,False,person+number,False,NA,accusative,accusative,accusative,accusative,accusative,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
-nene1249,True,True,False,False,person+number,False,NA,accusative,accusative,sensitive,accusative,accusative,sensitive,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
+nene1249,True,True,False,False,number;person+number,False,NA,accusative,accusative,sensitive,accusative,accusative,sensitive,False,NA,False,NA,False,NA,True,Verb,no,yes,False,True
 ngar1284,False,True,False,False,number;person+number,False,NA,no marking,no marking,ergative,no marking,no marking,ergative,True,Verb,False,NA,True,Verb,True,Verb,no,yes,False,True
 niha1238,True,False,False,False,NA,True,Reference,accusative,accusative,NA,accusative,accusative,NA,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 nisg1240,False,True,False,False,person+number,False,NA,no marking,ergative,ergative,no marking,ergative,ergative,True,Pro;Verb,False,NA,False,NA,False,NA,no,no,True,True
