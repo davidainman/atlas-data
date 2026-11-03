@@ -180,12 +180,12 @@ Selector (indexing marker),Alignment,accusative,1052,0.5228628230616302
 Selector (indexing marker),Alignment,ergative,342,0.16998011928429424
 Selector (indexing marker),Alignment,horizontal,310,0.1540755467196819
 Selector (indexing marker),Alignment,neutral,308,0.15308151093439365
-Reference,Zero indexing of 1,Role A,119,0.14066193853427897
+Reference,Zero indexing of 1,Role A,118,0.13947990543735225
 Reference,Zero indexing of 1,Role P,76,0.10092961487383798
-Reference,Zero indexing of 1,Role S,36,0.04142692750287687
-Reference,Zero indexing of 2,Role A,119,0.16168478260869565
+Reference,Zero indexing of 1,Role S,35,0.04027617951668585
+Reference,Zero indexing of 2,Role A,118,0.16032608695652173
 Reference,Zero indexing of 2,Role P,101,0.15930599369085174
-Reference,Zero indexing of 2,Role S,24,0.032214765100671144
+Reference,Zero indexing of 2,Role S,23,0.03087248322147651
 Reference,Zero indexing of 3,Role A,266,0.33585858585858586
 Reference,Zero indexing of 3,Role P,350,0.5072463768115942
 Reference,Zero indexing of 3,Role S,130,0.16290726817042606

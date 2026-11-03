@@ -4226,6 +4226,14 @@ kala1399-79,kala1399,kala1399-indexing-ssi-3sgs-1sgp-indexing-marker,1,portmante
 kala1399-80,kala1399,kala1399-indexing-ssi-3sgs-1sgp-indexing-marker,1,portmanteau,A,3sg,P,1sg,any,none,any,default,,sadock2003kalaallisut[64],,DI;AWM
 kala1399-81,kala1399,kala1399-indexing-t-3pls-indexing-marker,2,NA,S,3pl,NA,NA,any,NA,any,default,,sadock2003kalaallisut[64],,DI;AWM
 kala1400-1,kala1400,kala1400-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,banks2007kalapuya[10-13],"Though there is no case flagging for core arguments, there is a generalized oblique marker du-",MV;DI
+kala1400-2,kala1400,kala1400-no-flagging,,simple,A,any,P,any,any,none,any,default,,banks2007kalapuya[10-13],"Though there is no case flagging for core arguments, there is a generalized oblique marker du-",MV;DI
+kala1400-3,kala1400,kala1400-no-flagging,,simple,P,any,A,any,any,none,any,default,,banks2007kalapuya[10-13],"Though there is no case flagging for core arguments, there is a generalized oblique marker du-",MV;DI
+kala1400-4,kala1400,kala1400-fa-1sg-object-indexing-marker,5,simple,P,1sg,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
+kala1400-5,kala1400,kala1400-fi-2pl-object-indexing-marker,5,simple,P,2pl,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
+kala1400-6,kala1400,kala1400-fubu-2sg-object-indexing-marker,5,simple,P,2sg,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
+kala1400-7,kala1400,kala1400-fo-1pl-object-indexing-marker,5,simple,P,1pl,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
+kala1400-8,kala1400,kala1400-ni-3-object-indexing-marker,4,simple,P,3sg,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
+kala1400-9,kala1400,kala1400-ni-3-object-indexing-marker,4,simple,P,3pl,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
 kala1400-10,kala1400,kala1400-c-sap-subject-indexing-marker,-11,simple,S,1sg,NA,NA,nonpast-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-11,kala1400,kala1400-c-sap-subject-indexing-marker,-11,simple,S,1pl,NA,NA,nonpast-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-12,kala1400,kala1400-c-sap-subject-indexing-marker,-11,simple,S,2sg,NA,NA,nonpast-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
@@ -4236,41 +4244,31 @@ kala1400-16,kala1400,kala1400-c-sap-subject-indexing-marker,-11,simple,A,2sg,P,a
 kala1400-17,kala1400,kala1400-c-sap-subject-indexing-marker,-11,simple,A,2pl,P,any,nonpast-realis,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-18,kala1400,kala1400-du-1-irrealis-subject-indexing-marker,-11,simple,S,1sg,NA,NA,irrealis,NA,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-19,kala1400,kala1400-du-1-irrealis-subject-indexing-marker,-11,simple,S,1pl,NA,NA,irrealis,NA,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-2,kala1400,kala1400-no-flagging,,simple,A,any,P,any,any,none,any,default,,banks2007kalapuya[10-13],"Though there is no case flagging for core arguments, there is a generalized oblique marker du-",MV;DI
 kala1400-20,kala1400,kala1400-du-1-irrealis-subject-indexing-marker,-11,simple,A,1sg,P,any,irrealis,none,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-21,kala1400,kala1400-du-1-irrealis-subject-indexing-marker,-11,simple,A,1pl,P,any,irrealis,none,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-22,kala1400,kala1400-du-1pl-subject-indexing-marker,-3,simple,S,1pl,NA,NA,irrealis,NA,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-23,kala1400,kala1400-du-1pl-subject-indexing-marker,-3,simple,A,1pl,P,any,irrealis,none,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-24,kala1400,kala1400-dup-2pl-subject-indexing-marker,-3,simple,S,2pl,NA,NA,irrealis,NA,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-25,kala1400,kala1400-dup-2pl-subject-indexing-marker,-3,simple,A,2pl,P,any,irrealis,none,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
+kala1400-22,kala1400,kala1400-du-1pl-subject-indexing-marker,-3,simple,S,1pl,NA,NA,any,NA,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
+kala1400-23,kala1400,kala1400-du-1pl-subject-indexing-marker,-3,simple,A,1pl,P,any,any,none,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
+kala1400-24,kala1400,kala1400-dup-2pl-subject-indexing-marker,-3,simple,S,2pl,NA,NA,any,NA,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
+kala1400-25,kala1400,kala1400-dup-2pl-subject-indexing-marker,-3,simple,A,2pl,P,any,any,none,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-26,kala1400,kala1400-g-3-irrealis-subject-indexing-marker,-11,simple,S,3sg,NA,NA,irrealis,NA,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-27,kala1400,kala1400-g-3-irrealis-subject-indexing-marker,-11,simple,S,3pl,NA,NA,irrealis,NA,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-28,kala1400,kala1400-g-3-irrealis-subject-indexing-marker,-11,simple,A,3sg,P,any,irrealis,none,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-29,kala1400,kala1400-g-3-irrealis-subject-indexing-marker,-11,simple,A,3pl,P,any,irrealis,none,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-3,kala1400,kala1400-no-flagging,,simple,P,any,A,any,any,none,any,default,,banks2007kalapuya[10-13],"Though there is no case flagging for core arguments, there is a generalized oblique marker du-",MV;DI
 kala1400-30,kala1400,kala1400-n-2-irrealis-subject-indexing-marker,-11,simple,S,2sg,NA,NA,irrealis,NA,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-31,kala1400,kala1400-n-2-irrealis-subject-indexing-marker,-11,simple,S,2pl,NA,NA,irrealis,NA,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-32,kala1400,kala1400-n-2-irrealis-subject-indexing-marker,-11,simple,A,2sg,P,any,irrealis,none,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-33,kala1400,kala1400-n-2-irrealis-subject-indexing-marker,-11,simple,A,2pl,P,any,irrealis,none,non-exemplar,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-34,kala1400,kala1400-ni-3pl-subject-object-indexing-marker,-3,simple,S,3pl,NA,NA,any,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-35,kala1400,kala1400-ni-3pl-subject-object-indexing-marker,-3,simple,A,3pl,P,any,any,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-36,kala1400,kala1400-ni-3pl-subject-object-indexing-marker,-3,simple,P,3pl,A,3sg,any,none,any,default,,"banks2007kalapuya[15-17,34-39,8]","It is not made explicit in the grammar how slot competition works for 3pl objects, given that it is in the same position as 1pl/2pl subject. However, it is reasonable to assume it is only marked here if there is not a 1pl or 2pl subject. In the case of a 3pl>3pl scenario, it becomes ambiguous what ni- is marking (pl subject or pl object), and we have not encoded this scenario twice, once for each interpretation. The claim that 3pl A always has this morpheme covers 3pl>3pl as well.",DI;MV
-kala1400-37,kala1400,kala1400-null-marker,NA,NA,S,1sg,NA,NA,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-38,kala1400,kala1400-null-marker,NA,simple,A,1sg,P,any,past-realis,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-39,kala1400,kala1400-null-marker,NA,NA,S,1pl,NA,NA,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-4,kala1400,kala1400-fa-1sg-object-indexing-marker,5,simple,P,1sg,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
-kala1400-40,kala1400,kala1400-null-marker,NA,simple,A,1pl,P,any,past-realis,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
+kala1400-36,kala1400,kala1400-ni-3pl-subject-object-indexing-marker,-3,simple,P,3pl,A,1sg,any,none,any,default,,"banks2007kalapuya[15-17,34-39,8]","It is not made explicit in the grammar how slot competition works for 3pl objects, given that it is in the same position as 1pl/2pl subject. However, it is reasonable to assume it is only marked here if there is not a 1pl or 2pl subject. In the case of a 3pl>3pl scenario, it becomes ambiguous what ni- is marking (pl subject or pl object), and we have not encoded this scenario twice, once for each interpretation. The claim that 3pl A always has this morpheme covers 3pl>3pl as well.",DI;MV
+kala1400-37,kala1400,kala1400-ni-3pl-subject-object-indexing-marker,-3,simple,P,3pl,A,2sg,any,none,any,default,,"banks2007kalapuya[15-17,34-39,8]","It is not made explicit in the grammar how slot competition works for 3pl objects, given that it is in the same position as 1pl/2pl subject. However, it is reasonable to assume it is only marked here if there is not a 1pl or 2pl subject. In the case of a 3pl>3pl scenario, it becomes ambiguous what ni- is marking (pl subject or pl object), and we have not encoded this scenario twice, once for each interpretation. The claim that 3pl A always has this morpheme covers 3pl>3pl as well.",DI;MV
+kala1400-38,kala1400,kala1400-ni-3pl-subject-object-indexing-marker,-3,simple,P,3pl,A,3sg,any,none,any,default,,"banks2007kalapuya[15-17,34-39,8]","It is not made explicit in the grammar how slot competition works for 3pl objects, given that it is in the same position as 1pl/2pl subject. However, it is reasonable to assume it is only marked here if there is not a 1pl or 2pl subject. In the case of a 3pl>3pl scenario, it becomes ambiguous what ni- is marking (pl subject or pl object), and we have not encoded this scenario twice, once for each interpretation. The claim that 3pl A always has this morpheme covers 3pl>3pl as well.",DI;MV
+kala1400-39,kala1400,kala1400-null-marker,NA,NA,S,1sg,NA,NA,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
+kala1400-40,kala1400,kala1400-null-marker,NA,simple,A,1sg,P,any,past-realis,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-41,kala1400,kala1400-null-marker,NA,NA,S,2sg,NA,NA,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kala1400-42,kala1400,kala1400-null-marker,NA,simple,A,2sg,P,any,past-realis,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-43,kala1400,kala1400-null-marker,NA,NA,S,2pl,NA,NA,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-44,kala1400,kala1400-null-marker,NA,simple,A,2pl,P,any,past-realis,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-45,kala1400,kala1400-null-marker,NA,NA,S,3sg,NA,NA,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-46,kala1400,kala1400-null-marker,NA,simple,A,3sg,P,any,past-realis,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
-kala1400-5,kala1400,kala1400-fi-2pl-object-indexing-marker,5,simple,P,2pl,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
-kala1400-6,kala1400,kala1400-fubu-2sg-object-indexing-marker,5,simple,P,2sg,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
-kala1400-7,kala1400,kala1400-fo-1pl-object-indexing-marker,5,simple,P,1pl,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
-kala1400-8,kala1400,kala1400-ni-3-object-indexing-marker,4,simple,P,3sg,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
-kala1400-9,kala1400,kala1400-ni-3-object-indexing-marker,4,simple,P,3pl,A,any,any,none,any,default,,"banks2007kalapuya[22,84-91]",,DI;MV
+kala1400-43,kala1400,kala1400-null-marker,NA,NA,S,3sg,NA,NA,past-realis,NA,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
+kala1400-44,kala1400,kala1400-null-marker,NA,simple,A,3sg,P,any,past-realis,none,any,default,,"banks2007kalapuya[15-17,34-39,8]",,DI;MV
 kamb1316-1,kamb1316,kamb1316-nom-case-flagging,,simple,A,any,P,any,any,none,any,default,any,"treis2008kambaata[108,84]",,AWM
 kamb1316-10,kamb1316,kamb1316-acc-case-flagging,,simple,P,Noun-F4,A,any,any,none,any,default,any,"treis2008kambaata[108,84]",Coded each inflectional class separately to generate a more representative output for frequency.,AWM
 kamb1316-11,kamb1316,kamb1316-acc-case-flagging,,simple,P,Noun-F5,A,any,any,none,any,default,any,"treis2008kambaata[108,84]",Coded each inflectional class separately to generate a more representative output for frequency.,AWM
