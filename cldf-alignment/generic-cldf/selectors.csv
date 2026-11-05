@@ -2602,9 +2602,8 @@ wash1253-s-a-marker-indexing-marker,wash1253,indexing marker,S/A marker ʔ-/∅-
 wash1253-s-a-marker-le-di-indexing-marker,wash1253,indexing marker,S/A marker lͤ-/di-,overt,person,jacobsen1964washo[449-462],HT;AWM,1,1_3,NONE,accusative,
 wash1253-s-a-marker-m-mi-um-indexing-marker,wash1253,indexing marker,S/A marker m-/mi-/ʔum-,overt,person,jacobsen1964washo[449-462],HT;AWM,2,2_3,NONE,accusative,
 wayu1243-no-flagging,wayu1243,flagging,NO_FLAGGING,zero,,"ehrman1972wayuunaiki[152-153,160,163,26,67-68]",HT,any,any,any,neutral,
-wayu1243-null-marker,wayu1243,indexing marker,NULL_MARKER,zero,person+number,"ehrman1972wayuunaiki[102,111,69,84,86]",HT; DI,any,any,any,neutral,
-wayu1243-role-not-marked,wayu1243,indexing trigger,ROLE_NOT_MARKED,zero,NA,"ehrman1972wayuunaiki[102,111,69,84,86]",HT; DI,NONE,any,NONE,NA,
-wayu1243-s-a-p-marker-indexing-marker,wayu1243,indexing marker,S/A/P marker,overt,person+number,"ehrman1972wayuunaiki[102,111,69,84,86]",HT; DI,any,any,any,neutral,
+wayu1243-s-a-paradigm,wayu1243,indexing marker,S/A paradigm,overt,person+number,"alvarez2017compendio[10,17-24]",NCP; DI,any,any,NONE,accusative,
+wayu1243-gender-number-paradigm,wayu1243,indexing marker,gender-number paradigm,overt,number+gender,"alvarez2017compendio[10,17-24]",NCP; DI,any,any,any,neutral,"Gender marking paradigms differ by tense. In certain tenses (pasado extenso, pasado remoto, pasado frecuentativo) it is either absent or syncretic. We have not distinguished all of these tenses, since for our purposes the alignment will always be the same."
 west2632-dy-set-iii-2-1-indexing-marker,west2632,indexing marker,dy- (Set III.2>1),overt,person,lachler2006keres[157-162],DI,NONE,2_1,1_2,horizontal,
 west2632-dzi-set-ii-3-indexing-marker,west2632,indexing marker,dzi- (Set II.3),overt,person,"lachler2006keres[143,157-162]",DI,3-high;3-low,NONE,3-high_3-low,ergative,
 west2632-g-set-i-3-indexing-marker,west2632,indexing marker,g- (Set I.3),overt,person,"lachler2006keres[143,157-162]",DI,3-high;3-low,3-high_3-low,NONE,accusative,

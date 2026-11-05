@@ -296,7 +296,7 @@ wara1303,True,False,False,False,NA,False,NA,no marking,accusative;no marking,NA,
 ward1246,True,True,False,False,number;other;person+number,False,NA,ergative,ergative,overt neutral,ergative,ergative,overt neutral,True,Noun;Pro,False,NA,False,NA,True,Verb,no,yes,True,True
 wari1268,False,True,False,False,person+number,False,NA,no marking,no marking,accusative,no marking,no marking,accusative,False,NA,False,NA,False,NA,False,NA,no,no,False,False
 wash1253,True,True,False,False,person,False,NA,no marking,no marking,sensitive,no marking,no marking,accusative,False,NA,False,NA,False,NA,True,Verb,no,no,False,True
-wayu1243,False,True,False,True,person+number,False,NA,no marking,no marking,no marking,no marking,no marking,no marking,True,Verb,False,NA,False,NA,False,NA,no,no,False,True
+wayu1243,False,True,False,True,number+gender;person+number,False,NA,no marking,no marking,no marking,no marking,no marking,no marking,True,Verb,False,NA,False,NA,False,NA,no,no,False,True
 west2632,False,True,False,True,person,False,NA,no marking,NA,sensitive,no marking,NA,accusative,False,NA,False,NA,True,Verb,True,Verb,no,yes,False,True
 wich1260,False,True,False,True,person,False,NA,no marking,NA,accusative,no marking,NA,accusative,True,Verb,False,NA,False,NA,True,Verb,no,yes,False,True
 wich1262,False,True,False,True,person,False,NA,no marking,no marking,tripartite,no marking,no marking,tripartite,True,Verb,True,Verb,False,NA,False,NA,no,no,False,True
