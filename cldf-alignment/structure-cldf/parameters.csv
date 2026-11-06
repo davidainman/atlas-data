@@ -22,3 +22,5 @@ ref-sensitive,Is there any coargument-sensitive alignment among referents?
 ref-sensitive-domain,"If there is any coargument-sensitive alignment among referents, which loci have this alignment?"
 coargument-sensitivity flagging,Is there any coargument sensitivity in flagging in the language that is not due exclusively to portmanteaus?
 coargument-sensitivity indexing,Is there any coargument sensitivity in indexing the language that is not due exclusively to portmanteaus?
+S!=A flagging,Is it ever the case that S != A in flagging?
+S!=A indexing,Is it ever the case that S != A in indexing?

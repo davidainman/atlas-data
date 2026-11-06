@@ -249,6 +249,26 @@ In Southeast Asia, many tone systems have developed from earlier phonation disti
 In Krongo, as in many other African languages, there is no difference in phonation or duration between the different tone categories, which are based only on pitch ([Reh 1985](Source#cldf:reh1985krongo): 75).
 
 ## Derived features
+### [](ParameterTable#cldf:ToneProm-01a)
+&emsp;**{ NA | contrastive | non-contrastive }**
+
+<table class="dconversion">
+<tbody>
+  <tr>
+    <td class="tg-1wig">contrastive</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">if ToneProm-04 is &lt;contrastive&gt; OR ToneProm-06 is &lt;contrastive&gt; OR ToneProm-08 is &lt;contrastive&gt;</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">non-contrastive</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">if ToneProm-04 is &lt;non-contrastive&gt; OR ToneProm-06 is &lt;non-contrastive&gt; OR ToneProm-08 is &lt;non-contrastive&gt; AND ToneProm-04 is not &lt;contrastive&gt; AND ToneProm-06 is not &lt;contrastive&gt; AND ToneProm-08 is not &lt;contrastive&gt;</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">NA</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">if ToneProm-01 is &lt;no&gt;</span></td>
+  </tr>
+</tbody>
+</table>
+
 ### [](ParameterTable#cldf:ToneProm-09a)
 &emsp;**{ yes | no }**
 
@@ -281,30 +301,10 @@ In Krongo, as in many other African languages, there is no difference in phonati
 </tbody>
 </table>
 
-### [](ParameterTable#cldf:ToneProm-01a)
-&emsp;**{ NA | contrastive | non-contrastive }**
-
-<table class="dconversion">
-<tbody>
-  <tr>
-    <td class="tg-1wig">contrastive</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">if ToneProm-04 is &lt;contrastive&gt; OR ToneProm-06 is &lt;contrastive&gt; OR ToneProm-08 is &lt;contrastive&gt;</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">non-contrastive</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">if ToneProm-04 is &lt;non-contrastive&gt; OR ToneProm-06 is &lt;non-contrastive&gt; OR ToneProm-08 is &lt;non-contrastive&gt; AND ToneProm-04 is not &lt;contrastive&gt; AND ToneProm-06 is not &lt;contrastive&gt; AND ToneProm-08 is not &lt;contrastive&gt;</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">NA</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">if ToneProm-01 is &lt;no&gt;</span></td>
-  </tr>
-</tbody>
-</table>
-
 ## Results
 The presence of some prominence system ([ToneProm-01](../parameters/ToneProm-01)) is overwhelmingly the most common across the world, with noticeable exceptions being Africa, Southeast Asia, and parts of the western Amazon. Not coincidentally, these are the regions in which tone is most common ([ToneProm-09](../parameters/ToneProm-09)). Accent systems are overwhelmingly realized with amplitude as their primary phonetic correlate, with pitch the second most common correlate ([ToneProm-02](../parameters/ToneProm-02), [ToneProm-03](../parameters/ToneProm-03), [ToneProm-05](../parameters/ToneProm-05), [ToneProm-07](../parameters/ToneProm-07)). No very clear large-scale clustering of these correlates emerged from our data.
 
-Accent systems are more commonly contrastive than not ([ToneProm-01a](../parameters/ToneProm-01a), [ToneProm-04](../parameters/ToneProm-04), [ToneProm-06](../parameters/ToneProm-06), [ToneProm-08](../parameters/ToneProm-08)). The distribution of non-contrastive systems is fairly scattered, but it is possible that with a denser sample some regions will have a strong preference for non-contrastiveness, such as northwest South America or the interior Pacific Northwest.
+Accent systems are more commonly non-contrastive than contrastive ([ToneProm-01a](../parameters/ToneProm-01a), [ToneProm-04](../parameters/ToneProm-04), [ToneProm-06](../parameters/ToneProm-06), [ToneProm-08](../parameters/ToneProm-08)). The distribution of non-contrastive systems is fairly scattered, but it is possible that with a denser sample some regions will have a strong preference for non-contrastiveness, such as northwest South America or the interior Pacific Northwest.
 
 Tone was overwhelmingly lexical, with grammatical tone most common in Africa ([ToneProm-10](../parameters/ToneProm-10)) and most languages having 2 or occasionally 3 phonemic tones ([ToneProm-11](../parameters/ToneProm-11)). Tone linked with phonation types was rare ([ToneProm-12](../parameters/ToneProm-12)). The results of our tone typology should however not be overinterpreted, as two of the densest concentrations of phonemic tonal contrasts, Africa and Southeast Asia, were very sparsely sampled.
 

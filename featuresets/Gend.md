@@ -56,10 +56,15 @@ The symbols ♀/♂ stand for the two kinds of *indexical* gender, and are disti
 Other terms used to refer to genderlects (the term we used in our survey) are gender indexicality ([Fleming 2012](Source#cldf:fleming2012gender)), gender allocutive agreement or allocutivity ([Oyharçabal 1993](Source#cldf:oyharcabal1993verb), [Antonov 2015](Source#cldf:antonov2015allocutivity)), or male/female speech. Although “male/female speech (act participants)” is frequent in the literature, previous works (e.g. [Furfey 1944](Source#cldf:furfey1944men), [Haas 1944](Source#cldf:haas1944koasati)) used the term “men/women's speech”. We intentionally chose the terms “men/women” over “male/female” speech act participants to refer to people’s gender rather than their biological sex. 
 
 Genderlects can vary according to the following parameters:
+
 1. **indexed speech act participant** (speaker vs. addressee vs. both)
+
 2. **categorical** vs. statistical genderlects
+
 3. **locus** of gender indexicality (phonology, morphology, or lexicon)
+
 4. **(inter)subjective** nature of gender-indexing elements
+
 5. **non-referential** vs. **referential** gender indexicality. 
 
 While most parameters existed in the previous literature, the (inter)subjectivity parameter has been developed for the present study. 
@@ -131,7 +136,7 @@ In Basque \[basq1248\] (isolate; Spain, France), speakers use the first form in 
 </table>
 
 #### *Type III. Both speaker & addressee*
-This last case is much rarer. In Yana \[yana1271\] (isolate; United States; [Sapir 1929 \[1963\]](Source#cldf:sapir1963yana)), the lexemes used for ‘quail’ and ‘acorn’ depend on the gender of both the speaker and the addressee: *sika·ka* and *yuna* in (7a) are only used by men speakers to men addressees, and in all other cases (i.e. men to women, women to men, women to women), including mixed audience, *sika·khA* and *yuh* in (7b) are used.
+This last case is much rarer. In Yana \[yana1271\] (isolate; United States; [Sapir 1922 \[1963\]](Source#cldf:sapir1922yana)), the lexemes used for ‘quail’ and ‘acorn’ depend on the gender of both the speaker and the addressee: *sika·ka* and *yuna* in (7a) are only used by men speakers to men addressees, and in all other cases (i.e. men to women, women to men, women to women), including mixed audience, *sika·khA* and *yuh* in (7b) are used.
 
 <table class="tg">
 <thead>

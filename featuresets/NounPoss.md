@@ -146,11 +146,18 @@ Table 2: Semantic ontology relating the different semantic categories. DD stands
     <td class="tg-0lax" colspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">DD_default</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="2" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">body</span></td>
+    <td class="tg-0lax" rowspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">part</span></td>
+    <td class="tg-0lax" rowspan="2">body</td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">body_internal</span></td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">DD_body_external</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">plant_part</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">DD_other_part</span></td>
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">kin</span></td>
@@ -166,13 +173,6 @@ Table 2: Semantic ontology relating the different semantic categories. DD stands
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">non_blood_kin</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" colspan="2" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">part</span></td>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">plant_part</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">DD_other_part</span></td>
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">nature</span></td>
@@ -224,6 +224,8 @@ All possession constructions in the language are entered into the Constructions 
 
 Possession constructions are given a Construction Type, which is a schematic representation that combines locus/type of marking and agreement properties. Locus/type can be PSSR (marking on the possessor noun), PSSD (marking on the possessed noun), JUXT (no marking on either noun), CLASS (the possessed noun is not syntactically possessed at all, but a classifier is possessed in its stead), and CLAUSE (the possessed noun is always the syntactic argument of a verb expressing possession: direct nominal possession is impossible). Agreement is schematized with brackets, follows the locus on which agreement occurs (PSSR or PSSD), and gives the element that the morphology agrees with (e.g., PSSR\[AGR:PSSD\] indicates a locus of marking on the possessor noun which morphologically agrees with the possessed noun). In the case of complex constructions with multiple morphemes, these elements can be combined with “+”. For example, PSSD + PSSD\[AGR:PSSR\] indicates two morphemes, both on the possessed noun, one of which only marks possession, and another which agrees with the possessor. PSSR + PSSD\[AGR:PSSR\] indicates a construction with one morpheme on the possessor noun (which does not express agreement) and one morpheme on the possessed noun (which agrees with the possessor).
 
+There are two special Construction Types which indicate the absence of a construction. The first is the type NULL, which indicates that there is no grammaticalized possession construction for the given possession class at all. The second is the type NA, which indicates that possession is grammatically expressible but not within the noun phrase. This only occurs in our database in two languages: Kiowa \[kiow1266\] and Tuscarora \[tusc1257\], and in each case possession is expressed obligatorily through a possessor raising construction.
+
 Unpossession constructions are all given the Construction Type UNPOSSESSION, with a free-form shape explaining what the unpossession construction is. If no unpossession constructions are present for a given class, it is assumed that member nouns can appear unpossessed without any special morphology.
 
 The Possession Class Table and Construction Table are analyzed jointly using R scripts to generate intermediate levels of structure, classify possession classes semantically, and finally to the language-wide features presented below. All R code is available in the [ATLAs Github repository](https://github.com/davidainman/atlas-data/cldf-possession/).
@@ -236,7 +238,7 @@ In fact, SUPPLETION covers a wide range of phenomena which were not possible to 
 Because suppletion in the database is a special case which neither forms a coherent possession class nor a coherent kind of construction, when extracting the derived questions for this feature set (see below), suppletion only contributes to NounPoss-22, the presence of suppletive pairs as such.
 
 ## Features
-We have derived many features on possession from the underlying database, as the typology of possession is highly multivariate and many views can be taken of it. The features are thus broken into conceptual groups. [NounPoss-01](#nounposs-01-how-many-morphosyntactically-distinct-possession-classes-are-there) is about the overall number of possession classes in a language, and [NounPoss-02](#nounposs-02-what-are-the-semantic-types-of-the-possession-classes), [03](#nounposs-03-how-many-conceptually-inalienable-possession-classes-are-there), [04](#nounposs-04-how-many-conceptually-non-possessible-possession-classes-are-there), [05](#nounposs-05-how-many-mixed-possession-classes-are-there) primarily concern the semantic categorization of possession classes. [NounPoss-06](#nounposs-06-what-are-the-semantic-categories-included-in-conceptually-inalienable-classes) and [07](#nounposs-07-what-are-the-semantic-categories-included-in-conceptually-non-possessible-classes) concern the gross semantic categories present in possession classes. [NounPoss-08](#nounposs-08-what-are-the-nominal-possession-constructions-used-for-the-default-possession-class), [09](#nounposs-09-what-are-the-nominal-possession-constructions-used-for-conceptually-inalienable-classes-if-present), [10](#nounposs-10-what-are-the-nominal-possession-constructions-used-for-conceptually-non-possessible-classes-if-present), [11](#nounposs-11-if-there-is-a-conceptually-inalienable-possession-class-what-are-its-unpossession-constructions) concern the possession and unpossession constructions that are used per noun class semantic type. [NounPoss-12](#nounposs-12-is-there-a-juxt-possession-construction-and-if-so-for-which-conceptual-classes), [13](#nounposs-13-is-there-a-pssr-possession-construction-and-if-so-for-which-conceptual-classes), [14](#nounposs-14-is-there-a-pssd-possession-construction-and-if-so-for-which-conceptual-classes), [15](#nounposs-15-is-there-a-pssr-and-pssd-possession-construction-and-if-so-for-which-conceptual-classes), [16](#nounposs-16-is-there-a-clause-possession-construction-and-if-so-for-which-conceptual-classes), [17](#nounposs-17-is-there-a-class-possession-construction-and-if-so-for-which-conceptual-classes), [18](#nounposs-18-if-any-head-marking-construction-is-used-pssd-or-pssr-and-pssd-does-the-possessed-noun-contain-any-agreement-with-the-possessor), [19](#nounposs-19-if-any-head-marking-is-present-pssd-or-pssr-and-pssd-is-there-any-morpheme-which-only-marks-the-possessed-noun-without-agreeing-with-the-possessor), [20](#nounposs-20-does-possession-ever-involve-stem-suppletion) primarily concern the presence of different types of constructions. [NounPoss-21](#nounposs-21-how-many-possession-classes-of-optionally-possessed-nouns-in-terms-of-valence-are-there), [22](#nounposs-22-how-many-possession-classes-of-obligatorily-possessed-nouns-in-terms-of-valence-are-there), [23](#nounposs-23-if-there-is-at-least-one-obligatorily-possessed-class-can-it-be-unpossessed-via-a-dedicated-non-person-marker), [24](#nounposs-24-how-many-possession-classes-of-non-possessible-nouns-in-terms-of-valence-are-there), [25](#nounposs-25-what-is-the-valency-of-the-default-class), [26](#nounposs-26-if-there-are-conceptually-inalienable-classes-what-are-their-valencies), [27](#nounposs-27-if-there-are-conceptually-non-possessible-classes-what-are-their-valencies), [28](#nounposs-28-if-there-are-mixed-classes-what-are-their-valencies) concern the valence of different classes.
+We have derived many features on possession from the underlying database, as the typology of possession is highly multivariate and many views can be taken of it. The features are thus broken into conceptual groups. [NounPoss-01](#nounposs-01-how-many-morphosyntactically-distinct-possession-classes-are-there) is about the overall number of possession classes in a language, and [NounPoss-02](#nounposs-02-what-are-the-semantic-types-of-the-possession-classes), [03](#nounposs-03-how-many-conceptually-inalienable-possession-classes-are-there), [04](#nounposs-04-how-many-conceptually-non-possessible-possession-classes-are-there), [05](#nounposs-05-how-many-mixed-possession-classes-are-there) primarily concern the semantic categorization of possession classes. [NounPoss-06](#nounposs-06-what-are-the-semantic-categories-included-in-conceptually-inalienable-classes) and [07](#nounposs-07-what-are-the-semantic-categories-included-in-conceptually-non-possessible-classes) concern the gross semantic categories present in possession classes. [NounPoss-08](#nounposs-08-what-are-the-nominal-possession-constructions-used-for-the-default-possession-class), [09](#nounposs-09-what-are-the-nominal-possession-constructions-used-for-conceptually-inalienable-classes-if-present), [10](#nounposs-10-what-are-the-nominal-possession-constructions-used-for-conceptually-non-possessible-classes-if-present), [11](#nounposs-11-if-there-is-a-conceptually-inalienable-possession-class-what-are-its-unpossession-constructions) concern the possession and unpossession constructions that are used per noun class semantic type. [NounPoss-12](#nounposs-12-is-there-a-juxt-possession-construction-and-if-so-for-which-conceptual-classes), [13](#nounposs-13-is-there-a-pssr-possession-construction-and-if-so-for-which-conceptual-classes), [14](#nounposs-14-is-there-a-pssd-possession-construction-and-if-so-for-which-conceptual-classes), [15](#nounposs-15-is-there-a-pssr-and-pssd-possession-construction-and-if-so-for-which-conceptual-classes), [16](#nounposs-16-is-there-a-clause-possession-construction-and-if-so-for-which-conceptual-classes), [17](#nounposs-17-is-there-a-class-possession-construction-and-if-so-for-which-conceptual-classes), [18](#nounposs-18-if-any-head-marking-construction-is-used-pssd-or-pssr-and-pssd-does-the-possessed-noun-contain-any-agreement-with-the-possessor), [19](#nounposs-19-if-any-head-marking-is-present-pssd-or-pssr-and-pssd-is-there-any-morpheme-which-only-marks-the-possessed-noun-without-agreeing-with-the-possessor), [20](#nounposs-20-does-possession-ever-involve-stem-suppletion) primarily concern the presence of different types of constructions. [NounPoss-21](#nounposs-21-how-many-possession-classes-of-optionally-possessed-nouns-in-terms-of-valence-are-there), [22](#nounposs-22-how-many-possession-classes-of-obligatorily-possessed-nouns-in-terms-of-valence-are-there), [23](#nounposs-23-if-there-is-at-least-one-obligatorily-possessed-class-can-it-be-unpossessed-via-a-dedicated-non-person-marker), [24](#nounposs-24-how-many-possession-classes-of-non-possessible-nouns-in-terms-of-valence-are-there), [25](#nounposs-25-what-is-the-valence-of-the-default-class), [26](#nounposs-26-if-there-are-conceptually-inalienable-classes-what-are-their-valencies), [27](#nounposs-27-if-there-are-conceptually-non-possessible-classes-what-are-their-valencies), [28](#nounposs-28-if-there-are-mixed-classes-what-are-their-valencies) concern the valence of different classes.
 
 ### [](ParameterTable#cldf:NounPoss-01)
 &emsp;**{ \_number\_ }**
@@ -568,7 +570,7 @@ North Junín Quechua has no non-possessible classes.
 Palikur’s two non-possessible classes encompass plants, animals, and inanimate nature terms (such as ‘thunder’).
 
 ### [](ParameterTable#cldf:NounPoss-08)
-&emsp;**{ ; list of \[ PSSR, PSSD, PSSR and PSSD, LINKER, JUXT, CLAUSE, CLASS, NULL \] }**
+&emsp;**{ ; list of \[ PSSR, PSSD, PSSR and PSSD, LINKER, JUXT, CLAUSE, CLASS, None \] }**
 
 #### PSSR and PSSD: North Junín Quechua \[nort2980\] (Quechuan; Peru)
 
@@ -596,9 +598,12 @@ Palikúr’s default possession strategy includes two markers on the possessed n
   </tr>
 </tbody></table>
 
+#### None: Tuscarora \[tusc1257\] (Iroquoian; United States)
+
+Tuscarora’s default possession class does not appear to have any recourse for expressing possession as an NP, and instead requires that the possessor be expressed as an argument to a verbal predicate. Even the most minimal examples presented in the grammar show alienable nouns incorporated minimally into the verb *-a* ‘belong to’ ([Williams 1974](Source#cldf:williams1974tuscarora): 214-217).
 
 ### [](ParameterTable#cldf:NounPoss-09)
-&emsp;**{ NA | ; list of \[ PSSR, PSSD, PSSR and PSSD, LINKER, JUXT, CLAUSE, CLASS, NULL \] }**
+&emsp;**{ NA | ; list of \[ PSSR, PSSD, PSSR and PSSD, LINKER, JUXT, CLAUSE, CLASS, None \] }**
 
 #### PSSD: Palikúr \[pali1279\] (Arawakan; Brazil, French Guiana)
 

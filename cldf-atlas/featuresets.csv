@@ -15,4 +15,4 @@ Syll,Syllable structure,Phonology,SE,SE;MV;NCP;DI
 ToneProm,Tone and word-level prominence (accent),Phonology,KPVD,KPVD;AG
 VelUv,Velar-uvular distinction,Phonology,DI,DI;KPVD;NCP;MV;AG
 WO,Word order,Morphosyntax,DI,DI;NCP;MV;NJM
-Align,Morphological alignment,Morphosyntax,AWM;DI;MV;NCP;BB,AWM;DI;MV;NCP;HT;BB;AN;MS
+Align,Morphological alignment,Morphosyntax,AWM;DI;MV;NCP;BB,AWM;DI;MV;NCP;HT;BB;AN;MS;PC

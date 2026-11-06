@@ -137,27 +137,31 @@ processAlignment <- function(featurestable, languagescsv, contextscsv, selectors
     }
   }
   
-  #Align-09 S != A, flagging, 'ergativity senu lato'
-  stateCol <- ifelse(!(featurestable$Glottocode %in% unique(referencescsv$Glottocode[referencescsv$Domain == 'Pro' | referencescsv$Domain == 'Noun'])), NA,
-              ifelse(featurestable$Glottocode %in% languagescsv$Glottocode[languagescsv$sufficient_data_flagging == 'False'], '?',
-              ifelse(featurestable$Glottocode %in% referencescsv$Glottocode[(referencescsv$Domain == 'Pro' | referencescsv$Domain == 'Noun') & (referencescsv$Alignment_not_local == 'ergative' | referencescsv$Alignment_not_local == 'tripartite' | referencescsv$Alignment_not_local == 'horizontal')], 'yes', 'no')))
-  featurestable <- addDerivedState(featurestable, 'Align-09', stateCol, rep(NA, nrow(featurestable)), coderslookup$Coder)
-  for (glot in featurestable$Glottocode) {
-    featurestable$`Align-09.Source`[featurestable$Glottocode == glot] <- 
-      ifelse(glot %in% referencescsv$Glottocode[referencescsv$Domain == 'Pro' | referencescsv$Domain == 'Noun'],
-             paste0(collapseSources(unique(referencescsv$Source[referencescsv$Glottocode == glot & (referencescsv$Domain == 'Pro' | referencescsv$Domain == 'Noun')])), collapse=';'), NA)
+  #Align-09 S != A, flagging, 'ergativity sensu lato'
+  featurestable <- addDerivedState(featurestable, 'Align-09', rep(NA, nrow(featurestable)), rep(NA, nrow(featurestable)), coderslookup$Coder)
+  for (glot in valuescsv$Glottocode) {
+    if (glot %in% languagescsv$Glottocode) {
+      featurestable$`Align-09.Source`[featurestable$Glottocode == glot] <- 
+        ifelse(glot %in% referencescsv$Glottocode[referencescsv$Domain == 'Pro' | referencescsv$Domain == 'Noun'],
+               paste0(collapseSources(unique(referencescsv$Source[referencescsv$Glottocode == glot & (referencescsv$Domain == 'Pro' | referencescsv$Domain == 'Noun')])), collapse=';'), NA)
+      featurestable$`Align-09`[featurestable$Glottocode == glot] <- 
+        ifelse(!(glot %in% unique(referencescsv$Glottocode[referencescsv$Domain == 'Pro' | referencescsv$Domain == 'Noun'])), NA,
+               ifelse(glot %in% languagescsv$Glottocode[languagescsv$sufficient_data_flagging == 'False'], '?',
+               ifelse(valuescsv$Value[valuescsv$Glottocode == glot & valuescsv$Parameter_ID == 'S!=A flagging'] == 'True', 'yes', 'no')))
+    }
   }
   
-  #Align-10 S != A, indexing, 'ergativity senu lato'
-  stateCol <- ifelse(is.na(featurestable$`Align-06`), NA,
-              ifelse(featurestable$Glottocode %in% languagescsv$Glottocode[languagescsv$sufficient_data_indexing == 'False'], '?',
-              ifelse(featurestable$Glottocode %in% referencescsv$Glottocode[(referencescsv$Domain == 'Verb') & (referencescsv$Alignment_not_local == 'ergative' | referencescsv$Alignment_not_local == 'tripartite' | referencescsv$Alignment_not_local == 'horizontal')], 'yes', 'no')))
-  featurestable <- addDerivedState(featurestable, 'Align-10', stateCol, rep(NA, nrow(featurestable)), coderslookup$Coder)
+  #Align-10 S != A, indexing, 'ergativity sensu lato'
+  featurestable <- addDerivedState(featurestable, 'Align-10', rep(NA, nrow(featurestable)), rep(NA, nrow(featurestable)), coderslookup$Coder)
   for (glot in featurestable$Glottocode) {
     featurestable$`Align-10.Source`[featurestable$Glottocode == glot] <- 
       ifelse(glot %in% referencescsv$Glottocode[referencescsv$Domain == 'Verb'],
              paste0(collapseSources(unique(referencescsv$Source[referencescsv$Glottocode == glot & (referencescsv$Domain == 'Verb')])), collapse=';'), 
              valuescsv$Source[valuescsv$Glottocode == glot & valuescsv$Parameter_ID == 'indexing'])
+    featurestable$`Align-10`[featurestable$Glottocode == glot] <- 
+      ifelse(is.na(featurestable$`Align-06`[featurestable$Glottocode == glot]), NA,
+             ifelse(glot %in% languagescsv$Glottocode[languagescsv$sufficient_data_indexing == 'False'], '?',
+             ifelse(valuescsv$Value[valuescsv$Glottocode == glot & valuescsv$Parameter_ID == 'S!=A indexing'] == 'True', 'yes', 'no')))
   }
   
   #Align-11: Split-S according to predicate class

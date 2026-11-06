@@ -15,6 +15,7 @@ Our approach prioritizes the paradigm of personal pronouns, as [Cysouw (2003: 31
 Aspects of personal pronoun paradigms have been observed to exhibit various areal tendencies.
 
 [Bickel and Nichos (2005)](Source#cldf:bickel2005inclusive) found that the inclusive/exclusive distinction is
+
 - more often present in the Circum-Pacific area (47%) than in the rest of the world (21%),
 - more often present in Meso & South America (54%) than in North America (29%),
 - much less frequent in Europe and North Asia (17%) than in the rest of the world (43%).
@@ -22,6 +23,7 @@ Aspects of personal pronoun paradigms have been observed to exhibit various area
 They also found a distributional difference between “Belhare” (1sg and 1excl are morphologically related) and “Chechen” (1sg and 1excl are morphologically unrelated) linguistic types ([Bickel and Nichos 2005](Source#cldf:bickel2005inclusive): 51). The two types are fairly evenly distributed within the Americas, but the Belhare type is the most frequent type elsewhere. Finally, they found that Minimal-Augmented systems occur most frequently in Australia (30%), followed by the Circum-Pacific area (10%); such a system is rare in the rest of the world (1%).
 
 According to [Cysouw (2003)](Source#cldf:cysouw2003paradigmatic), certain types show areal distributions, for example:
+
 - the Sinhalese type (no inclusive/exclusive distinction, no 3sg vs. 3pl) is common in North America and in the languages of Papua New Guinea (but with zero marked 3rd person);
 - the Maranao type (minimal-augmented, with number distinction throughout the 4 persons) occurs in non-Pama-Nyungan languages from Australia, in a few Papuan languages, in a few languages in North America (mostly in West California and Oregon), and in Nivkh \[gily1242\];
 - the Kwakiutl type (inclusive/exclusive distinction, singular vs. plural opposition only in the 1st person) is attested throughout the world, but interestingly, never widespread within a linguistic family.
@@ -30,6 +32,7 @@ Last but not least, according to [Krasnoukhova (2022)](Source#cldf:krasnoukhova2
 
 ## How?
 We consider pronouns to be elements that cannot co-occur with a noun phrase indexing the same referent. If a language has several pronoun series, we document pronouns:
+
 - in assertive, intransitive main clauses;
 - which encode the S argument of active verbs (e.g. ‘to run’), which is typically subject-like, in cases of split intransitivity;
 - which keep track of topic rather than focus on or emphasize a referent (as in Nanti \[nant1250\], see [the example in Ppron-05](#yes-nanti-nant1250-arawakan-peru)).
@@ -106,7 +109,9 @@ There are two pronouns mentioned in [Garrett et al (2020: 13-15)](Source#cldf:ga
 **Note**: This feature was added after most data had been collected and was partially filled without going back to the original sources.
 
 **yes-auto**: If no explicit remarks existed (in the remarks field for other features) about an additional distinction present in a person paradigm of the language, then we assumed that the chosen paradigm encodes all distinctions.
+
 **yes**: The assumption above has been checked with the original sources.
+
 **no**: The additional distinction and when/where it appears is indicated in the remarks.
 
 #### no: Seri \[seri1257\] (isolate; Mexico)
@@ -227,6 +232,7 @@ For the 1st person plural pronouns, there are three possible contexts that can b
 ---
 
 **Dual note**: In some grammars, forms that are actually inclusive (1+2(+3)) may be erroneously referred to or described as “dual”, since their most common reference is the minimal inclusive group (1+2) which consists of two people. In such cases, it is usually telling that there is no other dual form in the language (i.e. there are no dual forms for 2nd or 3rd person). However, it is possible although rare that languages do have a real dual form only in the 1st person. In such cases this dual 1st person form is attested in both 1+2 and 1+3 contexts, as long as only two people are involved. Therefore, when a single “dual” form is described in the grammar, one needs to carefully search for examples to establish if it is really a dual form or if it is in fact an inclusive form. There are two possible diagnostic contexts: 
+
 - 1+3 with only two people: If the “dual” form in question is a real dual it will be used in this context, while an inclusive will not.
 - 1+2+3: If the “dual” form in question is a real dual it will not be used in this context, while an inclusive will.
 
