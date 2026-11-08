@@ -14887,66 +14887,63 @@ yaki1237-96,yaki1237,yaki1237-no-flagging,,simple,P,Noun-pl-animate-high,A,Noun-
 yaki1237-97,yaki1237,yaki1237-p-marker-maman-flagging,,simple,P,Noun-pl-animate-high,A,Noun-du-inanimate-low,any,none,non-exemplar,default,default,"jansen2010northernsahaptin[126-140,160,183-186]",,AN
 yaki1237-98,yaki1237,yaki1237-no-flagging,,simple,P,Noun-pl-animate-high,A,Noun-du-inanimate-low,any,none,non-exemplar,default,unknown,"jansen2010northernsahaptin[126-140,160,183-186]",,AN
 yaki1237-99,yaki1237,yaki1237-p-marker-maman-flagging,,simple,P,Noun-pl-animate-high,A,Noun-pl-inanimate-low,any,none,non-exemplar,default,default,"jansen2010northernsahaptin[126-140,160,183-186]",,AN
-yana1271-1,yana1271,yana1271-no-flagging,,NA,S,Noun,NA,NA,any,NA,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-10,yana1271,yana1271-no-flagging,,NA,S,2sgPro,NA,NA,any,NA,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-11,yana1271,yana1271-no-flagging,,simple,A,2sgPro,P,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-12,yana1271,yana1271-no-flagging,,simple,P,2sgPro,A,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-13,yana1271,yana1271-no-flagging,,NA,S,2plPro,NA,NA,any,NA,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-14,yana1271,yana1271-no-flagging,,simple,A,2plPro,P,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-15,yana1271,yana1271-no-flagging,,simple,P,2plPro,A,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-16,yana1271,yana1271-no-flagging,,NA,S,3Pro,NA,NA,any,NA,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-17,yana1271,yana1271-no-flagging,,simple,A,3Pro,P,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-18,yana1271,yana1271-acc-marking-flagging,,simple,P,3Pro,A,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-19,yana1271,yana1271-ma-4-2sgp-1sg-1pl-indexing-marker,4,simple,P,2sg,A,1pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-2,yana1271,yana1271-no-flagging,,simple,A,Noun,P,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-20,yana1271,yana1271-ma-4-2sgp-1sg-1pl-indexing-marker,4,simple,P,2sg,A,1sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-21,yana1271,yana1271-nigi-4-1pl-indexing-marker,4,NA,S,1pl,NA,NA,any,NA,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-22,yana1271,yana1271-nigi-4-1pl-indexing-marker,4,simple,A,1pl,P,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-24,yana1271,yana1271-nuga-4-2plp-3-indexing-marker,4,simple,P,2pl,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-26,yana1271,yana1271-numa-4-2sgp-3-indexing-marker,4,simple,P,2sg,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-28,yana1271,yana1271-dja-4-1sgp-2sg-2pl-indexing-marker,4,simple,P,1sg,A,2pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-29,yana1271,yana1271-gi-4-1plp-2sg-2pl-indexing-marker,4,simple,P,1pl,A,2pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-3,yana1271,yana1271-acc-marking-flagging,,simple,P,Noun,A,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-30,yana1271,yana1271-gi-4-1plp-2sg-2pl-indexing-marker,4,simple,P,1pl,A,2sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-31,yana1271,yana1271-k-i-1-1pl-indexing-marker,1,NA,S,1pl,NA,NA,any,NA,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-32,yana1271,yana1271-k-i-1-1pl-indexing-marker,1,simple,A,1pl,P,2pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-33,yana1271,yana1271-k-i-1-1pl-indexing-marker,1,simple,A,1pl,P,2sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-34,yana1271,yana1271-k-i-1-1pl-indexing-marker,1,simple,A,1pl,P,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-36,yana1271,yana1271-k-i-1-1pl-indexing-marker,1,simple,P,1pl,A,2pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-37,yana1271,yana1271-k-i-1-1pl-indexing-marker,1,simple,P,1pl,A,2sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-38,yana1271,yana1271-k-i-1-1pl-indexing-marker,1,simple,P,1pl,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-4,yana1271,yana1271-no-flagging,,NA,S,1sgPro,NA,NA,any,NA,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-40,yana1271,yana1271-mga-4-2plp-1sg-1pl-indexing-marker,4,simple,P,2pl,A,2pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-41,yana1271,yana1271-mga-4-2plp-1sg-1pl-indexing-marker,4,simple,P,2pl,A,2sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-42,yana1271,yana1271-ndja-4-1sg-indexing-marker,4,NA,S,1sg,NA,NA,any,NA,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-43,yana1271,yana1271-ndja-4-1sg-indexing-marker,4,simple,A,1sg,P,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-45,yana1271,yana1271-ndja-4-1sg-indexing-marker,4,simple,P,1sg,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-47,yana1271,yana1271-nuga-4-2pl-indexing-marker,4,NA,S,2pl,NA,NA,any,NA,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-48,yana1271,yana1271-nuga-4-2pl-indexing-marker,4,simple,A,2pl,P,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-5,yana1271,yana1271-no-flagging,,simple,A,1sgPro,P,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-50,yana1271,yana1271-numa-4-2sgs-a-indexing-marker,4,NA,S,2sg,NA,NA,any,NA,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-51,yana1271,yana1271-numa-4-2sgs-a-indexing-marker,4,simple,A,2sg,P,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-53,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,1pl,A,2sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-54,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,1pl,A,2pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-55,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,1pl,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-57,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,1sg,A,2sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-58,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,1sg,A,2pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-59,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,1sg,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-6,yana1271,yana1271-no-flagging,,simple,P,1sgPro,A,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-61,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,2pl,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-63,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,2pl,A,1sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-64,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,2pl,A,1pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-65,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,2sg,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-67,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,2sg,A,1sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-68,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,2sg,A,1pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-69,yana1271,yana1271-wi-3-2pla-1sg-1pl-indexing-marker,3,simple,A,2pl,P,1pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-7,yana1271,yana1271-no-flagging,,NA,S,1plPro,NA,NA,any,NA,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-70,yana1271,yana1271-wi-3-2pla-1sg-1pl-indexing-marker,3,simple,A,2pl,P,1sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
-yana1271-71,yana1271,yana1271-null-marker,multiple,simple,S,3,NA,NA,any,NA,any,default,,sapir1922yana[233],,DI
-yana1271-72,yana1271,yana1271-null-marker,multiple,simple,A,3,P,any,any,none,any,default,,sapir1922yana[233],,DI
-yana1271-73,yana1271,yana1271-null-marker,multiple,simple,P,3,A,any,any,none,any,default,,sapir1922yana[233],,DI
-yana1271-8,yana1271,yana1271-no-flagging,,simple,A,1plPro,P,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
-yana1271-9,yana1271,yana1271-no-flagging,,simple,P,1plPro,A,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT
+yana1271-1,yana1271,yana1271-no-flagging,,NA,S,Noun,NA,NA,any,NA,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT;NCP;DI
+yana1271-2,yana1271,yana1271-no-flagging,,simple,A,Noun,P,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT;NCP;DI
+yana1271-3,yana1271,yana1271-acc-marking-flagging,,simple,P,Noun,A,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]",,HT;NCP;DI
+yana1271-4,yana1271,yana1271-no-flagging,,NA,S,1sgPro,NA,NA,any,NA,any,default,,"sapir1922yana[11,167,231-232,55,6]","There does not seem to a be a third person pronoun. There is an 'ai' that is described by Sapir as an indefinite third person, but from examples present in the texts, this seems to in fact be an article.",HT;NCP;DI
+yana1271-5,yana1271,yana1271-no-flagging,,simple,A,1sgPro,P,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]","There does not seem to a be a third person pronoun. There is an 'ai' that is described by Sapir as an indefinite third person, but from examples present in the texts, this seems to in fact be an article.",HT;NCP;DI
+yana1271-6,yana1271,yana1271-no-flagging,,simple,P,1sgPro,A,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]","There does not seem to a be a third person pronoun. There is an 'ai' that is described by Sapir as an indefinite third person, but from examples present in the texts, this seems to in fact be an article.",HT;NCP;DI
+yana1271-7,yana1271,yana1271-no-flagging,,NA,S,1plPro,NA,NA,any,NA,any,default,,"sapir1922yana[11,167,231-232,55,6]","There does not seem to a be a third person pronoun. There is an 'ai' that is described by Sapir as an indefinite third person, but from examples present in the texts, this seems to in fact be an article.",HT;NCP;DI
+yana1271-8,yana1271,yana1271-no-flagging,,simple,A,1plPro,P,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]","There does not seem to a be a third person pronoun. There is an 'ai' that is described by Sapir as an indefinite third person, but from examples present in the texts, this seems to in fact be an article.",HT;NCP;DI
+yana1271-9,yana1271,yana1271-no-flagging,,simple,P,1plPro,A,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]","There does not seem to a be a third person pronoun. There is an 'ai' that is described by Sapir as an indefinite third person, but from examples present in the texts, this seems to in fact be an article.",HT;NCP;DI
+yana1271-10,yana1271,yana1271-no-flagging,,NA,S,2sgPro,NA,NA,any,NA,any,default,,"sapir1922yana[11,167,231-232,55,6]","There does not seem to a be a third person pronoun. There is an 'ai' that is described by Sapir as an indefinite third person, but from examples present in the texts, this seems to in fact be an article.",HT;NCP;DI
+yana1271-11,yana1271,yana1271-no-flagging,,simple,A,2sgPro,P,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]","There does not seem to a be a third person pronoun. There is an 'ai' that is described by Sapir as an indefinite third person, but from examples present in the texts, this seems to in fact be an article.",HT;NCP;DI
+yana1271-12,yana1271,yana1271-no-flagging,,simple,P,2sgPro,A,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]","There does not seem to a be a third person pronoun. There is an 'ai' that is described by Sapir as an indefinite third person, but from examples present in the texts, this seems to in fact be an article.",HT;NCP;DI
+yana1271-13,yana1271,yana1271-no-flagging,,NA,S,2plPro,NA,NA,any,NA,any,default,,"sapir1922yana[11,167,231-232,55,6]","There does not seem to a be a third person pronoun. There is an 'ai' that is described by Sapir as an indefinite third person, but from examples present in the texts, this seems to in fact be an article.",HT;NCP;DI
+yana1271-14,yana1271,yana1271-no-flagging,,simple,A,2plPro,P,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]","There does not seem to a be a third person pronoun. There is an 'ai' that is described by Sapir as an indefinite third person, but from examples present in the texts, this seems to in fact be an article.",HT;NCP;DI
+yana1271-15,yana1271,yana1271-no-flagging,,simple,P,2plPro,A,any,any,none,any,default,,"sapir1922yana[11,167,231-232,55,6]","There does not seem to a be a third person pronoun. There is an 'ai' that is described by Sapir as an indefinite third person, but from examples present in the texts, this seems to in fact be an article.",HT;NCP;DI
+yana1271-16,yana1271,yana1271-ma-4-2sgp-1sg-1pl-indexing-marker,4,simple,P,2sg,A,1pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-17,yana1271,yana1271-ma-4-2sgp-1sg-1pl-indexing-marker,4,simple,P,2sg,A,1sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-18,yana1271,yana1271-nigi-4-1pl-indexing-marker,4,NA,S,1pl,NA,NA,any,NA,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-19,yana1271,yana1271-nigi-4-1pl-indexing-marker,4,simple,A,1pl,P,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-20,yana1271,yana1271-nuga-4-2plp-3-indexing-marker,4,simple,P,2pl,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-21,yana1271,yana1271-numa-4-2sgp-3-indexing-marker,4,simple,P,2sg,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-22,yana1271,yana1271-dja-4-1sgp-2sg-2pl-indexing-marker,4,simple,P,1sg,A,2pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-23,yana1271,yana1271-gi-4-1plp-2sg-2pl-indexing-marker,4,simple,P,1pl,A,2pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-24,yana1271,yana1271-gi-4-1plp-2sg-2pl-indexing-marker,4,simple,P,1pl,A,2sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-25,yana1271,yana1271-k-i-1-1pl-indexing-marker,1,NA,S,1pl,NA,NA,any,NA,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-26,yana1271,yana1271-k-i-1-1pl-indexing-marker,1,simple,A,1pl,P,2pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-27,yana1271,yana1271-k-i-1-1pl-indexing-marker,1,simple,A,1pl,P,2sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-28,yana1271,yana1271-k-i-1-1pl-indexing-marker,1,simple,A,1pl,P,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-29,yana1271,yana1271-k-i-1-1pl-indexing-marker,1,simple,P,1pl,A,2pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-30,yana1271,yana1271-k-i-1-1pl-indexing-marker,1,simple,P,1pl,A,2sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-31,yana1271,yana1271-k-i-1-1pl-indexing-marker,1,simple,P,1pl,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-32,yana1271,yana1271-mga-4-2plp-1sg-1pl-indexing-marker,4,simple,P,2pl,A,2pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-33,yana1271,yana1271-mga-4-2plp-1sg-1pl-indexing-marker,4,simple,P,2pl,A,2sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-34,yana1271,yana1271-ndja-4-1sg-indexing-marker,4,NA,S,1sg,NA,NA,any,NA,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-35,yana1271,yana1271-ndja-4-1sg-indexing-marker,4,simple,A,1sg,P,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-36,yana1271,yana1271-ndja-4-1sg-indexing-marker,4,simple,P,1sg,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-37,yana1271,yana1271-nuga-4-2pl-indexing-marker,4,NA,S,2pl,NA,NA,any,NA,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-38,yana1271,yana1271-nuga-4-2pl-indexing-marker,4,simple,A,2pl,P,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-39,yana1271,yana1271-numa-4-2sgs-a-indexing-marker,4,NA,S,2sg,NA,NA,any,NA,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-40,yana1271,yana1271-numa-4-2sgs-a-indexing-marker,4,simple,A,2sg,P,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-41,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,1pl,A,2sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-42,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,1pl,A,2pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-43,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,1pl,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-44,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,1sg,A,2sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-45,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,1sg,A,2pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-46,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,1sg,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-47,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,2pl,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-48,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,2pl,A,1sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-49,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,2pl,A,1pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-50,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,2sg,A,3,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-51,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,2sg,A,1sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-52,yana1271,yana1271-wa-1-2p-indexing-marker,2,simple,P,2sg,A,1pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-53,yana1271,yana1271-wi-3-2pla-1sg-1pl-indexing-marker,3,simple,A,2pl,P,1pl,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-54,yana1271,yana1271-wi-3-2pla-1sg-1pl-indexing-marker,3,simple,A,2pl,P,1sg,any,none,any,default,,sapir1922yana[233],,HT;AWM
+yana1271-55,yana1271,yana1271-null-marker,multiple,simple,S,3,NA,NA,any,NA,any,default,,sapir1922yana[233],,DI
+yana1271-56,yana1271,yana1271-null-marker,multiple,simple,A,3,P,any,any,none,any,default,,sapir1922yana[233],,DI
+yana1271-57,yana1271,yana1271-null-marker,multiple,simple,P,3,A,any,any,none,any,default,,sapir1922yana[233],,DI
 yane1238-1,yane1238,yane1238-no-flagging,,NA,S,any,NA,NA,any,NA,any,default,,dufftripp1997yanesha[61-75],,AWM
 yane1238-10,yane1238,yane1238-pe-2sg-s-a-index-indexing-marker,-1,NA,S,2sg,NA,NA,any,NA,any,default,,dufftripp1997yanesha[61-75],,AWM
 yane1238-11,yane1238,yane1238-pe-2sg-s-a-index-indexing-marker,-1,simple,A,2sg,P,any,any,none,any,default,,dufftripp1997yanesha[61-75],,AWM
