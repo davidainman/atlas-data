@@ -258,8 +258,8 @@ processAlignment <- function(featurestable, languagescsv, contextscsv, selectors
     }
     else if (featurestable$`Align-06`[featurestable$Glottocode == glot] == 'yes') {
       a_and_p_together <- FALSE
-      a_selectors <- selectorscsv$ID[selectorscsv$Glottocode == glot & selectorscsv$Marker_type == 'overt' & selectorscsv$Selector_type == 'indexing marker' & selectorscsv$A_references != 'NONE' & selectorscsv$Features != 'number' & selectorscsv$Features != 'gender' & selectorscsv$Features != 'other']
-      p_selectors <- selectorscsv$ID[selectorscsv$Glottocode == glot & selectorscsv$Marker_type == 'overt' & selectorscsv$Selector_type == 'indexing marker' & selectorscsv$P_references != 'NONE' & selectorscsv$Features != 'number' & selectorscsv$Features != 'gender' & selectorscsv$Features != 'other']
+      a_selectors <- selectorscsv$ID[selectorscsv$Glottocode == glot & selectorscsv$Marker_type == 'overt' & selectorscsv$Selector_type == 'indexing marker' & selectorscsv$A_references != 'NONE' & selectorscsv$Features != 'number' & selectorscsv$Features != 'gender' & selectorscsv$Features != 'number+gender' & selectorscsv$Features != 'other']
+      p_selectors <- selectorscsv$ID[selectorscsv$Glottocode == glot & selectorscsv$Marker_type == 'overt' & selectorscsv$Selector_type == 'indexing marker' & selectorscsv$P_references != 'NONE' & selectorscsv$Features != 'number' & selectorscsv$Features != 'gender' & selectorscsv$Features != 'number+gender' & selectorscsv$Features != 'other']
       if (length(a_selectors) > 0 & length(p_selectors) > 0) {
         a_contexts <- dplyr::filter(contextscsv, Selector_ID %in% a_selectors & Role == 'A')
         p_contexts <- dplyr::filter(contextscsv, Selector_ID %in% p_selectors & Role == 'P')

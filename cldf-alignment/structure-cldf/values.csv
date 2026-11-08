@@ -2151,10 +2151,10 @@ yaki1237-coargument-sensitivity indexing,yaki1237,coargument-sensitivity indexin
 yana1271-flagging,yana1271,flagging,True,HT,"sapir1922yana[11,167,231-232,55,6]"
 yana1271-indexing,yana1271,indexing,True,AWM;DI;HT,"sapir1922yana[11,167,231-232,55,6]"
 yana1271-indexing-features,yana1271,indexing-features,person;person+number,AWM;DI;HT,"sapir1922yana[11,167,231-232,55,6]"
-yana1271-tam-split,yana1271,tam-split,False,AWM;DI;HT,"sapir1922yana[11,167,231-233,55,6]"
-yana1271-split-s,yana1271,split-s,False,AWM;DI;HT,"sapir1922yana[11,167,231-233,55,6]"
-yana1271-coargument-sensitivity flagging,yana1271,coargument-sensitivity flagging,no,AWM;DI;HT,"sapir1922yana[11,167,231-233,55,6]"
-yana1271-coargument-sensitivity indexing,yana1271,coargument-sensitivity indexing,yes,AWM;DI;HT,"sapir1922yana[11,167,231-233,55,6]"
+yana1271-tam-split,yana1271,tam-split,False,AWM;DI;HT;NCP,"sapir1922yana[11,167,231-233,55,6]"
+yana1271-split-s,yana1271,split-s,False,AWM;DI;HT;NCP,"sapir1922yana[11,167,231-233,55,6]"
+yana1271-coargument-sensitivity flagging,yana1271,coargument-sensitivity flagging,no,AWM;DI;HT;NCP,"sapir1922yana[11,167,231-233,55,6]"
+yana1271-coargument-sensitivity indexing,yana1271,coargument-sensitivity indexing,yes,AWM;DI;HT;NCP,"sapir1922yana[11,167,231-233,55,6]"
 yane1238-flagging,yane1238,flagging,False,AWM,dufftripp1997yanesha[61-75]
 yane1238-indexing,yane1238,indexing,True,AWM,dufftripp1997yanesha[61-75]
 yane1238-indexing-features,yane1238,indexing-features,person+number,AWM,dufftripp1997yanesha[61-75]
